@@ -1,0 +1,8 @@
+footer{background:var(--black); color:rgba(255,255,255,.7); text-align:center; padding-block:2.6rem calc(2.6rem + env(safe-area-inset-bottom, 0px)); font-size:.85rem}
+footer b{color:var(--white)}
+.follow{display:flex; gap:1rem; justify-content:center; margin:1rem 0 0; list-style:none; padding:0}
+.follow a{text-decoration:none; font-family:var(--display); color:var(--blue); font-size:.85rem}
+.note{margin:1rem 0 0; font-size:.75rem; opacity:.6}
+
+footer a.mail{color:var(--white); text-decoration:none; border-bottom:1px solid rgba(255,255,255,.35)}
+footer a.mail:hover{color:var(--blue); border-color:var(--blue)}

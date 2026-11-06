@@ -1,0 +1,11 @@
+.hero{background:
+  radial-gradient(60% 80% at 75% 15%, rgba(46,163,242,.38), transparent 62%),
+  radial-gradient(45% 60% at 8% 95%, rgba(245,144,59,.24), transparent 62%),
+  repeating-linear-gradient(0deg, rgba(255,255,255,.035) 0 1px, transparent 1px 56px),
+  repeating-linear-gradient(90deg, rgba(255,255,255,.035) 0 1px, transparent 1px 56px),
+  linear-gradient(180deg,#04060c,var(--navy));
+  color:var(--white); text-align:center; padding-block:calc(66px + env(safe-area-inset-top, 0px) + 5.5rem) 5.5rem}
+.hero h1{font-size:clamp(2.2rem,7.4vw,5.4rem); letter-spacing:.06em; text-transform:uppercase; text-shadow:0 0 30px rgba(46,163,242,.55)}
+.hero h1 span{color:var(--blue)}
+.hero p{font-size:clamp(1rem,2.4vw,1.35rem); max-width:40rem; margin:1.4rem auto 2.2rem; color:rgba(255,255,255,.85)}
+.hero .cta{display:flex; gap:1rem; justify-content:center; flex-wrap:wrap}

@@ -1,0 +1,109 @@
+{
+  "colores": {
+    "--blue": "#2ea3f2",
+    "--orange": "#f5903b",
+    "--black": "#00061f",
+    "--navy": "#00061f",
+    "--ink": "#00061f",
+    "--white": "#ffffff",
+    "--grey": "#f0f0f0",
+    "--head": "#000000",
+    "--text": "#000000"
+  },
+  "fuentes": {
+    "titulos": "Orbitron",
+    "texto": "Lato"
+  },
+  "fondos": {
+    "sitio": {
+      "modo": "defecto",
+      "color": "#0b1426",
+      "color2": "#2ea3f2",
+      "angulo": 180,
+      "imagen": "",
+      "oscuro": 35,
+      "texto": "auto"
+    },
+    "encabezado": {
+      "modo": "defecto",
+      "color": "#0b1426",
+      "color2": "#2ea3f2",
+      "angulo": 180,
+      "imagen": "",
+      "oscuro": 35,
+      "texto": "auto"
+    },
+    "portada": {
+      "modo": "defecto",
+      "color": "#0b1426",
+      "color2": "#2ea3f2",
+      "angulo": 180,
+      "imagen": "",
+      "oscuro": 35,
+      "texto": "auto"
+    },
+    "talentos": {
+      "modo": "defecto",
+      "color": "#0b1426",
+      "color2": "#2ea3f2",
+      "angulo": 180,
+      "imagen": "",
+      "oscuro": 35,
+      "texto": "auto"
+    },
+    "nosotros": {
+      "modo": "defecto",
+      "color": "#0b1426",
+      "color2": "#2ea3f2",
+      "angulo": 180,
+      "imagen": "",
+      "oscuro": 35,
+      "texto": "auto"
+    },
+    "clientes": {
+      "modo": "defecto",
+      "color": "#0b1426",
+      "color2": "#2ea3f2",
+      "angulo": 180,
+      "imagen": "",
+      "oscuro": 35,
+      "texto": "auto"
+    },
+    "contacto": {
+      "modo": "defecto",
+      "color": "#0b1426",
+      "color2": "#2ea3f2",
+      "angulo": 180,
+      "imagen": "",
+      "oscuro": 35,
+      "texto": "auto"
+    },
+    "perfilTop": {
+      "modo": "defecto",
+      "color": "#0b1426",
+      "color2": "#2ea3f2",
+      "angulo": 180,
+      "imagen": "",
+      "oscuro": 35,
+      "texto": "auto"
+    },
+    "perfilDetalle": {
+      "modo": "defecto",
+      "color": "#0b1426",
+      "color2": "#2ea3f2",
+      "angulo": 180,
+      "imagen": "",
+      "oscuro": 35,
+      "texto": "auto"
+    },
+    "pie": {
+      "modo": "defecto",
+      "color": "#0b1426",
+      "color2": "#2ea3f2",
+      "angulo": 180,
+      "imagen": "",
+      "oscuro": 35,
+      "texto": "auto"
+    }
+  }
+}
