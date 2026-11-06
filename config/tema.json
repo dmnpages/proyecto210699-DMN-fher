@@ -2,11 +2,11 @@
   "colores": {
     "--blue": "#2ea3f2",
     "--orange": "#f5903b",
-    "--black": "#00061f",
-    "--navy": "#00061f",
-    "--ink": "#00061f",
+    "--black": "#000019",
+    "--navy": "#000019",
+    "--ink": "#000019",
     "--white": "#ffffff",
-    "--grey": "#f0f0f0",
+    "--grey": "#ffffff",
     "--head": "#000000",
     "--text": "#000000"
   },
@@ -16,8 +16,8 @@
   },
   "fondos": {
     "sitio": {
-      "modo": "defecto",
-      "color": "#0b1426",
+      "modo": "color",
+      "color": "#000019",
       "color2": "#2ea3f2",
       "angulo": 180,
       "imagen": "",
@@ -25,8 +25,8 @@
       "texto": "auto"
     },
     "encabezado": {
-      "modo": "defecto",
-      "color": "#0b1426",
+      "modo": "color",
+      "color": "#000019",
       "color2": "#2ea3f2",
       "angulo": 180,
       "imagen": "",
@@ -40,11 +40,11 @@
       "angulo": 180,
       "imagen": "",
       "oscuro": 35,
-      "texto": "auto"
+      "texto": "claro"
     },
     "talentos": {
       "modo": "defecto",
-      "color": "#0b1426",
+      "color": "#000019",
       "color2": "#2ea3f2",
       "angulo": 180,
       "imagen": "",
@@ -85,7 +85,7 @@
       "angulo": 180,
       "imagen": "",
       "oscuro": 35,
-      "texto": "auto"
+      "texto": "claro"
     },
     "perfilDetalle": {
       "modo": "defecto",
@@ -94,7 +94,7 @@
       "angulo": 180,
       "imagen": "",
       "oscuro": 35,
-      "texto": "auto"
+      "texto": "claro"
     },
     "pie": {
       "modo": "defecto",

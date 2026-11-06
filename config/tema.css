@@ -3,11 +3,38 @@
 /* Generado por el panel de administración (pestaña Apariencia). No hace falta editarlo a mano. */
 
 :root {
-  --black: #00061f;
-  --navy: #00061f;
-  --ink: #00061f;
+  --black: #000019;
+  --navy: #000019;
+  --ink: #000019;
+  --grey: #ffffff;
   --head: #000000;
   --text: #000000;
   --display: "Orbitron","Arial Black",system-ui,sans-serif;
   --body: "Lato",system-ui,-apple-system,"Segoe UI",sans-serif;
 }
+
+body {
+  background: #000019 !important;
+}
+
+.hdr {
+  background: #000019 !important;
+}
+
+.hero {
+  color: #ffffff;
+}
+
+.hero h1, .hero h2.t, .hero .lead { color: #ffffff !important; }
+
+.tp {
+  color: #ffffff;
+}
+
+.tp h1, .tp h2.t, .tp .lead { color: #ffffff !important; }
+
+[data-seccion="perfil"] section.sec {
+  color: #ffffff;
+}
+
+[data-seccion="perfil"] section.sec h1, [data-seccion="perfil"] section.sec h2.t, [data-seccion="perfil"] section.sec .lead { color: #ffffff !important; }
