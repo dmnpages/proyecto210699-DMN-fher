@@ -8,7 +8,7 @@ Dreamers.contenido.encabezado = {
     {
       "texto": "Creadores de Contenido",
       "destino": "talentos/",
-      "submenu": "talentos"
+      "submenu": "creadores"
     },
     {
       "texto": "About Us",
