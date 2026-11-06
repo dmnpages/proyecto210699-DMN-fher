@@ -2,7 +2,7 @@ Dreamers.contenido.encabezado = {
   "imagen": "",
   "logo": [
     "DM",
-    "N"
+    "Nicaragua"
   ],
   "menu": [
     {
