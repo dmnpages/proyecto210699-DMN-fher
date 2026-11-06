@@ -1,5 +1,5 @@
 Dreamers.contenido.perfil = {
-  "migas": "Creadores de contenido",
+  "migas": "Creadores",
   "sufijoTitulo": " | Dreamers Media Nicaragua",
   "botonContratar": "Contratar",
   "seguidoresTotal": "seguidores en total",

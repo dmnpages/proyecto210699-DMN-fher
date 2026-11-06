@@ -1,5 +1,5 @@
 Dreamers.contenido.talentos = {
-  "titulo": "Creadores de Contenido",
+  "titulo": "Creadores",
   "textoBoton": "Info",
   "etiquetaSeguidores": "seguidores",
   "filtros": {

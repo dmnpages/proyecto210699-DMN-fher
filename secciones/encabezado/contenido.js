@@ -6,7 +6,7 @@ Dreamers.contenido.encabezado = {
   ],
   "menu": [
     {
-      "texto": "Creadores de Contenido",
+      "texto": "Creadores",
       "destino": "creadores/",
       "submenu": "creadores"
     },
