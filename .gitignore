@@ -1,0 +1,5 @@
+/admin/sesiones
+/__pycache__
+/admin
+*.py
+*.md
