@@ -15,7 +15,7 @@ Dreamers.contenido.encabezado = {
       "destino": "nosotros/"
     },
     {
-      "texto": "Contact",
+      "texto": "Contacto",
       "destino": "contacto/"
     }
   ]

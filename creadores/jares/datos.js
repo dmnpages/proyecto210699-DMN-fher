@@ -29,7 +29,7 @@ Dreamers.talento({
   ],
   "ideal": [
     "Gaming",
-    "Events"
+    "Eventos"
   ],
   "dato": {
     "valor": "33.7K",
