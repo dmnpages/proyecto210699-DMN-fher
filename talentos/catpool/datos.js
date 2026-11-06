@@ -39,5 +39,8 @@ Dreamers.talento({
     "valor": "84",
     "texto": "Likes totales en TikTok"
   },
-  "frames": []
+  "frames": [
+    "https://www.tiktok.com/@catpool01/video/7697476880907160850?lang=es-419",
+    "https://www.instagram.com/p/DfJQp1PxZQY/"
+  ]
 });

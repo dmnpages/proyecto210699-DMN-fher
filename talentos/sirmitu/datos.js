@@ -34,5 +34,8 @@ Dreamers.talento({
     "valor": "1.2M",
     "texto": "Likes totales en TikTok"
   },
-  "frames": []
+  "frames": [
+    "https://www.tiktok.com/@sir.mitu/video/7704500237829819669?lang=es-419",
+    "https://www.instagram.com/p/DdcoZDEh6DP/"
+  ]
 });

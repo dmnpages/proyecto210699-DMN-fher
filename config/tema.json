@@ -2,13 +2,13 @@
   "colores": {
     "--blue": "#2ea3f2",
     "--orange": "#f5903b",
-    "--black": "#000019",
-    "--navy": "#000019",
-    "--ink": "#000019",
+    "--black": "#000000",
+    "--navy": "#0b1426",
+    "--ink": "#070a12",
     "--white": "#ffffff",
-    "--grey": "#ffffff",
-    "--head": "#000000",
-    "--text": "#000000"
+    "--grey": "#f0f0f0",
+    "--head": "#333333",
+    "--text": "#666666"
   },
   "fuentes": {
     "titulos": "Orbitron",
@@ -16,7 +16,7 @@
   },
   "fondos": {
     "sitio": {
-      "modo": "color",
+      "modo": "defecto",
       "color": "#000019",
       "color2": "#2ea3f2",
       "angulo": 180,
@@ -25,7 +25,7 @@
       "texto": "auto"
     },
     "encabezado": {
-      "modo": "color",
+      "modo": "defecto",
       "color": "#000019",
       "color2": "#2ea3f2",
       "angulo": 180,
@@ -40,7 +40,7 @@
       "angulo": 180,
       "imagen": "",
       "oscuro": 35,
-      "texto": "claro"
+      "texto": "auto"
     },
     "talentos": {
       "modo": "defecto",
@@ -85,7 +85,7 @@
       "angulo": 180,
       "imagen": "",
       "oscuro": 35,
-      "texto": "claro"
+      "texto": "auto"
     },
     "perfilDetalle": {
       "modo": "defecto",
@@ -94,7 +94,7 @@
       "angulo": 180,
       "imagen": "",
       "oscuro": 35,
-      "texto": "claro"
+      "texto": "auto"
     },
     "pie": {
       "modo": "defecto",

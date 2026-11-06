@@ -34,6 +34,7 @@ Dreamers.talento({
     "texto": "Likes totales en TikTok"
   },
   "frames": [
-    "https://www.instagram.com/p/DfGIBLcJv3q/"
+    "https://www.instagram.com/p/DfGIBLcJv3q/",
+    "https://www.tiktok.com/@yanfluu/video/7704958919571000577?lang=es-419"
   ]
 });

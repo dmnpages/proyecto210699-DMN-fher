@@ -39,5 +39,8 @@ Dreamers.talento({
     "valor": "73K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": []
+  "frames": [
+    "https://www.tiktok.com/@jefrollexx/video/7697099566193151250?lang=es-419",
+    "https://www.instagram.com/p/DdjRz32uLH7/"
+  ]
 });

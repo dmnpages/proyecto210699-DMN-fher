@@ -37,5 +37,8 @@ Dreamers.talento({
     "valor": "116.9K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": []
+  "frames": [
+    "https://www.tiktok.com/@cherryjaneblossom/video/7704749893310483733?lang=es-419",
+    "https://www.tiktok.com/@cherryjaneblossom/video/7702680821521501460?lang=es-419"
+  ]
 });

@@ -35,5 +35,8 @@ Dreamers.talento({
     "valor": "29.5K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": []
+  "frames": [
+    "https://www.instagram.com/p/DfBIOhPx1Dr/",
+    "https://www.tiktok.com/@daneska_solorzano/video/7515899235099806983?lang=es-419"
+  ]
 });

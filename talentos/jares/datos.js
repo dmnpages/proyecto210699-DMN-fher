@@ -37,7 +37,7 @@ Dreamers.talento({
   },
   "frames": [
     "https://www.instagram.com/p/DILQORBu-59/?img_index=1",
-    "https://www.instagram.com/p/DRqMcJOiTeZ/?img_index=1",
-    "https://www.tiktok.com/@jares_mayerling/video/7453927159917202730"
+    "https://www.tiktok.com/@jares_mayerling/video/7453927159917202730",
+    "https://www.instagram.com/p/DRqMcJOiTeZ/?img_index=1"
   ]
 });

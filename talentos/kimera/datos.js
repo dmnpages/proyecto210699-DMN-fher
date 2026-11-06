@@ -43,6 +43,7 @@ Dreamers.talento({
   },
   "frames": [
     "https://www.youtube.com/watch?v=ZehJmRxEbU8",
+    "https://www.tiktok.com/@kimerasm/video/7704526028013620487?lang=es-419",
     "https://www.youtube.com/watch?v=y_x8fag8kSQ"
   ]
 });
