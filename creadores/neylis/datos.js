@@ -34,7 +34,6 @@ Dreamers.talento({
   },
   "frames": [
     "https://www.instagram.com/p/DdDW3ZXlV5n/?img_index=1",
-    "https://www.instagram.com/p/DaUapCblSbg/?img_index=1",
-    "https://www.tiktok.com/@_neylis_0/video/7616926343439125778"
+    "https://www.instagram.com/p/DaUapCblSbg/?img_index=1"
   ]
 });

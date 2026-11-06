@@ -5,7 +5,7 @@ Dreamers.contenido.portada = {
   "botones": [
     {
       "texto": "Ver creadores",
-      "destino": "talentos/"
+      "destino": "creadores/"
     },
     {
       "texto": "Contáctanos",

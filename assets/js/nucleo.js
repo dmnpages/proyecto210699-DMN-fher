@@ -6,14 +6,14 @@
   D.secciones = {};
   D.listaTalentos = D.listaTalentos || [];
   // Raíz del sitio (URL completa), calculada desde la ubicación de este archivo (assets/js/nucleo.js).
-  // Así todos los enlaces funcionan igual en "/", "/talentos/kimera", o si el sitio está en una subcarpeta.
+  // Así todos los enlaces funcionan igual en "/", "/creadores/kimera", o si el sitio está en una subcarpeta.
   var _s = document.currentScript;
   D.raiz = _s && _s.src ? new URL('../../', _s.src).href : location.origin + '/';
   D.base = D.raiz;
 
   D.registrar = function (id, fn) { D.secciones[id] = fn; };
 
-  // Cada talentos/<carpeta>/datos.js llama a Dreamers.talento({...})
+  // Cada creadores/<carpeta>/datos.js llama a Dreamers.talento({...})
   D.talento = function (datos) { datos.carpeta = D._actual; D.talentos.push(datos); };
 
   // Categorías de un creador de contenido: una lista de textos independientes (t.categorias).
@@ -100,7 +100,7 @@
   D.rutaFoto = function (t) {
     var foto = t.foto || 'foto.svg';
     if (/^(data:|https?:)/.test(foto)) return foto;
-    return D.raiz + 'talentos/' + t.carpeta + '/' + foto;
+    return D.raiz + 'creadores/' + t.carpeta + '/' + foto;
   };
   D.img = function (src, alt, talento) {
     if (src && !/^([a-z][a-z0-9+.-]*:|\/)/i.test(src)) src = D.raiz + src;
@@ -118,12 +118,12 @@
     if (im && im.tagName === 'IMG' && im.getAttribute('src') !== D.sinFoto) { im.src = D.sinFoto; }
   }, true);
 
-  var PAGINAS = ['talentos', 'nosotros', 'contacto'];
+  var PAGINAS = ['creadores', 'nosotros', 'contacto'];
 
   // Devuelve la URL limpia de una página: sin .html, sin index y sin #.
   //   ''  | '/' | '#inicio' | 'index.html'  ->  /
   //   'nosotros/' | 'nosotros.html'          ->  /nosotros
-  //   '#talentos'                            ->  /talentos
+  //   '#creadores'                           ->  /creadores
   D.irA = function (destino) {
     var d = String(destino == null ? '' : destino).trim();
     if (/^([a-z][a-z0-9+.-]*:|\/\/)/i.test(d)) return d;      // enlace externo
@@ -136,18 +136,18 @@
     return D.raiz + d;
   };
   D.rutaTalento = function (carpeta) {
-    return D.raiz + 'talentos/' + encodeURIComponent(carpeta);
+    return D.raiz + 'creadores/' + encodeURIComponent(carpeta);
   };
-  // Carpeta del talento según la URL actual (/talentos/kimera -> "kimera"), o '' si no es una página de talento.
+  // Carpeta del talento según la URL actual (/creadores/kimera -> "kimera"), o '' si no es una página de talento.
   D.talentoActual = function () {
     var base = new URL(D.raiz).pathname;
     var rel = location.pathname.indexOf(base) === 0 ? location.pathname.slice(base.length) : location.pathname.replace(/^\//, '');
     var partes = rel.replace(/(^|\/)index\.html$/i, '').split('/').filter(Boolean);
-    if (partes[0] !== 'talentos' || !partes[1]) return '';
+    if (partes[0] !== 'creadores' || !partes[1]) return '';
     try { return decodeURIComponent(partes[1]); } catch (_) { return partes[1]; }
   };
 
-  // Quita la "/" final de la barra de direcciones: /talentos/kimera/ -> /talentos/kimera
+  // Quita la "/" final de la barra de direcciones: /creadores/kimera/ -> /creadores/kimera
   // (se llama al terminar de cargar, cuando ya no quedan archivos con ruta relativa por pedir).
   D.limpiarBarra = function () {
     if (/^https?:$/.test(location.protocol) && location.pathname.length > 1 && /\/$/.test(location.pathname)) {
@@ -315,9 +315,9 @@
         return new Promise(function (ok) {
           D._actual = carpeta;
           var s = document.createElement('script');
-          s.src = D.raiz + 'talentos/' + encodeURIComponent(carpeta) + '/datos.js?v=' + Date.now();
+          s.src = D.raiz + 'creadores/' + encodeURIComponent(carpeta) + '/datos.js?v=' + Date.now();
           s.onload = ok;
-          s.onerror = function () { console.warn('No se encontró talentos/' + carpeta + '/datos.js'); ok(); };
+          s.onerror = function () { console.warn('No se encontró creadores/' + carpeta + '/datos.js'); ok(); };
           document.head.appendChild(s);
         });
       });

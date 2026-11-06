@@ -10,7 +10,7 @@
       var i = -1;
       D.talentos.forEach(function (t, k) { if (t.carpeta === carpeta) i = k; });
       if (i < 0) {
-        el.innerHTML = '<section class="tp"><div class="in"><h1>' + D.esc(c.noEncontrado) + '</h1><p><a class="btn" href="' + D.irA('talentos/') + '">' + D.esc(c.volver) + '</a></p></div></section>';
+        el.innerHTML = '<section class="tp"><div class="in"><h1>' + D.esc(c.noEncontrado) + '</h1><p><a class="btn" href="' + D.irA('creadores/') + '">' + D.esc(c.volver) + '</a></p></div></section>';
         return;
       }
       var n = D.talentos.length, t = D.talentos[i], ant = D.talentos[(i - 1 + n) % n], sig = D.talentos[(i + 1) % n];
@@ -26,7 +26,7 @@
       var mediosHtml = medios ? '<section class="media-section"><h3>' + D.esc(c.tituloTransmisiones) + '</h3><div class="media-grid">' + medios + '</div></section>' : '';
       var contacto = D.irA('contacto/') + '?creador=' + encodeURIComponent(t.nombre);
       el.innerHTML =
-        '<section class="tp"><div class="in"><div class="crumb"><a href="' + D.irA('talentos/') + '">' + D.esc(c.migas) + '</a> / ' + D.esc(t.nombre) + '</div>' +
+        '<section class="tp"><div class="in"><div class="crumb"><a href="' + D.irA('creadores/') + '">' + D.esc(c.migas) + '</a> / ' + D.esc(t.nombre) + '</div>' +
         '<div class="tgrid"><div class="photo">' + D.img(D.rutaFoto(t), t.nombre, t) + '</div><div>' +
         '<span class="tag">' + D.categoriasDe(t).map(function (x) { return D.esc(x); }).join(' / ') + '</span><h1>' + D.esc(t.nombre) + '</h1><p class="lead">' + D.esc(t.descripcion) + '</p>' +
         '<div class="kv"><div><b>' + D.esc(D.totalSeguidores(t)) + '+</b><span>' + D.esc(c.seguidoresTotal) + '</span></div>' + dato +

@@ -3,6 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<!-- Google Tag Manager -->
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-NQVSWM64"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  window.dataLayer.push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+</script>
+<!-- End Google Tag Manager -->
 <title>Página no encontrada | Dreamers Media Nicaragua</title>
 <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Audiowide&family=Noto+Sans:wght@400;500;700&display=swap">
@@ -14,6 +23,11 @@ a:hover{background:rgba(255,255,255,.18)}
 </style>
 </head>
 <body>
+<script>
+// Enlaces antiguos: /talentos y /talentos/<nombre> ahora viven en /creadores
+var vieja = location.pathname.match(/^\/talentos(\/.*)?$/);
+if (vieja) location.replace('/creadores' + (vieja[1] || '') + location.search + location.hash);
+</script>
 <main><h1>404</h1><p>No encontramos esta página.</p><a href="/">Ir al inicio</a></main>
 </body>
 </html>
