@@ -12,18 +12,18 @@ Dreamers.talento({
   "redes": [
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@soygreenguy",
-      "seguidores": "79"
-    },
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@jefrollexx",
+      "enlace": "https://www.tiktok.com/@jefrollexx/",
       "seguidores": "5.5K"
     },
     {
-      "plataforma": "Instagram",
+      "plataforma": "Tiktok",
       "enlace": "https://www.instagram.com/jefrollex/",
       "seguidores": "1.2K"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.tiktok.com/@soygreenguy/",
+      "seguidores": "79"
     }
   ],
   "formatos": [
@@ -36,11 +36,8 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "73K",
+    "valor": "0",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [
-    "https://www.tiktok.com/@jefrollexx/video/7697099566193151250?lang=es-419",
-    "https://www.instagram.com/p/DdjRz32uLH7/"
-  ]
+  "frames": []
 });

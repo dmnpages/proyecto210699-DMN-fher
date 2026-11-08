@@ -12,12 +12,12 @@ Dreamers.talento({
   "redes": [
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/daneska_solorzano",
-      "seguidores": "707"
+      "enlace": "https://www.instagram.com/daneska_solorzano/",
+      "seguidores": "710"
     },
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@daneska_solorzano",
+      "enlace": "https://www.tiktok.com/@daneska_solorzano/",
       "seguidores": "2.7K"
     }
   ],
@@ -35,8 +35,5 @@ Dreamers.talento({
     "valor": "29.5K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [
-    "https://www.instagram.com/p/DfBIOhPx1Dr/",
-    "https://www.tiktok.com/@daneska_solorzano/video/7515899235099806983?lang=es-419"
-  ]
+  "frames": []
 });

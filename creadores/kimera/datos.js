@@ -13,17 +13,17 @@ Dreamers.talento({
   "redes": [
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/kimera_sm",
+      "enlace": "https://www.instagram.com/kimera_sm/",
       "seguidores": "319"
     },
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@kimerasm",
+      "enlace": "https://www.tiktok.com/@kimerasm/",
       "seguidores": "5.6K"
     },
     {
       "plataforma": "Youtube",
-      "enlace": "https://www.youtube.com/@kimerasm",
+      "enlace": "https://www.youtube.com/@kimerasm/",
       "seguidores": "584"
     }
   ],
@@ -38,12 +38,8 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "128.7K",
+    "valor": "129.7K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [
-    "https://www.youtube.com/watch?v=ZehJmRxEbU8",
-    "https://www.tiktok.com/@kimerasm/video/7704526028013620487?lang=es-419",
-    "https://www.youtube.com/watch?v=y_x8fag8kSQ"
-  ]
+  "frames": []
 });

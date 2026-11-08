@@ -32,12 +32,8 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "33.7K",
+    "valor": "33.8K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [
-    "https://www.instagram.com/p/DILQORBu-59/?img_index=1",
-    "https://www.tiktok.com/@jares_mayerling/video/7453927159917202730",
-    "https://www.instagram.com/p/DRqMcJOiTeZ/?img_index=1"
-  ]
+  "frames": []
 });

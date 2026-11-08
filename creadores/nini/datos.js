@@ -13,12 +13,12 @@ Dreamers.talento({
   "redes": [
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/ana__tomico",
+      "enlace": "https://www.instagram.com/ana__tomico/",
       "seguidores": "165"
     },
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@cherryjaneblossom",
+      "enlace": "https://www.tiktok.com/@cherryjaneblossom/",
       "seguidores": "1.6K"
     }
   ],
@@ -37,8 +37,5 @@ Dreamers.talento({
     "valor": "116.9K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [
-    "https://www.tiktok.com/@cherryjaneblossom/video/7704749893310483733?lang=es-419",
-    "https://www.tiktok.com/@cherryjaneblossom/video/7702680821521501460?lang=es-419"
-  ]
+  "frames": []
 });

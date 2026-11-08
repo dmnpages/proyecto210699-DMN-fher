@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Yanfluu",
   "ciudad": "Chinandega",
-  "seguidores": "38.3K",
+  "seguidores": "38.6K",
   "descripcion": "",
   "foto": "foto-admin.png",
   "posicionFoto": "50% 50%",
@@ -12,13 +12,13 @@ Dreamers.talento({
   "redes": [
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/yanfluu",
-      "seguidores": "1.1K"
+      "enlace": "https://www.instagram.com/yanfluu/",
+      "seguidores": "1.2K"
     },
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@yanfluu",
-      "seguidores": "37.2K"
+      "enlace": "https://www.tiktok.com/@yanfluu/",
+      "seguidores": "37.4K"
     }
   ],
   "formatos": [
@@ -33,8 +33,5 @@ Dreamers.talento({
     "valor": "2.2M",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [
-    "https://www.instagram.com/p/DfGIBLcJv3q/",
-    "https://www.tiktok.com/@yanfluu/video/7704958919571000577?lang=es-419"
-  ]
+  "frames": []
 });

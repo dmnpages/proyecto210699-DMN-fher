@@ -6,10 +6,16 @@ Dreamers.listaTalentos = [
   "yan",
   "daneska",
   "catpool",
+  "fresita-agridulce",
   "nini",
   "bryam-contreras",
   "cherry",
   "jefrollex",
+  "thepeggo",
   "indira",
-  "flamera"
+  "jaden-garcia",
+  "flamera",
+  "lady-donita",
+  "netsu",
+  "vitta-bass"
 ];

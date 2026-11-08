@@ -4,4 +4,4 @@
 .about ul{padding:0; margin:1.2rem 0 0; list-style:none; display:grid; gap:.6rem}
 .about li{padding-left:1.4rem; position:relative}
 .about li::before{content:""; position:absolute; left:0; top:.7em; width:.6rem; height:.6rem; background:var(--orange)}
-@media (max-width:820px){ .about{grid-template-columns:1fr} }
+@media (max-width:820px){ .about{grid-template-columns:1fr; gap:2rem} .about img{max-height:380px} }

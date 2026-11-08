@@ -323,4 +323,17 @@
       });
     }, Promise.resolve());
   };
+
+  // Contenido elegido automáticamente para el carrusel de cada creador (lo genera "Actualizar contenido" en el editor).
+  D.auto = {};
+  D.autoContenido = function (carpeta, datos) { D.auto[carpeta] = datos; };
+  D.cargarAuto = function (carpeta) {
+    return new Promise(function (ok) {
+      var s = document.createElement('script');
+      s.src = D.raiz + 'creadores/' + encodeURIComponent(carpeta) + '/auto.js?v=' + Date.now();
+      s.onload = function () { ok(D.auto[carpeta] || null); };
+      s.onerror = function () { ok(null); };
+      document.head.appendChild(s);
+    });
+  };
 })();

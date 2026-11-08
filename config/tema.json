@@ -1,14 +1,14 @@
 {
   "colores": {
-    "--blue": "#9b5cff",
-    "--orange": "#ff4fd8",
-    "--black": "#05030c",
-    "--navy": "#140b2b",
-    "--ink": "#0a0615",
+    "--blue": "#2ea3f2",
+    "--orange": "#f5903b",
+    "--black": "#000000",
+    "--navy": "#0b1426",
+    "--ink": "#070a12",
     "--white": "#ffffff",
     "--grey": "#f0f0f0",
-    "--head": "#000000",
-    "--text": "#000000"
+    "--head": "#333333",
+    "--text": "#666666"
   },
   "fuentes": {
     "titulos": "Orbitron",

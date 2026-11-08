@@ -1,0 +1,5 @@
+Dreamers.autoContenido("jares", {
+  "actualizado": "2026-11-07",
+  "elegidos": [],
+  "reserva": []
+});

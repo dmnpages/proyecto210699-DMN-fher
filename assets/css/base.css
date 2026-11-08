@@ -46,3 +46,12 @@ h1,h2,h3,h4{font-family:var(--display); font-weight:400; margin:0; line-height:1
 .sec h2.t::after{content:""; display:block; width:64px; height:3px; background:var(--blue); margin:1rem auto 3rem}
 @media (max-width:820px){ .sec{padding-block:3.5rem} }
 @media (prefers-reduced-motion:reduce){ *{transition:none!important; scroll-behavior:auto!important} }
+
+/* Páginas interiores: el menú es fijo (66px); el primer bloque nunca debe quedar debajo de él */
+[data-pagina="talentos"] main .sec:first-child,
+[data-pagina="nosotros"] main .sec:first-child,
+[data-pagina="contacto"] main .sec:first-child{padding-top:calc(66px + env(safe-area-inset-top, 0px) + 2rem)}
+/* Pantallas muy angostas / apaisadas */
+@media (max-width:360px){ body{font-size:14px} .sec{padding-block:2.6rem} }
+@media (max-height:480px) and (orientation:landscape){ .sec{padding-block:2.4rem} }
+img,video,iframe{max-width:100%}

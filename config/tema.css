@@ -3,13 +3,6 @@
 /* Generado por el panel de administración (pestaña Apariencia). No hace falta editarlo a mano. */
 
 :root {
-  --blue: #9b5cff;
-  --orange: #ff4fd8;
-  --black: #05030c;
-  --navy: #140b2b;
-  --ink: #0a0615;
-  --head: #000000;
-  --text: #000000;
   --display: "Orbitron","Arial Black",system-ui,sans-serif;
   --body: "Lato",system-ui,-apple-system,"Segoe UI",sans-serif;
 }

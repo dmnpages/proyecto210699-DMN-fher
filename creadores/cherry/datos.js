@@ -18,7 +18,7 @@ Dreamers.talento({
     },
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@thecherrypiex",
+      "enlace": "https://www.tiktok.com/@thecherrypiex/",
       "seguidores": "2K"
     }
   ],
@@ -35,8 +35,5 @@ Dreamers.talento({
     "valor": "26.2K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [
-    "https://www.tiktok.com/@thecherrypiex/video/7703045194060434706?lang=es-419",
-    "https://www.tiktok.com/@thecherrypiex/video/7694931917531057426?lang=es-419"
-  ]
+  "frames": []
 });

@@ -13,12 +13,12 @@ Dreamers.talento({
   "redes": [
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/_indirapellas",
+      "enlace": "https://www.instagram.com/_indirapellas/",
       "seguidores": "3.5K"
     },
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@indirapellas",
+      "enlace": "https://www.tiktok.com/@indirapellas/",
       "seguidores": "18K"
     }
   ],
@@ -32,11 +32,8 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "261.8K",
+    "valor": "262.6K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [
-    "https://www.tiktok.com/@indirapellas/video/7695677363736169735?lang=es-419",
-    "https://www.instagram.com/p/DX8C3TpMsvj/"
-  ]
+  "frames": []
 });
