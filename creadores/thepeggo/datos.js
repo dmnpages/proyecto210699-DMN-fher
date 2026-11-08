@@ -7,7 +7,7 @@ Dreamers.talento({
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "categorias": [
-    "Straemer",
+    "Streamer",
     "LifeStyle"
   ],
   "redes": [
