@@ -4,8 +4,8 @@ Dreamers.talento({
   "seguidores": "1.1K",
   "descripcion": "",
   "foto": "foto-admin.jpg",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
+  "posicionFoto": "62.5% 18.500000000000007%",
+  "fotoZoom": 1.63,
   "categorias": [
     "Streamer",
     "Cosplayer"

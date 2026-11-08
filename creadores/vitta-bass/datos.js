@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Vitta Bass",
   "ciudad": "",
-  "seguidores": "142.2K",
+  "seguidores": "142.1K",
   "descripcion": "",
   "foto": "foto-admin.jpg",
   "posicionFoto": "50% 50%",
@@ -15,7 +15,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@vittamusic/",
-      "seguidores": "141K"
+      "seguidores": "140.9K"
     },
     {
       "plataforma": "Youtube",

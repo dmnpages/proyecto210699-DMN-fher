@@ -18,5 +18,6 @@ Dreamers.listaTalentos = [
   "lady-donita",
   "netsu",
   "oleslie",
-  "vitta-bass"
+  "vitta-bass",
+  "sniva"
 ];
