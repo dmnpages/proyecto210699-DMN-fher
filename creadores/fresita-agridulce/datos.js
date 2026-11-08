@@ -19,7 +19,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@samy.fresita/",
-      "seguidores": "545"
+      "seguidores": "546"
     }
   ],
   "formatos": [
