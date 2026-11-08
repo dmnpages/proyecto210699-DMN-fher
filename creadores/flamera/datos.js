@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Flamera",
   "ciudad": "",
-  "seguidores": "29.4K",
+  "seguidores": "29.5K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -19,7 +19,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@_flamera_/",
-      "seguidores": "17.4K"
+      "seguidores": "17.5K"
     }
   ],
   "formatos": [
@@ -33,7 +33,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "703.9K",
+    "valor": "704.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

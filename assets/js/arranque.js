@@ -5,9 +5,11 @@
     document.querySelectorAll('[data-seccion]').forEach(function (el) {
       var id = el.getAttribute('data-seccion'), fn = D.secciones[id];
       if (!fn) { console.warn('La sección "' + id + '" no tiene código (secciones/' + id + '/seccion.js).'); return; }
-      try { fn(el); } catch (err) { console.error('Error en la sección ' + id, err); }
+      try { fn(el); D.aplicarEstilos(id, el); } catch (err) { console.error('Error en la sección ' + id, err); }
     });
+    D.bloquesExtra();
     D.limpiarBarra();
+    D.cargarScript('assets/js/temporada.js');
   }
-  D.cargarTalentos().then(pintar);
+  Promise.all([D.cargarTalentos(), D.cargarScript('secciones/textos/contenido.js')]).then(pintar);
 })();

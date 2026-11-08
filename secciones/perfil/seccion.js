@@ -9,7 +9,7 @@
     // Elige hasta 5 contenidos: primero los automáticos, luego (si faltan) los escritos a mano en el creador. Lo que no se pueda mostrar dentro de la página se salta y entra el siguiente de la reserva.
     function elegirContenido(t, auto) {
       var fijos = (Array.isArray(t.frames) ? t.frames : []).filter(Boolean);
-      var cola = ((auto && auto.elegidos) || []).concat(fijos, (auto && auto.reserva) || []);
+      var cola = ((auto && auto.fijados) || []).concat((auto && auto.elegidos) || [], fijos, (auto && auto.reserva) || []);
       var vistos = {}, sel = [];
       cola.forEach(function (u) {
         if (sel.length >= MAX_CARRUSEL || vistos[u]) return;

@@ -13,7 +13,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/olesliedayana/",
-      "seguidores": "467"
+      "seguidores": "466"
     },
     {
       "plataforma": "Tiktok",

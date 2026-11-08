@@ -26,6 +26,11 @@ Dreamers.talento({
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/profile.php?id=100085739053307&ref=PROFILE_EDIT_xav_ig_profile_page_web#/",
       "seguidores": "82"
+    },
+    {
+      "plataforma": "Youtube",
+      "enlace": "https://www.youtube.com/channel/UCxSnyCd1QyFHoL3FPq5eccA",
+      "seguidores": "60"
     }
   ],
   "formatos": [

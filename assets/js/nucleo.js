@@ -343,4 +343,86 @@
       document.head.appendChild(s);
     });
   };
+
+  // ---------- Estilo individual de cada texto (color y tamaño) ----------
+  // En el editor cada texto puede tener su propio color/tamaño (contenido.<sección>._estilos). Es independiente de «Apariencia».
+  D.aplicarEstilos = function (id, raiz) {
+    var c = D.contenido && D.contenido[id], st = c && c._estilos;
+    if (!st || !raiz) return;
+    var mapa = {};
+    Object.keys(st).forEach(function (ruta) {
+      var v = c; ruta.split('.').forEach(function (p) { v = v == null ? v : v[p]; });
+      if (typeof v === 'string' && v.trim()) mapa[v.trim()] = st[ruta];
+    });
+    function pasada() {
+      var w = document.createTreeWalker(raiz, NodeFilter.SHOW_TEXT, null), nodos = [], n;
+      while ((n = w.nextNode())) {
+        var p = n.parentNode;
+        if (!p || /^(SCRIPT|STYLE|TEXTAREA|OPTION|NOSCRIPT)$/.test(p.nodeName)) continue;
+        if (mapa[n.nodeValue.trim()]) nodos.push(n);
+      }
+      nodos.forEach(function (nodo) {
+        var e = mapa[nodo.nodeValue.trim()], sp = nodo.parentNode;
+        if (!(sp.nodeName === 'SPAN' && sp.classList.contains('dmn-t'))) {
+          sp = document.createElement('span'); sp.className = 'dmn-t';
+          nodo.parentNode.insertBefore(sp, nodo); sp.appendChild(nodo);
+        }
+        if (e.color) sp.style.setProperty('color', e.color, 'important');
+        if (e.tam && +e.tam !== 1) sp.style.setProperty('font-size', (+e.tam) + 'em', 'important');
+        if (e.negrita) sp.style.setProperty('font-weight', '700', 'important');
+      });
+    }
+    pasada();
+    var t; new MutationObserver(function () { clearTimeout(t); t = setTimeout(pasada, 60); }).observe(raiz, { childList: true, subtree: true, characterData: true });
+  };
+
+  // ---------- Bloques de texto extra (se crean en el editor: Páginas → Textos extra) ----------
+  D.bloquesExtra = function () {
+    var c = D.contenido && D.contenido.textos;
+    if (!c || !Array.isArray(c.bloques) || !c.bloques.length) return;
+    var pag = document.querySelector('[data-pagina]'), id = pag && pag.getAttribute('data-pagina');
+    var clave = id === 'talentos' ? 'creadores' : id, ultimos = new Map();
+    if (!document.getElementById('dmn-bloques-css')) {
+      var st = document.createElement('style'); st.id = 'dmn-bloques-css';
+      st.textContent = '.dmn-bloque .in{max-width:900px}.dmn-bloque.ancho .in{max-width:1180px}.dmn-bloque.angosto .in{max-width:680px}' +
+        '.dmn-bloque h2{font-size:clamp(1.5rem,3.4vw,2.2rem);text-transform:uppercase;letter-spacing:.05em;margin-bottom:1rem}' +
+        '.dmn-bloque.sec:not(.dark):not(.white):not(.grey){background:transparent;color:rgba(255,255,255,.82)}.dmn-bloque.sec:not(.dark):not(.white):not(.grey) h2{color:#fff}' +
+        '.dmn-bloque.sec.white h2,.dmn-bloque.sec.grey h2{color:var(--head)}.dmn-bloque.sec.dark h2{color:#fff}' +
+        '.dmn-bloque p{margin:0 0 1em}.dmn-bloque p:last-child{margin-bottom:0}.dmn-bloque.t-peq{font-size:.9rem}.dmn-bloque.t-gra{font-size:1.2rem}.dmn-bloque.t-eno{font-size:1.45rem;line-height:1.6}' +
+        '.dmn-bloque.al-c{text-align:center}.dmn-bloque.al-d{text-align:right}.dmn-bloque.sec{padding-block:3.5rem}';
+      document.head.appendChild(st);
+    }
+    c.bloques.forEach(function (b) {
+      if (!b || b.visible === false || b.pagina !== clave) return;
+      var titulo = String(b.titulo || '').trim(), texto = String(b.texto || '').trim();
+      if (!titulo && !texto) return;
+      var fondo = { blanco: ' white', gris: ' grey', oscuro: ' dark' }[b.fondo] || '';
+      var sec = document.createElement('section');
+      sec.className = 'dmn-bloque sec' + fondo + (b.ancho === 'ancho' ? ' ancho' : b.ancho === 'angosto' ? ' angosto' : '') +
+        ' al-' + ({ centro: 'c', derecha: 'd' }[b.alineacion] || 'i') + ' t-' + ({ pequeno: 'peq', grande: 'gra', enorme: 'eno' }[b.tamano] || 'med');
+      if (/^#[0-9a-f]{3,8}$/i.test(b.colorFondo || '')) sec.style.setProperty('background', b.colorFondo, 'important');
+      var h = '<div class="in">';
+      if (titulo) h += '<h2' + (/^#[0-9a-f]{3,8}$/i.test(b.colorTitulo || '') ? ' style="color:' + b.colorTitulo + ' !important"' : '') + '>' + D.esc(titulo) + '</h2>';
+      if (texto) {
+        var est = /^#[0-9a-f]{3,8}$/i.test(b.colorTexto || '') ? ' style="color:' + b.colorTexto + ' !important"' : '';
+        h += texto.split(/\n{2,}/).map(function (p) { return '<p' + est + '>' + D.esc(p).replace(/\n/g, '<br>') + '</p>'; }).join('');
+      }
+      sec.innerHTML = h + '</div>';
+      var ancla = b.despuesDe && b.despuesDe !== 'final' ? document.querySelector('[data-seccion="' + b.despuesDe + '"]') : null;
+      if (ancla) {
+        var previo = ultimos.get(ancla) || ancla;
+        previo.insertAdjacentElement('afterend', sec); ultimos.set(ancla, sec);
+      } else {
+        var pie = document.querySelector('[data-seccion="pie"]');
+        if (pie) pie.parentNode.insertBefore(sec, pie); else document.body.appendChild(sec);
+      }
+    });
+  };
+  D.cargarScript = function (ruta) {
+    return new Promise(function (ok) {
+      var s = document.createElement('script'); s.src = D.raiz + ruta + '?v=' + Date.now();
+      s.onload = s.onerror = function () { ok(); };
+      document.head.appendChild(s);
+    });
+  };
 })();
