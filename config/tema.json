@@ -105,5 +105,9 @@
       "oscuro": 35,
       "texto": "auto"
     }
+  },
+  "temporada": {
+    "navidad": true,
+    "halloween": false
   }
 }

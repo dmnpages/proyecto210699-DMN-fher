@@ -164,7 +164,12 @@
     var raw = String(entrada == null ? '' : entrada).trim();
     if (!raw) return null;
     var f = raw.match(/<iframe[^>]*?\ssrc\s*=\s*["']([^"']+)["']/i);
-    if (f) raw = f[1].replace(/&amp;/g, '&');
+    var orientMarco = null; // si pegan el código <iframe>, su ancho/alto dicen si es vertical u horizontal
+    if (f) {
+      var iw = raw.match(/\swidth\s*=\s*["']?(\d+)(?![\d%])/i), ih = raw.match(/\sheight\s*=\s*["']?(\d+)(?![\d%])/i);
+      if (iw && ih && +iw[1] > 0 && +ih[1] > 0 && +iw[1] !== +ih[1]) orientMarco = +ih[1] > +iw[1];
+      raw = f[1].replace(/&amp;/g, '&');
+    }
     if (/^\/\//.test(raw)) raw = 'https:' + raw;
     if (!/^https?:\/\//i.test(raw)) {
       if (/^[\w-]+(\.[\w-]+)+(\/|$|\?)/.test(raw)) raw = 'https://' + raw; else return null;
@@ -175,7 +180,9 @@
     function es(re) { return re.test(h); }
     function iframe(plataforma, tipo, src, o) {
       o = o || {};
-      return { plataforma: plataforma, tipo: tipo, src: src, aspect: o.aspect || '16/9', alto: o.alto || 0, vertical: !!o.vertical, sinScroll: !o.scroll, url: raw };
+      // Solo se decide la orientación: vertical (9/16) u horizontal (16/9). El iframe pegado manda sobre el enlace.
+      var vertical = orientMarco !== null ? orientMarco : !!o.vertical;
+      return { plataforma: plataforma, tipo: tipo, src: src, aspect: vertical ? '9/16' : '16/9', alto: o.alto || 0, vertical: vertical, sinScroll: !o.scroll, url: raw };
     }
     function enlace(plataforma, tipo) { return { plataforma: plataforma, tipo: tipo || 'Enlace', enlace: raw, url: raw }; }
 
@@ -192,7 +199,7 @@
       else id = q.get('v');
       if (id) return iframe('YouTube', corto ? 'Short' : (/^\/live\//.test(p) ? 'Directo' : 'Video'),
         'https://www.youtube.com/embed/' + encodeURIComponent(id) + (lista && !corto ? '?list=' + encodeURIComponent(lista) : ''),
-        corto ? { aspect: '9/16', vertical: true } : {});
+        corto ? { vertical: true } : {});
       if (lista) return iframe('YouTube', 'Lista', 'https://www.youtube.com/embed/videoseries?list=' + encodeURIComponent(lista));
       return enlace('YouTube', 'Canal');
     }
@@ -214,7 +221,7 @@
     }
     // TikTok
     if (es(/(^|\.)tiktok\.com$/)) {
-      if ((m = p.match(/\/(?:video|embed\/v2|player\/v1)\/(\d+)/))) return iframe('TikTok', 'Video', 'https://www.tiktok.com/embed/v2/' + m[1], { aspect: '325/738', vertical: true });
+      if ((m = p.match(/\/(?:video|embed\/v2|player\/v1)\/(\d+)/))) return iframe('TikTok', 'Video', 'https://www.tiktok.com/embed/v2/' + m[1], { vertical: true });
       return enlace('TikTok', /^\/@[\w.]+\/?$/.test(p) ? 'Perfil' : 'Enlace');
     }
     // Instagram
@@ -222,7 +229,7 @@
       if ((m = p.match(/^\/(?:[\w.]+\/)?(p|reels?|tv)\/([\w-]+)/))) {
         var reel = m[1] !== 'p';
         return iframe('Instagram', reel ? 'Reel' : 'Publicación', 'https://www.instagram.com/' + (m[1] === 'reels' ? 'reel' : m[1]) + '/' + m[2] + '/embed/',
-          reel ? { aspect: '9/19.5', vertical: true } : { aspect: '4/5' });
+          reel ? { vertical: true } : { vertical: true });
       }
       return enlace('Instagram', 'Perfil');
     }
@@ -231,14 +238,14 @@
       var enc = encodeURIComponent(raw);
       if (h === 'fb.watch' || /\/(videos?|watch)\b/.test(p) || /^\/reel\//.test(p)) {
         var rl = /^\/reel\//.test(p);
-        return iframe('Facebook', rl ? 'Reel' : 'Video', 'https://www.facebook.com/plugins/video.php?href=' + enc + '&show_text=false&autoplay=false', rl ? { aspect: '9/16', vertical: true } : {});
+        return iframe('Facebook', rl ? 'Reel' : 'Video', 'https://www.facebook.com/plugins/video.php?href=' + enc + '&show_text=false&autoplay=false', rl ? { vertical: true } : {});
       }
-      if (p.split('/').filter(Boolean).length >= 2) return iframe('Facebook', 'Publicación', 'https://www.facebook.com/plugins/post.php?href=' + enc + '&show_text=false&width=500', { aspect: '4/5' });
+      if (p.split('/').filter(Boolean).length >= 2) return iframe('Facebook', 'Publicación', 'https://www.facebook.com/plugins/post.php?href=' + enc + '&show_text=false&width=500', { vertical: true });
       return enlace('Facebook', 'Página');
     }
     // X / Twitter
     if (es(/(^|\.)(twitter|x)\.com$/)) {
-      if ((m = p.match(/\/status(?:es)?\/(\d+)/))) return iframe('X', 'Publicación', 'https://platform.twitter.com/embed/Tweet.html?id=' + m[1] + '&dnt=true', { aspect: '1/1.1' });
+      if ((m = p.match(/\/status(?:es)?\/(\d+)/))) return iframe('X', 'Publicación', 'https://platform.twitter.com/embed/Tweet.html?id=' + m[1] + '&dnt=true', { vertical: true });
       return enlace('X', 'Perfil');
     }
     // Spotify
