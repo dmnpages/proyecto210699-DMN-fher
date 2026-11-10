@@ -7,7 +7,7 @@
       var cont = l.imagen
         ? D.img('secciones/clientes/logos/' + l.imagen, l.nombre)
         : '<span>' + D.esc(l.nombre) + '<small>' + D.esc(c.textoFicha) + '</small></span>';
-      return '<div class="logo-tile">' + cont + '</div>';
+      return '<div class="logo-tile' + (l.imagen ? ' con-logo' : '') + '">' + cont + '</div>';
     }).join('');
     return '<div class="rail' + (inversa ? ' rev' : '') + '" aria-hidden="true"><div class="track">' + tiles + tiles + '</div></div>';
   }

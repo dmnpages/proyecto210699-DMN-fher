@@ -242,7 +242,7 @@ Dreamers._actual="catpool";
 Dreamers.talento({
   "nombre": "Catpool",
   "ciudad": "Jinotega",
-  "seguidores": "1.6K",
+  "seguidores": "1.5K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -260,11 +260,6 @@ Dreamers.talento({
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@catpool01/",
       "seguidores": "1.5K"
-    },
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@catpool_gaming/",
-      "seguidores": "46"
     }
   ],
   "formatos": [
@@ -277,7 +272,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "103",
+    "valor": "2.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -653,7 +648,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "707.2K",
+    "valor": "707.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

@@ -3,8 +3,8 @@ Dreamers.contenido.clientes = {
   "textoFicha": "Tu logo aquí",
   "logos": [
     {
-      "nombre": "Tu marca podría ir aquí",
-      "imagen": ""
+      "nombre": "GeekUp",
+      "imagen": "imagen-9b9bf883f3.webp"
     },
     {
       "nombre": "Tu marca podría ir aquí",
