@@ -107,7 +107,7 @@
     }
   },
   "temporada": {
-    "navidad": false,
+    "navidad": true,
     "halloween": false
   }
 }
