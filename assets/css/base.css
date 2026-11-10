@@ -55,3 +55,22 @@ h1,h2,h3,h4{font-family:var(--display); font-weight:400; margin:0; line-height:1
 @media (max-width:360px){ body{font-size:14px} .sec{padding-block:2.6rem} }
 @media (max-height:480px) and (orientation:landscape){ .sec{padding-block:2.4rem} }
 img,video,iframe{max-width:100%}
+
+/* ============================================================
+   MODO OSCURO (botón del encabezado; sigue la preferencia del dispositivo)
+   Usa html[data-modo] para ganarle a los colores de temporada y de Apariencia.
+   ============================================================ */
+html[data-modo="oscuro"]{--grey:#0c1424; --head:#eef2f8; --text:#b9c3d5; color-scheme:dark}
+html[data-modo="oscuro"] .sec.white{background:#0f192b}
+html[data-modo="oscuro"] .card,
+html[data-modo="oscuro"] .hdr .sub,
+html[data-modo="oscuro"] .selects select{background:#14213a; color:var(--head)}
+html[data-modo="oscuro"] .card{box-shadow:0 2px 18px rgba(0,0,0,.5)}
+html[data-modo="oscuro"] .soc .red-badge,
+html[data-modo="oscuro"] .media-tag .red-icon{background:#2b3c5c}
+html[data-modo="oscuro"] .chip{color:var(--head)}
+html[data-modo="oscuro"] .hdr .sub a:hover{background:rgba(255,255,255,.08)}
+html[data-modo="oscuro"] .btn.dark{color:var(--head)}
+html[data-modo="oscuro"] .btn.dark:hover{background:rgba(255,255,255,.08)}
+html[data-modo="oscuro"] .netlist li,
+html[data-modo="oscuro"] .pills li{background:#14213a}

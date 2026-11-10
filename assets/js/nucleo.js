@@ -438,4 +438,27 @@
       document.head.appendChild(s);
     });
   };
+  // Modo oscuro: sigue la preferencia del dispositivo y el visitante puede cambiarlo con el botón del encabezado (se recuerda).
+  D.modo = {
+    actual: function () { return document.documentElement.getAttribute('data-modo') === 'oscuro' ? 'oscuro' : 'claro'; },
+    aplicar: function (m) {
+      document.documentElement.setAttribute('data-modo', m);
+      document.querySelectorAll('.modo-btn').forEach(function (b) {
+        b.setAttribute('aria-pressed', m === 'oscuro' ? 'true' : 'false');
+        b.setAttribute('aria-label', m === 'oscuro' ? 'Cambiar a modo claro' : 'Cambiar a modo oscuro');
+        b.title = b.getAttribute('aria-label');
+      });
+    },
+    alternar: function () {
+      var m = D.modo.actual() === 'oscuro' ? 'claro' : 'oscuro';
+      D.modo.aplicar(m);
+      try { localStorage.setItem('dmn-modo', m); } catch (e) {}
+    }
+  };
+  (function () {
+    var g = null;
+    try { g = localStorage.getItem('dmn-modo'); } catch (e) {}
+    if (g !== 'oscuro' && g !== 'claro') g = (window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches) ? 'oscuro' : 'claro';
+    document.documentElement.setAttribute('data-modo', g);
+  })();
 })();

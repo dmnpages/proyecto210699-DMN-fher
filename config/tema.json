@@ -4,11 +4,11 @@
     "--orange": "#ff4fd8",
     "--black": "#05030c",
     "--navy": "#140b2b",
-    "--ink": "#000000",
+    "--ink": "#0a0615",
     "--white": "#ffffff",
     "--grey": "#f0f0f0",
-    "--head": "#000000",
-    "--text": "#000000"
+    "--head": "#333333",
+    "--text": "#666666"
   },
   "fuentes": {
     "titulos": "Audiowide",

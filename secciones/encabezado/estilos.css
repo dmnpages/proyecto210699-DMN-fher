@@ -21,3 +21,12 @@
   .hdr nav ul{gap:.7rem}
   .hdr nav a{font-size:.7rem}
 }
+
+/* Botón de modo oscuro / claro */
+.modo-li{display:flex; align-items:center}
+.modo-btn{width:40px; height:40px; padding:0; border-radius:50%; border:1px solid rgba(255,255,255,.28); background:transparent; color:var(--white); display:grid; place-items:center; cursor:pointer; transition:background .2s, transform .2s}
+.modo-btn:hover{background:rgba(255,255,255,.14); transform:rotate(18deg)}
+.modo-btn .ico-sol{display:none}
+html[data-modo="oscuro"] .modo-btn .ico-sol{display:block}
+html[data-modo="oscuro"] .modo-btn .ico-luna{display:none}
+@media (max-width:560px){ .modo-btn{width:36px; height:36px} }
