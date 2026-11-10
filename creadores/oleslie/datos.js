@@ -3,7 +3,7 @@ Dreamers.talento({
   "ciudad": "Managua",
   "seguidores": "5K",
   "descripcion": "Streamer apasionada por los juegos retro y el anime. Paso mis directos recordando los grandes clásicos, descubriendo buenas historias y compartiendo mi amor por la cultura otaku junto a la comunidad.",
-  "foto": "foto-admin.jpg",
+  "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "categorias": [

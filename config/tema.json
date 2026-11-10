@@ -1,18 +1,18 @@
 {
   "colores": {
-    "--blue": "#2ea3f2",
-    "--orange": "#f5903b",
-    "--black": "#000000",
-    "--navy": "#0b1426",
-    "--ink": "#070a12",
+    "--blue": "#9b5cff",
+    "--orange": "#ff4fd8",
+    "--black": "#05030c",
+    "--navy": "#140b2b",
+    "--ink": "#000000",
     "--white": "#ffffff",
     "--grey": "#f0f0f0",
-    "--head": "#333333",
-    "--text": "#666666"
+    "--head": "#000000",
+    "--text": "#000000"
   },
   "fuentes": {
-    "titulos": "Orbitron",
-    "texto": "Lato"
+    "titulos": "Audiowide",
+    "texto": "Noto Sans"
   },
   "fondos": {
     "sitio": {
@@ -107,7 +107,7 @@
     }
   },
   "temporada": {
-    "navidad": true,
+    "navidad": false,
     "halloween": false
   }
 }

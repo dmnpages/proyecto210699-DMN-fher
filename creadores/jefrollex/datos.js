@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Jefrollex",
   "ciudad": "Managua",
-  "seguidores": "6.8K",
+  "seguidores": "6.7K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -19,11 +19,6 @@ Dreamers.talento({
       "plataforma": "Tiktok",
       "enlace": "https://www.instagram.com/jefrollex/",
       "seguidores": "1.2K"
-    },
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.tiktok.com/@soygreenguy/",
-      "seguidores": "79"
     }
   ],
   "formatos": [
@@ -36,7 +31,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "0",
+    "valor": "73.1K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

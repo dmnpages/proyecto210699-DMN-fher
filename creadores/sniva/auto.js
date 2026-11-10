@@ -1,5 +1,5 @@
 Dreamers.autoContenido("sniva", {
-  "actualizado": "2026-11-07",
+  "actualizado": "2026-11-10",
   "elegidos": [],
   "reserva": []
 });

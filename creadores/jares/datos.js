@@ -3,7 +3,7 @@ Dreamers.talento({
   "ciudad": "Matagalpa",
   "seguidores": "4.4K",
   "descripcion": "Creadora de contenido enfocada en el mundo del anime, cosplay y gaming.",
-  "foto": "foto-admin.png",
+  "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "categorias": [

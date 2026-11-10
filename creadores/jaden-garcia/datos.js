@@ -3,7 +3,7 @@ Dreamers.talento({
   "ciudad": "Managua",
   "seguidores": "51.5K",
   "descripcion": "",
-  "foto": "foto-admin.jpg",
+  "foto": "foto-admin.webp",
   "posicionFoto": "51.5625% 62%",
   "fotoZoom": 1.24,
   "categorias": [
@@ -43,7 +43,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "589.6K",
+    "valor": "590.1K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

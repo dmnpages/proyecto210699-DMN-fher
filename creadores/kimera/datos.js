@@ -3,7 +3,7 @@ Dreamers.talento({
   "ciudad": "Managua",
   "seguidores": "6.5K",
   "descripcion": "Creador de contenido enfocado en el mundo del gaming y la tecnología.",
-  "foto": "foto-admin.png",
+  "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "categorias": [
@@ -38,7 +38,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "130K",
+    "valor": "132.1K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

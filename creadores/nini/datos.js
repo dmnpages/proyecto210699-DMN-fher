@@ -3,7 +3,7 @@ Dreamers.talento({
   "ciudad": "Managua",
   "seguidores": "1.8K",
   "descripcion": "",
-  "foto": "foto-admin.png",
+  "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "categorias": [
@@ -14,7 +14,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/ana__tomico/",
-      "seguidores": "165"
+      "seguidores": "164"
     },
     {
       "plataforma": "Tiktok",

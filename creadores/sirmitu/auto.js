@@ -1,5 +1,5 @@
 Dreamers.autoContenido("sirmitu", {
-  "actualizado": "2026-11-08",
+  "actualizado": "2026-11-10",
   "elegidos": [
     "https://www.instagram.com/p/DdcoZDEh6DP/",
     "https://www.instagram.com/p/DcxFpOGhxAP/",

@@ -3,7 +3,7 @@ Dreamers.talento({
   "ciudad": "Managua",
   "seguidores": "3.4K",
   "descripcion": "Creadora de contenido digital desde los 18 años, con una sólida trayectoria en la industria y una clara visión de liderazgo. Comprometida con la excelencia y la innovación, aspiro a consolidarme como una de las referentes más influyentes a nivel global.",
-  "foto": "foto-admin.png",
+  "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "categorias": [
@@ -32,7 +32,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "26.2K",
+    "valor": "26.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

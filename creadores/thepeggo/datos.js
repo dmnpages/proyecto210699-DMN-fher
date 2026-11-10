@@ -3,7 +3,7 @@ Dreamers.talento({
   "ciudad": "",
   "seguidores": "44.9K",
   "descripcion": "",
-  "foto": "foto-admin.jpg",
+  "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "categorias": [

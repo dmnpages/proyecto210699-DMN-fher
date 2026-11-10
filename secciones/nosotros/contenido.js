@@ -7,5 +7,10 @@ Dreamers.contenido.nosotros = {
     "Un espacio diseñado para dar pantalla a los creadores de contenido ante la comunidad y posibles colaboradores.",
     "La plataforma oficial donde cualquier persona o marca puede explorar, descubrir y medir a la comunidad de streamers nicaragüenses."
   ],
-  "imagen": "imagen-957dc57f05.png"
+  "imagen": "imagen-957dc57f05.png",
+  "_estilos": {
+    "titulo": {
+      "tam": 1.2
+    }
+  }
 };

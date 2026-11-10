@@ -34,7 +34,7 @@
     function carrusel(urls, reserva) {
       if (!urls.length) return '';
       var slides = urls.map(function (u) { return '<div class="car-slide" data-url="' + D.esc(u) + '">' + D.htmlMedio(u) + '</div>'; }).join('');
-      return '<section class="media-section"><h3>' + D.esc(c.tituloTransmisiones) + '</h3>' +
+      return '<section class="media-section"><h2>' + D.esc(c.tituloTransmisiones) + '</h2>' +
         '<div class="car" role="region" aria-roledescription="carrusel" aria-label="' + D.esc(c.tituloTransmisiones) + '">' +
         '<div class="car-track" tabindex="0">' + slides + '</div>' +
         '<div class="car-ctrl"><button type="button" class="car-btn prev" aria-label="Anterior" disabled>&#8249;</button>' +
@@ -158,15 +158,15 @@
       var contacto = D.irA('contacto/');
       el.innerHTML =
         '<section class="tp"><div class="in"><div class="crumb"><a href="' + D.irA('creadores/') + '">' + D.esc(c.migas) + '</a> / ' + D.esc(t.nombre) + '</div>' +
-        '<div class="tgrid"><div class="photo">' + D.img(D.rutaFoto(t), t.nombre, t) + '</div><div>' +
+        '<div class="tgrid"><div class="photo">' + D.img(D.rutaFoto(t), t.nombre, t, true) + '</div><div>' +
         '<span class="tag">' + D.categoriasDe(t).map(function (x) { return D.esc(x); }).join(' / ') + '</span><h1>' + D.esc(t.nombre) + '</h1><p class="lead">' + D.esc(t.descripcion) + '</p>' +
         '<div class="kv"><div><b>' + D.esc(D.totalSeguidores(t)) + '+</b><span>' + D.esc(c.seguidoresTotal) + '</span></div>' + dato +
         (String(t.ciudad || '').trim() ? '<div><b>' + D.esc(t.ciudad) + '</b><span>' + D.esc(c.baseEn) + '</span></div>' : '') + '</div>' +
         '<button type="button" class="btn" data-contactar>' + D.esc(c.botonContratar) + '</button></div></div></div></section>' +
         '<section class="sec white"><div class="in"><div class="details">' +
-        '<div><h3>' + D.esc(c.tituloRedes) + '</h3><ul class="netlist">' + redes + '</ul></div>' +
-        '<div><h3>' + D.esc(c.tituloFormatos) + '</h3>' + lista(t.formatos, 'pills') + '</div>' +
-        '<div><h3>' + D.esc(c.tituloIdeal) + '</h3>' + lista(t.ideal, 'pills') + '</div></div>' +
+        '<div><h2>' + D.esc(c.tituloRedes) + '</h2><ul class="netlist">' + redes + '</ul></div>' +
+        '<div><h2>' + D.esc(c.tituloFormatos) + '</h2>' + lista(t.formatos, 'pills') + '</div>' +
+        '<div><h2>' + D.esc(c.tituloIdeal) + '</h2>' + lista(t.ideal, 'pills') + '</div></div>' +
         mediosHtml +
         '<div class="pager"><a href="' + D.rutaTalento(ant.carpeta) + '">&larr; ' + D.esc(ant.nombre) + '</a>' +
         '<a href="' + D.rutaTalento(sig.carpeta) + '">' + D.esc(sig.nombre) + ' &rarr;</a></div></div></section>';

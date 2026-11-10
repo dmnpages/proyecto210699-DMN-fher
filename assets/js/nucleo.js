@@ -102,7 +102,7 @@
     if (/^(data:|https?:)/.test(foto)) return foto;
     return D.raiz + 'creadores/' + t.carpeta + '/' + foto;
   };
-  D.img = function (src, alt, talento) {
+  D.img = function (src, alt, talento, urgente) {
     if (src && !/^([a-z][a-z0-9+.-]*:|\/)/i.test(src)) src = D.raiz + src;
     var posicion = talento && talento.posicionFoto ? D.esc(talento.posicionFoto) : '50% 50%';
     var zoom = talento && talento.fotoZoom ? Number(talento.fotoZoom) : 1;
@@ -110,7 +110,7 @@
     var x = origen[0] || 50, y = origen[1] || 50;
     var estilo = '--zoom:' + zoom + ';--pos-x:' + x + '%;--pos-y:' + y + '%;' +
                  'object-position:' + posicion + ';transform:scale(' + zoom + ');transform-origin:' + posicion;
-    return '<img src="' + D.esc(src) + '" alt="' + D.esc(alt || '') + '" style="' + estilo + '" data-origin-x="' + x + '" data-origin-y="' + y + '" >';
+    return '<img src="' + D.esc(src) + '" alt="' + D.esc(alt || '') + '" style="' + estilo + '" data-origin-x="' + x + '" data-origin-y="' + y + '"' + (urgente ? ' fetchpriority="high"' : ' loading="lazy" decoding="async"') + '>';
   };
   // Si una foto no existe, se muestra la imagen "sin foto".
   document.addEventListener('error', function (e) {
@@ -315,14 +315,27 @@
   };
 
   // Los cambios locales del editor reemplazan los archivos originales de talentos.
+  // Versión de caché: cambia cada 10 minutos (lo mismo que dura la caché de GitHub Pages), así las visitas repetidas no vuelven a descargar todo.
+  D.version = function () { return /^(localhost|127\.0\.0\.1)$/.test(location.hostname) ? Date.now() : Math.floor(Date.now() / 600000); };
   D.cargarTalentos = function () {
+    D.talentos = [];
+    // Rápido: un solo archivo con todos los creadores (lo genera el editor al guardar). Si falta o está incompleto, se cargan uno por uno.
+    return new Promise(function (listo) {
+      var s = document.createElement('script');
+      s.src = D.raiz + 'creadores/todos.js?v=' + D.version();
+      s.onload = function () { if (D.talentos.length === D.listaTalentos.length) listo(); else { D.talentos = []; D.cargarTalentosUnoAUno().then(listo); } };
+      s.onerror = function () { D.talentos = []; D.cargarTalentosUnoAUno().then(listo); };
+      document.head.appendChild(s);
+    });
+  };
+  D.cargarTalentosUnoAUno = function () {
     D.talentos = [];
     return D.listaTalentos.reduce(function (p, carpeta) {
       return p.then(function () {
         return new Promise(function (ok) {
           D._actual = carpeta;
           var s = document.createElement('script');
-          s.src = D.raiz + 'creadores/' + encodeURIComponent(carpeta) + '/datos.js?v=' + Date.now();
+          s.src = D.raiz + 'creadores/' + encodeURIComponent(carpeta) + '/datos.js?v=' + D.version();
           s.onload = ok;
           s.onerror = function () { console.warn('No se encontró creadores/' + carpeta + '/datos.js'); ok(); };
           document.head.appendChild(s);
@@ -337,7 +350,7 @@
   D.cargarAuto = function (carpeta) {
     return new Promise(function (ok) {
       var s = document.createElement('script');
-      s.src = D.raiz + 'creadores/' + encodeURIComponent(carpeta) + '/auto.js?v=' + Date.now();
+      s.src = D.raiz + 'creadores/' + encodeURIComponent(carpeta) + '/auto.js?v=' + D.version();
       s.onload = function () { ok(D.auto[carpeta] || null); };
       s.onerror = function () { ok(null); };
       document.head.appendChild(s);
@@ -420,7 +433,7 @@
   };
   D.cargarScript = function (ruta) {
     return new Promise(function (ok) {
-      var s = document.createElement('script'); s.src = D.raiz + ruta + '?v=' + Date.now();
+      var s = document.createElement('script'); s.src = D.raiz + ruta + '?v=' + D.version();
       s.onload = s.onerror = function () { ok(); };
       document.head.appendChild(s);
     });

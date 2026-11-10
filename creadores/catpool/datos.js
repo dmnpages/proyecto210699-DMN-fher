@@ -3,7 +3,7 @@ Dreamers.talento({
   "ciudad": "Jinotega",
   "seguidores": "1.6K",
   "descripcion": "",
-  "foto": "foto-admin.jpg",
+  "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "categorias": [
@@ -23,7 +23,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@catpool_gaming/",
-      "seguidores": "38"
+      "seguidores": "46"
     }
   ],
   "formatos": [
@@ -36,7 +36,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "85",
+    "valor": "103",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

@@ -14,8 +14,8 @@
 .kv b{display:block; font-family:var(--display); font-weight:400; font-size:1.5rem; color:var(--blue)}
 .kv span{font-size:.78rem; opacity:.8}
 .details{display:grid; grid-template-columns:repeat(3,1fr); gap:2.4rem}
-.details h3{font-size:1.1rem; color:var(--head); text-transform:uppercase; letter-spacing:.06em; margin-bottom:1rem}
-.details h3::after{content:""; display:block; width:40px; height:3px; background:var(--blue); margin-top:.6rem}
+.details h2{font-size:1.1rem; color:var(--head); text-transform:uppercase; letter-spacing:.06em; margin-bottom:1rem}
+.details h2::after{content:""; display:block; width:40px; height:3px; background:var(--blue); margin-top:.6rem}
 .netlist,.pills{list-style:none; padding:0; margin:0; display:grid; gap:.6rem}
 .netlist li{background:var(--grey); border-radius:3px}
 .netlist .net{display:flex; justify-content:space-between; align-items:center; gap:1rem; padding:.6rem .9rem; color:inherit; text-decoration:none}
@@ -26,8 +26,8 @@
 .netlist span{font-size:.88rem; text-align:right; overflow-wrap:anywhere; min-width:0}
 .pills li{padding:.5rem .9rem; border-left:3px solid var(--orange); background:var(--grey)}
 .media-section{margin-top:3rem}
-.media-section > h3{font-size:1.1rem; color:var(--head); text-transform:uppercase; letter-spacing:.06em; margin-bottom:1.2rem}
-.media-section > h3::after{content:""; display:block; width:40px; height:3px; background:var(--blue); margin-top:.6rem}
+.media-section > h2{font-size:1.1rem; color:var(--head); text-transform:uppercase; letter-spacing:.06em; margin-bottom:1.2rem}
+.media-section > h2::after{content:""; display:block; width:40px; height:3px; background:var(--blue); margin-top:.6rem}
 .media-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr)); gap:1.8rem; align-items:start}
 .media-item{min-width:0}
 .media-item.v{max-width:340px; width:100%; margin-inline:auto}

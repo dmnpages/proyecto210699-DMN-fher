@@ -3,7 +3,7 @@ Dreamers.talento({
   "ciudad": "Diriamba",
   "seguidores": "3.4K",
   "descripcion": "",
-  "foto": "foto-admin.png",
+  "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "categorias": [
@@ -13,7 +13,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/daneska_solorzano/",
-      "seguidores": "711"
+      "seguidores": "712"
     },
     {
       "plataforma": "Tiktok",
@@ -32,7 +32,7 @@ Dreamers.talento({
     "Event Host"
   ],
   "dato": {
-    "valor": "29.5K",
+    "valor": "29.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
