@@ -455,7 +455,7 @@ Dreamers._actual="jefrollex";
 Dreamers.talento({
   "nombre": "Jefrollex",
   "ciudad": "Managua",
-  "seguidores": "10.5K",
+  "seguidores": "6.7K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -476,8 +476,7 @@ Dreamers.talento({
     },
     {
       "plataforma": "Youtube",
-      "enlace": "https://www.youtube.com/@Jefrollex",
-      "seguidores": "3,8K"
+      "enlace": "https://www.youtube.com/c/JefrollexOficial/"
     }
   ],
   "formatos": [
@@ -687,7 +686,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "716.5K",
+    "valor": "716.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -832,7 +831,7 @@ Dreamers.talento({
     "Gym",
     "Eventos",
     "Moda",
-    "Cosmeticos"
+    "Cosméticos"
   ],
   "dato": {
     "valor": "137.4K",

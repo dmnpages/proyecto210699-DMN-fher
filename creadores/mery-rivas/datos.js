@@ -42,7 +42,7 @@ Dreamers.talento({
     "Gym",
     "Eventos",
     "Moda",
-    "Cosmeticos"
+    "Cosméticos"
   ],
   "dato": {
     "valor": "137.4K",

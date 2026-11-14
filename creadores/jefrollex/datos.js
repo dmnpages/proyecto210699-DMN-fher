@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Jefrollex",
   "ciudad": "Managua",
-  "seguidores": "10.5K",
+  "seguidores": "6.7K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -22,8 +22,7 @@ Dreamers.talento({
     },
     {
       "plataforma": "Youtube",
-      "enlace": "https://www.youtube.com/@Jefrollex",
-      "seguidores": "3,8K"
+      "enlace": "https://www.youtube.com/c/JefrollexOficial/"
     }
   ],
   "formatos": [
