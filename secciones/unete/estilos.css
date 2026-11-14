@@ -1,0 +1,14 @@
+.unete h1.t{font-size:clamp(1.8rem,4.4vw,2.8rem); text-align:center; letter-spacing:.08em; text-transform:uppercase; color:var(--white)}
+.unete h1.t::after{content:""; display:block; width:64px; height:3px; background:var(--blue); margin:1rem auto 1.4rem}
+.unete .intro{text-align:center; max-width:620px; margin:0 auto 2.4rem; color:rgba(255,255,255,.85)}
+.unete form{max-width:760px}
+.unete label{gap:.2rem}
+.unete .et{font-weight:700; color:var(--white); font-size:.92rem}
+.unete .pista{font-size:.78rem; color:rgba(255,255,255,.7); line-height:1.4; margin-bottom:.25rem}
+.unete fieldset{border:0; margin:0; padding:0; min-width:0}
+.unete legend{padding:0; display:grid; gap:.2rem; margin-bottom:.4rem}
+.unete .checks{display:flex; flex-wrap:wrap; gap:.5rem}
+.unete .check{display:flex; align-items:center; gap:.5rem; padding:.45rem .9rem; border:2px solid rgba(255,255,255,.25); border-radius:999px; background:rgba(255,255,255,.08); cursor:pointer; font-size:.88rem; color:var(--white)}
+.unete .check input{width:auto; padding:0; accent-color:var(--blue)}
+.unete .check:has(input:checked){border-color:var(--blue); background:rgba(46,163,242,.25)}
+.unete .check:has(input:focus-visible){outline:3px solid var(--orange); outline-offset:2px}

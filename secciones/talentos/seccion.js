@@ -42,7 +42,14 @@
           '<option value="mas">' + D.esc(f.mas || 'Más seguidores') + '</option><option value="menos">' + D.esc(f.menos || 'Menos seguidores') + '</option><option value="az">' + D.esc(f.az || 'Nombre (A-Z)') + '</option></select></label>' +
         '</div></div><p class="filtro-estado" role="status" aria-live="polite"></p>';
     }
-    el.innerHTML = '<div class="sec white"><div class="in"><h2 class="t">' + D.esc(c.titulo) + '</h2>' + barra + '<div class="grid"></div></div></div>';
+    var cv = c.convocatoria, convocatoria = '';
+    if (cv && cv.boton) {
+      convocatoria = '<aside class="convocatoria" aria-labelledby="convocatoria-t">' +
+        '<h3 id="convocatoria-t">' + D.esc(cv.titulo) + '</h3>' +
+        '<p>' + D.esc(cv.texto) + '</p>' +
+        '<a class="btn" href="' + D.esc(D.irA(cv.enlace || 'unete')) + '">' + D.esc(cv.boton) + '</a></aside>';
+    }
+    el.innerHTML = '<div class="sec white"><div class="in"><h2 class="t">' + D.esc(c.titulo) + '</h2>' + barra + '<div class="grid"></div>' + convocatoria + '</div></div>';
 
     var grid = el.querySelector('.grid'), msg = el.querySelector('.filtro-estado');
     function pintar() {

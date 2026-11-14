@@ -1,0 +1,41 @@
+Dreamers.contenido.unete = {
+  "titulo": "Únete al equipo DMN",
+  "intro": "Cuéntanos quién eres y qué haces. Revisamos cada solicitud con cariño.",
+  "etiquetas": {
+    "nombre": "Nombre completo",
+    "nombrePista": "¿Cuál es tu nombre real?",
+    "edad": "Edad",
+    "edadPista": "¿Cuántos años tienes?",
+    "creador": "Nombre de creador",
+    "creadorPista": "¿Cómo te conoce tu comunidad? (tu alias, nickname o nombre del canal)",
+    "anio": "Trayectoria",
+    "anioPista": "¿En qué año comenzaste tu aventura como creador de contenido?",
+    "plataformas": "Ecosistema digital",
+    "plataformasPista": "¿En cuáles plataformas tienes presencia activa?",
+    "otra": "¿Cuál otra plataforma?",
+    "otraPista": "Escribe el nombre de la plataforma donde tienes presencia.",
+    "principal": "Plataforma estrella",
+    "principalPista": "¿Cuál es tu red principal o en la que tienes tu comunidad más grande?",
+    "principalVacio": "Elige una plataforma",
+    "radar": "Nuestro radar",
+    "radarPista": "¿Cómo te enteraste de la existencia de DMN?",
+    "motivacion": "Tu motivación",
+    "motivacionPista": "¿Por qué te gustaría formar parte de DMN y qué crees que aportarías al equipo? Este es tu momento de brillar: cuéntanos tu visión y tus metas con nosotros."
+  },
+  "plataformas": [
+    "YouTube",
+    "Twitch",
+    "TikTok",
+    "Instagram",
+    "X",
+    "Kick",
+    "Facebook",
+    "Otra"
+  ],
+  "boton": "Enviar solicitud a DMN",
+  "correoDestino": "contacto@dreamersmedianicaragua.com",
+  "asunto": "Solicitud de ingreso DMN",
+  "mensajeCorreo": "Se abrió tu correo con la solicitud lista para enviar. ¡Gracias por querer ser parte de DMN!",
+  "mensajeError": "Completa todos los campos y elige al menos una plataforma.",
+  "mensajeErrorOtra": "Elegiste «Otra»: escribe cuál es la plataforma."
+};

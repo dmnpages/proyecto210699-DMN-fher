@@ -9,7 +9,8 @@ Dreamers.talento({
   "categorias": [
     "Streamer",
     "DJ",
-    "Productor"
+    "Productor",
+    "Comedia"
   ],
   "redes": [
     {
@@ -26,7 +27,7 @@ Dreamers.talento({
   "formatos": [],
   "ideal": [],
   "dato": {
-    "valor": "13.8M",
+    "valor": "13.9M",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

@@ -14,7 +14,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/ana__tomico/",
-      "seguidores": "164"
+      "seguidores": "166"
     },
     {
       "plataforma": "Tiktok",
@@ -34,7 +34,7 @@ Dreamers.talento({
     "Cosméticos"
   ],
   "dato": {
-    "valor": "116.9K",
+    "valor": "117K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

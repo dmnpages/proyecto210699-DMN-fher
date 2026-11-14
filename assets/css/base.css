@@ -50,7 +50,8 @@ h1,h2,h3,h4{font-family:var(--display); font-weight:400; margin:0; line-height:1
 /* Páginas interiores: el menú es fijo (66px); el primer bloque nunca debe quedar debajo de él */
 [data-pagina="talentos"] main .sec:first-child,
 [data-pagina="nosotros"] main .sec:first-child,
-[data-pagina="contacto"] main .sec:first-child{padding-top:calc(66px + env(safe-area-inset-top, 0px) + 2rem)}
+[data-pagina="contacto"] main .sec:first-child,
+[data-pagina="unete"] main .sec:first-child{padding-top:calc(66px + env(safe-area-inset-top, 0px) + 2rem)}
 /* Pantallas muy angostas / apaisadas */
 @media (max-width:360px){ body{font-size:14px} .sec{padding-block:2.6rem} }
 @media (max-height:480px) and (orientation:landscape){ .sec{padding-block:2.4rem} }

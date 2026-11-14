@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Neylis",
   "ciudad": "Matagalpa",
   "seguidores": "2.6K",
-  "descripcion": "Cosplayer y creadora de contenido enfocada en el entorno de la cultura pop asiática, el anime.",
+  "descripcion": "Cosplayer y creadora de contenido enfocada en el entorno de la cultura pop asiática, el anime y videojuegos.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
@@ -26,7 +26,9 @@ Dreamers.talento({
     "Lifestyle"
   ],
   "ideal": [
-    "Eventos"
+    "Eventos",
+    "Cosméticos",
+    "Gaming"
   ],
   "dato": {
     "valor": "49K",

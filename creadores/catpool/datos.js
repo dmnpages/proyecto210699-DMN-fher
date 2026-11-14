@@ -13,7 +13,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/catpool_gaming/",
-      "seguidores": "21"
+      "seguidores": "22"
     },
     {
       "plataforma": "Tiktok",

@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Lady Donita",
   "ciudad": "Managua",
-  "seguidores": "15.4K",
+  "seguidores": "17K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 49.6875%",
@@ -25,6 +25,11 @@ Dreamers.talento({
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/LadyDonita.Nic/",
       "seguidores": "1.5K"
+    },
+    {
+      "plataforma": "Youtube",
+      "enlace": "https://www.youtube.com/@ladydonita",
+      "seguidores": "1.6K"
     }
   ],
   "formatos": [
@@ -34,7 +39,7 @@ Dreamers.talento({
   ],
   "ideal": [],
   "dato": {
-    "valor": "406.6K",
+    "valor": "407K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

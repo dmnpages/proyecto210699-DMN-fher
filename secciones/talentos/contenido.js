@@ -2,6 +2,12 @@ Dreamers.contenido.talentos = {
   "titulo": "Creadores",
   "textoBoton": "Info",
   "etiquetaSeguidores": "seguidores",
+  "convocatoria": {
+    "titulo": "Estamos buscando a los próximos grandes talentos. ¿Quieres formar parte de DMN?",
+    "texto": "¿Quieres llevar tu contenido al siguiente nivel? Descubre si tienes lo que se necesita para unirte a la familia DMN.",
+    "boton": "Quiero formar parte",
+    "enlace": "unete"
+  },
   "filtros": {
     "todos": "Todos",
     "tipo": "Tipo",

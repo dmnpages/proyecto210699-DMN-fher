@@ -1,69 +1,69 @@
 Dreamers.autoContenido("indira", {
   "actualizado": "2026-11-10",
   "elegidos": [
-    "https://www.tiktok.com/@indirapellas/video/7669582868946996487",
-    "https://www.tiktok.com/@indirapellas/video/7635653585497328904",
-    "https://www.tiktok.com/@indirapellas/video/7706312793749753096",
-    "https://www.tiktok.com/@indirapellas/video/7705197105400319250",
-    "https://www.tiktok.com/@indirapellas/video/7704443635932220690"
+    "https://www.youtube.com/watch?v=aMYifp_xuAM",
+    "https://www.youtube.com/watch?v=2Gtn5kSMPEI",
+    "https://www.youtube.com/watch?v=V4IuJP03vOc",
+    "https://www.youtube.com/watch?v=y_6Ckue744o",
+    "https://www.youtube.com/watch?v=_HAJwQeID6E"
   ],
   "reserva": [
-    "https://www.tiktok.com/@indirapellas/video/7704094217831828744",
-    "https://www.tiktok.com/@indirapellas/video/7703712772667755828",
-    "https://www.tiktok.com/@indirapellas/video/7703353549559762184",
-    "https://www.tiktok.com/@indirapellas/video/7703265503522983175",
-    "https://www.tiktok.com/@indirapellas/video/7703031483371408658"
+    "https://www.youtube.com/watch?v=_fC2Xn2KSgc",
+    "https://www.youtube.com/watch?v=3TcX_GtGw14",
+    "https://www.youtube.com/watch?v=pSfkTlqi2hc",
+    "https://www.youtube.com/watch?v=l__3JYXAs1M",
+    "https://www.youtube.com/watch?v=WB10Yg9EycM"
   ],
   "candidatas": [
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@indirapellas/video/7669582868946996487",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=aMYifp_xuAM",
+      "titulo": "Drama Cristiano-El amo de las marionetas-Fraternidad Cristiana Bethel Central"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@indirapellas/video/7635653585497328904",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=2Gtn5kSMPEI",
+      "titulo": "CYBER HUNTER PC - Gráficos Ultra HD(Demente) GAMEPLAY"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@indirapellas/video/7706312793749753096",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=V4IuJP03vOc",
+      "titulo": "De suerte me lo miré en emisión en 2017 #blackcloveredit #blackclover #friki #anime #crunc"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@indirapellas/video/7705197105400319250",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=y_6Ckue744o",
+      "titulo": "🙄 #blackclover #crunchyroll #anime #friki #otaku #blackclover #asta"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@indirapellas/video/7704443635932220690",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=_HAJwQeID6E",
+      "titulo": "así no eh #blackclover #blackcloveredit #crunchyroll #anime #friki"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@indirapellas/video/7704094217831828744",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=_fC2Xn2KSgc",
+      "titulo": "Me refiero a zenon, yo sé que el enemigo principal es Lucius! #blackclover #crunchyroll #o"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@indirapellas/video/7703712772667755828",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=3TcX_GtGw14",
+      "titulo": "Team Noelle #blackclover #anime #otaku #friki #noellesilva #crunchyroll"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@indirapellas/video/7703353549559762184",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=pSfkTlqi2hc",
+      "titulo": "alguien más notó eso? #blackclover #blackcloveredit #anime #otaku #crunchyroll #friki #"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@indirapellas/video/7703265503522983175",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=l__3JYXAs1M",
+      "titulo": "Prioridades 🗣#blackclover #anime #friki #otaku #crunchyroll #blackcloveredit #astablackclo"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@indirapellas/video/7703031483371408658",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=WB10Yg9EycM",
+      "titulo": "yo cada sabado #blackclover #crunchyroll #otaku #friki #animes #blackcloveredit #fyp #otak"
     }
   ]
 });

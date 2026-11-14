@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "KimeraSM",
   "ciudad": "Managua",
-  "seguidores": "6.5K",
+  "seguidores": "6.6K",
   "descripcion": "Creador de contenido enfocado en el mundo del gaming y la tecnología.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -19,7 +19,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@kimerasm/",
-      "seguidores": "5.6K"
+      "seguidores": "5.7K"
     },
     {
       "plataforma": "Youtube",
@@ -38,7 +38,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "132.1K",
+    "valor": "134.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

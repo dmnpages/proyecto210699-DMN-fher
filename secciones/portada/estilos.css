@@ -1,6 +1,4 @@
-.hero{background:
-  radial-gradient(60% 80% at 75% 15%, rgba(46,163,242,.38), transparent 62%),
-  radial-gradient(45% 60% at 8% 95%, rgba(245,144,59,.24), transparent 62%),
+.hero{position:relative; overflow:hidden; isolation:isolate; background:
   repeating-linear-gradient(0deg, rgba(255,255,255,.035) 0 1px, transparent 1px 56px),
   repeating-linear-gradient(90deg, rgba(255,255,255,.035) 0 1px, transparent 1px 56px),
   linear-gradient(180deg,#04060c,var(--navy));
@@ -9,3 +7,11 @@
 .hero h1 span{color:var(--blue)}
 .hero p{font-size:clamp(1rem,2.4vw,1.35rem); max-width:40rem; margin:1.4rem auto 2.2rem; color:rgba(255,255,255,.85)}
 .hero .cta{display:flex; gap:1rem; justify-content:center; flex-wrap:wrap}
+
+/* Luces de fondo con movimiento suave (azul arriba a la derecha, naranja abajo a la izquierda) */
+.hero::before,.hero::after{content:""; position:absolute; z-index:-1; pointer-events:none; border-radius:50%; will-change:transform,opacity}
+.hero::before{width:78%; height:130%; right:-14%; top:-45%; background:radial-gradient(closest-side, rgba(46,163,242,.42), rgba(46,163,242,.14) 55%, transparent 100%); animation:luz-azul 13s ease-in-out infinite alternate}
+.hero::after{width:62%; height:105%; left:-16%; bottom:-45%; background:radial-gradient(closest-side, rgba(245,144,59,.3), rgba(245,144,59,.1) 55%, transparent 100%); animation:luz-naranja 17s ease-in-out infinite alternate}
+@keyframes luz-azul{0%{transform:translate(0,0) scale(1); opacity:.85} 50%{transform:translate(-14%,10%) scale(1.12); opacity:1} 100%{transform:translate(-26%,-4%) scale(.95); opacity:.8}}
+@keyframes luz-naranja{0%{transform:translate(0,0) scale(1); opacity:.8} 50%{transform:translate(22%,-12%) scale(1.15); opacity:1} 100%{transform:translate(38%,6%) scale(.92); opacity:.75}}
+@media (prefers-reduced-motion:reduce){ .hero::before,.hero::after{animation:none!important} }

@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Fresita Agridulce",
   "ciudad": "Jinotega",
-  "seguidores": "1.2K",
+  "seguidores": "1.1K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "62.5% 18.500000000000007%",
@@ -14,7 +14,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/fresita_agridulce_/",
-      "seguidores": "602"
+      "seguidores": "600"
     },
     {
       "plataforma": "Tiktok",
@@ -31,7 +31,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "1.4K",
+    "valor": "1.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

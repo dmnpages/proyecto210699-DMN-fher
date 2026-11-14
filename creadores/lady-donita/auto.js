@@ -1,68 +1,74 @@
 Dreamers.autoContenido("lady-donita", {
   "actualizado": "2026-11-10",
   "elegidos": [
-    "https://www.tiktok.com/@ladydonita/video/7705961985120193800",
-    "https://www.tiktok.com/@ladydonita/video/7704150994883464466",
-    "https://www.tiktok.com/@ladydonita/video/7701191986291707154",
-    "https://www.tiktok.com/@ladydonita/video/7701168290793573639",
-    "https://www.tiktok.com/@ladydonita/video/7700656705629097224"
+    "https://www.youtube.com/watch?v=IrjAeMQNW2s",
+    "https://www.facebook.com/reel/2339859543517992/",
+    "https://www.youtube.com/watch?v=qBZnPq3qEdA",
+    "https://www.youtube.com/watch?v=dP5nIVbxfHo",
+    "https://www.youtube.com/watch?v=KVnqohkU498"
   ],
   "reserva": [
-    "https://www.tiktok.com/@ladydonita/video/7700283064240311558",
-    "https://www.tiktok.com/@ladydonita/video/7699957892149021970",
-    "https://www.tiktok.com/@ladydonita/video/7699325304573054215",
-    "https://www.tiktok.com/@ladydonita/video/7698861176318381320",
-    "https://www.tiktok.com/@ladydonita/video/7698840695901113608"
+    "https://www.youtube.com/watch?v=q6qZb-2ZPlc",
+    "https://www.youtube.com/watch?v=FKICG5b1DM0",
+    "https://www.youtube.com/watch?v=hLUr8jZXwQQ",
+    "https://www.youtube.com/watch?v=lLb5UvMg59c",
+    "https://www.youtube.com/watch?v=kokmdEzdRqo",
+    "https://www.youtube.com/watch?v=Ew1cgZAZ7FY"
   ],
   "candidatas": [
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@ladydonita/video/7705961985120193800",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=IrjAeMQNW2s",
+      "titulo": "NUEVO TRAILER DEL CANAL! :D"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@ladydonita/video/7704150994883464466",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=qBZnPq3qEdA",
+      "titulo": "Tuve ese sueño de nuevo... #WorldOfWarcraft #Murloc #Blizzard"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@ladydonita/video/7701191986291707154",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=dP5nIVbxfHo",
+      "titulo": "¿Quieres ir hacer mític...#Letsgomeme #WorldOfWarcraft #WowLatam #WowMeme"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@ladydonita/video/7701168290793573639",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=KVnqohkU498",
+      "titulo": "Tiempos oscuros se acercan 💀#WorldOfWarcraft #LeagueofLegends #Worlds2026 #LolSports #WoWF"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@ladydonita/video/7700656705629097224",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=q6qZb-2ZPlc",
+      "titulo": "Desde que anunciaron WOW Forever cambiaron los planes 😌 #WoWForever  #WoWLatam"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@ladydonita/video/7700283064240311558",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=FKICG5b1DM0",
+      "titulo": "10 Spots para fotos en World Of Warcraft #worldOfWarcraft #Halloween #Blizzard #WarcraftLa"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@ladydonita/video/7699957892149021970",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=hLUr8jZXwQQ",
+      "titulo": "POV: Heal en M+"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@ladydonita/video/7699325304573054215",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=lLb5UvMg59c",
+      "titulo": "🎃 10 LUGARES para tomar FOTOS de HALLOWEEN en World of Warcraft | Guía de ubicaciones"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@ladydonita/video/7698861176318381320",
-      "titulo": ""
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=kokmdEzdRqo",
+      "titulo": "Resumen de las últimas noticias sobre Worlds 2026 de League of Legends #LoLEsports"
     },
     {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@ladydonita/video/7698840695901113608",
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=Ew1cgZAZ7FY",
+      "titulo": "Juego Wow para relajarme 🙂#WorldOfWarcraft #Warcraft #Midnight #Wow #Blizzard"
+    },
+    {
+      "red": "facebook",
+      "url": "https://www.facebook.com/reel/2339859543517992/",
       "titulo": ""
     }
   ]

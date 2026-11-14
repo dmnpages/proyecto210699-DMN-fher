@@ -1,34 +1,29 @@
 Dreamers.autoContenido("jaden-garcia", {
   "actualizado": "2026-11-10",
   "elegidos": [
-    "https://www.youtube.com/watch?v=Q8rthC-ccVk",
-    "https://www.youtube.com/watch?v=Bgj4xWJxTJg",
-    "https://www.youtube.com/watch?v=IryHia3wK9w",
+    "https://www.youtube.com/watch?v=OAHKf-PcWrQ",
+    "https://www.youtube.com/watch?v=FJI8JxWpgQI",
     "https://www.youtube.com/watch?v=GfEocWeRYU0",
-    "https://www.youtube.com/watch?v=INjKLWVNL1Y"
+    "https://www.youtube.com/watch?v=4NOo2KJmHlo",
+    "https://www.youtube.com/watch?v=54pgAcSqsiE"
   ],
   "reserva": [
-    "https://www.youtube.com/watch?v=hO8fiDP-kxk",
-    "https://www.youtube.com/watch?v=u_DxNUzovMo",
-    "https://www.youtube.com/watch?v=olF99A5kKVU",
-    "https://www.youtube.com/watch?v=H4uQDfjepuM",
-    "https://www.youtube.com/watch?v=0EX1R8ZR5hg"
+    "https://www.youtube.com/watch?v=EOP-GhtWhPA",
+    "https://www.youtube.com/watch?v=E1q4b5ibS3w",
+    "https://www.youtube.com/watch?v=W-MuUy81_-A",
+    "https://www.youtube.com/watch?v=Prbyn174CBs",
+    "https://www.youtube.com/watch?v=INjKLWVNL1Y"
   ],
   "candidatas": [
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=Q8rthC-ccVk",
-      "titulo": "Saturn Support By MoonDays on twitch!"
+      "url": "https://www.youtube.com/watch?v=OAHKf-PcWrQ",
+      "titulo": "JadenGarcia, RDJMB, Stayleave - MEMORIAS (visualizer)"
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=Bgj4xWJxTJg",
-      "titulo": "DED REACCIONA A MI CANCION EN DIRECTO"
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=IryHia3wK9w",
-      "titulo": "Esta canción sale el 16 de octubre!!"
+      "url": "https://www.youtube.com/watch?v=FJI8JxWpgQI",
+      "titulo": "JadenGarcia - After You [Visualizer]"
     },
     {
       "red": "youtube",
@@ -37,33 +32,38 @@ Dreamers.autoContenido("jaden-garcia", {
     },
     {
       "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=4NOo2KJmHlo",
+      "titulo": "ME DISUELVA"
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=54pgAcSqsiE",
+      "titulo": "summersun"
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=EOP-GhtWhPA",
+      "titulo": "Friend, Again"
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=E1q4b5ibS3w",
+      "titulo": "BELLA"
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=W-MuUy81_-A",
+      "titulo": "JadenGarcia, RDJMB - On Your Face"
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=Prbyn174CBs",
+      "titulo": "Rodezel, JCBG, Saibu - BLOW (JadenGarcia Remix)"
+    },
+    {
+      "red": "youtube",
       "url": "https://www.youtube.com/watch?v=INjKLWVNL1Y",
       "titulo": "ALEXA"
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=hO8fiDP-kxk",
-      "titulo": "THANK YOU SKRILLEX SET | BTS"
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=u_DxNUzovMo",
-      "titulo": "FORTNITE/ FUNNY MOMENTS / FAILS/ HIGHLIGHTS #1"
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=olF99A5kKVU",
-      "titulo": "Gordo - Olvidarte Feat. Emilia (JadenGarcia Remix) (Afro House Music)"
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=H4uQDfjepuM",
-      "titulo": "Rels B - a new star (2 0 2 6)"
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=0EX1R8ZR5hg",
-      "titulo": "Best Sniper Fornite Andromeda Montage"
     }
   ]
 });
