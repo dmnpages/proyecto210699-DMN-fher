@@ -25,11 +25,11 @@ Dreamers.autoContenido("flamera", {
   "vistas": {
     "https://www.youtube.com/watch?v=StQbrSWZ34A": 6936,
     "https://www.youtube.com/watch?v=kHCnRJIeJFw": 2099,
-    "https://www.youtube.com/watch?v=4D58FkNkDWc": 2087,
-    "https://www.youtube.com/watch?v=OgjNwD02wwc": 1492,
+    "https://www.youtube.com/watch?v=4D58FkNkDWc": 2086,
+    "https://www.youtube.com/watch?v=OgjNwD02wwc": 1491,
     "https://www.youtube.com/watch?v=or75xPAwadE": 1462,
-    "https://www.youtube.com/watch?v=eYSQwUHdJN0": 1427,
-    "https://www.youtube.com/watch?v=ncoa6sj_Ow0": 1406,
+    "https://www.youtube.com/watch?v=eYSQwUHdJN0": 1452,
+    "https://www.youtube.com/watch?v=ncoa6sj_Ow0": 1405,
     "https://www.youtube.com/watch?v=OrSHeDqE1lw": 1175,
     "https://www.youtube.com/watch?v=DLqW3__tJQg": 259,
     "https://www.youtube.com/watch?v=EtPxoWg5eto": 36,
@@ -85,13 +85,13 @@ Dreamers.autoContenido("flamera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=4D58FkNkDWc",
       "titulo": "Que gran enseñanza 💚  #link #zelda",
-      "vistas": 2087
+      "vistas": 2086
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=OgjNwD02wwc",
       "titulo": "¿Zelda vs GTA? Comparamos sus 7 juegos mejor puntuados en Metacritic  #zelda #gta",
-      "vistas": 1492
+      "vistas": 1491
     },
     {
       "red": "youtube",
@@ -103,13 +103,13 @@ Dreamers.autoContenido("flamera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=eYSQwUHdJN0",
       "titulo": "¿ Cual es el mejor zelda ? 👀  #zelda #ocarinaoftime #majorasmask",
-      "vistas": 1427
+      "vistas": 1452
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=ncoa6sj_Ow0",
       "titulo": "definitivamente ❤️ #botw #zelda #zeldabotw",
-      "vistas": 1406
+      "vistas": 1405
     },
     {
       "red": "youtube",

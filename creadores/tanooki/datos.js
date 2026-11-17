@@ -1,14 +1,15 @@
 Dreamers.talento({
-  "frames": [],
   "nombre": "Tanooki",
+  "ciudad": "",
+  "seguidores": "1.8K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
   "categorias": [
     "vTuber",
     "Streamer"
   ],
-  "ciudad": "",
-  "seguidores": "1.7K",
-  "descripcion": "",
-  "foto": "foto-admin.webp",
   "redes": [
     {
       "plataforma": "Tiktok",
@@ -18,7 +19,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/tanooki_ni",
-      "seguidores": "18"
+      "seguidores": "19"
     },
     {
       "plataforma": "Facebook",
@@ -31,10 +32,6 @@ Dreamers.talento({
       "seguidores": "104"
     }
   ],
-  "dato": {
-    "valor": "6K",
-    "texto": "Likes totales en TikTok"
-  },
   "formatos": [
     "Gameplays",
     "Geek News",
@@ -44,6 +41,9 @@ Dreamers.talento({
     "Eventos",
     "Gaming"
   ],
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1
+  "dato": {
+    "valor": "6K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
 });

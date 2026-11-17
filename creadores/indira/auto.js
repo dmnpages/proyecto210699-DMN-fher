@@ -19,11 +19,11 @@ Dreamers.autoContenido("indira", {
   "vistas": {
     "https://www.youtube.com/watch?v=CDukhQX7wjw": 5402,
     "https://www.youtube.com/watch?v=395pWO4XdFE": 2450,
-    "https://www.youtube.com/watch?v=V4IuJP03vOc": 1912,
+    "https://www.youtube.com/watch?v=V4IuJP03vOc": 1911,
     "https://www.youtube.com/watch?v=_HAJwQeID6E": 1899,
     "https://www.youtube.com/watch?v=l__3JYXAs1M": 1838,
     "https://www.youtube.com/watch?v=pSfkTlqi2hc": 1699,
-    "https://www.youtube.com/watch?v=-ec4MP_wzb0": 1407,
+    "https://www.youtube.com/watch?v=-ec4MP_wzb0": 1406,
     "https://www.youtube.com/watch?v=y_6Ckue744o": 1379,
     "https://www.youtube.com/watch?v=WB10Yg9EycM": 1378,
     "https://www.youtube.com/watch?v=_fC2Xn2KSgc": 1341,
@@ -61,7 +61,7 @@ Dreamers.autoContenido("indira", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=V4IuJP03vOc",
       "titulo": "De suerte me lo miré en emisión en 2017 #blackcloveredit #blackclover #friki #anime #crunc",
-      "vistas": 1912
+      "vistas": 1911
     },
     {
       "red": "youtube",
@@ -85,7 +85,7 @@ Dreamers.autoContenido("indira", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=-ec4MP_wzb0",
       "titulo": "¿Para vos cual es la mejor pareja?#nicaragua #anime #convenciones #otaku #friki #managua #",
-      "vistas": 1407
+      "vistas": 1406
     },
     {
       "red": "youtube",
