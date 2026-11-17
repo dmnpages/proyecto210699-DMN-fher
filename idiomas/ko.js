@@ -195,5 +195,15 @@ Dreamers.i18n.ko = {
  "Ver todos los creadores": "모든 크리에이터 보기",
  "Correo electrónico": "이메일",
  "Para poder contestarte": "답변을 받기 위한 용도",
- "Escribe un correo válido.": "유효한 이메일 주소를 입력해 주세요."
+ "Escribe un correo válido.": "유효한 이메일 주소를 입력해 주세요.",
+ "Aviso importante": "중요 안내",
+ "Este canal de contacto está reservado únicamente para empresas y patrocinadores. Si eres creador y quieres formar parte, llena este formulario.": "이 문의 채널은 기업 및 후원사 전용입니다. 크리에이터로서 함께하고 싶으시다면 이 양식을 작성해 주세요.",
+ "Llenar formulario de creadores": "크리에이터 양식 작성하기",
+ "Creadora de contenido, streamer y cosplayer nicaragüense, apasionada por los videojuegos, el anime y la cultura geek. Le encanta compartir sus hobbies y conectar con la comunidad geek del país.": "니카라과 출신의 콘텐츠 크리에이터이자 스트리머, 코스플레이어입니다. 게임, 애니메이션, 긱 문화를 좋아하며, 취미를 공유하고 국내 긱 커뮤니티와 소통하는 것을 즐깁니다.",
+ "Creador de contenido enfocado en el mundo gaming, Minecraft y los directos. También comparte contenido relacionado con medicina y salud, combinando su pasión por crear con su formación en Enfermería. Se caracteriza por su creatividad y entusiasmo por seguir creciendo.": "게임, 마인크래프트, 라이브 방송을 중심으로 활동하는 콘텐츠 크리에이터입니다. 간호학 전공을 살려 의학과 건강 관련 콘텐츠도 공유하며, 창의력과 계속 성장하려는 열정이 돋보입니다.",
+ "Creador de contenido enfocado en la música, especialmente en la batería, combinando su pasión por los instrumentos con el anime y los videojuegos. Busca motivar a otros a aprender música, compartir sus intereses y seguir creciendo junto a su comunidad.": "음악, 특히 드럼을 중심으로 활동하는 콘텐츠 크리에이터로, 악기에 대한 열정을 애니메이션과 게임에 접목합니다. 다른 사람들이 음악을 배우도록 동기를 부여하고, 관심사를 나누며 커뮤니티와 함께 성장하는 것을 목표로 합니다.",
+ "Masaya": "마사야",
+ "Covers": "커버",
+ "vTuber": "브이튜버",
+ "Dancing": "댄스"
 };

@@ -37,7 +37,8 @@ Dreamers.talento({
     "Cosplays",
     "Gameplays",
     "Geek News",
-    "Videos largos"
+    "Videos largos",
+    "Videos cortos"
   ],
   "ideal": [
     "Gaming",

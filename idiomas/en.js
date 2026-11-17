@@ -195,5 +195,15 @@ Dreamers.i18n.en = {
  "Ver todos los creadores": "View all creators",
  "Correo electrónico": "Email",
  "Para poder contestarte": "So we can reply to you",
- "Escribe un correo válido.": "Please enter a valid email address."
+ "Escribe un correo válido.": "Please enter a valid email address.",
+ "Aviso importante": "Important notice",
+ "Este canal de contacto está reservado únicamente para empresas y patrocinadores. Si eres creador y quieres formar parte, llena este formulario.": "This contact channel is reserved exclusively for companies and sponsors. If you are a creator and want to join, fill out this form.",
+ "Llenar formulario de creadores": "Fill out the creator form",
+ "Creadora de contenido, streamer y cosplayer nicaragüense, apasionada por los videojuegos, el anime y la cultura geek. Le encanta compartir sus hobbies y conectar con la comunidad geek del país.": "Nicaraguan content creator, streamer and cosplayer, passionate about video games, anime and geek culture. She loves sharing her hobbies and connecting with the country's geek community.",
+ "Creador de contenido enfocado en el mundo gaming, Minecraft y los directos. También comparte contenido relacionado con medicina y salud, combinando su pasión por crear con su formación en Enfermería. Se caracteriza por su creatividad y entusiasmo por seguir creciendo.": "Content creator focused on gaming, Minecraft and live streams. He also shares content about medicine and health, combining his passion for creating with his nursing background. He is known for his creativity and his enthusiasm to keep growing.",
+ "Creador de contenido enfocado en la música, especialmente en la batería, combinando su pasión por los instrumentos con el anime y los videojuegos. Busca motivar a otros a aprender música, compartir sus intereses y seguir creciendo junto a su comunidad.": "Content creator focused on music, especially drums, combining his passion for instruments with anime and video games. He aims to inspire others to learn music, share his interests and keep growing alongside his community.",
+ "Masaya": "Masaya",
+ "Covers": "Covers",
+ "vTuber": "VTuber",
+ "Dancing": "Dancing"
 };

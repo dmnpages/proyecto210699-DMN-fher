@@ -23,7 +23,8 @@ Dreamers.talento({
   ],
   "formatos": [
     "Streams",
-    "Gameplays"
+    "Gameplays",
+    "Videos cortos"
   ],
   "ideal": [
     "Gaming",

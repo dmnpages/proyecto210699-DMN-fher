@@ -24,7 +24,8 @@ Dreamers.talento({
   ],
   "formatos": [
     "Streamer",
-    "LifeStyle"
+    "LifeStyle",
+    "Videos cortos"
   ],
   "ideal": [
     "Marketing",

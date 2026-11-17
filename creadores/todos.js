@@ -73,7 +73,9 @@ Dreamers.talento({
   "formatos": [
     "Streams",
     "Tecnología",
-    "Review"
+    "Review",
+    "Geek News",
+    "Videos cortos"
   ],
   "ideal": [
     "Tecnología",
@@ -194,7 +196,8 @@ Dreamers.talento({
   ],
   "formatos": [
     "Streams",
-    "Gameplays"
+    "Gameplays",
+    "Videos cortos"
   ],
   "ideal": [
     "Gaming",
@@ -233,12 +236,14 @@ Dreamers.talento({
   "formatos": [
     "Trends",
     "Streams",
-    "Dance"
+    "Dance",
+    "Videos cortos"
   ],
   "ideal": [
     "Marketing",
     "Dance",
-    "Event Host"
+    "Event Host",
+    "Gaming"
   ],
   "dato": {
     "valor": "29.7K",
@@ -313,11 +318,14 @@ Dreamers.talento({
   ],
   "formatos": [
     "Streams",
-    "LifeStyle"
+    "LifeStyle",
+    "Videos cortos",
+    "Cosplay"
   ],
   "ideal": [
     "Eventos",
-    "Gaming"
+    "Gaming",
+    "Anime y cultura pop"
   ],
   "dato": {
     "valor": "1.5K",
@@ -353,7 +361,8 @@ Dreamers.talento({
   "formatos": [
     "Streams",
     "LifeStyle",
-    "Trends"
+    "Trends",
+    "Videos cortos"
   ],
   "ideal": [
     "Gaming",
@@ -593,11 +602,13 @@ Dreamers.talento({
   "formatos": [
     "Streams",
     "Cosplay",
-    "Geek News"
+    "Geek News",
+    "Videos cortos"
   ],
   "ideal": [
     "Gaming",
-    "Eventos"
+    "Eventos",
+    "Anime y cultura pop"
   ],
   "dato": {
     "valor": "268.8K",
@@ -609,7 +620,7 @@ Dreamers._actual="jaden-garcia";
 Dreamers.talento({
   "nombre": "Jaden Garcia",
   "ciudad": "Managua",
-  "seguidores": "51.5K",
+  "seguidores": "53.2K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "51.5625% 62%",
@@ -638,12 +649,13 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/channel/UCxSnyCd1QyFHoL3FPq5eccA",
-      "seguidores": "60"
+      "seguidores": "1,7k"
     }
   ],
   "formatos": [
     "Streams",
-    "Música"
+    "Música",
+    "Videos cortos"
   ],
   "ideal": [
     "Musicales",
@@ -695,11 +707,13 @@ Dreamers.talento({
     "Streams",
     "LifeStyle",
     "Geek News",
-    "Cosplay"
+    "Cosplay",
+    "Videos cortos"
   ],
   "ideal": [
     "Gaming",
-    "Eventos"
+    "Eventos",
+    "Anime y cultura pop"
   ],
   "dato": {
     "valor": "725.2K",
@@ -795,7 +809,8 @@ Dreamers.talento({
   ],
   "formatos": [
     "Streams",
-    "Geek News"
+    "Geek News",
+    "Videos cortos"
   ],
   "ideal": [
     "Eventos",
@@ -846,13 +861,17 @@ Dreamers.talento({
   "formatos": [
     "Cosplays",
     "Geek News",
-    "Gym"
+    "Gym",
+    "Videos cortos",
+    "Lifestyle"
   ],
   "ideal": [
     "Gym",
     "Eventos",
     "Moda",
-    "Cosméticos"
+    "Cosméticos",
+    "Gaming",
+    "Anime y cultura pop"
   ],
   "dato": {
     "valor": "138K",
@@ -941,7 +960,8 @@ Dreamers.talento({
   ],
   "formatos": [
     "Videos Cortos",
-    "Gameplays"
+    "Gameplays",
+    "Streams"
   ],
   "ideal": [
     "Eventos",
@@ -993,7 +1013,8 @@ Dreamers.talento({
     "Cosplays",
     "Gameplays",
     "Geek News",
-    "Videos largos"
+    "Videos largos",
+    "Videos cortos"
   ],
   "ideal": [
     "Gaming",
@@ -1043,7 +1064,8 @@ Dreamers.talento({
   "formatos": [
     "Gameplays",
     "Geek News",
-    "Videos Cortos"
+    "Videos Cortos",
+    "Streams"
   ],
   "ideal": [
     "Eventos",
@@ -1125,12 +1147,14 @@ Dreamers.talento({
   ],
   "formatos": [
     "Videos Cortos",
-    "Covers"
+    "Covers",
+    "Música"
   ],
   "ideal": [
     "Eventos",
     "Música",
-    "Gaming"
+    "Gaming",
+    "Musicales"
   ],
   "dato": {
     "valor": "347.5K",
@@ -1231,7 +1255,8 @@ Dreamers.talento({
   },
   "formatos": [
     "Gameplays",
-    "Geek News"
+    "Geek News",
+    "Videos cortos"
   ],
   "ideal": [
     "Eventos",
@@ -1267,7 +1292,8 @@ Dreamers.talento({
   ],
   "formatos": [
     "Streamer",
-    "LifeStyle"
+    "LifeStyle",
+    "Videos cortos"
   ],
   "ideal": [
     "Marketing",
@@ -1316,12 +1342,14 @@ Dreamers.talento({
   },
   "formatos": [
     "Cosplayer",
-    "Event Host"
+    "Event Host",
+    "Cosplay"
   ],
   "ideal": [
     "Eventos",
     "LifeStyle",
-    "Dancing"
+    "Dancing",
+    "Anime y cultura pop"
   ],
   "correo": "tcastellonchavarria@icloud.com",
   "posicionFoto": "46.50001907348633% 58.5%",

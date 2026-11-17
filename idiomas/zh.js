@@ -195,5 +195,16 @@ Dreamers.i18n.zh = {
  "Ver todos los creadores": "查看所有创作者",
  "Correo electrónico": "电子邮箱",
  "Para poder contestarte": "方便我们回复您",
- "Escribe un correo válido.": "请输入有效的电子邮箱。"
+ "Escribe un correo válido.": "请输入有效的电子邮箱。",
+ "Aviso importante": "重要提示",
+ "Este canal de contacto está reservado únicamente para empresas y patrocinadores. Si eres creador y quieres formar parte, llena este formulario.": "此联系渠道仅限企业和赞助商使用。如果您是创作者并希望加入，请填写此表单。",
+ "Llenar formulario de creadores": "填写创作者表单",
+ "Creadora de contenido digital desde los 18 años, con una sólida trayectoria en la industria y una clara visión de liderazgo. Comprometida con la excelencia y la innovación, aspiro a consolidarme como una de las referentes más influyentes a nivel global.": "我从18岁起就是一名数字内容创作者，在行业内积累了扎实的经验，并拥有清晰的领导愿景。我致力于追求卓越与创新，希望成为全球最具影响力的代表人物之一。",
+ "Creadora de contenido, streamer y cosplayer nicaragüense, apasionada por los videojuegos, el anime y la cultura geek. Le encanta compartir sus hobbies y conectar con la comunidad geek del país.": "来自尼加拉瓜的内容创作者、主播和Cosplayer，热爱电子游戏、动漫和极客文化。她喜欢分享自己的爱好，并与国内的极客社区交流互动。",
+ "Creador de contenido enfocado en el mundo gaming, Minecraft y los directos. También comparte contenido relacionado con medicina y salud, combinando su pasión por crear con su formación en Enfermería. Se caracteriza por su creatividad y entusiasmo por seguir creciendo.": "专注于游戏、我的世界和直播的内容创作者。他还凭借护理专业的背景，分享医学与健康相关内容，将创作热情与专业知识相结合。他富有创意，并始终保持不断成长的热情。",
+ "Creador de contenido enfocado en la música, especialmente en la batería, combinando su pasión por los instrumentos con el anime y los videojuegos. Busca motivar a otros a aprender música, compartir sus intereses y seguir creciendo junto a su comunidad.": "专注于音乐（尤其是架子鼓）的内容创作者，将对乐器的热爱与动漫和电子游戏相结合。他希望激励更多人学习音乐，分享自己的兴趣，并与社区一起不断成长。",
+ "Masaya": "马萨亚",
+ "Covers": "翻唱",
+ "vTuber": "虚拟主播",
+ "Dancing": "舞蹈"
 };

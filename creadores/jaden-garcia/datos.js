@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Jaden Garcia",
   "ciudad": "Managua",
-  "seguidores": "51.5K",
+  "seguidores": "53.2K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "51.5625% 62%",
@@ -30,12 +30,13 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/channel/UCxSnyCd1QyFHoL3FPq5eccA",
-      "seguidores": "60"
+      "seguidores": "1,7k"
     }
   ],
   "formatos": [
     "Streams",
-    "Música"
+    "Música",
+    "Videos cortos"
   ],
   "ideal": [
     "Musicales",

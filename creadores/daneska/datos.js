@@ -24,12 +24,14 @@ Dreamers.talento({
   "formatos": [
     "Trends",
     "Streams",
-    "Dance"
+    "Dance",
+    "Videos cortos"
   ],
   "ideal": [
     "Marketing",
     "Dance",
-    "Event Host"
+    "Event Host",
+    "Gaming"
   ],
   "dato": {
     "valor": "29.7K",

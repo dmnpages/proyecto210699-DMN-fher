@@ -30,7 +30,9 @@ Dreamers.talento({
   "formatos": [
     "Streams",
     "Tecnología",
-    "Review"
+    "Review",
+    "Geek News",
+    "Videos cortos"
   ],
   "ideal": [
     "Tecnología",

@@ -33,7 +33,8 @@ Dreamers.talento({
   ],
   "formatos": [
     "Streams",
-    "Geek News"
+    "Geek News",
+    "Videos cortos"
   ],
   "ideal": [
     "Eventos",

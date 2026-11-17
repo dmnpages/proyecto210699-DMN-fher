@@ -34,7 +34,8 @@ Dreamers.talento({
   "formatos": [
     "Gameplays",
     "Geek News",
-    "Videos Cortos"
+    "Videos Cortos",
+    "Streams"
   ],
   "ideal": [
     "Eventos",

@@ -195,5 +195,15 @@ Dreamers.i18n.ja = {
  "Ver todos los creadores": "すべてのクリエイターを見る",
  "Correo electrónico": "メールアドレス",
  "Para poder contestarte": "返信を受け取るため",
- "Escribe un correo válido.": "有効なメールアドレスを入力してください。"
+ "Escribe un correo válido.": "有効なメールアドレスを入力してください。",
+ "Aviso importante": "重要なお知らせ",
+ "Este canal de contacto está reservado únicamente para empresas y patrocinadores. Si eres creador y quieres formar parte, llena este formulario.": "このお問い合わせ窓口は、企業およびスポンサーの方専用です。クリエイターとして参加をご希望の方は、こちらのフォームにご記入ください。",
+ "Llenar formulario de creadores": "クリエイター用フォームに記入する",
+ "Creadora de contenido, streamer y cosplayer nicaragüense, apasionada por los videojuegos, el anime y la cultura geek. Le encanta compartir sus hobbies y conectar con la comunidad geek del país.": "ニカラグア出身のコンテンツクリエイター、ストリーマー、コスプレイヤー。ゲーム、アニメ、ギーク文化が大好きで、趣味を共有したり、国内のギークコミュニティとつながることを楽しんでいます。",
+ "Creador de contenido enfocado en el mundo gaming, Minecraft y los directos. También comparte contenido relacionado con medicina y salud, combinando su pasión por crear con su formación en Enfermería. Se caracteriza por su creatividad y entusiasmo por seguir creciendo.": "ゲーム、マインクラフト、ライブ配信を中心に活動するコンテンツクリエイター。看護の知識を活かし、医療や健康に関するコンテンツも発信しています。創造力と、成長し続ける情熱が持ち味です。",
+ "Creador de contenido enfocado en la música, especialmente en la batería, combinando su pasión por los instrumentos con el anime y los videojuegos. Busca motivar a otros a aprender música, compartir sus intereses y seguir creciendo junto a su comunidad.": "音楽、特にドラムを中心に活動するコンテンツクリエイター。楽器への情熱をアニメやゲームと組み合わせています。多くの人に音楽を学ぶ意欲を与え、自分の興味を共有し、コミュニティとともに成長し続けることを目指しています。",
+ "Masaya": "マサヤ",
+ "Covers": "カバー",
+ "vTuber": "VTuber",
+ "Dancing": "ダンス"
 };

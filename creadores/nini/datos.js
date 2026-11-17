@@ -25,7 +25,8 @@ Dreamers.talento({
   "formatos": [
     "Streams",
     "LifeStyle",
-    "Trends"
+    "Trends",
+    "Videos cortos"
   ],
   "ideal": [
     "Gaming",

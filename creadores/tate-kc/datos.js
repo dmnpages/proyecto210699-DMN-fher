@@ -31,12 +31,14 @@ Dreamers.talento({
   },
   "formatos": [
     "Cosplayer",
-    "Event Host"
+    "Event Host",
+    "Cosplay"
   ],
   "ideal": [
     "Eventos",
     "LifeStyle",
-    "Dancing"
+    "Dancing",
+    "Anime y cultura pop"
   ],
   "correo": "tcastellonchavarria@icloud.com",
   "posicionFoto": "46.50001907348633% 58.5%",

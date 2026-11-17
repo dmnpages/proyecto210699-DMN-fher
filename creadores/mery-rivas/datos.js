@@ -36,13 +36,17 @@ Dreamers.talento({
   "formatos": [
     "Cosplays",
     "Geek News",
-    "Gym"
+    "Gym",
+    "Videos cortos",
+    "Lifestyle"
   ],
   "ideal": [
     "Gym",
     "Eventos",
     "Moda",
-    "Cosméticos"
+    "Cosméticos",
+    "Gaming",
+    "Anime y cultura pop"
   ],
   "dato": {
     "valor": "138K",

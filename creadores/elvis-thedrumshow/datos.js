@@ -24,12 +24,14 @@ Dreamers.talento({
   ],
   "formatos": [
     "Videos Cortos",
-    "Covers"
+    "Covers",
+    "Música"
   ],
   "ideal": [
     "Eventos",
     "Música",
-    "Gaming"
+    "Gaming",
+    "Musicales"
   ],
   "dato": {
     "valor": "347.5K",
