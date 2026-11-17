@@ -49,6 +49,7 @@
         '<p>' + D.esc(cv.texto) + '</p>' +
         '<a class="btn" href="' + D.esc(D.irA(cv.enlace || 'unete')) + '">' + D.esc(cv.boton) + '</a></aside>';
     }
+    if (el.getAttribute('data-modo') === 'convocatoria') { el.innerHTML = '<div class="sec white convo-solo"><div class="in">' + convocatoria + '</div></div>'; return; }
     el.innerHTML = '<div class="sec white"><div class="in"><h2 class="t">' + D.esc(c.titulo) + '</h2>' + barra + '<div class="grid"></div>' + convocatoria + '</div></div>';
 
     var grid = el.querySelector('.grid'), msg = el.querySelector('.filtro-estado');

@@ -6,7 +6,8 @@
       return '<ul class="' + clase + '">' + (items || []).map(function (x) { return '<li>' + D.esc(x) + '</li>'; }).join('') + '</ul>';
     }
     var MAX_CARRUSEL = 5;
-    // Elige hasta 5 contenidos: primero los automáticos, luego (si faltan) los escritos a mano en el creador. Lo que no se pueda mostrar dentro de la página se salta y entra el siguiente de la reserva.
+    // Hasta 5 publicaciones: primero las fijadas a mano, luego las 5 con más vistas que dejó «Actualizar contenido» (auto.js) y, si faltan, los enlaces escritos en el creador.
+    // Ya no se descarta nada por «no se puede incrustar»: cada tarjeta trae su botón «Ver en…» por si la red no deja mostrarla aquí.
     function elegirContenido(t, auto) {
       var fijos = (Array.isArray(t.frames) ? t.frames : []).filter(Boolean);
       var cola = ((auto && auto.fijados) || []).concat((auto && auto.elegidos) || [], fijos, (auto && auto.reserva) || []);
@@ -14,34 +15,37 @@
       cola.forEach(function (u) {
         if (sel.length >= MAX_CARRUSEL || vistos[u]) return;
         vistos[u] = 1;
-        var m = D.detectarMedio(u);
-        if (m && (m.src || m.imagen || m.video || m.audio)) sel.push(u);
+        if (D.detectarMedio(u)) sel.push(u);
       });
       return sel;
     }
-    // Si un video de YouTube ya no se puede insertar, se cambia por la siguiente opción (comprobación al abrir la página).
-    function revisarYouTube(slide, reserva, usadas) {
-      var m = slide.getAttribute('data-url') || '';
-      if (!/youtube\.com|youtu\.be/.test(m) || !window.fetch) return;
-      fetch('https://www.youtube.com/oembed?format=json&url=' + encodeURIComponent(m)).then(function (r) {
-        if (r.status === 401 || r.status === 403 || r.status === 404) {
-          var sig = reserva.filter(function (u) { return usadas.indexOf(u) < 0; })[0];
-          if (sig) { usadas.push(sig); slide.setAttribute('data-url', sig); slide.innerHTML = D.htmlMedio(sig); }
-          else slide.remove();
-        }
-      }).catch(function () {});
+    var OJO = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5C6.5 5 2.7 9.2 1.5 12c1.2 2.8 5 7 10.5 7s9.3-4.2 10.5-7C21.3 9.2 17.5 5 12 5zm0 11.2a4.2 4.2 0 1 1 0-8.4 4.2 4.2 0 0 1 0 8.4zm0-2.2a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/></svg>';
+    // Tarjeta de una publicación: red + tipo, vistas (si se conocen), el contenido y un botón para abrirla en su red.
+    function tarjeta(u, auto) {
+      var m = D.detectarMedio(u);
+      if (!m) return '';
+      var vistas = auto && auto.vistas && +auto.vistas[u], titulo = auto && auto.titulos && auto.titulos[u];
+      var incrustado = !!(m.src || m.imagen || m.video || m.audio);
+      var red = String(m.plataforma || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+      return '<article class="vc" data-red="' + D.esc(red) + '">' +
+        '<div class="vc-top"><span class="vc-red">' + D.iconoRed(m.plataforma) + '<b>' + D.esc(m.plataforma) + '</b>' + (m.tipo ? '<em>' + D.esc(m.tipo) + '</em>' : '') + '</span>' +
+        (vistas > 0 ? '<span class="vc-vistas" title="' + D.esc(D.t('vistas')) + '">' + OJO + '<b>' + D.formatoSeguidores(vistas) + '</b><span class="vc-solo-lector">' + D.esc(D.t('vistas')) + '</span></span>' : '') + '</div>' +
+        '<div class="vc-media">' + D.cuerpoMedio(m) + '</div>' +
+        '<div class="vc-pie">' + (titulo ? '<p class="vc-titulo">' + D.esc(titulo) + '</p>' : '') +
+        (incrustado ? '<a class="vc-ver" href="' + D.esc(u) + '" target="_blank" rel="noopener">' + D.esc(D.t('Ver en')) + ' ' + D.esc(m.plataforma) + ' <span aria-hidden="true">&#8599;</span></a>' : '') + '</div>' +
+        '</article>';
     }
-    function carrusel(urls, reserva) {
+    function carrusel(urls, auto) {
       if (!urls.length) return '';
-      var slides = urls.map(function (u) { return '<div class="car-slide" data-url="' + D.esc(u) + '">' + D.htmlMedio(u) + '</div>'; }).join('');
+      var slides = urls.map(function (u) { return '<div class="car-slide" data-url="' + D.esc(u) + '">' + tarjeta(u, auto) + '</div>'; }).join('');
       return '<section class="media-section"><h2>' + D.esc(c.tituloTransmisiones) + '</h2>' +
         '<div class="car" role="region" aria-roledescription="carrusel" aria-label="' + D.esc(c.tituloTransmisiones) + '">' +
         '<div class="car-track" tabindex="0">' + slides + '</div>' +
-        '<div class="car-ctrl"><button type="button" class="car-btn prev" aria-label="Anterior" disabled>&#8249;</button>' +
+        '<div class="car-ctrl"><button type="button" class="car-btn prev" aria-label="' + D.esc(D.t('Anterior')) + '" disabled>&#8249;</button>' +
         '<div class="car-dots"></div>' +
-        '<button type="button" class="car-btn next" aria-label="Siguiente">&#8250;</button></div></div></section>';
+        '<button type="button" class="car-btn next" aria-label="' + D.esc(D.t('Siguiente')) + '">&#8250;</button></div></div></section>';
     }
-    function activarCarrusel(raiz, reserva, usadas) {
+    function activarCarrusel(raiz) {
       var car = raiz.querySelector('.car');
       if (!car) return;
       var pista = car.querySelector('.car-track'), prev = car.querySelector('.prev'), next = car.querySelector('.next'), pts = car.querySelector('.car-dots');
@@ -53,7 +57,7 @@
         var n = paginas();
         pts.hidden = n < 2; prev.hidden = next.hidden = n < 2;
         pts.innerHTML = '';
-        for (var i = 0; i < n; i++) { var b = document.createElement('button'); b.type = 'button'; b.setAttribute('aria-label', 'Ir a la página ' + (i + 1)); b.dataset.i = i; pts.appendChild(b); }
+        for (var i = 0; i < n; i++) { var b = document.createElement('button'); b.type = 'button'; b.setAttribute('aria-label', D.t('Ir a la página') + ' ' + (i + 1)); b.dataset.i = i; pts.appendChild(b); }
         marcar();
       }
       function marcar() {
@@ -69,7 +73,6 @@
       var t; pista.addEventListener('scroll', function () { clearTimeout(t); t = setTimeout(marcar, 60); }, { passive: true });
       window.addEventListener('resize', function () { clearTimeout(t); t = setTimeout(dibujarPuntos, 120); });
       dibujarPuntos();
-      slides().forEach(function (s) { revisarYouTube(s, reserva, usadas); });
     }
     // ---- Contactar al creador: ventana con sus redes (van directo a su perfil) y, si tiene correo en su ficha, un formulario de correo.
     function rellenar(txt, t) { return String(txt || '').replace('{nombre}', t.nombre || '').replace('{red}', t.red || ''); }
@@ -124,7 +127,7 @@
           var g = function (n) { return f.elements[n].value.trim(); };
           if (!g('nombre') || !/^\S+@\S+\.\S+$/.test(g('correo')) || !g('mensaje')) { st.textContent = c.formError; return null; }
           var cuerpoTxt = g('mensaje') + '\n\n— ' + g('nombre') + (g('empresa') ? ' (' + g('empresa') + ')' : '') + '\n' + g('correo');
-          return { asunto: rellenar(c.formAsunto, t), cuerpo: cuerpoTxt };
+          return { asunto: rellenar(((D.contenidoOriginal || {}).perfil || c).formAsunto, t), cuerpo: cuerpoTxt };
         }
         f.addEventListener('submit', function (e) { e.preventDefault(); var d = datos(); if (!d) return; location.href = 'mailto:' + correo + '?subject=' + encodeURIComponent(d.asunto) + '&body=' + encodeURIComponent(d.cuerpo); st.textContent = c.formAviso; });
         cuerpo.querySelector('.dlg-gmail').addEventListener('click', function () { var d = datos(); if (!d) return; window.open('https://mail.google.com/mail/?view=cm&fs=1&to=' + encodeURIComponent(correo) + '&su=' + encodeURIComponent(d.asunto) + '&body=' + encodeURIComponent(d.cuerpo), '_blank', 'noopener'); });
@@ -153,8 +156,7 @@
       }).join('');
       var dato = (t.dato && t.dato.valor) ? '<div><b>' + D.esc(t.dato.valor) + '</b><span>' + D.esc(t.dato.texto) + '</span></div>' : '';
       var elegidos = elegirContenido(t, auto);
-      var reserva = ((auto && auto.reserva) || []).filter(function (u) { return elegidos.indexOf(u) < 0; });
-      var mediosHtml = carrusel(elegidos, reserva);
+      var mediosHtml = carrusel(elegidos, auto);
       var contacto = D.irA('contacto/');
       el.innerHTML =
         '<section class="tp"><div class="in"><div class="crumb"><a href="' + D.irA('creadores/') + '">' + D.esc(c.migas) + '</a> / ' + D.esc(t.nombre) + '</div>' +
@@ -176,8 +178,7 @@
       pintar(auto);
       var t = D.talentos.filter(function (x) { return x.carpeta === carpetaActual; })[0];
       if (!t) return;
-      var elegidos = elegirContenido(t, auto);
-      activarCarrusel(el, ((auto && auto.reserva) || []).filter(function (u) { return elegidos.indexOf(u) < 0; }), elegidos.slice());
+      activarCarrusel(el);
       el.addEventListener('click', function (e) { var b = e.target.closest('[data-contactar]'); if (b) abrirContacto(t, b); });
     });
   });

@@ -24,8 +24,17 @@ Dreamers.talento({
       "seguidores": "1.2K"
     }
   ],
-  "formatos": [],
-  "ideal": [],
+  "formatos": [
+    "Música",
+    "Videos cortos",
+    "Comedia"
+  ],
+  "ideal": [
+    "Musicales",
+    "Gaming",
+    "Eventos",
+    "Entretenimiento"
+  ],
   "dato": {
     "valor": "13.9M",
     "texto": "Likes totales en TikTok"

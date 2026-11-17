@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Thepeggo",
   "ciudad": "",
-  "seguidores": "45K",
+  "seguidores": "45.1K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -20,7 +20,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@thepeggonic/",
-      "seguidores": "41.9K"
+      "seguidores": "42K"
     },
     {
       "plataforma": "Facebook",
@@ -30,11 +30,14 @@ Dreamers.talento({
   ],
   "formatos": [
     "Streams",
-    "Comedia"
+    "Comedia",
+    "Videos cortos",
+    "Lifestyle"
   ],
   "ideal": [
     "Eventos",
-    "Gaming"
+    "Gaming",
+    "Entretenimiento"
   ],
   "dato": {
     "valor": "3.5M",

@@ -16,5 +16,7 @@
     D.limpiarBarra();
     D.cargarScript('assets/js/temporada.js');
   }
-  Promise.all([D.cargarTalentos(), D.cargarScript('secciones/textos/contenido.js')]).then(pintar);
+  Promise.all([D.cargarTalentos(), D.cargarScript('secciones/textos/contenido.js')])
+    .then(function () { return D.idioma ? D.idioma.iniciar() : null; })   // traduce textos y creadores si el visitante eligió otro idioma
+    .then(pintar);
 })();

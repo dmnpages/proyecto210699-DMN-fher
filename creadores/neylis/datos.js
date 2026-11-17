@@ -23,15 +23,18 @@ Dreamers.talento({
   ],
   "formatos": [
     "Cosplayer",
-    "Lifestyle"
+    "Lifestyle",
+    "Cosplay",
+    "Videos cortos"
   ],
   "ideal": [
     "Eventos",
     "Cosméticos",
-    "Gaming"
+    "Gaming",
+    "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "49K",
+    "valor": "49.1K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

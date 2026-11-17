@@ -19,6 +19,13 @@ Dreamers.listaTalentos = [
   "netsu",
   "mery-rivas",
   "vitta-bass",
+  "dragonxlr",
   "sniva",
-  "oleslie"
+  "chinelaplay",
+  "oleslie",
+  "elvis-thedrumshow",
+  "startter-gamers",
+  "tanooki",
+  "michelle-murillo",
+  "tate-kc"
 ];

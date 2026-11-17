@@ -34,3 +34,6 @@
 .convocatoria h3{font-size:clamp(1.15rem,2.8vw,1.55rem); color:var(--white); letter-spacing:.03em; margin-bottom:.9rem}
 .convocatoria p{margin:0 auto 1.6rem; max-width:620px}
 .convocatoria .btn{color:var(--white)}
+/* Inicio: solo se muestra la convocatoria (sin tarjetas) */
+.convo-solo{padding-block:3.5rem}
+.convo-solo .convocatoria{margin-top:0}

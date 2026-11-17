@@ -5,6 +5,7 @@
   D.talentos = [];
   D.secciones = {};
   D.listaTalentos = D.listaTalentos || [];
+  D.t = D.t || function (s) { return s; };   // traductor (lo reemplaza assets/js/idiomas.js); sin él, todo queda en español
   // Raíz del sitio (URL completa), calculada desde la ubicación de este archivo (assets/js/nucleo.js).
   // Así todos los enlaces funcionan igual en "/", "/creadores/kimera", o si el sitio está en una subcarpeta.
   var _s = document.currentScript;
@@ -292,11 +293,8 @@
     });
   }
 
-  // HTML del bloque (etiqueta con el origen + el contenido encajado).
-  D.htmlMedio = function (entrada) {
-    var m = D.detectarMedio(entrada);
-    if (!m) return '';
-    var etiqueta = '<div class="media-tag">' + D.iconoRed(m.plataforma) + '<span>' + D.esc(m.plataforma) + (m.tipo ? ' · ' + D.esc(m.tipo) : '') + '</span></div>';
+  // Solo el contenido encajado (iframe, imagen, video, audio o botón), sin etiqueta ni marco.
+  D.cuerpoMedio = function (m) {
     var cuerpo;
     if (m.src) {
       var medida = m.alto ? 'height:' + m.alto + 'px' : 'aspect-ratio:' + m.aspect;
@@ -309,8 +307,17 @@
     } else if (m.audio) {
       cuerpo = '<div class="media-box media-audio"><audio src="' + D.esc(m.audio) + '" controls preload="none"></audio></div>';
     } else {
-      cuerpo = '<div class="media-link"><a class="btn dark sm" href="' + D.esc(m.enlace) + '" target="_blank" rel="noopener">Abrir en ' + D.esc(m.plataforma) + '</a></div>';
+      cuerpo = '<div class="media-link"><a class="btn dark sm" href="' + D.esc(m.enlace) + '" target="_blank" rel="noopener">' + D.esc(D.t('Abrir en')) + ' ' + D.esc(m.plataforma) + '</a></div>';
     }
+    return cuerpo;
+  };
+
+  // HTML del bloque (etiqueta con el origen + el contenido encajado).
+  D.htmlMedio = function (entrada) {
+    var m = D.detectarMedio(entrada);
+    if (!m) return '';
+    var etiqueta = '<div class="media-tag">' + D.iconoRed(m.plataforma) + '<span>' + D.esc(m.plataforma) + (m.tipo ? ' · ' + D.esc(m.tipo) : '') + '</span></div>';
+    var cuerpo = D.cuerpoMedio(m);
     return '<article class="media-item' + (m.vertical ? ' v' : '') + '">' + etiqueta + cuerpo + '</article>';
   };
 
@@ -445,7 +452,7 @@
       document.documentElement.setAttribute('data-modo', m);
       document.querySelectorAll('.modo-btn').forEach(function (b) {
         b.setAttribute('aria-pressed', m === 'oscuro' ? 'true' : 'false');
-        b.setAttribute('aria-label', m === 'oscuro' ? 'Cambiar a modo claro' : 'Cambiar a modo oscuro');
+        b.setAttribute('aria-label', D.t(m === 'oscuro' ? 'Cambiar a modo claro' : 'Cambiar a modo oscuro'));
         b.title = b.getAttribute('aria-label');
       });
     },

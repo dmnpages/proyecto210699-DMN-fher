@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Netsugames",
   "ciudad": "",
-  "seguidores": "23.7K",
+  "seguidores": "23.8K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "43.10937500000001% 49.375%",
@@ -18,7 +18,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@netsugames/",
-      "seguidores": "19.6K"
+      "seguidores": "19.7K"
     },
     {
       "plataforma": "Facebook",
@@ -40,7 +40,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "516K",
+    "valor": "524.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

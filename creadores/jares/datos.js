@@ -25,11 +25,13 @@ Dreamers.talento({
   "formatos": [
     "Streams",
     "Cosplay",
-    "Lifestyle"
+    "Lifestyle",
+    "Videos cortos"
   ],
   "ideal": [
     "Gaming",
-    "Eventos"
+    "Eventos",
+    "Anime y cultura pop"
   ],
   "dato": {
     "valor": "33.8K",

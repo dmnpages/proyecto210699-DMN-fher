@@ -30,12 +30,14 @@ Dreamers.talento({
   "formatos": [
     "Streams",
     "Música",
-    "Gameplays"
+    "Gameplays",
+    "Videos cortos"
   ],
   "ideal": [
     "Gaming",
     "Eventos",
-    "Desarrollo"
+    "Desarrollo",
+    "Musicales"
   ],
   "dato": {
     "valor": "50.2K",

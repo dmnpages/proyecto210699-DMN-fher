@@ -42,10 +42,10 @@ Dreamers.talento({
     "Gym",
     "Eventos",
     "Moda",
-    "Cosmeticos"
+    "Cosméticos"
   ],
   "dato": {
-    "valor": "137.4K",
+    "valor": "138K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

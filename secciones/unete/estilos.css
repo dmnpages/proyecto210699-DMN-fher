@@ -12,3 +12,16 @@
 .unete .check input{width:auto; padding:0; accent-color:var(--blue)}
 .unete .check:has(input:checked){border-color:var(--blue); background:rgba(46,163,242,.25)}
 .unete .check:has(input:focus-visible){outline:3px solid var(--orange); outline-offset:2px}
+
+.unete .fila{display:grid; gap:.25rem; margin-top:.7rem}
+.unete .fila input{padding:.6rem .9rem}
+.unete .foto-bloque{display:grid; grid-template-columns:1fr 210px; gap:1.2rem; align-items:start}
+.unete input[type=file]{padding:.6rem; font-size:.85rem}
+.unete .vista{width:210px; background:var(--white); box-shadow:0 6px 24px rgba(0,0,0,.4); overflow:hidden; border-radius:4px; color:var(--head)}
+.unete .vista .ph{aspect-ratio:4/5; background:linear-gradient(160deg,#cfd8e3,#9fb0c5); overflow:hidden}
+.unete .vista .ph img{width:100%; height:100%; object-fit:cover; display:block}
+.unete .vista .body{padding:.8rem; text-align:center}
+.unete .vista h3{font-size:1rem; overflow-wrap:anywhere}
+.unete .vista .fol{font-family:var(--display); color:var(--blue); margin:.3rem 0}
+.unete .vista small{display:block; font:.7rem var(--body); color:#777}
+@media (max-width:640px){ .unete .foto-bloque{grid-template-columns:1fr} }

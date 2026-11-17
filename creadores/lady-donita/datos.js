@@ -35,11 +35,16 @@ Dreamers.talento({
   "formatos": [
     "Streams",
     "Geek News",
-    "Cosplays"
+    "Cosplays",
+    "Videos cortos"
   ],
-  "ideal": [],
+  "ideal": [
+    "Gaming",
+    "Anime y cultura pop",
+    "Eventos"
+  ],
   "dato": {
-    "valor": "407K",
+    "valor": "407.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

@@ -17,8 +17,9 @@
       var ok = v('nombre') && /\S+@\S+\.\S+/.test(v('correo')) && v('mensaje');
       if (!ok) { st.textContent = c.mensajeError; return; }
       if (c.correoDestino) {
-        var cuerpo = e.nombre + ': ' + v('nombre') + '\n' + e.correo + ': ' + v('correo') + '\n' + e.telefono + ': ' + v('tel') +
-          '\n' + e.empresa + ': ' + v('empresa') + '\n\n' + v('mensaje');
+        var eo = ((D.contenidoOriginal || {}).contacto || c).etiquetas;   // el correo llega en español aunque el visitante use otro idioma
+        var cuerpo = eo.nombre + ': ' + v('nombre') + '\n' + eo.correo + ': ' + v('correo') + '\n' + eo.telefono + ': ' + v('tel') +
+          '\n' + eo.empresa + ': ' + v('empresa') + '\n\n' + v('mensaje');
         location.href = 'mailto:' + c.correoDestino + '?subject=' + encodeURIComponent('Contacto desde la web: ' + v('nombre')) + '&body=' + encodeURIComponent(cuerpo);
         st.textContent = c.mensajeCorreo;
       } else {

@@ -30,3 +30,23 @@
 html[data-modo="oscuro"] .modo-btn .ico-sol{display:block}
 html[data-modo="oscuro"] .modo-btn .ico-luna{display:none}
 @media (max-width:560px){ .modo-btn{width:36px; height:36px} }
+
+/* Selector de idioma: bandera del idioma actual + lista desplegable (español latino es el principal) */
+.idioma-li{display:flex; align-items:center}
+.idioma-btn{display:inline-flex; align-items:center; gap:.45rem; height:40px; padding:0 .75rem; border-radius:999px; border:1px solid rgba(255,255,255,.28); background:transparent; color:var(--white); font-family:var(--display); font-size:.72rem; letter-spacing:.06em; cursor:pointer; transition:background .2s}
+.idioma-btn:hover{background:rgba(255,255,255,.14)}
+.bandera{display:block; flex:none; border-radius:3px; box-shadow:0 0 0 1px rgba(0,0,0,.28)}
+.idioma-menu{position:absolute; right:0; top:calc(100% + 4px); min-width:176px; margin:0; padding:.4rem 0; list-style:none; background:var(--white); border-top:3px solid var(--blue); box-shadow:0 6px 22px rgba(0,0,0,.22); z-index:60}
+.idioma-menu[hidden]{display:none}
+.hdr .idioma-menu li{display:block}
+.idioma-menu button{width:100%; display:flex; align-items:center; gap:.75rem; padding:.62rem 1.1rem; border:0; border-radius:0; background:transparent; color:var(--text); font:inherit; font-size:.86rem; text-align:left; cursor:pointer}
+.idioma-menu button:hover,.idioma-menu button:focus-visible{background:rgba(0,0,0,.07)}
+.idioma-menu [aria-selected="true"] button{font-weight:700}
+.idioma-menu [aria-selected="true"] button::after{content:"✓"; margin-left:auto; color:var(--blue)}
+@media (max-width:820px){ .idioma-btn{height:36px; padding:0 .55rem} .idioma-cod{display:none} }
+.hdr nav ul.idioma-menu{display:block; gap:0}
+.hdr nav ul.idioma-menu[hidden]{display:none}
+.hdr nav .idioma-menu li{display:block; white-space:nowrap}
+html[data-modo="oscuro"] .idioma-menu{background:#14213a; box-shadow:0 6px 22px rgba(0,0,0,.55)}
+html[data-modo="oscuro"] .idioma-menu button{color:var(--head)}
+html[data-modo="oscuro"] .idioma-menu button:hover,html[data-modo="oscuro"] .idioma-menu button:focus-visible{background:rgba(255,255,255,.09)}
