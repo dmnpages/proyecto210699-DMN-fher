@@ -4,7 +4,7 @@ Dreamers.talento({
   "seguidores": "4.2K",
   "descripcion": "",
   "foto": "foto-admin.webp",
-  "posicionFoto": "50.390625% 37.1875%",
+  "posicionFoto": "49.68748092651367% 37.25%",
   "fotoZoom": 1.25,
   "categorias": [
     "Streamer"

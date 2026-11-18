@@ -7,8 +7,8 @@ Dreamers.contenido.clientes = {
       "imagen": "imagen-9b9bf883f3.webp"
     },
     {
-      "nombre": "Tu marca podría ir aquí",
-      "imagen": ""
+      "nombre": "RC Radio Estelí",
+      "imagen": "imagen-18aa81ad84.webp"
     },
     {
       "nombre": "Tu marca podría ir aquí",

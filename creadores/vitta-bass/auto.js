@@ -17,7 +17,7 @@ Dreamers.autoContenido("vitta-bass", {
     "https://www.youtube.com/watch?v=J_T1F_yUPUU"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=_3OHjdG0bsU": 1536,
+    "https://www.youtube.com/watch?v=_3OHjdG0bsU": 1538,
     "https://www.youtube.com/watch?v=-XmSWCewjE8": 1002,
     "https://www.youtube.com/watch?v=W8XVQTDnp5A": 938,
     "https://www.youtube.com/watch?v=KMWjADUrh6c": 832,
@@ -25,7 +25,7 @@ Dreamers.autoContenido("vitta-bass", {
     "https://www.youtube.com/watch?v=jwufJBJVf9k": 695,
     "https://www.youtube.com/watch?v=SxqhXf53org": 574,
     "https://www.youtube.com/watch?v=A_PhfZHM9W0": 535,
-    "https://www.youtube.com/watch?v=nYxXK0jzV98": 506,
+    "https://www.youtube.com/watch?v=nYxXK0jzV98": 507,
     "https://www.youtube.com/watch?v=_anYn9RoWoE": 485,
     "https://www.youtube.com/watch?v=0cl7LEDuMU8": 330,
     "https://www.youtube.com/watch?v=J_T1F_yUPUU": 230
@@ -49,7 +49,7 @@ Dreamers.autoContenido("vitta-bass", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=_3OHjdG0bsU",
       "titulo": "Vitta & Shinekid - y si mañana no estoy? ( Oficial video )",
-      "vistas": 1536
+      "vistas": 1538
     },
     {
       "red": "youtube",
@@ -97,7 +97,7 @@ Dreamers.autoContenido("vitta-bass", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=nYxXK0jzV98",
       "titulo": "VITTA - Grime Nic",
-      "vistas": 506
+      "vistas": 507
     },
     {
       "red": "youtube",

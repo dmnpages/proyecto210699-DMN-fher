@@ -1,0 +1,25 @@
+{
+  "sitio": "Dreamers Media Nicaragua",
+  "descripcion": "La vitrina oficial del streaming y el contenido digital en Nicaragua. Conoce a los creadores de contenido, sus redes y contáctalos.",
+  "creadorTitulo": "{nombre} | {sitio}",
+  "creadorDescripcion": "{descripcion}",
+  "creadorSinDescripcion": "{nombre}, creador de contenido de Nicaragua. Conoce sus redes y contáctalo con Dreamers Media Nicaragua.",
+  "paginas": {
+    "inicio": {
+      "titulo": "Dreamers Media Nicaragua | Streamers y creadores de contenido",
+      "descripcion": "La vitrina oficial del streaming y el contenido digital en Nicaragua. Conoce a los streamers y creadores de contenido de nuestra agencia."
+    },
+    "creadores": {
+      "titulo": "Creadores de contenido | Dreamers Media Nicaragua",
+      "descripcion": "Streamers, cosplayers, músicos y creadores de contenido de Nicaragua. Filtra por tipo y seguidores y conoce sus redes."
+    },
+    "nosotros": {
+      "titulo": "Sobre nosotros | Dreamers Media Nicaragua",
+      "descripcion": "Somos la vitrina oficial del streaming y el contenido digital en Nicaragua: conectamos a creadores de contenido con marcas y audiencias."
+    },
+    "contacto": {
+      "titulo": "Contacto | Dreamers Media Nicaragua",
+      "descripcion": "Escríbenos para colaborar con los creadores de contenido de Dreamers Media Nicaragua."
+    }
+  }
+}

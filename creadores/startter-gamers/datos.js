@@ -15,12 +15,12 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/starttergamers/",
-      "seguidores": "455"
+      "seguidores": "454"
     },
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/starttergamers/",
-      "seguidores": "367"
+      "seguidores": "368"
     },
     {
       "plataforma": "Tiktok",
@@ -45,7 +45,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "50.5K",
+    "valor": "50.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

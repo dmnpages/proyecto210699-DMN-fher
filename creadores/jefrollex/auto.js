@@ -25,7 +25,7 @@ Dreamers.autoContenido("jefrollex", {
     "https://www.instagram.com/p/Db1byOmRjTC/"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=WlSL3yswZJQ": 5031,
+    "https://www.youtube.com/watch?v=WlSL3yswZJQ": 5158,
     "https://www.youtube.com/watch?v=7qOM-mm7mXU": 1726,
     "https://www.youtube.com/watch?v=_PmL0hlLvKw": 1382,
     "https://www.youtube.com/watch?v=f2FYacmoeAM": 1321,
@@ -34,8 +34,8 @@ Dreamers.autoContenido("jefrollex", {
     "https://www.youtube.com/watch?v=v_xPXEPDGU8": 1134,
     "https://www.youtube.com/watch?v=3als18xlIpo": 1103,
     "https://www.youtube.com/watch?v=__S6BAuGgSk": 994,
-    "https://www.youtube.com/watch?v=X6vEDFYMgmc": 660,
-    "https://www.youtube.com/watch?v=leNYJHWCZkk": 539,
+    "https://www.youtube.com/watch?v=X6vEDFYMgmc": 702,
+    "https://www.youtube.com/watch?v=leNYJHWCZkk": 548,
     "https://www.youtube.com/watch?v=wR7qnmOU2sE": 190
   },
   "titulos": {
@@ -87,7 +87,7 @@ Dreamers.autoContenido("jefrollex", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=WlSL3yswZJQ",
       "titulo": "Naruto es mi infancia y mi todo 🍥 siempre será mi anime favorito 🍥🧡#naruto #narutoshadowri",
-      "vistas": 5031
+      "vistas": 5158
     },
     {
       "red": "youtube",
@@ -141,13 +141,13 @@ Dreamers.autoContenido("jefrollex", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=X6vEDFYMgmc",
       "titulo": "¿Cómo ELIMINAR el RUIDO de FONDO de tu micrófono en OBS y TIKTOK LIVE STUDIO? #obs #tiktok",
-      "vistas": 660
+      "vistas": 702
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=leNYJHWCZkk",
       "titulo": "🔥 ¡VIVÍ UNA EXPERIENCIA EXCLUSIVA CON GERARDO REYERO EN EL MEET & FOOD | CONVENCIÓN YUUKAI",
-      "vistas": 539
+      "vistas": 548
     },
     {
       "red": "youtube",
