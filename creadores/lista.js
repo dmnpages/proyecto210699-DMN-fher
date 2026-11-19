@@ -1,11 +1,11 @@
 Dreamers.listaTalentos = [
   "neylis",
+  "mery-rivas",
   "kimera",
   "jares",
   "sirmitu",
   "daneska",
   "yan",
-  "mery-rivas",
   "catpool",
   "fresita-agridulce",
   "bryam-contreras",
@@ -32,10 +32,10 @@ Dreamers.listaTalentos = [
   "skeint-mc",
   "ladypalace",
   "doggiman",
-  "begwitch",
   "liss-hana",
+  "ik-evolution",
+  "begwitch",
   "ramses-bachata",
   "shisudool",
-  "lk-evolution",
   "rookie-lines"
 ];

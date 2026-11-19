@@ -40,6 +40,63 @@ Dreamers.talento({
   },
   "frames": []
 });
+Dreamers._actual="mery-rivas";
+Dreamers.talento({
+  "nombre": "Mery Rivas",
+  "ciudad": "Managua",
+  "seguidores": "15.5K",
+  "descripcion": "Creadora de contenido nicaragüense enfocada en anime, cosplay, cultura geek y fitness. Comparte su pasión por el mundo otaku, los eventos, los personajes, el ejercicio y el estilo de vida, conectando con su comunidad a través de contenido auténtico y entretenido.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "55.078125% 49.6875%",
+  "fotoZoom": 1.2,
+  "categorias": [
+    "Cosplayer",
+    "Streamer",
+    "LifeStyle"
+  ],
+  "redes": [
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/mery_rivas16",
+      "seguidores": "3.6K"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/meryrivas_space",
+      "seguidores": "929"
+    },
+    {
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/mariagabriela.rivasrivas.1",
+      "seguidores": "3K"
+    },
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@meryrivas18",
+      "seguidores": "8K"
+    }
+  ],
+  "formatos": [
+    "Cosplays",
+    "Geek News",
+    "Gym",
+    "Videos cortos",
+    "Lifestyle"
+  ],
+  "ideal": [
+    "Gym",
+    "Eventos",
+    "Moda",
+    "Cosméticos",
+    "Gaming",
+    "Anime y cultura pop"
+  ],
+  "dato": {
+    "valor": "138.3K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
 Dreamers._actual="kimera";
 Dreamers.talento({
   "nombre": "KimeraSM",
@@ -247,63 +304,6 @@ Dreamers.talento({
   ],
   "dato": {
     "valor": "2.2M",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="mery-rivas";
-Dreamers.talento({
-  "nombre": "Mery Rivas",
-  "ciudad": "Managua",
-  "seguidores": "15.5K",
-  "descripcion": "Creadora de contenido nicaragüense enfocada en anime, cosplay, cultura geek y fitness. Comparte su pasión por el mundo otaku, los eventos, los personajes, el ejercicio y el estilo de vida, conectando con su comunidad a través de contenido auténtico y entretenido.",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "55.078125% 49.6875%",
-  "fotoZoom": 1.2,
-  "categorias": [
-    "Cosplayer",
-    "Streamer",
-    "LifeStyle"
-  ],
-  "redes": [
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/mery_rivas16",
-      "seguidores": "3.6K"
-    },
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/meryrivas_space",
-      "seguidores": "929"
-    },
-    {
-      "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/mariagabriela.rivasrivas.1",
-      "seguidores": "3K"
-    },
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@meryrivas18",
-      "seguidores": "8K"
-    }
-  ],
-  "formatos": [
-    "Cosplays",
-    "Geek News",
-    "Gym",
-    "Videos cortos",
-    "Lifestyle"
-  ],
-  "ideal": [
-    "Gym",
-    "Eventos",
-    "Moda",
-    "Cosméticos",
-    "Gaming",
-    "Anime y cultura pop"
-  ],
-  "dato": {
-    "valor": "138.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1417,48 +1417,6 @@ Dreamers.talento({
 });
 Dreamers._actual="skeint-mc";
 Dreamers.talento({
-  "nombre": " Ladypalace",
-  "ciudad": "Managua",
-  "correo": "nadrealaopa@gmail.com",
-  "seguidores": "5.3K",
-  "descripcion": "Creadora de contenido y cosplayer. Busca que sus conocimientos sobre la realización de cosplay lleguen a más personas, ayudando a la comunidad a aprender a hacer sus propios trajes y motivándolos a seguir con este bonito hobby.",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "categorias": [
-    "Cosplayer"
-  ],
-  "redes": [
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@ladypalacecosplay",
-      "seguidores": "3.9K"
-    },
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/ladypalace_cosplay/",
-      "seguidores": "1.4K"
-    }
-  ],
-  "formatos": [
-    "Videos Cortos",
-    "LifeStyle",
-    "Cosplay",
-    "Retos"
-  ],
-  "ideal": [
-    "Eventos",
-    "Cosmaker",
-    "Anime y cultura pop"
-  ],
-  "dato": {
-    "valor": "220K",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="ladypalace";
-Dreamers.talento({
   "nombre": "Skeint MC",
   "ciudad": "Matagalpa",
   "correo": "iskeintplayer@gmail.com",
@@ -1511,6 +1469,48 @@ Dreamers.talento({
   },
   "frames": []
 });
+Dreamers._actual="ladypalace";
+Dreamers.talento({
+  "nombre": " Ladypalace",
+  "ciudad": "Managua",
+  "correo": "nadrealaopa@gmail.com",
+  "seguidores": "5.3K",
+  "descripcion": "Creadora de contenido y cosplayer. Busca que sus conocimientos sobre la realización de cosplay lleguen a más personas, ayudando a la comunidad a aprender a hacer sus propios trajes y motivándolos a seguir con este bonito hobby.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "categorias": [
+    "Cosplayer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@ladypalacecosplay",
+      "seguidores": "3.9K"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/ladypalace_cosplay/",
+      "seguidores": "1.4K"
+    }
+  ],
+  "formatos": [
+    "Videos Cortos",
+    "LifeStyle",
+    "Cosplay",
+    "Retos"
+  ],
+  "ideal": [
+    "Eventos",
+    "Cosmaker",
+    "Anime y cultura pop"
+  ],
+  "dato": {
+    "valor": "220K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
 Dreamers._actual="doggiman";
 Dreamers.talento({
   "frames": [],
@@ -1547,45 +1547,6 @@ Dreamers.talento({
   "posicionFoto": "50% 50.25%",
   "fotoZoom": 1
 });
-Dreamers._actual="begwitch";
-Dreamers.talento({
-  "frames": [],
-  "nombre": "Lk Evolution",
-  "categorias": [
-    "Músico",
-    "Productor"
-  ],
-  "ciudad": "Managua",
-  "seguidores": "16.5K",
-  "descripcion": "Creador de contenido y podcaster enfocado en expandir su audiencia. Su objetivo principal es lograr que su trabajo llegue a más personas y dar a conocer sus proyectos a un público más amplio.",
-  "foto": "foto-admin.webp",
-  "redes": [
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@lkevolutionelchelelokera",
-      "seguidores": "9.8K"
-    },
-    {
-      "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/vladimirivan.calderalovo",
-      "seguidores": "6.7K"
-    }
-  ],
-  "dato": {
-    "valor": "19.4K",
-    "texto": "Likes totales en TikTok"
-  },
-  "formatos": [
-    "Videos cortos",
-    "Música"
-  ],
-  "ideal": [
-    "Musicales"
-  ],
-  "correo": "lkcalo1981@gmail.com",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1
-});
 Dreamers._actual="liss-hana";
 Dreamers.talento({
   "nombre": "Liss Hana",
@@ -1620,6 +1581,88 @@ Dreamers.talento({
   "ideal": [],
   "dato": {
     "valor": "960K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="ik-evolution";
+Dreamers.talento({
+  "nombre": "Lk Evolution",
+  "ciudad": "Managua",
+  "correo": "lkcalo1981@gmail.com",
+  "seguidores": "16.5K",
+  "descripcion": "Creador de contenido y podcaster enfocado en expandir su audiencia. Su objetivo principal es lograr que su trabajo llegue a más personas y dar a conocer sus proyectos a un público más amplio.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "categorias": [
+    "Músico",
+    "Productor"
+  ],
+  "redes": [
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@lkevolutionelchelelokera",
+      "seguidores": "9.8K"
+    },
+    {
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/vladimirivan.calderalovo",
+      "seguidores": "6.7K"
+    }
+  ],
+  "formatos": [
+    "Videos cortos",
+    "Música"
+  ],
+  "ideal": [
+    "Musicales"
+  ],
+  "dato": {
+    "valor": "19.4K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="begwitch";
+Dreamers.talento({
+  "nombre": "Begwitch",
+  "ciudad": "León",
+  "correo": "begoiid@gmail.com",
+  "seguidores": "10.7K",
+  "descripcion": "Cosplayer enfocada en conectar con personas que comparten su pasión. Su meta es encontrar un espacio para aportar su creatividad, mostrar sus procesos y crear contenido fresco que dé mayor visibilidad a la comunidad cosplayer del país.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "categorias": [
+    "Cosplayer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@begwitch",
+      "seguidores": "3.1K"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/begwitch",
+      "seguidores": "4.3K"
+    },
+    {
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/begwitchcosplay",
+      "seguidores": "3.3K"
+    }
+  ],
+  "formatos": [
+    "Cosplay"
+  ],
+  "ideal": [
+    "Anime y cultura pop",
+    "Eventos"
+  ],
+  "dato": {
+    "valor": "94.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1697,49 +1740,6 @@ Dreamers.talento({
   ],
   "dato": {
     "valor": "4.8K",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="lk-evolution";
-Dreamers.talento({
-  "nombre": "Begwitch",
-  "ciudad": "León",
-  "correo": "begoiid@gmail.com",
-  "seguidores": "10.7K",
-  "descripcion": "Cosplayer enfocada en conectar con personas que comparten su pasión. Su meta es encontrar un espacio para aportar su creatividad, mostrar sus procesos y crear contenido fresco que dé mayor visibilidad a la comunidad cosplayer del país.",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "categorias": [
-    "Cosplayer"
-  ],
-  "redes": [
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@begwitch",
-      "seguidores": "3.1K"
-    },
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/begwitch",
-      "seguidores": "4.3K"
-    },
-    {
-      "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/begwitchcosplay",
-      "seguidores": "3.3K"
-    }
-  ],
-  "formatos": [
-    "Cosplay"
-  ],
-  "ideal": [
-    "Anime y cultura pop",
-    "Eventos"
-  ],
-  "dato": {
-    "valor": "94.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

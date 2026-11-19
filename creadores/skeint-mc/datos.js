@@ -1,40 +1,52 @@
 Dreamers.talento({
-  "nombre": " Ladypalace",
-  "ciudad": "Managua",
-  "correo": "nadrealaopa@gmail.com",
-  "seguidores": "5.3K",
-  "descripcion": "Creadora de contenido y cosplayer. Busca que sus conocimientos sobre la realización de cosplay lleguen a más personas, ayudando a la comunidad a aprender a hacer sus propios trajes y motivándolos a seguir con este bonito hobby.",
+  "nombre": "Skeint MC",
+  "ciudad": "Matagalpa",
+  "correo": "iskeintplayer@gmail.com",
+  "seguidores": "782",
+  "descripcion": "Creador de contenido con el objetivo de crecer y aprender en comunidad. Desea aportar sus habilidades, colaborar y compartir ideas para crear contenido de alta calidad y alcanzar nuevas metas junto a un equipo de trabajo.",
   "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
+  "posicionFoto": "50.390625% 50%",
   "fotoZoom": 1,
   "categorias": [
-    "Cosplayer"
+    "Streamer"
   ],
   "redes": [
     {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@ladypalacecosplay",
-      "seguidores": "3.9K"
+      "plataforma": "Youtube",
+      "enlace": "https://www.youtube.com/@skeint_mc",
+      "seguidores": "118"
+    },
+    {
+      "plataforma": "Twitch",
+      "enlace": "https://www.twitch.tv/skeint_mc",
+      "seguidores": "62"
+    },
+    {
+      "plataforma": "X",
+      "enlace": "https://x.com/Skeint_MC",
+      "seguidores": "11"
     },
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/ladypalace_cosplay/",
-      "seguidores": "1.4K"
+      "enlace": "https://www.instagram.com/skeint_mc",
+      "seguidores": "419"
+    },
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@skeint_mc",
+      "seguidores": "172"
     }
   ],
   "formatos": [
-    "Videos Cortos",
-    "LifeStyle",
-    "Cosplay",
-    "Retos"
+    "Streams",
+    "Retos",
+    "Videos largos"
   ],
   "ideal": [
-    "Eventos",
-    "Cosmaker",
-    "Anime y cultura pop"
+    "Gaming"
   ],
   "dato": {
-    "valor": "220K",
+    "valor": "2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
