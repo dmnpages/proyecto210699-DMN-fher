@@ -1,6 +1,6 @@
 Dreamers.talento({
   "nombre": "Dragonxlr",
-  "ciudad": "",
+  "ciudad": "Chinandega",
   "correo": "galeanolaradeyrickisai@gmail.com",
   "seguidores": "2.7K",
   "descripcion": "Creador de contenido enfocado en el mundo gaming, Minecraft y los directos. También comparte contenido relacionado con medicina y salud, combinando su pasión por crear con su formación en Enfermería. Se caracteriza por su creatividad y entusiasmo por seguir creciendo.",
