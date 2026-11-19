@@ -92,7 +92,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "138.3K",
+    "valor": "138.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -669,7 +669,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "269.7K",
+    "valor": "269.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -721,7 +721,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "592.4K",
+    "valor": "592.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -875,7 +875,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "544K",
+    "valor": "544.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1173,7 +1173,7 @@ Dreamers.talento({
     "Musicales"
   ],
   "dato": {
-    "valor": "349K",
+    "valor": "349.1K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1363,7 +1363,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "341.4K",
+    "valor": "341.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1754,7 +1754,9 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
-  "categorias": [],
+  "categorias": [
+    "Streamer"
+  ],
   "redes": [
     {
       "plataforma": "Tiktok",
@@ -1770,7 +1772,9 @@ Dreamers.talento({
   "formatos": [
     "Videos cortos"
   ],
-  "ideal": [],
+  "ideal": [
+    "Gaming"
+  ],
   "dato": {
     "valor": "19.2K",
     "texto": "Likes totales en TikTok"
