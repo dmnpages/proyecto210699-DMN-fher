@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": " Fer Ciech",
   "ciudad": "Carazo",
   "correo": "ferciech06@gmail.com",
-  "seguidores": "10.5K",
+  "seguidores": "10.8K",
   "descripcion": "Cosplayer nacional con 10 años de experiencia. Comparte sus procesos, técnicas y materiales en redes sociales. Busca unirse al equipo para aportar contenido de valor, compartir sus conocimientos y motivar a otros, ayudando a crecer y fortalecer la comunidad en el país.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -14,7 +14,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@ferciech",
-      "seguidores": "6.1K"
+      "seguidores": "6.4K"
     },
     {
       "plataforma": "Instagram",
@@ -36,7 +36,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "335.8K",
+    "valor": "341.1K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

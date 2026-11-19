@@ -1,0 +1,32 @@
+/* Efectos de cumpleaños (solo en la página del creador). Ver cumple.js */
+.cumple-banner{display:flex; align-items:center; justify-content:center; gap:1rem; margin:-.6rem auto 2rem; max-width:760px; padding:.9rem 1.6rem; border-radius:999px; color:#4a1230;
+  background:linear-gradient(100deg,#ffd54a,#ff8fc4,#ffd54a); background-size:200% 100%; animation:cumple-brillo 3.2s linear infinite; box-shadow:0 6px 28px rgba(255,105,180,.55)}
+.cumple-banner .e{font-size:2rem; line-height:1; animation:confeti-baile 1.6s ease-in-out infinite alternate}
+.cumple-banner .tx{display:flex; flex-direction:column; align-items:center; text-align:center; line-height:1.15; min-width:0}
+.cumple-banner small{font-family:var(--display); font-size:.8rem; letter-spacing:.12em; text-transform:uppercase}
+.cumple-banner strong{font-family:var(--display); font-weight:400; font-size:clamp(1.3rem,4.6vw,2.2rem); letter-spacing:.05em; text-transform:uppercase; overflow-wrap:anywhere}
+.cumple-banner .l{display:inline-block; animation:cumple-ola 1.6s ease-in-out infinite; animation-delay:calc(var(--i) * .07s)}
+@keyframes cumple-ola{0%,60%,100%{transform:translateY(0)} 30%{transform:translateY(-.22em) scale(1.12)}}
+
+.cumple-globos{position:fixed; inset:0; z-index:40; overflow:hidden; pointer-events:none}
+.cumple-globos i{position:absolute; bottom:-90px; border-radius:50% 50% 48% 48%; background:radial-gradient(circle at 32% 28%, rgba(255,255,255,.85) 0 7%, var(--c) 8% 100%);
+  box-shadow:inset -6px -8px 14px rgba(0,0,0,.18); opacity:.92; animation:globo-sube 14s linear infinite, globo-mece 3s ease-in-out infinite alternate}
+.cumple-globos i::before{content:""; position:absolute; left:50%; top:99%; width:1px; height:46px; background:rgba(255,255,255,.55)}
+.cumple-globos i::after{content:""; position:absolute; left:50%; top:96%; margin-left:-5px; border:5px solid transparent; border-bottom:8px solid var(--c); border-top:0}
+@keyframes globo-sube{from{bottom:-120px} to{bottom:112vh}}
+@keyframes globo-mece{from{transform:translateX(calc(var(--dx) * -1)) rotate(-6deg)} to{transform:translateX(var(--dx)) rotate(6deg)}}
+.cumple-lienzo{position:fixed; inset:0; z-index:60; pointer-events:none}
+
+.destellos{position:absolute; inset:0; pointer-events:none; z-index:3}
+.destellos s{position:absolute; width:18px; height:18px; transform:scale(0); animation:destello 2.6s ease-in-out infinite; background:radial-gradient(circle,#fff 0 18%,transparent 20%),
+  conic-gradient(from 0deg,transparent 0 40%,#fff 45% 55%,transparent 60% 90%,#fff 95%,transparent); clip-path:polygon(50% 0,60% 40%,100% 50%,60% 60%,50% 100%,40% 60%,0 50%,40% 40%); background-color:#fff9c4; filter:drop-shadow(0 0 5px #ffd54a)}
+@keyframes destello{0%,100%{transform:scale(0) rotate(0)} 50%{transform:scale(var(--s,1)) rotate(90deg)}}
+.tgrid .photo.cumple{animation:cumple-pulso 2.2s ease-in-out infinite alternate}
+@keyframes cumple-pulso{from{box-shadow:0 0 30px rgba(255,111,181,.45)} to{box-shadow:0 0 62px rgba(255,213,74,.8), 0 0 100px rgba(255,111,181,.45)}}
+
+.cumple-fx{position:fixed; left:14px; bottom:14px; z-index:70; width:2.6rem; height:2.6rem; border-radius:50%; border:2px solid #ff6fb5; background:rgba(11,20,38,.85); color:#ffd54a; font-size:1.2rem; cursor:pointer; display:grid; place-items:center; line-height:1}
+.cumple-fx.off{opacity:.55; filter:grayscale(1)}
+.cumple-fx:focus-visible{outline:3px solid #ffd54a; outline-offset:2px}
+@media (max-width:560px){ .cumple-banner{border-radius:24px; padding:.7rem 1rem; gap:.5rem} .cumple-banner .e{font-size:1.4rem} .cumple-globos i:nth-child(n+7){display:none} }
+@media (prefers-reduced-motion:reduce){ .cumple-banner,.cumple-banner .l,.cumple-banner .e,.destellos s,.tgrid .photo.cumple{animation:none} .destellos s{transform:scale(.8)} }
+@media print{ .cumple-globos,.cumple-lienzo,.cumple-fx{display:none} }

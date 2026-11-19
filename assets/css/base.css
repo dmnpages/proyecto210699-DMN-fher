@@ -75,3 +75,39 @@ html[data-modo="oscuro"] .btn.dark{color:var(--head)}
 html[data-modo="oscuro"] .btn.dark:hover{background:rgba(255,255,255,.08)}
 html[data-modo="oscuro"] .netlist li,
 html[data-modo="oscuro"] .pills li{background:#14213a}
+
+/* ===== Cumpleaños: se activa solo desde el editor (creador → «Está de cumpleaños») ===== */
+.cumple-badge{display:inline-flex; align-items:center; justify-content:center; gap:.4rem; font-family:var(--display); font-size:.72rem; letter-spacing:.04em; text-transform:uppercase; line-height:1.25; color:#4a1230; background:linear-gradient(100deg,#ffd54a,#ff8fc4,#ffd54a); background-size:200% 100%; padding:.35rem .85rem; border-radius:999px; box-shadow:0 2px 10px rgba(255,105,180,.45); animation:cumple-brillo 3.2s linear infinite}
+.card .body .cumple-badge{align-self:center; text-align:center}
+.tgrid .cumple-badge{display:flex; width:fit-content; margin-bottom:1rem; font-size:.85rem}
+.card.cumple{box-shadow:0 0 0 3px #ff6fb5, 0 6px 26px rgba(255,111,181,.5)}
+.card.cumple:hover{box-shadow:0 0 0 3px #ffd54a, 0 12px 32px rgba(255,111,181,.6)}
+.card.cumple .ph, .tgrid .photo.cumple{position:relative}
+.tgrid .photo.cumple{border-color:#ff6fb5; box-shadow:0 0 40px rgba(255,111,181,.55)}
+.confeti{position:absolute; inset:0; overflow:hidden; pointer-events:none; z-index:2}
+.confeti i{position:absolute; top:-10%; width:6px; height:11px; border-radius:1px; animation:confeti-cae 4.2s linear infinite}
+.confeti i:nth-child(1){left:5%; background:#ff6fb5; animation-duration:3.8s; animation-delay:-0.2s; --dx:14px}
+.confeti i:nth-child(2){left:13%; background:#ffd54a; animation-duration:4.6s; animation-delay:-1.1s; --dx:-18px}
+.confeti i:nth-child(3){left:22%; background:#4fc3ff; animation-duration:4.1s; animation-delay:-2.3s; --dx:10px}
+.confeti i:nth-child(4){left:31%; background:#7be37b; animation-duration:5.0s; animation-delay:-0.6s; --dx:-12px; width:9px; height:6px; border-radius:50%}
+.confeti i:nth-child(5){left:40%; background:#b78cff; animation-duration:3.6s; animation-delay:-3.0s; --dx:20px}
+.confeti i:nth-child(6){left:48%; background:#ff8a3d; animation-duration:4.4s; animation-delay:-1.7s; --dx:-8px}
+.confeti i:nth-child(7){left:56%; background:#ff4d5e; animation-duration:4.9s; animation-delay:-0.9s; --dx:16px}
+.confeti i:nth-child(8){left:64%; background:#ff6fb5; animation-duration:3.9s; animation-delay:-2.6s; --dx:-20px; width:9px; height:6px; border-radius:50%}
+.confeti i:nth-child(9){left:72%; background:#ffd54a; animation-duration:4.7s; animation-delay:-3.4s; --dx:12px}
+.confeti i:nth-child(10){left:80%; background:#4fc3ff; animation-duration:4.2s; animation-delay:-0.4s; --dx:-14px}
+.confeti i:nth-child(11){left:88%; background:#7be37b; animation-duration:5.2s; animation-delay:-1.4s; --dx:8px}
+.confeti i:nth-child(12){left:94%; background:#b78cff; animation-duration:3.7s; animation-delay:-2.1s; --dx:-16px; width:9px; height:6px; border-radius:50%}
+.confeti i:nth-child(13){left:18%; background:#ff8a3d; animation-duration:4.5s; animation-delay:-3.2s; --dx:18px}
+.confeti i:nth-child(14){left:68%; background:#ff4d5e; animation-duration:4.0s; animation-delay:-2.8s; --dx:-10px}
+.confeti-emoji{position:absolute; top:.45rem; right:.55rem; font-size:1.6rem; line-height:1; font-weight:400; transform-origin:70% 90%; filter:drop-shadow(0 2px 4px rgba(0,0,0,.45)); animation:confeti-baile 1.8s ease-in-out infinite alternate}
+@keyframes confeti-cae{0%{top:-10%; transform:translateX(0) rotate(0)} 100%{top:104%; transform:translateX(var(--dx,12px)) rotate(540deg)}}
+@keyframes confeti-baile{from{transform:rotate(-12deg) scale(1)} to{transform:rotate(12deg) scale(1.14)}}
+@keyframes cumple-brillo{to{background-position:-200% 0}}
+@media (prefers-reduced-motion:reduce){ .cumple-badge,.confeti-emoji{animation:none} .confeti i{display:none} }
+@media print{ .confeti{display:none} }
+.cumple-fila{display:flex; align-items:center; gap:.6rem; margin-bottom:1rem}
+.cumple-fila .cumple-badge{margin:0}
+.cumple-son{font:inherit; font-size:1.05rem; line-height:1; width:2.1rem; height:2.1rem; padding:0; border-radius:50%; border:2px solid #ff6fb5; background:rgba(255,111,181,.18); color:#fff; cursor:pointer; display:grid; place-items:center; transition:background .2s, transform .2s}
+.cumple-son:hover{background:rgba(255,111,181,.4); transform:scale(1.08)}
+.cumple-son:focus-visible{outline:3px solid #ffd54a; outline-offset:2px}

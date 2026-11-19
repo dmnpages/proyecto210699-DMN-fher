@@ -97,6 +97,28 @@
     return '<svg class="red-icon" viewBox="0 0 24 24" aria-label="' + D.esc(plataforma) + '" title="' + D.esc(plataforma) + '"><g fill="currentColor">' + (iconos[nombre] || '<text x="50%" y="58%" text-anchor="middle" dominant-baseline="middle" font-size="8" font-family="Arial, sans-serif">' + D.esc(D.abrev(plataforma)) + '</text>') + '</g></svg>';
   };
 
+  // Cumpleaños: se activa solo desde el editor (campo "cumpleanos": true en datos.js del creador).
+  D.esCumple = function (t) { return !!t && (t.cumpleanos === true || t.cumpleanos === 'true'); };
+  // Confeti decorativo que cae sobre la foto (el CSS lo apaga con «reducir movimiento»).
+  D.confeti = function (t) {
+    if (!D.esCumple(t)) return '';
+    var h = '<span class="confeti" aria-hidden="true">';
+    for (var i = 0; i < 14; i++) h += '<i></i>';
+    return h + '<b class="confeti-emoji">&#127881;</b></span>';
+  };
+  // Etiqueta «¡Está de cumpleaños!» (la lee también el lector de pantalla).
+  D.insigniaCumple = function (t) {
+    if (!D.esCumple(t)) return '';
+    return '<span class="cumple-badge"><span aria-hidden="true">&#127874;</span> ' + D.esc(D.t('¡Está de cumpleaños!')) + '</span>';
+  };
+  D.claseCumple = function (t) { return D.esCumple(t) ? ' cumple' : ''; };
+  // Quien está de cumpleaños va en primer lugar (lista de creadores, menú, inicio). El resto conserva su orden.
+  D.cumpleanerosPrimero = function () {
+    var a = [], b = [];
+    D.talentos.forEach(function (t) { (D.esCumple(t) ? a : b).push(t); });
+    D.talentos = a.concat(b);
+  };
+
   D.sinFoto = D.raiz + 'assets/img/sin-foto.svg';
   D.rutaFoto = function (t) {
     var foto = t.foto || 'foto.svg';

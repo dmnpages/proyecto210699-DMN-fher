@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Begwitch",
   "ciudad": "León",
   "correo": "begoiid@gmail.com",
-  "seguidores": "10.6K",
+  "seguidores": "10.7K",
   "descripcion": "Cosplayer enfocada en conectar con personas que comparten su pasión. Su meta es encontrar un espacio para aportar su creatividad, mostrar sus procesos y crear contenido fresco que dé mayor visibilidad a la comunidad cosplayer del país.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -14,7 +14,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@begwitch",
-      "seguidores": "3K"
+      "seguidores": "3.1K"
     },
     {
       "plataforma": "Instagram",
@@ -35,7 +35,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "94.8K",
+    "valor": "94.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

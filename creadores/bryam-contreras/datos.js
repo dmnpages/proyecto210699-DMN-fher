@@ -24,7 +24,7 @@ Dreamers.talento({
     {
       "plataforma": "Kick",
       "enlace": "https://kick.com/soybryam06c/",
-      "seguidores": "316"
+      "seguidores": "315"
     }
   ],
   "formatos": [
@@ -40,7 +40,7 @@ Dreamers.talento({
     "Musicales"
   ],
   "dato": {
-    "valor": "50.4K",
+    "valor": "50.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

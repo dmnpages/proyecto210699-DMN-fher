@@ -17,8 +17,8 @@
         return href ? '<a class="red-badge" href="' + D.esc(href) + '" target="_blank" rel="noopener noreferrer" title="' + D.esc(r.plataforma) + '">' + D.iconoRed(r.plataforma) + '</a>'
                     : '<span class="red-badge" title="' + D.esc(r.plataforma) + '">' + D.iconoRed(r.plataforma) + '</span>';
       }).join('');
-      return '<article class="card"><a class="ph" href="' + url + '" tabindex="-1" aria-hidden="true">' + D.img(D.rutaFoto(t), '', t) + '</a>' +
-        '<div class="body"><h3><a href="' + url + '">' + D.esc(t.nombre) + '</a></h3><div class="soc">' + soc + '</div>' +
+      return '<article class="card' + D.claseCumple(t) + '"><a class="ph" href="' + url + '" tabindex="-1" aria-hidden="true">' + D.img(D.rutaFoto(t), '', t) + D.confeti(t) + '</a>' +
+        '<div class="body">' + D.insigniaCumple(t) + '<h3><a href="' + url + '">' + D.esc(t.nombre) + '</a></h3><div class="soc">' + soc + '</div>' +
         '<div class="fol">' + D.esc(D.totalSeguidores(t)) + '+<small>' + D.esc(c.etiquetaSeguidores) + '</small></div>' +
         '<a class="btn dark sm" href="' + url + '">' + D.esc(c.textoBoton) + '</a></div></article>';
     }

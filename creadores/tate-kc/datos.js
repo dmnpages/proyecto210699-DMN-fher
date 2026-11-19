@@ -12,7 +12,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/tate_kc_/",
-      "seguidores": "982"
+      "seguidores": "985"
     },
     {
       "plataforma": "Tiktok",

@@ -14,7 +14,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/ana__tomico/",
-      "seguidores": "169"
+      "seguidores": "172"
     },
     {
       "plataforma": "Tiktok",

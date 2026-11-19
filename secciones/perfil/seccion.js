@@ -160,7 +160,7 @@
       var contacto = D.irA('contacto/');
       el.innerHTML =
         '<section class="tp"><div class="in"><div class="crumb"><a href="' + D.irA('creadores/') + '">' + D.esc(c.migas) + '</a> / ' + D.esc(t.nombre) + '</div>' +
-        '<div class="tgrid"><div class="photo">' + D.img(D.rutaFoto(t), t.nombre, t, true) + '</div><div>' +
+        '<div class="tgrid"><div class="photo' + D.claseCumple(t) + '">' + D.img(D.rutaFoto(t), t.nombre, t, true) + D.confeti(t) + '</div><div>' + D.insigniaCumple(t) +
         '<span class="tag">' + D.categoriasDe(t).map(function (x) { return D.esc(x); }).join(' / ') + '</span><h1>' + D.esc(t.nombre) + '</h1><p class="lead">' + D.esc(t.descripcion) + '</p>' +
         '<div class="kv"><div><b>' + D.esc(D.totalSeguidores(t)) + '+</b><span>' + D.esc(c.seguidoresTotal) + '</span></div>' + dato +
         (String(t.ciudad || '').trim() ? '<div><b>' + D.esc(t.ciudad) + '</b><span>' + D.esc(c.baseEn) + '</span></div>' : '') + '</div>' +
@@ -173,12 +173,52 @@
         '<div class="pager"><a href="' + D.rutaTalento(ant.carpeta) + '">&larr; ' + D.esc(ant.nombre) + '</a>' +
         '<a href="' + D.rutaTalento(sig.carpeta) + '">' + D.esc(sig.nombre) + ' &rarr;</a></div></div></section>';
     }
+    // Canción de cumpleaños: suena al entrar al perfil de un creador que está de cumpleaños.
+    // Los navegadores bloquean el sonido automático hasta que el visitante toca la página: si pasa, suena en su primer toque o tecla.
+    function sonidoCumple(raiz, t) {
+      if (!D.esCumple(t)) return;
+      var ins = raiz.querySelector('.tgrid .cumple-badge'); if (!ins) return;
+      var a = new Audio(), ogg = a.canPlayType('audio/ogg; codecs="vorbis"');
+      a.src = D.raiz + 'assets/audio/cumpleanos.' + (ogg ? 'ogg' : 'mp3');
+      a.preload = 'auto'; a.volume = 0.85;
+      var btn = document.createElement('button'), fila = document.createElement('div'), manual = false, sonando = false;
+      btn.type = 'button'; btn.className = 'cumple-son';
+      fila.className = 'cumple-fila'; ins.parentNode.insertBefore(fila, ins); fila.appendChild(ins); fila.appendChild(btn);
+      function pintarBoton() {
+        btn.textContent = sonando ? '\u23F9' : '\uD83C\uDFB5';
+        var txt = D.t(sonando ? 'Detener la canción' : 'Reproducir canción de cumpleaños');
+        btn.setAttribute('aria-label', txt); btn.title = txt;
+      }
+      function sonar() { var p = a.play(); if (p && p.then) return p.then(function () { sonando = true; pintarBoton(); }); }
+      a.addEventListener('ended', function () { sonando = false; pintarBoton(); });
+      a.addEventListener('pause', function () { sonando = false; pintarBoton(); });
+      btn.addEventListener('click', function (e) {
+        e.stopPropagation(); manual = true;
+        if (sonando) { a.pause(); a.currentTime = 0; } else { a.currentTime = 0; sonar(); }
+      });
+      pintarBoton();
+      var EVENTOS = ['pointerdown', 'keydown', 'touchend', 'click'];
+      function alPrimerToque(e) {
+        if (btn.contains(e.target)) return;
+        quitar(); if (!manual) { var p = sonar(); if (p && p.catch) p.catch(function () {}); }
+      }
+      function quitar() { EVENTOS.forEach(function (n) { document.removeEventListener(n, alPrimerToque, true); }); }
+      var intento = a.play();
+      if (intento && intento.then) {
+        intento.then(function () { sonando = true; pintarBoton(); }).catch(function () {
+          EVENTOS.forEach(function (n) { document.addEventListener(n, alPrimerToque, true); });
+        });
+      }
+      window.addEventListener('pagehide', function () { a.pause(); });
+    }
     var carpetaActual = D.talentoActual();
     D.cargarAuto(carpetaActual).then(function (auto) {
       pintar(auto);
       var t = D.talentos.filter(function (x) { return x.carpeta === carpetaActual; })[0];
       if (!t) return;
       activarCarrusel(el);
+      sonidoCumple(el, t);
+      if (D.esCumple(t)) D.cargarScript('secciones/perfil/cumple.js').then(function () { if (D.efectosCumple) D.efectosCumple(t, el); });
       el.addEventListener('click', function (e) { var b = e.target.closest('[data-contactar]'); if (b) abrirContacto(t, b); });
     });
   });

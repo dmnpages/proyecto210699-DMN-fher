@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Jefrollex",
   "ciudad": "Managua",
   "seguidores": "6.7K",
-  "descripcion": "",
+  "descripcion": "Creador de contenido y streamer apasionado por los videojuegos, el anime y la tecnología. Se enfoca en crear transmisiones dinámicas y atractivas para conectar de verdad con su comunidad, buscando siempre llegar a nuevas audiencias a través de colaboraciones creativas y auténticas.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
@@ -22,7 +22,7 @@ Dreamers.talento({
     },
     {
       "plataforma": "Youtube",
-      "enlace": "https://www.youtube.com/c/JefrollexOficial/",
+      "enlace": "https://www.youtube.com/c/JefrollexOficial",
       "seguidores": "6"
     }
   ],
@@ -34,7 +34,8 @@ Dreamers.talento({
   ],
   "ideal": [
     "Gaming",
-    "Eventos"
+    "Eventos",
+    "Anime y cultura pop"
   ],
   "dato": {
     "valor": "73.3K",

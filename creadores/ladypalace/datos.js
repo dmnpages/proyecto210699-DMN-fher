@@ -8,8 +8,7 @@ Dreamers.talento({
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "categorias": [
-    "Cosplayer",
-    "Cosmaker"
+    "Cosplayer"
   ],
   "redes": [
     {
@@ -34,7 +33,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "219.9K",
+    "valor": "220K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

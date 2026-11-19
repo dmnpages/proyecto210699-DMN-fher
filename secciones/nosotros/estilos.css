@@ -5,3 +5,31 @@
 .about li{padding-left:1.4rem; position:relative}
 .about li::before{content:""; position:absolute; left:0; top:.7em; width:.6rem; height:.6rem; background:var(--orange)}
 @media (max-width:820px){ .about{grid-template-columns:1fr; gap:2rem} .about img{max-height:380px} }
+.about.inv > .about-img{order:2}
+.about-img{position:relative}
+.about span.pt{display:block}
+
+/* ---- Equipo (tarjetas, mismo estilo que las de los creadores; sin página propia) ---- */
+.eq-intro{text-align:center; max-width:680px; margin:-1.8rem auto 2.4rem}
+.eq-grid{--gap:1.6rem; --cols:4; display:flex; flex-wrap:wrap; justify-content:center; gap:var(--gap)}
+.eq-card{flex:0 0 calc((100% - (var(--cols) - 1) * var(--gap)) / var(--cols)); min-width:0; background:var(--white); color:var(--text); box-shadow:0 2px 18px rgba(0,0,0,.14); border-radius:4px; overflow:hidden; text-align:center; display:flex; flex-direction:column; position:relative; transition:transform .3s, box-shadow .3s}
+.eq-card:hover{transform:translateY(-4px); box-shadow:0 10px 26px rgba(0,0,0,.2)}
+.eq-ph{position:relative; aspect-ratio:4/5; overflow:hidden; background:var(--navy)}
+.eq-ph img{width:100%; height:100%; object-fit:cover; display:block}
+.eq-inicial,.eq-vacia{width:100%; height:100%; display:grid; place-items:center; font-family:var(--display); font-size:4rem; color:rgba(255,255,255,.85); background:radial-gradient(70% 70% at 70% 20%, color-mix(in srgb, var(--blue) 55%, transparent), transparent 70%), var(--navy)}
+.eq-body{padding:1.1rem 1rem 1.4rem; display:flex; flex-direction:column; align-items:center; gap:.45rem; flex:1}
+.eq-nombre{font-size:1.1rem; color:var(--head)}
+.eq-cargo{margin:0; font-size:.78rem; text-transform:uppercase; letter-spacing:.08em; color:var(--blue); font-weight:700; line-height:1.4}
+.eq-desc{margin:0; font-size:.88rem; line-height:1.6}
+.eq-soc{display:flex; gap:.35rem; justify-content:center; flex-wrap:wrap; margin-top:auto; padding-top:.5rem}
+.eq-soc .red-badge{display:grid; place-items:center; width:30px; height:30px; border-radius:50%; background:var(--head); color:var(--white); overflow:hidden; text-decoration:none}
+.eq-soc .red-icon{width:16px; height:16px; display:block; fill:currentColor}
+.eq-soc .red-badge text{font-size:8px; font-family:Arial, sans-serif; fill:currentColor}
+.eq-sec.dark .eq-card{background:#14213a; color:rgba(255,255,255,.8)}
+.eq-sec.dark .eq-nombre{color:#fff}
+.eq-sec.dark .eq-intro{color:rgba(255,255,255,.8)}
+html[data-modo="oscuro"] .eq-card{background:#14213a; box-shadow:0 2px 18px rgba(0,0,0,.5)}
+html[data-modo="oscuro"] .eq-soc .red-badge{background:#2b3c5c}
+@media (max-width:980px){ .eq-card{flex-basis:calc((100% - 2 * var(--gap)) / 3)} }
+@media (max-width:700px){ .eq-card{flex-basis:calc((100% - var(--gap)) / 2)} }
+@media (max-width:560px){ .eq-grid{--gap:.8rem} .eq-body{padding:.9rem .7rem 1.1rem} }
