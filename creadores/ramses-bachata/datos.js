@@ -1,13 +1,14 @@
 Dreamers.talento({
-  "frames": [],
   "nombre": "Ramses Bachata",
+  "ciudad": "Managua",
+  "seguidores": "3.7K",
+  "descripcion": "Creador de contenido enfocado en el cosplay y la participación en eventos de la comunidad geek.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
   "categorias": [
     "Cosplayer"
   ],
-  "ciudad": "Managua",
-  "seguidores": "3.7K",
-  "descripcion": "",
-  "foto": "foto-admin.webp",
   "redes": [
     {
       "plataforma": "Tiktok",
@@ -15,10 +16,6 @@ Dreamers.talento({
       "seguidores": "3.7K"
     }
   ],
-  "dato": {
-    "valor": "45.4K",
-    "texto": "Likes totales en TikTok"
-  },
   "formatos": [
     "Videos cortos",
     "Cosplay"
@@ -27,6 +24,9 @@ Dreamers.talento({
     "Anime y cultura pop",
     "Eventos"
   ],
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1
+  "dato": {
+    "valor": "45.4K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
 });

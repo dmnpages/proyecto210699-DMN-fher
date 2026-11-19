@@ -33,6 +33,10 @@ Dreamers.contenido.nosotros = {
           {
             "plataforma": "Twitch",
             "enlace": "https://www.twitch.tv/fherrera14"
+          },
+          {
+            "plataforma": "Facebook",
+            "enlace": "https://www.facebook.com/FHerrera14"
           }
         ]
       },

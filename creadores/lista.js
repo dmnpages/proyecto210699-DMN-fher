@@ -27,12 +27,15 @@ Dreamers.listaTalentos = [
   "startter-gamers",
   "tanooki",
   "michelle-murillo",
-  "tate-kc",
   "fer-ciech",
-  "ladypalace",
+  "tate-kc",
   "skeint-mc",
+  "ladypalace",
+  "doggiman",
   "begwitch",
-  "lk-evolution",
   "liss-hana",
-  "ramses-bachata"
+  "ramses-bachata",
+  "shisudool",
+  "lk-evolution",
+  "rookie-lines"
 ];

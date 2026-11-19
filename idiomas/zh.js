@@ -40,6 +40,7 @@ Dreamers.i18n.zh = {
  "Costa Caribe Sur": "南加勒比海岸",
  "Covers": "翻唱",
  "Creador de contenido con el objetivo de crecer y aprender en comunidad. Desea aportar sus habilidades, colaborar y compartir ideas para crear contenido de alta calidad y alcanzar nuevas metas junto a un equipo de trabajo.": "内容创建者的目标是在社区中成长和学习。您希望贡献自己的技能、协作并分享想法，以创建高质量的内容并与工作团队一起实现新的目标。",
+ "Creador de contenido enfocado en el cosplay y la participación en eventos de la comunidad geek.": "内容创作者专注于角色扮演和参与极客社区活动。",
  "Creador de contenido enfocado en el mundo del gaming y la tecnología.": "专注于游戏与科技领域的内容创作者。",
  "Creador de contenido enfocado en el mundo gaming, Minecraft y los directos. También comparte contenido relacionado con medicina y salud, combinando su pasión por crear con su formación en Enfermería. Se caracteriza por su creatividad y entusiasmo por seguir creciendo.": "专注于游戏、我的世界和直播的内容创作者。他还凭借护理专业的背景，分享医学与健康相关内容，将创作热情与专业知识相结合。他富有创意，并始终保持不断成长的热情。",
  "Creador de contenido enfocado en la música, especialmente en la batería, combinando su pasión por los instrumentos con el anime y los videojuegos. Busca motivar a otros a aprender música, compartir sus intereses y seguir creciendo junto a su comunidad.": "专注于音乐（尤其是架子鼓）的内容创作者，将对乐器的热爱与动漫和电子游戏相结合。他希望激励更多人学习音乐，分享自己的兴趣，并与社区一起不断成长。",

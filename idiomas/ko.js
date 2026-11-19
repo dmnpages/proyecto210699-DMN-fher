@@ -40,6 +40,7 @@ Dreamers.i18n.ko = {
  "Costa Caribe Sur": "남카리브 해안",
  "Covers": "커버",
  "Creador de contenido con el objetivo de crecer y aprender en comunidad. Desea aportar sus habilidades, colaborar y compartir ideas para crear contenido de alta calidad y alcanzar nuevas metas junto a un equipo de trabajo.": "커뮤니티에서 성장하고 학습하는 것을 목표로 하는 콘텐츠 제작자입니다. 당신은 자신의 기술을 기여하고, 협업하고, 아이디어를 공유하여 고품질 콘텐츠를 만들고 작업 팀과 함께 새로운 목표를 달성하고 싶습니다.",
+ "Creador de contenido enfocado en el cosplay y la participación en eventos de la comunidad geek.": "코스프레와 괴짜 커뮤니티 이벤트 참여에 중점을 둔 콘텐츠 제작자입니다.",
  "Creador de contenido enfocado en el mundo del gaming y la tecnología.": "게임과 기술 분야에 집중하는 콘텐츠 크리에이터.",
  "Creador de contenido enfocado en el mundo gaming, Minecraft y los directos. También comparte contenido relacionado con medicina y salud, combinando su pasión por crear con su formación en Enfermería. Se caracteriza por su creatividad y entusiasmo por seguir creciendo.": "게임, 마인크래프트, 라이브 방송을 중심으로 활동하는 콘텐츠 크리에이터입니다. 간호학 전공을 살려 의학과 건강 관련 콘텐츠도 공유하며, 창의력과 계속 성장하려는 열정이 돋보입니다.",
  "Creador de contenido enfocado en la música, especialmente en la batería, combinando su pasión por los instrumentos con el anime y los videojuegos. Busca motivar a otros a aprender música, compartir sus intereses y seguir creciendo junto a su comunidad.": "음악, 특히 드럼을 중심으로 활동하는 콘텐츠 크리에이터로, 악기에 대한 열정을 애니메이션과 게임에 접목합니다. 다른 사람들이 음악을 배우도록 동기를 부여하고, 관심사를 나누며 커뮤니티와 함께 성장하는 것을 목표로 합니다.",

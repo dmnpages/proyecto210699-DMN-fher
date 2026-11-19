@@ -83,7 +83,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "139.6K",
+    "valor": "139.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -476,7 +476,7 @@ Dreamers.talento({
     "Cosméticos"
   ],
   "dato": {
-    "valor": "117.1K",
+    "valor": "117.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -721,7 +721,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "592.3K",
+    "valor": "592.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -774,7 +774,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "729.3K",
+    "valor": "729.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -875,7 +875,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "543K",
+    "valor": "544K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -956,7 +956,7 @@ Dreamers.talento({
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/dragonxlrgames/",
-      "seguidores": "100"
+      "seguidores": "101"
     },
     {
       "plataforma": "Kick",
@@ -1324,6 +1324,50 @@ Dreamers.talento({
   },
   "frames": []
 });
+Dreamers._actual="fer-ciech";
+Dreamers.talento({
+  "nombre": " Fer Ciech",
+  "ciudad": "Carazo",
+  "correo": "ferciech06@gmail.com",
+  "seguidores": "10.8K",
+  "descripcion": "Cosplayer nacional con 10 años de experiencia. Comparte sus procesos, técnicas y materiales en redes sociales. Busca unirse al equipo para aportar contenido de valor, compartir sus conocimientos y motivar a otros, ayudando a crecer y fortalecer la comunidad en el país.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "categorias": [
+    "Cosplayer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@ferciech",
+      "seguidores": "6.4K"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/ferciech/",
+      "seguidores": "3.4K"
+    },
+    {
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/ferciechcosplay",
+      "seguidores": "1K"
+    }
+  ],
+  "formatos": [
+    "Cosplay",
+    "Videos cortos"
+  ],
+  "ideal": [
+    "Anime y cultura pop",
+    "Eventos"
+  ],
+  "dato": {
+    "valor": "341.4K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
 Dreamers._actual="tate-kc";
 Dreamers.talento({
   "frames": [],
@@ -1371,51 +1415,7 @@ Dreamers.talento({
   "posicionFoto": "46.50001907348633% 58.5%",
   "fotoZoom": 1.17
 });
-Dreamers._actual="fer-ciech";
-Dreamers.talento({
-  "nombre": " Fer Ciech",
-  "ciudad": "Carazo",
-  "correo": "ferciech06@gmail.com",
-  "seguidores": "10.8K",
-  "descripcion": "Cosplayer nacional con 10 años de experiencia. Comparte sus procesos, técnicas y materiales en redes sociales. Busca unirse al equipo para aportar contenido de valor, compartir sus conocimientos y motivar a otros, ayudando a crecer y fortalecer la comunidad en el país.",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "categorias": [
-    "Cosplayer"
-  ],
-  "redes": [
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@ferciech",
-      "seguidores": "6.4K"
-    },
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/ferciech/",
-      "seguidores": "3.4K"
-    },
-    {
-      "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/ferciechcosplay",
-      "seguidores": "1K"
-    }
-  ],
-  "formatos": [
-    "Cosplay",
-    "Videos cortos"
-  ],
-  "ideal": [
-    "Anime y cultura pop",
-    "Eventos"
-  ],
-  "dato": {
-    "valor": "341.1K",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="ladypalace";
+Dreamers._actual="skeint-mc";
 Dreamers.talento({
   "nombre": " Ladypalace",
   "ciudad": "Managua",
@@ -1443,7 +1443,8 @@ Dreamers.talento({
   "formatos": [
     "Videos Cortos",
     "LifeStyle",
-    "Cosplay"
+    "Cosplay",
+    "Retos"
   ],
   "ideal": [
     "Eventos",
@@ -1456,7 +1457,7 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="skeint-mc";
+Dreamers._actual="ladypalace";
 Dreamers.talento({
   "nombre": "Skeint MC",
   "ciudad": "Matagalpa",
@@ -1510,50 +1511,43 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="begwitch";
+Dreamers._actual="doggiman";
 Dreamers.talento({
-  "nombre": "Begwitch",
-  "ciudad": "León",
-  "correo": "begoiid@gmail.com",
-  "seguidores": "10.7K",
-  "descripcion": "Cosplayer enfocada en conectar con personas que comparten su pasión. Su meta es encontrar un espacio para aportar su creatividad, mostrar sus procesos y crear contenido fresco que dé mayor visibilidad a la comunidad cosplayer del país.",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
+  "frames": [],
+  "nombre": "Doggiman",
   "categorias": [
-    "Cosplayer"
+    "Streamer"
   ],
+  "ciudad": "Managua",
+  "seguidores": "2.2K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
   "redes": [
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@begwitch",
-      "seguidores": "3.1K"
+      "enlace": "https://www.tiktok.com/@doggiman7",
+      "seguidores": "1.6K"
     },
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/begwitch",
-      "seguidores": "4.3K"
-    },
-    {
-      "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/begwitchcosplay",
-      "seguidores": "3.3K"
+      "enlace": "https://www.instagram.com/doggiman7/",
+      "seguidores": "571"
     }
   ],
-  "formatos": [
-    "Cosplay"
-  ],
-  "ideal": [
-    "Anime y cultura pop",
-    "Eventos"
-  ],
   "dato": {
-    "valor": "94.9K",
+    "valor": "46.9K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": []
+  "formatos": [
+    "Videos cortos"
+  ],
+  "ideal": [
+    "Gaming"
+  ],
+  "posicionFoto": "50% 50.25%",
+  "fotoZoom": 1
 });
-Dreamers._actual="lk-evolution";
+Dreamers._actual="begwitch";
 Dreamers.talento({
   "frames": [],
   "nombre": "Lk Evolution",
@@ -1632,15 +1626,16 @@ Dreamers.talento({
 });
 Dreamers._actual="ramses-bachata";
 Dreamers.talento({
-  "frames": [],
   "nombre": "Ramses Bachata",
+  "ciudad": "Managua",
+  "seguidores": "3.7K",
+  "descripcion": "Creador de contenido enfocado en el cosplay y la participación en eventos de la comunidad geek.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
   "categorias": [
     "Cosplayer"
   ],
-  "ciudad": "Managua",
-  "seguidores": "3.7K",
-  "descripcion": "",
-  "foto": "foto-admin.webp",
   "redes": [
     {
       "plataforma": "Tiktok",
@@ -1648,10 +1643,6 @@ Dreamers.talento({
       "seguidores": "3.7K"
     }
   ],
-  "dato": {
-    "valor": "45.4K",
-    "texto": "Likes totales en TikTok"
-  },
   "formatos": [
     "Videos cortos",
     "Cosplay"
@@ -1660,6 +1651,129 @@ Dreamers.talento({
     "Anime y cultura pop",
     "Eventos"
   ],
+  "dato": {
+    "valor": "45.4K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="shisudool";
+Dreamers.talento({
+  "nombre": "Shisudool",
+  "ciudad": "Chinandega",
+  "correo": "shisudoolcontacto@gmail.com",
+  "seguidores": "4.2K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
-  "fotoZoom": 1
+  "fotoZoom": 1,
+  "categorias": [
+    "vTuber",
+    "Cosplayer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@shisudool",
+      "seguidores": "154"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/shisudool",
+      "seguidores": "4K"
+    },
+    {
+      "plataforma": "X",
+      "enlace": "https://x.com/sh1sudo0l_",
+      "seguidores": "5"
+    }
+  ],
+  "formatos": [
+    "Cosplay"
+  ],
+  "ideal": [
+    "Anime y cultura pop",
+    "Eventos"
+  ],
+  "dato": {
+    "valor": "4.8K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="lk-evolution";
+Dreamers.talento({
+  "nombre": "Begwitch",
+  "ciudad": "León",
+  "correo": "begoiid@gmail.com",
+  "seguidores": "10.7K",
+  "descripcion": "Cosplayer enfocada en conectar con personas que comparten su pasión. Su meta es encontrar un espacio para aportar su creatividad, mostrar sus procesos y crear contenido fresco que dé mayor visibilidad a la comunidad cosplayer del país.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "categorias": [
+    "Cosplayer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@begwitch",
+      "seguidores": "3.1K"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/begwitch",
+      "seguidores": "4.3K"
+    },
+    {
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/begwitchcosplay",
+      "seguidores": "3.3K"
+    }
+  ],
+  "formatos": [
+    "Cosplay"
+  ],
+  "ideal": [
+    "Anime y cultura pop",
+    "Eventos"
+  ],
+  "dato": {
+    "valor": "94.9K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="rookie-lines";
+Dreamers.talento({
+  "nombre": "Rookie Lines",
+  "ciudad": "Masaya",
+  "correo": "cmaj14i@gmail.com",
+  "seguidores": "1.3K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "categorias": [],
+  "redes": [
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@rookie.lines?_r=1&_t=ZS-9BVtSZ9S9sA",
+      "seguidores": "1.2K"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/rookie.lines14?jplx=MXk5YXV5ZnFvdmY4",
+      "seguidores": "122"
+    }
+  ],
+  "formatos": [
+    "Videos cortos"
+  ],
+  "ideal": [],
+  "dato": {
+    "valor": "19.2K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
 });

@@ -29,7 +29,7 @@ Dreamers.talento({
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/dragonxlrgames/",
-      "seguidores": "100"
+      "seguidores": "101"
     },
     {
       "plataforma": "Kick",

@@ -1,0 +1,32 @@
+Dreamers.talento({
+  "nombre": "Rookie Lines",
+  "ciudad": "Masaya",
+  "correo": "cmaj14i@gmail.com",
+  "seguidores": "1.3K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "categorias": [],
+  "redes": [
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@rookie.lines?_r=1&_t=ZS-9BVtSZ9S9sA",
+      "seguidores": "1.2K"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/rookie.lines14?jplx=MXk5YXV5ZnFvdmY4",
+      "seguidores": "122"
+    }
+  ],
+  "formatos": [
+    "Videos cortos"
+  ],
+  "ideal": [],
+  "dato": {
+    "valor": "19.2K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
