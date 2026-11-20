@@ -1823,8 +1823,12 @@ Dreamers.talento({
     "valor": "74K",
     "texto": "Likes totales en TikTok"
   },
-  "formatos": [],
-  "ideal": [],
+  "formatos": [
+    "Videos cortos"
+  ],
+  "ideal": [
+    "Gaming"
+  ],
   "correo": "aishanana0125@gmail.com",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1
@@ -1864,8 +1868,12 @@ Dreamers.talento({
       "seguidores": "27"
     }
   ],
-  "formatos": [],
-  "ideal": [],
+  "formatos": [
+    "Videos cortos"
+  ],
+  "ideal": [
+    "Gaming"
+  ],
   "dato": {
     "valor": "10.3K",
     "texto": "Likes totales en TikTok"
