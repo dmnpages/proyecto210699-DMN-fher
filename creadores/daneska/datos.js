@@ -13,7 +13,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/daneska_solorzano/",
-      "seguidores": "718"
+      "seguidores": "716"
     },
     {
       "plataforma": "Tiktok",

@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Tanooki",
   "ciudad": "",
-  "seguidores": "1.7K",
+  "seguidores": "1.8K",
   "descripcion": "Creadora de contenido e ilustradora digital, le encanta conectar con las personas, crear y divertirse en colaboraciones.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -19,7 +19,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/tanooki_ni",
-      "seguidores": "19"
+      "seguidores": "20"
     },
     {
       "plataforma": "Facebook",

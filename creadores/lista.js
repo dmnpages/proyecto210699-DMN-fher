@@ -37,5 +37,7 @@ Dreamers.listaTalentos = [
   "begwitch",
   "ramses-bachata",
   "shisudool",
-  "rookie-lines"
+  "rookie-lines",
+  "aishanana",
+  "karu"
 ];

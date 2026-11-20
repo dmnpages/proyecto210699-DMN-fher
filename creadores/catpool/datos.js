@@ -19,6 +19,11 @@ Dreamers.talento({
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@catpool01/",
       "seguidores": "1.5K"
+    },
+    {
+      "plataforma": "Twitch",
+      "enlace": "https://www.twitch.tv/catpool0",
+      "seguidores": "22"
     }
   ],
   "formatos": [

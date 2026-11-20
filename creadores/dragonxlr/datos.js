@@ -14,7 +14,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/dragonxlrgames/",
-      "seguidores": "201"
+      "seguidores": "200"
     },
     {
       "plataforma": "Tiktok",

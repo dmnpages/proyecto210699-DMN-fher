@@ -19,7 +19,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@sniva2509/",
-      "seguidores": "310"
+      "seguidores": "311"
     },
     {
       "plataforma": "Facebook",

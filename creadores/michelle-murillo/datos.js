@@ -35,7 +35,7 @@ Dreamers.talento({
     "Cosméticos"
   ],
   "dato": {
-    "valor": "436.7K",
+    "valor": "437.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
