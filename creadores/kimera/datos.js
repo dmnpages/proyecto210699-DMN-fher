@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "KimeraSM",
   "ciudad": "Managua",
-  "seguidores": "7.5K",
+  "seguidores": "8.2K",
   "descripcion": "Creador de contenido enfocado en el mundo del gaming y la tecnología.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -14,12 +14,12 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/kimera_sm/",
-      "seguidores": "325"
+      "seguidores": "326"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@kimerasm/",
-      "seguidores": "6.4K"
+      "seguidores": "7K"
     },
     {
       "plataforma": "Youtube",
@@ -29,7 +29,7 @@ Dreamers.talento({
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/kimerasm",
-      "seguidores": "186"
+      "seguidores": "295"
     }
   ],
   "formatos": [
@@ -45,7 +45,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "140.6K",
+    "valor": "142K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

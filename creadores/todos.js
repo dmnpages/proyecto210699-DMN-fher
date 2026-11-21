@@ -35,7 +35,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "49.3K",
+    "valor": "49.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -92,7 +92,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "138.6K",
+    "valor": "138.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -101,7 +101,7 @@ Dreamers._actual="kimera";
 Dreamers.talento({
   "nombre": "KimeraSM",
   "ciudad": "Managua",
-  "seguidores": "7.5K",
+  "seguidores": "8.2K",
   "descripcion": "Creador de contenido enfocado en el mundo del gaming y la tecnología.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -114,12 +114,12 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/kimera_sm/",
-      "seguidores": "325"
+      "seguidores": "326"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@kimerasm/",
-      "seguidores": "6.4K"
+      "seguidores": "7K"
     },
     {
       "plataforma": "Youtube",
@@ -129,7 +129,7 @@ Dreamers.talento({
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/kimerasm",
-      "seguidores": "186"
+      "seguidores": "295"
     }
   ],
   "formatos": [
@@ -145,7 +145,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "140.6K",
+    "valor": "142K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -196,7 +196,7 @@ Dreamers._actual="sirmitu";
 Dreamers.talento({
   "nombre": "SirMitu",
   "ciudad": "Estelí",
-  "seguidores": "37.3K",
+  "seguidores": "37.5K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -208,12 +208,12 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/sr.mitu/",
-      "seguidores": "202"
+      "seguidores": "203"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@sir.mitu/",
-      "seguidores": "37.1K"
+      "seguidores": "37.3K"
     }
   ],
   "formatos": [
@@ -380,7 +380,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/fresita_agridulce_/",
-      "seguidores": "602"
+      "seguidores": "601"
     },
     {
       "plataforma": "Tiktok",
@@ -448,7 +448,7 @@ Dreamers.talento({
     "Musicales"
   ],
   "dato": {
-    "valor": "50.5K",
+    "valor": "50.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -537,7 +537,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "73.3K",
+    "valor": "73.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -641,7 +641,7 @@ Dreamers._actual="indira";
 Dreamers.talento({
   "nombre": "Indira Pellas",
   "ciudad": "Managua",
-  "seguidores": "23.8K",
+  "seguidores": "23.7K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -659,7 +659,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@indirapellas/",
-      "seguidores": "18K"
+      "seguidores": "17.9K"
     },
     {
       "plataforma": "Facebook",
@@ -669,7 +669,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@indirapellas/",
-      "seguidores": "399"
+      "seguidores": "400"
     }
   ],
   "formatos": [
@@ -684,7 +684,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "270.1K",
+    "valor": "270.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -693,7 +693,7 @@ Dreamers._actual="jaden-garcia";
 Dreamers.talento({
   "nombre": "Jaden Garcia",
   "ciudad": "Managua",
-  "seguidores": "52.2K",
+  "seguidores": "52.4K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "51.5625% 62%",
@@ -712,7 +712,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@jadengarciaaaa/",
-      "seguidores": "42.7K"
+      "seguidores": "42.9K"
     },
     {
       "plataforma": "Facebook",
@@ -736,7 +736,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "592.9K",
+    "valor": "593.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -745,7 +745,7 @@ Dreamers._actual="flamera";
 Dreamers.talento({
   "nombre": "Flamera",
   "ciudad": "",
-  "seguidores": "35.2K",
+  "seguidores": "35.3K",
   "descripcion": "Creadora de contenido, streamer y cosplayer nicaragüense, apasionada por los videojuegos, el anime y la cultura geek. Le encanta compartir sus hobbies y conectar con la comunidad geek del país.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50.3125%",
@@ -768,12 +768,12 @@ Dreamers.talento({
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/profile.php?id=61576859537067",
-      "seguidores": "3.5K"
+      "seguidores": "3.6K"
     },
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@flameraa",
-      "seguidores": "801"
+      "seguidores": "807"
     }
   ],
   "formatos": [
@@ -789,7 +789,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "731K",
+    "valor": "732K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -850,7 +850,7 @@ Dreamers._actual="netsu";
 Dreamers.talento({
   "nombre": "Netsugames",
   "ciudad": "",
-  "seguidores": "24.5K",
+  "seguidores": "24.7K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "43.10937500000001% 49.375%",
@@ -867,7 +867,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@netsugames/",
-      "seguidores": "20.4K"
+      "seguidores": "20.6K"
     },
     {
       "plataforma": "Facebook",
@@ -890,7 +890,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "562.6K",
+    "valor": "573.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -934,7 +934,7 @@ Dreamers.talento({
     "Entretenimiento"
   ],
   "dato": {
-    "valor": "13.9M",
+    "valor": "14M",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -956,7 +956,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/dragonxlrgames/",
-      "seguidores": "200"
+      "seguidores": "201"
     },
     {
       "plataforma": "Tiktok",
@@ -1053,7 +1053,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "20.6K",
+    "valor": "20.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1124,7 +1124,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/olesliedayana/",
-      "seguidores": "466"
+      "seguidores": "467"
     },
     {
       "plataforma": "Tiktok",
@@ -1188,7 +1188,7 @@ Dreamers.talento({
     "Musicales"
   ],
   "dato": {
-    "valor": "350K",
+    "valor": "350.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1334,7 +1334,7 @@ Dreamers.talento({
     "Cosméticos"
   ],
   "dato": {
-    "valor": "437.2K",
+    "valor": "437.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1344,7 +1344,7 @@ Dreamers.talento({
   "nombre": " Fer Ciech",
   "ciudad": "Carazo",
   "correo": "ferciech06@gmail.com",
-  "seguidores": "11.2K",
+  "seguidores": "11.4K",
   "descripcion": "Cosplayer nacional con 10 años de experiencia. Comparte sus procesos, técnicas y materiales en redes sociales. Busca unirse al equipo para aportar contenido de valor, compartir sus conocimientos y motivar a otros, ayudando a crecer y fortalecer la comunidad en el país.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -1356,12 +1356,12 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@ferciech",
-      "seguidores": "6.5K"
+      "seguidores": "6.6K"
     },
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/ferciech/",
-      "seguidores": "3.7K"
+      "seguidores": "3.8K"
     },
     {
       "plataforma": "Facebook",
@@ -1378,7 +1378,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "344.3K",
+    "valor": "345.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1398,7 +1398,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/tate_kc_/",
-      "seguidores": "986"
+      "seguidores": "985"
     },
     {
       "plataforma": "Tiktok",
@@ -1462,12 +1462,12 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/skeint_mc",
-      "seguidores": "419"
+      "seguidores": "420"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@skeint_mc",
-      "seguidores": "172"
+      "seguidores": "171"
     }
   ],
   "formatos": [
@@ -1546,7 +1546,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/doggiman7/",
-      "seguidores": "574"
+      "seguidores": "575"
     }
   ],
   "dato": {
@@ -1572,7 +1572,9 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "57.1875% 24.25%",
   "fotoZoom": 1.69,
-  "categorias": [],
+  "categorias": [
+    "Streamer"
+  ],
   "redes": [
     {
       "plataforma": "Tiktok",
@@ -1595,7 +1597,7 @@ Dreamers.talento({
   ],
   "ideal": [],
   "dato": {
-    "valor": "960.2K",
+    "valor": "960.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1677,7 +1679,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "95K",
+    "valor": "95.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1720,7 +1722,7 @@ Dreamers.talento({
   "nombre": "Shisudool",
   "ciudad": "Chinandega",
   "correo": "shisudoolcontacto@gmail.com",
-  "seguidores": "4.2K",
+  "seguidores": "4.3K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -1733,12 +1735,12 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@shisudool",
-      "seguidores": "154"
+      "seguidores": "155"
     },
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/shisudool",
-      "seguidores": "4K"
+      "seguidores": "4.1K"
     },
     {
       "plataforma": "X",
@@ -1754,7 +1756,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "4.8K",
+    "valor": "4.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1781,7 +1783,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/rookie.lines14?jplx=MXk5YXV5ZnFvdmY4",
-      "seguidores": "122"
+      "seguidores": "123"
     }
   ],
   "formatos": [
@@ -1791,7 +1793,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "19.2K",
+    "valor": "19.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1820,7 +1822,7 @@ Dreamers.talento({
     }
   ],
   "dato": {
-    "valor": "74K",
+    "valor": "74.1K",
     "texto": "Likes totales en TikTok"
   },
   "formatos": [
@@ -1855,7 +1857,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@rvkaru",
-      "seguidores": "640"
+      "seguidores": "639"
     },
     {
       "plataforma": "Tiktok",

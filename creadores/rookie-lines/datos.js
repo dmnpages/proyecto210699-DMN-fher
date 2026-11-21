@@ -19,7 +19,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/rookie.lines14?jplx=MXk5YXV5ZnFvdmY4",
-      "seguidores": "122"
+      "seguidores": "123"
     }
   ],
   "formatos": [
@@ -29,7 +29,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "19.2K",
+    "valor": "19.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

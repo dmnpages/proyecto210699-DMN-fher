@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Shisudool",
   "ciudad": "Chinandega",
   "correo": "shisudoolcontacto@gmail.com",
-  "seguidores": "4.2K",
+  "seguidores": "4.3K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -15,12 +15,12 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@shisudool",
-      "seguidores": "154"
+      "seguidores": "155"
     },
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/shisudool",
-      "seguidores": "4K"
+      "seguidores": "4.1K"
     },
     {
       "plataforma": "X",
@@ -36,7 +36,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "4.8K",
+    "valor": "4.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

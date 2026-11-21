@@ -35,7 +35,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "95K",
+    "valor": "95.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

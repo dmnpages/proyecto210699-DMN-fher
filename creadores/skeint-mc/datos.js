@@ -29,12 +29,12 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/skeint_mc",
-      "seguidores": "419"
+      "seguidores": "420"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@skeint_mc",
-      "seguidores": "172"
+      "seguidores": "171"
     }
   ],
   "formatos": [

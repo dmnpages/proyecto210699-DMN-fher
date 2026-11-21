@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "SirMitu",
   "ciudad": "Estelí",
-  "seguidores": "37.3K",
+  "seguidores": "37.5K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -13,12 +13,12 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/sr.mitu/",
-      "seguidores": "202"
+      "seguidores": "203"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@sir.mitu/",
-      "seguidores": "37.1K"
+      "seguidores": "37.3K"
     }
   ],
   "formatos": [

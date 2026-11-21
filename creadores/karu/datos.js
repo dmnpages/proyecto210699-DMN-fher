@@ -19,7 +19,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@rvkaru",
-      "seguidores": "640"
+      "seguidores": "639"
     },
     {
       "plataforma": "Tiktok",

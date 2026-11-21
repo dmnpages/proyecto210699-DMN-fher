@@ -7,7 +7,9 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "57.1875% 24.25%",
   "fotoZoom": 1.69,
-  "categorias": [],
+  "categorias": [
+    "Streamer"
+  ],
   "redes": [
     {
       "plataforma": "Tiktok",
@@ -30,7 +32,7 @@ Dreamers.talento({
   ],
   "ideal": [],
   "dato": {
-    "valor": "960.2K",
+    "valor": "960.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
