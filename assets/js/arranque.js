@@ -16,8 +16,12 @@
     D.limpiarBarra();
     D.cargarScript('assets/js/temporada.js');
   }
-  Promise.all([D.cargarTalentos(), D.cargarScript('secciones/textos/contenido.js')])
-    .then(function () { D.cumpleanerosPrimero(); })
+  Promise.all([D.cargarTalentos(), D.cargarScript('secciones/textos/contenido.js'), D.cargarFormulario()])
+    .then(function () {
+      if (!D.formularioActivo() && document.querySelector('[data-pagina="unete"]')) { D.mostrar404(); return Promise.reject('404-formulario'); }
+      D.cumpleanerosPrimero();
+    })
     .then(function () { return D.idioma ? D.idioma.iniciar() : null; })   // traduce textos y creadores si el visitante eligió otro idioma
-    .then(pintar);
+    .then(pintar)
+    .catch(function (e) { if (e !== '404-formulario') throw e; });
 })();

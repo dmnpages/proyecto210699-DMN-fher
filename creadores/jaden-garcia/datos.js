@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "51.5625% 62%",
   "fotoZoom": 1.24,
+  "genero": "H",
   "categorias": [
     "Streamer",
     "DJ",
@@ -20,7 +21,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@jadengarciaaaa/",
-      "seguidores": "42.9K"
+      "seguidores": "42.9K",
+      "clave": true
     },
     {
       "plataforma": "Facebook",
@@ -44,7 +46,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "593.5K",
+    "valor": "593.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

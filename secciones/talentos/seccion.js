@@ -12,11 +12,7 @@
     }
     function tarjeta(t) {
       var url = D.rutaTalento(t.carpeta);
-      var soc = (t.redes || []).map(function (r) {
-        var href = D.enlaceRed(r);
-        return href ? '<a class="red-badge" href="' + D.esc(href) + '" target="_blank" rel="noopener noreferrer" title="' + D.esc(r.plataforma) + '">' + D.iconoRed(r.plataforma) + '</a>'
-                    : '<span class="red-badge" title="' + D.esc(r.plataforma) + '">' + D.iconoRed(r.plataforma) + '</span>';
-      }).join('');
+      var soc = D.insigniasRedes(t);
       return '<article class="card' + D.claseCumple(t) + '"><a class="ph" href="' + url + '" tabindex="-1" aria-hidden="true">' + D.img(D.rutaFoto(t), '', t) + D.confeti(t) + '</a>' +
         '<div class="body">' + D.insigniaCumple(t) + '<h3><a href="' + url + '">' + D.esc(t.nombre) + '</a></h3><div class="soc">' + soc + '</div>' +
         '<div class="fol">' + D.esc(D.totalSeguidores(t)) + '+<small>' + D.esc(c.etiquetaSeguidores) + '</small></div>' +
@@ -43,7 +39,7 @@
         '</div></div><p class="filtro-estado" role="status" aria-live="polite"></p>';
     }
     var cv = c.convocatoria, convocatoria = '';
-    if (cv && cv.boton) {
+    if (cv && cv.boton && D.formularioActivo()) {
       convocatoria = '<aside class="convocatoria" aria-labelledby="convocatoria-t">' +
         '<h3 id="convocatoria-t">' + D.esc(cv.titulo) + '</h3>' +
         '<p>' + D.esc(cv.texto) + '</p>' +

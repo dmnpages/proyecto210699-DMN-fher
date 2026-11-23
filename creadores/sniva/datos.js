@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "M",
   "categorias": [
     "Streamer",
     "Cosplayer"
@@ -19,12 +20,13 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@sniva2509/",
-      "seguidores": "311"
+      "seguidores": "313"
     },
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/sniva1825",
-      "seguidores": "14K"
+      "seguidores": "14K",
+      "clave": true
     },
     {
       "plataforma": "Youtube",
@@ -51,7 +53,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "20.7K",
+    "valor": "20.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

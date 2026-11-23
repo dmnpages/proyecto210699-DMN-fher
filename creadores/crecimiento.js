@@ -1,2 +1,2 @@
 /* Generado por historial.py cada vez que se guarda el historial. No hace falta editarlo. */
-Dreamers.crecimiento = {"semana": "kimera", "promesa": "fer-ciech", "fecha": "2026-11-20", "ganados": 1409, "porcentaje": 8.6};
+Dreamers.crecimiento = {"semana": "flamera", "promesa": "kimera", "fecha": "2026-11-23", "ganados": 1724, "porcentaje": 21.7};

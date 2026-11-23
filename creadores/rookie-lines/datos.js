@@ -2,11 +2,12 @@ Dreamers.talento({
   "nombre": "Rookie Lines",
   "ciudad": "Masaya",
   "correo": "cmaj14i@gmail.com",
-  "seguidores": "1.3K",
+  "seguidores": "1.4K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "H",
   "categorias": [
     "Streamer"
   ],
@@ -14,7 +15,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@rookie.lines?_r=1&_t=ZS-9BVtSZ9S9sA",
-      "seguidores": "1.2K"
+      "seguidores": "1.3K",
+      "clave": true
     },
     {
       "plataforma": "Instagram",

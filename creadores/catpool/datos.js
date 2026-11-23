@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "H",
   "categorias": [
     "Streamer"
   ],
@@ -18,7 +19,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@catpool01/",
-      "seguidores": "1.5K"
+      "seguidores": "1.5K",
+      "clave": true
     },
     {
       "plataforma": "Twitch",

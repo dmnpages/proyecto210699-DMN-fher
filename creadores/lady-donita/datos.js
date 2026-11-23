@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 49.6875%",
   "fotoZoom": 1.28,
+  "genero": "M",
   "categorias": [
     "Streamer",
     "Cosplayer"
@@ -19,7 +20,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@ladydonita/",
-      "seguidores": "10.1K"
+      "seguidores": "10.1K",
+      "clave": true
     },
     {
       "plataforma": "Facebook",
@@ -44,7 +46,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "408.1K",
+    "valor": "408.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

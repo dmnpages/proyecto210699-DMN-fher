@@ -7,6 +7,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "H",
   "categorias": [
     "Cosplayer"
   ],
@@ -14,7 +15,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@ferciech",
-      "seguidores": "6.6K"
+      "seguidores": "6.6K",
+      "clave": true
     },
     {
       "plataforma": "Instagram",
@@ -36,7 +38,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "345.4K",
+    "valor": "346.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

@@ -7,14 +7,17 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "M",
   "categorias": [
-    "Cosplayer"
+    "Cosplayer",
+    "Cosmaker"
   ],
   "redes": [
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@ladypalacecosplay",
-      "seguidores": "3.9K"
+      "seguidores": "3.9K",
+      "clave": true
     },
     {
       "plataforma": "Instagram",
@@ -34,7 +37,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "220K",
+    "valor": "220.1K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

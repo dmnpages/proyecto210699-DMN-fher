@@ -1,11 +1,12 @@
 Dreamers.talento({
   "nombre": "Yanfluu",
   "ciudad": "Chinandega",
-  "seguidores": "39.7K",
+  "seguidores": "39.8K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "H",
   "categorias": [
     "Streamer"
   ],
@@ -18,7 +19,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@yanfluu/",
-      "seguidores": "38.4K"
+      "seguidores": "38.5K",
+      "clave": true
     },
     {
       "plataforma": "Twitch",

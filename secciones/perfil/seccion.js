@@ -151,8 +151,9 @@
       var redes = (t.redes || []).map(function (r) {
         var href = D.enlaceRed(r), n = D.numSeguidores(r.seguidores);
         var cifra = n !== null ? D.formatoSeguidores(n) : (r.seguidores ? D.esc(r.seguidores) : '');
-        var interior = '<b>' + D.iconoRed(r.plataforma) + D.esc(r.plataforma) + '</b><span>' + (cifra ? cifra + ' ' + (c.seguidoresRed || 'seguidores') : (href ? (c.verPerfil || 'Ver perfil') : '')) + (href ? ' &#8599;' : '') + '</span>';
-        return '<li>' + (href ? '<a class="net" href="' + D.esc(href) + '" target="_blank" rel="noopener noreferrer">' + interior + '</a>' : '<div class="net">' + interior + '</div>') + '</li>';
+        var clave = D.esRedClave(r);
+        var interior = '<b>' + D.iconoRed(r.plataforma) + D.esc(r.plataforma) + (clave ? '<em class="pill-clave">&#9733; ' + D.esc(c.redClave || 'Red clave') + '</em>' : '') + '</b><span>' + (cifra ? cifra + ' ' + (c.seguidoresRed || 'seguidores') : (href ? (c.verPerfil || 'Ver perfil') : '')) + (href ? ' &#8599;' : '') + '</span>';
+        return '<li' + (clave ? ' class="net-clave" data-redclave="' + D.esc(D.claveRed(r.plataforma)) + '"' : '') + '>' + (href ? '<a class="net" href="' + D.esc(href) + '" target="_blank" rel="noopener noreferrer">' + interior + '</a>' : '<div class="net">' + interior + '</div>') + '</li>';
       }).join('');
       var dato = (t.dato && t.dato.valor) ? '<div><b>' + D.esc(t.dato.valor) + '</b><span>' + D.esc(t.dato.texto) + '</span></div>' : '';
       var elegidos = elegirContenido(t, auto);
@@ -169,9 +170,52 @@
         '<div><h2>' + D.esc(c.tituloRedes) + '</h2><ul class="netlist">' + redes + '</ul></div>' +
         '<div><h2>' + D.esc(c.tituloFormatos) + '</h2>' + lista(t.formatos, 'pills') + '</div>' +
         '<div><h2>' + D.esc(c.tituloIdeal) + '</h2>' + lista(t.ideal, 'pills') + '</div></div>' +
-        mediosHtml +
+        crecimientoHtml(t) + mediosHtml +
         '<div class="pager"><a href="' + D.rutaTalento(ant.carpeta) + '">&larr; ' + D.esc(ant.nombre) + '</a>' +
         '<a href="' + D.rutaTalento(sig.carpeta) + '">' + D.esc(sig.nombre) + ' &rarr;</a></div></div></section>';
+    }
+    // ---- Crecimiento: seguidores totales desde que se empezó a medir hasta hoy (datos públicos de creadores/crecimiento.js).
+    function totalNumero(t) {
+      var suma = 0, hay = false;
+      (t.redes || []).forEach(function (r) { var n = D.numSeguidores(r.seguidores); if (n !== null) { suma += n; hay = true; } });
+      return hay ? suma : D.numSeguidores(t.seguidores);
+    }
+    function fechaLarga(iso) {
+      var p = String(iso).split('-'), f = new Date(+p[0], +p[1] - 1, +p[2]);
+      var lang = (D.idioma && D.idioma.actual) || 'es';
+      try { return f.toLocaleDateString(lang === 'es' ? 'es-419' : lang, { day: 'numeric', month: 'short', year: 'numeric' }); } catch (e) { return iso; }
+    }
+    function loc() { var l = D.idioma && D.idioma.actual; return !l || l === 'es' ? 'es-419' : l; }
+    function miles(n) { return Math.abs(n).toLocaleString(loc()); }
+    function crecimientoHtml(t) {
+      var serie = (((D.crecimiento || {}).series || {})[t.carpeta] || []).filter(function (p) { return p && typeof p[1] === 'number'; });
+      var titulo = '<h2>' + D.esc(c.crecimientoTitulo) + '</h2>';
+      if (serie.length < 2) return '<section class="crec">' + titulo + '<p class="crec-vacio">' + D.esc(c.crecimientoSin) + '</p></section>';
+      var ahora = totalNumero(t), pts = serie.map(function (p) { return [p[0], p[1]]; });
+      if (ahora !== null) pts[pts.length - 1][1] = ahora;          // el último punto es el número que ve el visitante hoy
+      var ini = pts[0], fin = pts[pts.length - 1], dif = fin[1] - ini[1];
+      var pct = ini[1] > 0 ? Math.round(dif / ini[1] * 1000) / 10 : null;
+      var signo = dif > 0 ? '+' : (dif < 0 ? '\u2212' : '');
+      var cls = dif > 0 ? 'sube' : (dif < 0 ? 'baja' : 'igual');
+      var W = 320, H = 120, PX = 8, PY = 14, min = Math.min.apply(null, pts.map(function (p) { return p[1]; })), max = Math.max.apply(null, pts.map(function (p) { return p[1]; }));
+      var t0 = new Date(ini[0]).getTime(), t1 = new Date(fin[0]).getTime(), rango = Math.max(1, max - min);
+      var xy = pts.map(function (p, k) {
+        var x = t1 > t0 ? PX + (new Date(p[0]).getTime() - t0) / (t1 - t0) * (W - 2 * PX) : PX + k * (W - 2 * PX) / Math.max(1, pts.length - 1);
+        var y = max === min ? H / 2 : H - PY - (p[1] - min) / rango * (H - 2 * PY);
+        return [Math.round(x * 10) / 10, Math.round(y * 10) / 10];
+      });
+      var linea = xy.map(function (q, k) { return (k ? 'L' : 'M') + q[0] + ' ' + q[1]; }).join(' ');
+      var area = linea + ' L' + xy[xy.length - 1][0] + ' ' + (H - PY + 6) + ' L' + xy[0][0] + ' ' + (H - PY + 6) + ' Z';
+      var resumen = (dif === 0 ? (c.crecimientoIgual || 'Sin cambios') : signo + miles(dif)) + ' ' + c.crecimientoSeguidores + ' ' + String(c.crecimientoDesde).replace('{fecha}', fechaLarga(ini[0]));
+      var ult = xy[xy.length - 1];
+      return '<section class="crec ' + cls + '">' + titulo + '<div class="crec-caja"><div class="crec-num"><b>' + (dif === 0 ? D.esc((c.crecimientoIgual || 'Sin cambios')) : signo + miles(dif)) + '</b>' +
+        '<span>' + D.esc(c.crecimientoSeguidores) + ' ' + D.esc(String(c.crecimientoDesde).replace('{fecha}', fechaLarga(ini[0]))) + '</span>' +
+        (pct !== null && dif !== 0 ? '<i class="crec-pct">' + signo + Math.abs(pct).toLocaleString(loc(), { maximumFractionDigits: 1 }) + '%</i>' : '') + '</div>' +
+        '<div class="crec-graf"><div class="crec-lienzo"><svg viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="' + D.esc(resumen) + '" preserveAspectRatio="none">' +
+        '<defs><linearGradient id="crecRelleno" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="currentColor" stop-opacity=".35"/><stop offset="1" stop-color="currentColor" stop-opacity="0"/></linearGradient></defs>' +
+        '<path d="' + area + '" fill="url(#crecRelleno)"/><path d="' + linea + '" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke"/>' +
+        '</svg><span class="crec-punto" style="left:' + (ult[0] / W * 100) + '%;top:' + (ult[1] / H * 100) + '%"></span></div>' +
+        '<div class="crec-ejes"><span>' + D.esc(fechaLarga(ini[0])) + ' · ' + miles(ini[1]) + '</span><span>' + D.esc(c.crecimientoHoy || 'Hoy') + ' · ' + miles(fin[1]) + '</span></div></div></div></section>';
     }
     // Canción de cumpleaños: suena al entrar al perfil de un creador que está de cumpleaños.
     // Los navegadores bloquean el sonido automático hasta que el visitante toca la página: si pasa, suena en su primer toque o tecla.
@@ -212,11 +256,14 @@
       window.addEventListener('pagehide', function () { a.pause(); });
     }
     var carpetaActual = D.talentoActual();
-    D.cargarAuto(carpetaActual).then(function (auto) {
+    Promise.all([D.cargarAuto(carpetaActual), (D.crecimiento && D.crecimiento.series) ? null : D.cargarScript('creadores/crecimiento.js')]).then(function (r) {
+      var auto = r[0];
       pintar(auto);
       var t = D.talentos.filter(function (x) { return x.carpeta === carpetaActual; })[0];
       if (!t) return;
+      D.contarVisita(t.carpeta);          // suma 1 al contador de visitas (para «Creador Más Visitado»)
       activarCarrusel(el);
+      D.corregirYouTube(el);
       sonidoCumple(el, t);
       if (D.esCumple(t)) D.cargarScript('secciones/perfil/cumple.js').then(function () { if (D.efectosCumple) D.efectosCumple(t, el); });
       el.addEventListener('click', function (e) { var b = e.target.closest('[data-contactar]'); if (b) abrirContacto(t, b); });

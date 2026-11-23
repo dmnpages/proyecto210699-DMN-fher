@@ -1,0 +1,3 @@
+Dreamers.formulario = {
+  "activo": false
+};

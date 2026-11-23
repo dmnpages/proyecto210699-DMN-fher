@@ -7,6 +7,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "H",
   "categorias": [
     "Streamer"
   ],
@@ -19,7 +20,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@dragonxlr",
-      "seguidores": "2K"
+      "seguidores": "2K",
+      "clave": true
     },
     {
       "plataforma": "Facebook",
@@ -39,7 +41,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@dragonxlrgames",
-      "seguidores": "397"
+      "seguidores": "398"
     }
   ],
   "formatos": [
@@ -52,7 +54,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "40.5K",
+    "valor": "40.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

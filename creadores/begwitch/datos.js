@@ -7,8 +7,10 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "M",
   "categorias": [
-    "Cosplayer"
+    "Cosplayer",
+    "Cosmaker"
   ],
   "redes": [
     {
@@ -19,7 +21,8 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/begwitch",
-      "seguidores": "4.3K"
+      "seguidores": "4.3K",
+      "clave": true
     },
     {
       "plataforma": "Facebook",
@@ -35,7 +38,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "95.2K",
+    "valor": "95.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

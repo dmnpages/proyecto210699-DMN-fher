@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "49.68748092651367% 37.25%",
   "fotoZoom": 1.25,
+  "genero": "H",
   "categorias": [
     "Streamer"
   ],
@@ -23,7 +24,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@chinelaplay",
-      "seguidores": "2.1K"
+      "seguidores": "2.1K",
+      "clave": true
     },
     {
       "plataforma": "Twitch",
@@ -39,10 +41,11 @@ Dreamers.talento({
   ],
   "ideal": [
     "Eventos",
-    "Gaming"
+    "Gaming",
+    "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "36.5K",
+    "valor": "36.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

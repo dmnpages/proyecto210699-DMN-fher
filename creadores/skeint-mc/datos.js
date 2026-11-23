@@ -7,6 +7,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50.390625% 50%",
   "fotoZoom": 1,
+  "genero": "H",
   "categorias": [
     "Streamer"
   ],
@@ -29,7 +30,8 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/skeint_mc",
-      "seguidores": "420"
+      "seguidores": "420",
+      "clave": true
     },
     {
       "plataforma": "Tiktok",

@@ -10,6 +10,7 @@ Dreamers.contenido.contacto = {
   "aviso": {
     "titulo": "Aviso importante",
     "texto": "Este canal de contacto está reservado únicamente para empresas y patrocinadores. Si eres creador y quieres formar parte, llena este formulario.",
+    "textoCerrado": "Este espacio de contacto es solo para empresas y patrocinadores.",
     "boton": "Llenar formulario de creadores",
     "destino": "unete/"
   },

@@ -55,26 +55,6 @@ Dreamers.contenido.nosotros = {
             "enlace": "https://www.tiktok.com/@ladelpar"
           }
         ]
-      },
-      {
-        "nombre": "Jefry Borge - Jefrollex",
-        "cargo": "Reclutador",
-        "descripcion": "Creador de contenido y streamer apasionado por los videojuegos, el anime y la tecnología. Se enfoca en crear transmisiones dinámicas y atractivas para conectar de verdad con su comunidad, buscando siempre llegar a nuevas audiencias a través de colaboraciones creativas y auténticas.",
-        "foto": "imagen-1e0885eb66.webp",
-        "redes": [
-          {
-            "plataforma": "Tiktok",
-            "enlace": "https://www.tiktok.com/@jefrollexx"
-          },
-          {
-            "plataforma": "Instagram",
-            "enlace": "https://www.instagram.com/jefrollex/"
-          },
-          {
-            "plataforma": "Youtube",
-            "enlace": "https://www.youtube.com/c/JefrollexOficial"
-          }
-        ]
       }
     ]
   },

@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "M",
   "categorias": [
     "vTuber",
     "Streamer"
@@ -14,12 +15,13 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@tanooki_ni",
-      "seguidores": "1.1K"
+      "seguidores": "1.1K",
+      "clave": true
     },
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/tanooki_ni",
-      "seguidores": "20"
+      "seguidores": "23"
     },
     {
       "plataforma": "Facebook",
@@ -35,14 +37,15 @@ Dreamers.talento({
   "formatos": [
     "Gameplays",
     "Geek News",
-    "Videos cortos"
+    "Videos cortos",
+    "Streams"
   ],
   "ideal": [
     "Eventos",
     "Gaming"
   ],
   "dato": {
-    "valor": "6.1K",
+    "valor": "6.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

@@ -7,6 +7,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "M",
   "categorias": [
     "Streamer"
   ],
@@ -14,7 +15,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@micheladamiaw",
-      "seguidores": "3.7K"
+      "seguidores": "3.7K",
+      "clave": true
     },
     {
       "plataforma": "Instagram",
@@ -35,7 +37,7 @@ Dreamers.talento({
     "Cosméticos"
   ],
   "dato": {
-    "valor": "437.4K",
+    "valor": "437.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

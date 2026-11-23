@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "H",
   "categorias": [
     "Streamer",
     "Tecnología"
@@ -14,22 +15,23 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/kimera_sm/",
-      "seguidores": "326"
+      "seguidores": "333"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@kimerasm/",
-      "seguidores": "7K"
+      "seguidores": "7K",
+      "clave": true
     },
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@kimerasm/",
-      "seguidores": "585"
+      "seguidores": "583"
     },
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/kimerasm",
-      "seguidores": "295"
+      "seguidores": "301"
     }
   ],
   "formatos": [
@@ -45,7 +47,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "142K",
+    "valor": "145.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "M",
   "categorias": [
     "Streamer",
     "Cosplayer"
@@ -19,7 +20,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@jares_mayerling/",
-      "seguidores": "3.2K"
+      "seguidores": "3.2K",
+      "clave": true
     }
   ],
   "formatos": [

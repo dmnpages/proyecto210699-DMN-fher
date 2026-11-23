@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "M",
   "categorias": [
     "Streamer",
     "Cosplayer"
@@ -19,7 +20,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@thecherrypiex/",
-      "seguidores": "2K"
+      "seguidores": "2K",
+      "clave": true
     },
     {
       "plataforma": "Youtube",
@@ -39,7 +41,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "26.6K",
+    "valor": "26.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

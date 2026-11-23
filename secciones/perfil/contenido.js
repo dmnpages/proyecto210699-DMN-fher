@@ -29,6 +29,13 @@ Dreamers.contenido.perfil = {
   "tituloFormatos": "Formatos",
   "tituloIdeal": "Ideal para marcas de",
   "tituloTransmisiones": "Videos y transmisiones",
+  "redClave": "Red clave",
+  "crecimientoTitulo": "Crecimiento",
+  "crecimientoSeguidores": "seguidores",
+  "crecimientoDesde": "desde el {fecha}",
+  "crecimientoHoy": "Hoy",
+  "crecimientoIgual": "Sin cambios",
+  "crecimientoSin": "Estamos empezando a medir su crecimiento. Muy pronto verás aquí cómo avanza.",
   "noEncontrado": "No encontramos a este creador de contenido",
   "volver": "Ver todos los creadores de contenido"
 };

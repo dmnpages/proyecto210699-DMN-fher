@@ -7,6 +7,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "H",
   "categorias": [
     "Músico",
     "Productor"
@@ -15,7 +16,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@lkevolutionelchelelokera",
-      "seguidores": "9.8K"
+      "seguidores": "9.8K",
+      "clave": true
     },
     {
       "plataforma": "Facebook",
@@ -31,7 +33,7 @@ Dreamers.talento({
     "Musicales"
   ],
   "dato": {
-    "valor": "19.4K",
+    "valor": "19.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

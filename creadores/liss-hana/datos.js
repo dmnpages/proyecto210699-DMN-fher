@@ -2,11 +2,12 @@ Dreamers.talento({
   "nombre": "Liss Hana",
   "ciudad": "Managua",
   "correo": "colablisshana@gmail.com",
-  "seguidores": "28.7K",
+  "seguidores": "28.8K",
   "descripcion": "Creadora de contenido interesada en la cultura geek, asiática, el anime, el K-pop, los videojuegos y el mundo gaming. Busca contribuir a la difusión de actividades y eventos de la comunidad en Nicaragua, dando mayor visibilidad a estas iniciativas, conectando con nuevas comunidades y compartiendo contenido que informe, entretenga y motive a más personas a formar parte de este mundo.",
   "foto": "foto-admin.webp",
   "posicionFoto": "57.1875% 24.25%",
   "fotoZoom": 1.69,
+  "genero": "M",
   "categorias": [
     "Streamer"
   ],
@@ -14,7 +15,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@lisshana?_r=1&_t=ZS-9BWFSQXs2MO",
-      "seguidores": "14K"
+      "seguidores": "14.1K",
+      "clave": true
     },
     {
       "plataforma": "Instagram",
@@ -30,9 +32,11 @@ Dreamers.talento({
   "formatos": [
     "Videos cortos"
   ],
-  "ideal": [],
+  "ideal": [
+    "Gaming"
+  ],
   "dato": {
-    "valor": "960.4K",
+    "valor": "960.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

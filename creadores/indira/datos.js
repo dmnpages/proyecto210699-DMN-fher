@@ -1,11 +1,12 @@
 Dreamers.talento({
   "nombre": "Indira Pellas",
   "ciudad": "Managua",
-  "seguidores": "23.7K",
+  "seguidores": "22K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "M",
   "categorias": [
     "Streamer",
     "Cosplayer"
@@ -19,12 +20,13 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@indirapellas/",
-      "seguidores": "17.9K"
+      "seguidores": "17.9K",
+      "clave": true
     },
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/profile.php?id=100027972265481/",
-      "seguidores": "1.7K"
+      "seguidores": "2"
     },
     {
       "plataforma": "Youtube",
@@ -44,7 +46,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "270.5K",
+    "valor": "271.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

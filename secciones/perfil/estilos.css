@@ -33,8 +33,8 @@
 .media-item.v{max-width:340px; width:100%; margin-inline:auto}
 .media-tag{display:flex; align-items:center; gap:.5rem; margin-bottom:.6rem; font-family:var(--display); font-size:.8rem; letter-spacing:.06em; text-transform:uppercase; color:var(--head)}
 .media-tag .red-icon{width:26px; height:26px; padding:5px; border-radius:50%; background:var(--head); color:var(--white); flex:none}
-.media-box{width:100%; border-radius:8px; overflow:hidden; background:#000; border:1px solid rgba(0,0,0,.12); box-shadow:0 10px 30px rgba(0,0,0,.18)}
-.media-box iframe,.media-box video{display:block; width:100%; height:100%; border:0; background:#000; overflow:hidden}
+.media-box{position:relative; width:100%; border-radius:8px; overflow:hidden; background:#000; border:1px solid rgba(0,0,0,.12); box-shadow:0 10px 30px rgba(0,0,0,.18)}
+.media-box iframe,.media-box video{display:block; position:absolute; inset:0; width:100%; height:100%; border:0; background:#000; overflow:hidden}
 .media-box[data-ajuste="1"]{background:#fff; transition:height .2s}
 .media-box.media-audio{background:var(--grey); padding:.8rem}
 .media-box audio{width:100%; display:block}
@@ -74,9 +74,10 @@
 .vc-vistas b{font-weight:700; letter-spacing:.01em}
 .vc-solo-lector{position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap}
 .vc-media{display:grid; place-items:center; aspect-ratio:9/16; border-radius:15px; overflow:hidden; background:#05070d}
-.vc-media:has([data-ajuste="1"]),.vc-media:has(.media-link),.vc-media:has(.media-img),.vc-media:has(.media-audio){aspect-ratio:auto}
+.vc-media:has(.media-link),.vc-media:has(.media-img),.vc-media:has(.media-audio){aspect-ratio:auto}
 .vc-media .media-box{border:0; border-radius:0; box-shadow:none}
-.vc-media .media-box[data-ajuste="1"]{background:#fff}
+.vc-media .media-box{align-self:center}
+.vc-media .media-box[data-ajuste="1"]{background:#fff; border-radius:12px}
 .vc-media .media-img{border-radius:0; box-shadow:none}
 .vc-media .media-link{width:100%; padding:2.4rem 1rem; background:transparent}
 .vc-pie{margin-top:auto; padding-top:.9rem}
@@ -124,3 +125,33 @@ body.dlg-abierto{overflow:hidden}
 .dlg-volver{background:none; border:0; color:rgba(255,255,255,.75); font:inherit; cursor:pointer; padding:.6rem .4rem; text-decoration:underline}
 @media (max-width:560px){ .dlg{align-items:end; padding:0} .dlg-caja{border-radius:16px 16px 0 0; width:100%; max-height:92dvh; padding-bottom:calc(1.5rem + env(safe-area-inset-bottom))} .dlg-botones .btn{flex:1 1 100%; text-align:center} }
 @media (prefers-reduced-motion:reduce){ .dlg{animation:none} }
+
+/* Red clave en la lista de redes: el color original de la red */
+.netlist li.net-clave{border-left:4px solid var(--rc,var(--blue)); background:color-mix(in srgb, var(--rc,var(--blue)) 9%, var(--grey))}
+.netlist li.net-clave .red-icon{color:var(--rc,var(--head))}
+.netlist li.net-clave[data-redclave="tiktok"]{--rc:#FE2C55}
+.netlist li.net-clave[data-redclave="x"] .red-icon{color:var(--head)}
+.netlist li.net-clave[data-redclave="kick"] .red-icon{color:#2bbf00}
+.pill-clave{font-style:normal; font-family:var(--body); font-size:.62rem; letter-spacing:.04em; text-transform:uppercase; color:#2b1a00; background:#ffd54a; padding:.12rem .45rem; border-radius:999px; white-space:nowrap}
+
+/* Crecimiento del creador (visible para todos) */
+.crec{margin-top:3rem}
+.crec > h2{font-size:1.1rem; color:var(--head); text-transform:uppercase; letter-spacing:.06em; margin-bottom:1.2rem}
+.crec > h2::after{content:""; display:block; width:40px; height:3px; background:var(--blue); margin-top:.6rem}
+.crec-vacio{margin:0; color:var(--text); opacity:.85}
+.crec-caja{display:grid; grid-template-columns:minmax(180px,.8fr) 2fr; gap:1.6rem; align-items:center; background:var(--grey); border-radius:6px; padding:1.4rem 1.6rem}
+.crec-num{display:flex; flex-direction:column; gap:.3rem}
+.crec-num b{font-family:var(--display); font-weight:400; font-size:2.4rem; line-height:1; color:var(--head)}
+.crec-num span{font-size:.85rem; color:var(--text)}
+.crec-pct{align-self:flex-start; font-style:normal; font-weight:700; font-size:.85rem; padding:.15rem .6rem; border-radius:999px; background:rgba(0,0,0,.08); color:var(--head)}
+.crec.sube .crec-num b, .crec.sube .crec-graf{color:#12a150}
+.crec.sube .crec-pct{background:rgba(18,161,80,.15); color:#0c7a3b}
+.crec.baja .crec-num b, .crec.baja .crec-graf{color:#d6453d}
+.crec.baja .crec-pct{background:rgba(214,69,61,.15); color:#a8322b}
+.crec.igual .crec-graf{color:var(--blue)}
+.crec-graf{color:var(--blue); min-width:0}
+.crec-lienzo{position:relative}
+.crec-graf svg{display:block; width:100%; height:120px; overflow:visible}
+.crec-punto{position:absolute; width:11px; height:11px; margin:-5.5px 0 0 -5.5px; border-radius:50%; background:currentColor; box-shadow:0 0 0 4px color-mix(in srgb, currentColor 25%, transparent); pointer-events:none}
+.crec-ejes{display:flex; justify-content:space-between; gap:1rem; margin-top:.6rem; font-size:.75rem; color:var(--text)}
+@media (max-width:700px){ .crec-caja{grid-template-columns:1fr; padding:1.1rem} .crec-num b{font-size:2rem} }

@@ -1,23 +1,27 @@
 Dreamers.talento({
-  "frames": [],
   "nombre": "Tate KC",
-  "categorias": [
-    "Cosplayer"
-  ],
   "ciudad": "Matagalpa",
+  "correo": "tcastellonchavarria@icloud.com",
   "seguidores": "12.3K",
   "descripcion": "",
   "foto": "foto-admin.webp",
+  "posicionFoto": "46.50001907348633% 58.5%",
+  "fotoZoom": 1.17,
+  "genero": "M",
+  "categorias": [
+    "Cosplayer"
+  ],
   "redes": [
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/tate_kc_/",
-      "seguidores": "985"
+      "seguidores": "988"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@tate_kc",
-      "seguidores": "4.3K"
+      "seguidores": "4.3K",
+      "clave": true
     },
     {
       "plataforma": "Facebook",
@@ -25,10 +29,6 @@ Dreamers.talento({
       "seguidores": "7K"
     }
   ],
-  "dato": {
-    "valor": "87.1K",
-    "texto": "Likes totales en TikTok"
-  },
   "formatos": [
     "Cosplayer",
     "Event Host",
@@ -40,7 +40,9 @@ Dreamers.talento({
     "Dancing",
     "Anime y cultura pop"
   ],
-  "correo": "tcastellonchavarria@icloud.com",
-  "posicionFoto": "46.50001907348633% 58.5%",
-  "fotoZoom": 1.17
+  "dato": {
+    "valor": "87.2K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
 });

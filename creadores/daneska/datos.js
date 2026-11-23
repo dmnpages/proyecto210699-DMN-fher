@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "M",
   "categorias": [
     "Streamer"
   ],
@@ -13,12 +14,13 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/daneska_solorzano/",
-      "seguidores": "716"
+      "seguidores": "718"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@daneska_solorzano/",
-      "seguidores": "2.7K"
+      "seguidores": "2.7K",
+      "clave": true
     }
   ],
   "formatos": [

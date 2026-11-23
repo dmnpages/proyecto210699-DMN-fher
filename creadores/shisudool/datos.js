@@ -7,6 +7,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "M",
   "categorias": [
     "vTuber",
     "Cosplayer"
@@ -15,17 +16,18 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@shisudool",
-      "seguidores": "155"
+      "seguidores": "161"
     },
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/shisudool",
-      "seguidores": "4.1K"
+      "seguidores": "4.1K",
+      "clave": true
     },
     {
       "plataforma": "X",
       "enlace": "https://x.com/sh1sudo0l_",
-      "seguidores": "5"
+      "seguidores": "0"
     }
   ],
   "formatos": [

@@ -1,14 +1,20 @@
 Dreamers.contenido.destacados = {
   "titulo": "Creadores destacados",
   "etiquetas": {
-    "nuevo": "Nuevo",
-    "semana": "Destacado de la semana",
-    "promesa": "Creador promesa"
+    "semana": "Creador de la Semana",
+    "promesa": "Creador Promesa de la Semana",
+    "visitado": "Creador Más Visitado"
+  },
+  "estadisticas": {
+    "semana": "+{n} seguidores esta semana",
+    "promesaLikes": "+{n} likes esta semana",
+    "promesaVistas": "{n} vistas en su contenido",
+    "visitado": "{n} visitas a su página"
   },
   "textoBoton": "Info",
   "etiquetaSeguidores": "seguidores",
   "verTodos": "Ver todos los creadores",
   "semana": "",
   "promesa": "",
-  "nuevos": []
+  "visitado": ""
 };

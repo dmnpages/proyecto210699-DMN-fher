@@ -3,7 +3,10 @@
   D.registrar('contacto', function (el) {
     var c = D.contenido.contacto, e = c.etiquetas;
     el.innerHTML = '<div class="sec contact"><div class="in"><h2 class="t">' + D.esc(c.titulo) + '</h2>' +
-      (c.aviso ? '<aside class="aviso" role="note"><h3>' + D.esc(c.aviso.titulo) + '</h3><p>' + D.esc(c.aviso.texto) + '</p><a class="btn" href="' + D.esc(D.irA(c.aviso.destino)) + '">' + D.esc(c.aviso.boton) + '</a></aside>' : '') +
+      (c.aviso ? (D.formularioActivo()
+        ? '<aside class="aviso" role="note"><h3>' + D.esc(c.aviso.titulo) + '</h3><p>' + D.esc(c.aviso.texto) + '</p><a class="btn" href="' + D.esc(D.irA(c.aviso.destino)) + '">' + D.esc(c.aviso.boton) + '</a></aside>'
+        // Formulario desactivado: solo se dice que este espacio es para empresas; no se invita a los creadores ni se enlaza nada.
+        : '<aside class="aviso" role="note"><h3>' + D.esc(c.aviso.titulo) + '</h3><p>' + D.esc(c.aviso.textoCerrado || 'Este espacio de contacto es solo para empresas y patrocinadores.') + '</p></aside>') : '') +
       '<form id="form" novalidate>' +
       '<label for="nombre">' + D.esc(e.nombre) + '<input id="nombre" required autocomplete="name"></label>' +
       '<label for="correo">' + D.esc(e.correo) + '<input id="correo" type="email" required autocomplete="email"></label>' +

@@ -97,6 +97,34 @@
     return '<svg class="red-icon" viewBox="0 0 24 24" aria-label="' + D.esc(plataforma) + '" title="' + D.esc(plataforma) + '"><g fill="currentColor">' + (iconos[nombre] || '<text x="50%" y="58%" text-anchor="middle" dominant-baseline="middle" font-size="8" font-family="Arial, sans-serif">' + D.esc(D.abrev(plataforma)) + '</text>') + '</g></svg>';
   };
 
+  // ---- Red clave: la red donde el creador predomina (se marca en el editor). En la página se ve con el color original de la red.
+  D.claveRed = function (plataforma) { var n = String(plataforma || '').trim().toLowerCase().replace(/[^a-z0-9]/g, ''); return n === 'twitter' ? 'x' : n; };
+  D.esRedClave = function (r) { return !!r && (r.clave === true || r.clave === 'true'); };
+  D.redClave = function (t) { return ((t && t.redes) || []).filter(D.esRedClave)[0] || null; };
+  // Íconos de redes de las tarjetas (enlace si lo tiene). La red clave lleva la clase «clave» y su color (ver base.css).
+  D.insigniasRedes = function (t) {
+    return ((t && t.redes) || []).map(function (r) {
+      var href = D.enlaceRed(r), clave = D.esRedClave(r);
+      var attrs = ' class="red-badge' + (clave ? ' clave' : '') + '"' + (clave ? ' data-redclave="' + D.esc(D.claveRed(r.plataforma)) + '"' : '') +
+                  ' title="' + D.esc(r.plataforma) + (clave ? ' · ' + D.esc(D.t('Red clave')) : '') + '"';
+      return href ? '<a' + attrs + ' href="' + D.esc(href) + '" target="_blank" rel="noopener noreferrer">' + D.iconoRed(r.plataforma) + '</a>'
+                  : '<span' + attrs + '>' + D.iconoRed(r.plataforma) + '</span>';
+    }).join('');
+  };
+
+  // ---- Visitas a la página de cada creador (para «Creador Más Visitado»). Contador gratuito en línea.
+  // API y espacio deben ser IGUALES a API y ESPACIO en visitas.py. Una visita por visitante y por día; no cuenta localhost ni robots.
+  D.visitas = { api: 'https://abacus.jasoncameron.dev', espacio: 'dreamersmedianicaragua' };
+  D.contarVisita = function (carpeta) {
+    try {
+      if (!carpeta || location.protocol === 'file:' || /^(localhost|127\.0\.0\.1|\[?::1\]?)$/.test(location.hostname) || navigator.webdriver) return;
+      var k = 'dmn-visita-' + carpeta, hoy = new Date().toISOString().slice(0, 10);
+      if (localStorage.getItem(k) === hoy) return;
+      localStorage.setItem(k, hoy);
+      fetch(D.visitas.api + '/hit/' + D.visitas.espacio + '/' + encodeURIComponent(carpeta), { keepalive: true }).catch(function () {});
+    } catch (e) {}
+  };
+
   // Cumpleaños: se activa solo desde el editor (campo "cumpleanos": true en datos.js del creador).
   D.esCumple = function (t) { return !!t && (t.cumpleanos === true || t.cumpleanos === 'true'); };
   // Confeti decorativo que cae sobre la foto (el CSS lo apaga con «reducir movimiento»).
@@ -244,7 +272,7 @@
     }
     // TikTok
     if (es(/(^|\.)tiktok\.com$/)) {
-      if ((m = p.match(/\/(?:video|embed\/v2|player\/v1)\/(\d+)/))) return iframe('TikTok', 'Video', 'https://www.tiktok.com/embed/v2/' + m[1], { vertical: true });
+      if ((m = p.match(/\/(?:video|embed\/v2|player\/v1)\/(\d+)/))) return iframe('TikTok', 'Video', 'https://www.tiktok.com/player/v1/' + m[1] + '?music_info=1&description=1&controls=1&progress_bar=1&play_button=1&volume_control=1&fullscreen_button=1&timestamp=0&rel=0&autoplay=0&loop=0&native_context_menu=0', { vertical: true });
       return enlace('TikTok', /^\/@[\w.]+\/?$/.test(p) ? 'Perfil' : 'Enlace');
     }
     // Instagram
@@ -310,17 +338,50 @@
       if (!(alto > 40 && alto < 4000)) return;
       var marcos = document.querySelectorAll('.media-box[data-ajuste="1"] iframe');
       for (var i = 0; i < marcos.length; i++) {
-        if (marcos[i].contentWindow === e.source) { var caja = marcos[i].parentNode; caja.style.aspectRatio = 'auto'; caja.style.height = Math.ceil(alto) + 'px'; }
+        if (marcos[i].contentWindow === e.source) {
+          var caja = marcos[i].parentNode, hueco = caja.parentNode.classList.contains('vc-media') ? caja.parentNode.clientHeight : 0;
+          // En el carrusel todas las tarjetas miden lo mismo: si el contenido es más alto que el hueco, se queda del tamaño del hueco y se desplaza dentro.
+          var h = hueco && alto > hueco ? hueco : Math.ceil(alto);
+          caja.style.aspectRatio = 'auto'; caja.style.height = h + 'px';
+          marcos[i].scrolling = hueco && alto > hueco ? 'yes' : 'no';
+        }
       }
     });
   }
+
+  // Un enlace de YouTube normal (watch?v=) puede ser un Short (vertical). Se le pregunta a YouTube (oEmbed) y, si es vertical,
+  // el recuadro pasa a 9/16 para que el video llene la tarjeta en vez de verse pequeño en un marco horizontal.
+  D.corregirYouTube = function (raiz) {
+    var cajas = (raiz || document).querySelectorAll('.media-box[data-yt]');
+    Array.prototype.forEach.call(cajas, function (caja) {
+      var id = caja.getAttribute('data-yt'), clave = 'dmn-yt-' + id, previo = null;
+      function aplicar(vertical) {
+        caja.removeAttribute('data-yt');
+        if (!vertical) return;
+        caja.style.aspectRatio = '9/16';
+        var tag = caja.closest('.vc, .media-item'), em = tag && tag.querySelector('.vc-red em, .media-tag span');
+        if (em && /^video$/i.test(em.textContent.trim())) em.textContent = 'Short';
+      }
+      try { previo = sessionStorage.getItem(clave); } catch (_) {}
+      if (previo) { aplicar(previo === 'v'); return; }
+      if (!window.fetch) return;
+      fetch('https://www.youtube.com/oembed?format=json&url=' + encodeURIComponent('https://www.youtube.com/watch?v=' + id))
+        .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
+        .then(function (j) {
+          var v = +j.height > +j.width;
+          try { sessionStorage.setItem(clave, v ? 'v' : 'h'); } catch (_) {}
+          aplicar(v);
+        }).catch(function () {});
+    });
+  };
 
   // Solo el contenido encajado (iframe, imagen, video, audio o botón), sin etiqueta ni marco.
   D.cuerpoMedio = function (m) {
     var cuerpo;
     if (m.src) {
       var medida = m.alto ? 'height:' + m.alto + 'px' : 'aspect-ratio:' + m.aspect;
-      cuerpo = '<div class="media-box" data-ajuste="' + (/instagram|^x$/i.test(m.plataforma) ? '1' : '') + '" style="' + medida + '"><iframe src="' + D.esc(m.src) + '" title="' + D.esc(m.plataforma + ' ' + (m.tipo || '')) +
+      var yt = /^https:\/\/www\.youtube\.com\/embed\/([\w-]+)/.exec(m.src);
+      cuerpo = '<div class="media-box" data-ajuste="' + (/instagram|^x$/i.test(m.plataforma) ? '1' : '') + '"' + (yt && !m.vertical ? ' data-yt="' + yt[1] + '"' : '') + ' style="' + medida + '"><iframe src="' + D.esc(m.src) + '" title="' + D.esc(m.plataforma + ' ' + (m.tipo || '')) +
         '"' + (m.sinScroll ? ' scrolling="no"' : '') + ' loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; encrypted-media; picture-in-picture; fullscreen; clipboard-write" allowfullscreen></iframe></div>';
     } else if (m.imagen) {
       cuerpo = '<a class="media-img" href="' + D.esc(m.imagen) + '" target="_blank" rel="noopener"><img src="' + D.esc(m.imagen) + '" alt="" loading="lazy"></a>';
@@ -466,6 +527,26 @@
       s.onload = s.onerror = function () { ok(); };
       document.head.appendChild(s);
     });
+  };
+  // Formulario de creadores (página /unete): se activa o desactiva desde el panel (config/formulario.js).
+  D.formularioActivo = function () { return !(D.formulario && (D.formulario.activo === false || D.formulario.activo === 'false')); };
+  D.cargarFormulario = function () {   // sin caché larga: el cambio se nota a los pocos segundos
+    return new Promise(function (ok) {
+      var s = document.createElement('script'); s.src = D.raiz + 'config/formulario.js?t=' + Math.floor(Date.now() / 30000);
+      s.onload = s.onerror = function () { ok(); };
+      document.head.appendChild(s);
+    });
+  };
+  // Muestra la misma página que 404.html sin cambiar la dirección (se usa cuando el formulario está desactivado).
+  D.mostrar404 = function () {
+    document.title = 'Página no encontrada | Dreamers Media Nicaragua';
+    var st = document.createElement('style');
+    st.textContent = 'body{box-sizing:content-box;margin:0;min-height:100vh;display:grid;place-items:center;text-align:center;background:#070a12;color:#fff;font:16px/1.7 "Noto Sans",system-ui,sans-serif;padding:1rem}' +
+      'h1{font:400 clamp(2rem,8vw,4rem)/1.2 "Audiowide","Arial Black",sans-serif;margin:0 0 .5rem;color:#2ea3f2;text-transform:none;letter-spacing:normal}' +
+      'p{margin:1em 0;color:#fff;font-size:16px;line-height:1.7}a{display:inline-block;margin-top:1rem;font-family:"Audiowide","Arial Black",sans-serif;color:#fff;text-decoration:none;border:2px solid #fff;border-radius:3px;padding:.4em 1.1em;text-transform:uppercase;font-size:16px}a:hover{background:rgba(255,255,255,.18)}';
+    document.head.appendChild(st);
+    document.body.className = '';
+    document.body.innerHTML = '<main><h1>404</h1><p>No encontramos esta página.</p><a href="' + (D.raiz || './') + '">Ir al inicio</a></main>';
   };
   // Modo oscuro: sigue la preferencia del dispositivo y el visitante puede cambiarlo con el botón del encabezado (se recuerda).
   D.modo = {

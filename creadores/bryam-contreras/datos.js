@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "H",
   "categorias": [
     "Streamer",
     "Músico"
@@ -14,17 +15,18 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/soybryam06c/",
-      "seguidores": "557"
+      "seguidores": "558"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@soybryam06c/",
-      "seguidores": "3.2K"
+      "seguidores": "3.2K",
+      "clave": true
     },
     {
       "plataforma": "Kick",
       "enlace": "https://kick.com/soybryam06c/",
-      "seguidores": "315"
+      "seguidores": "316"
     }
   ],
   "formatos": [

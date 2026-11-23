@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "M",
   "categorias": [
     "Streamer",
     "LifeStyle"
@@ -14,12 +15,13 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/ana__tomico/",
-      "seguidores": "171"
+      "seguidores": "170"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@cherryjaneblossom/",
-      "seguidores": "1.6K"
+      "seguidores": "1.6K",
+      "clave": true
     }
   ],
   "formatos": [
@@ -35,7 +37,7 @@ Dreamers.talento({
     "Cosméticos"
   ],
   "dato": {
-    "valor": "117.3K",
+    "valor": "117.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

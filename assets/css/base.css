@@ -111,3 +111,17 @@ html[data-modo="oscuro"] .pills li{background:#14213a}
 .cumple-son{font:inherit; font-size:1.05rem; line-height:1; width:2.1rem; height:2.1rem; padding:0; border-radius:50%; border:2px solid #ff6fb5; background:rgba(255,111,181,.18); color:#fff; cursor:pointer; display:grid; place-items:center; transition:background .2s, transform .2s}
 .cumple-son:hover{background:rgba(255,111,181,.4); transform:scale(1.08)}
 .cumple-son:focus-visible{outline:3px solid #ffd54a; outline-offset:2px}
+
+/* ---- Red clave: la red donde el creador predomina, con el color original de la red ---- */
+.red-badge.clave{background:#fff !important; color:var(--rc,#2ea3f2) !important; box-shadow:0 0 0 2px var(--rc,#2ea3f2), 0 4px 12px rgba(0,0,0,.28)}
+[data-redclave="facebook"]{--rc:#1877F2}
+[data-redclave="instagram"]{--rc:#E4405F}
+[data-redclave="youtube"]{--rc:#FF0000}
+[data-redclave="twitch"]{--rc:#9146FF}
+[data-redclave="discord"]{--rc:#5865F2}
+[data-redclave="spotify"]{--rc:#1DB954}
+[data-redclave="x"]{--rc:#000}
+.red-badge.clave[data-redclave="x"]{box-shadow:0 0 0 2px #fff, 0 0 0 4px #000, 0 4px 12px rgba(0,0,0,.28)}
+.red-badge.clave[data-redclave="tiktok"]{color:#000 !important; box-shadow:0 0 0 2px #25F4EE, 0 0 0 4px #FE2C55, 0 4px 12px rgba(0,0,0,.28)}
+.red-badge.clave[data-redclave="tiktok"] .red-icon{filter:drop-shadow(-1px -1px 0 #25F4EE) drop-shadow(1px 1px 0 #FE2C55)}
+.red-badge.clave[data-redclave="kick"]{background:#0b0e0f !important; color:#53FC18 !important; box-shadow:0 0 0 2px #53FC18, 0 4px 12px rgba(0,0,0,.28)}

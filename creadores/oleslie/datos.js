@@ -6,6 +6,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
+  "genero": "M",
   "categorias": [
     "Streamer"
   ],
@@ -23,7 +24,8 @@ Dreamers.talento({
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/Oleslie/",
-      "seguidores": "3.3K"
+      "seguidores": "3.3K",
+      "clave": true
     }
   ],
   "formatos": [
