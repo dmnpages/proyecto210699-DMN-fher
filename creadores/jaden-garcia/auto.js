@@ -1,36 +1,38 @@
 Dreamers.autoContenido("jaden-garcia", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
+    "https://www.instagram.com/reel/DgGMf5WKw5_/",
     "https://www.instagram.com/reel/DgBhVykxVLX/",
     "https://www.instagram.com/reel/Df45T9gRhfm/",
     "https://www.instagram.com/p/DfvvcMOEYdx/",
-    "https://www.instagram.com/reel/DfnOpKBq-Yf/",
-    "https://www.instagram.com/reel/DfioK7CRDgn/"
+    "https://www.instagram.com/reel/DfnOpKBq-Yf/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DfioK7CRDgn/",
     "https://www.instagram.com/reel/Der5lNYvIMC/",
     "https://www.instagram.com/reel/Dee2kuvxy_5/",
     "https://www.instagram.com/reel/DeZq6gFRBL1/",
     "https://www.instagram.com/reel/DeSDB6Kxe9G/",
     "https://www.instagram.com/p/DePWO_CR24o/",
     "https://www.instagram.com/reel/DeKv0D5Rzgl/",
-    "https://www.instagram.com/reel/DeH56xavNSx/",
-    "https://www.instagram.com/p/DeHj-5SROha/"
+    "https://www.instagram.com/reel/DeH56xavNSx/"
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=IryHia3wK9w": 1236,
     "https://www.youtube.com/watch?v=VMlqsQxQNQU": 1212,
-    "https://www.youtube.com/watch?v=GfEocWeRYU0": 1296,
+    "https://www.youtube.com/watch?v=GfEocWeRYU0": 1297,
     "https://www.youtube.com/watch?v=H4uQDfjepuM": 446,
     "https://www.youtube.com/watch?v=hO8fiDP-kxk": 426,
     "https://www.youtube.com/watch?v=PjKdf1wHyE0": 728,
-    "https://www.youtube.com/watch?v=INjKLWVNL1Y": 3775,
+    "https://www.youtube.com/watch?v=INjKLWVNL1Y": 3776,
     "https://www.youtube.com/watch?v=ThwzyLjqxfQ": 652,
     "https://www.youtube.com/watch?v=olF99A5kKVU": 1510,
     "https://www.youtube.com/watch?v=HCYTieoTsuE": 199,
     "https://www.youtube.com/watch?v=MjhvHoC9BaY": 496,
     "https://www.youtube.com/watch?v=iDsHd2X5huk": 2502,
-    "https://www.youtube.com/watch?v=zVjvK6Nx6IM": 135
+    "https://www.youtube.com/watch?v=zVjvK6Nx6IM": 135,
+    "https://www.youtube.com/watch?v=W-MuUy81_-A": 3714,
+    "https://www.youtube.com/watch?v=Prbyn174CBs": 1293
   },
   "titulos": {
     "https://www.youtube.com/watch?v=IryHia3wK9w": "Esta canción sale el 16 de octubre!!",
@@ -46,9 +48,18 @@ Dreamers.autoContenido("jaden-garcia", {
     "https://www.youtube.com/watch?v=MjhvHoC9BaY": "RDJMB, JadenGarcia, DEIIN - Throne",
     "https://www.youtube.com/watch?v=iDsHd2X5huk": "JadenGarcia, RDJMB, Delta Mvsic - Lost (Lyric Sub Español)",
     "https://www.youtube.com/watch?v=zVjvK6Nx6IM": "Future Trap Melody #Flstudio #Beat #Flume #IMANU",
-    "https://www.tiktok.com/@jadengarciaaaa/video/6643981825063813126": "@jadengarciaaaa 42.9k seguidores, 6991 siguiendo, 593.9k me gusta: no te pierdas los genia"
+    "https://www.youtube.com/watch?v=W-MuUy81_-A": "JadenGarcia, RDJMB - On Your Face",
+    "https://www.youtube.com/watch?v=Prbyn174CBs": "Rodezel, JCBG, Saibu - BLOW (JadenGarcia Remix)",
+    "https://www.tiktok.com/@jadengarciaaaa/video/6643981825063813126": "@jadengarciaaaa 42.9k seguidores, 6996 siguiendo, 594.2k me gusta: no te pierdas los genia"
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgGMf5WKw5_/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795464238
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgBhVykxVLX/",
@@ -193,7 +204,7 @@ Dreamers.autoContenido("jaden-garcia", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=GfEocWeRYU0",
       "titulo": "que hice mal – JadenGarcia (Official Video) | XXV",
-      "vistas": 1296,
+      "vistas": 1297,
       "fecha": 1770769946
     },
     {
@@ -235,7 +246,7 @@ Dreamers.autoContenido("jaden-garcia", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=INjKLWVNL1Y",
       "titulo": "ALEXA",
-      "vistas": 3775,
+      "vistas": 3776,
       "fecha": 1741716915
     },
     {
@@ -281,15 +292,29 @@ Dreamers.autoContenido("jaden-garcia", {
       "fecha": 1686480213
     },
     {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=W-MuUy81_-A",
+      "titulo": "JadenGarcia, RDJMB - On Your Face",
+      "vistas": 3714,
+      "fecha": 1684173080
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=Prbyn174CBs",
+      "titulo": "Rodezel, JCBG, Saibu - BLOW (JadenGarcia Remix)",
+      "vistas": 1293,
+      "fecha": 1682290312
+    },
+    {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@jadengarciaaaa/video/6643981825063813126",
-      "titulo": "@jadengarciaaaa 42.9k seguidores, 6991 siguiendo, 593.9k me gusta: no te pierdas los genia",
+      "titulo": "@jadengarciaaaa 42.9k seguidores, 6996 siguiendo, 594.2k me gusta: no te pierdas los genia",
       "vistas": null,
       "fecha": 1546922564
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -303,28 +328,7 @@ Dreamers.autoContenido("jaden-garcia", {
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=Q8rthC-ccVk",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=OAHKf-PcWrQ",
+      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
       "titulo": "",
       "vistas": null,
       "fecha": null

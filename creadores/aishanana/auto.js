@@ -1,5 +1,5 @@
 Dreamers.autoContenido("aishanana", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/p/Dfx9zKQmxIT/",
     "https://www.instagram.com/p/DfxYDuEm5AY/",

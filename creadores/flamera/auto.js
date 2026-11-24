@@ -1,21 +1,21 @@
 Dreamers.autoContenido("flamera", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/p/DfLbpBwsdfF/",
     "https://www.tiktok.com/@_flamera_/video/7682579946350316820",
     "https://www.tiktok.com/@_flamera_/video/7705253289486470401",
-    "https://www.instagram.com/reel/DgDeKe0p6vE/",
-    "https://www.instagram.com/reel/DgBo8CVJAxg/"
+    "https://www.instagram.com/reel/DgG3v6aJ2VS/",
+    "https://www.instagram.com/reel/DgDeKe0p6vE/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DgBo8CVJAxg/",
     "https://www.instagram.com/reel/DgBBPICpUeC/",
     "https://www.youtube.com/watch?v=QDUHyiPKqqQ",
     "https://www.youtube.com/watch?v=PtIV-nPYAgE",
     "https://www.youtube.com/watch?v=UbiCzXAvXOs",
     "https://www.instagram.com/reel/Df_IBf2pm63/",
     "https://www.instagram.com/p/Df8nMuiFjsx/",
-    "https://www.instagram.com/reel/Df6CicmJ5yq/",
-    "https://www.instagram.com/reel/Df53FsXpZdQ/"
+    "https://www.instagram.com/reel/Df6CicmJ5yq/"
   ],
   "fijados": [
     "https://www.instagram.com/p/DfLbpBwsdfF/",
@@ -23,19 +23,21 @@ Dreamers.autoContenido("flamera", {
     "https://www.tiktok.com/@_flamera_/video/7705253289486470401"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=QDUHyiPKqqQ": 1077,
-    "https://www.youtube.com/watch?v=PtIV-nPYAgE": 1228,
-    "https://www.youtube.com/watch?v=UbiCzXAvXOs": 2766,
-    "https://www.youtube.com/watch?v=XvgqBCjKZmc": 4018,
-    "https://www.youtube.com/watch?v=1AVpsT-zdA0": 3508,
-    "https://www.youtube.com/watch?v=eYSQwUHdJN0": 3222,
-    "https://www.youtube.com/watch?v=OrSHeDqE1lw": 1193,
+    "https://www.youtube.com/watch?v=QDUHyiPKqqQ": 1085,
+    "https://www.youtube.com/watch?v=PtIV-nPYAgE": 1227,
+    "https://www.youtube.com/watch?v=UbiCzXAvXOs": 2876,
+    "https://www.youtube.com/watch?v=XvgqBCjKZmc": 4026,
+    "https://www.youtube.com/watch?v=1AVpsT-zdA0": 3510,
+    "https://www.youtube.com/watch?v=eYSQwUHdJN0": 3224,
+    "https://www.youtube.com/watch?v=OrSHeDqE1lw": 1198,
     "https://www.youtube.com/watch?v=ncoa6sj_Ow0": 1415,
     "https://www.youtube.com/watch?v=StQbrSWZ34A": 6947,
     "https://www.youtube.com/watch?v=EtPxoWg5eto": 39,
-    "https://www.youtube.com/watch?v=4D58FkNkDWc": 2091,
+    "https://www.youtube.com/watch?v=4D58FkNkDWc": 2092,
     "https://www.youtube.com/watch?v=DLqW3__tJQg": 261,
-    "https://www.youtube.com/watch?v=OgjNwD02wwc": 1498
+    "https://www.youtube.com/watch?v=UDGkC-v7AuI": 30,
+    "https://www.youtube.com/watch?v=OgjNwD02wwc": 1498,
+    "https://www.youtube.com/watch?v=kHCnRJIeJFw": 2102
   },
   "titulos": {
     "https://www.youtube.com/watch?v=QDUHyiPKqqQ": "farmeando aura #darklink #ocarinaoftime #farmearaura",
@@ -50,8 +52,10 @@ Dreamers.autoContenido("flamera", {
     "https://www.youtube.com/watch?v=EtPxoWg5eto": "hyrule me necesita #ocarinaoftime #ocarinaremake",
     "https://www.youtube.com/watch?v=4D58FkNkDWc": "Que gran enseñanza 💚  #link #zelda",
     "https://www.youtube.com/watch?v=DLqW3__tJQg": "Unboxing Nintendo Switch 2 Zelda 40 aniversario 💚✨️🥹🧚‍♂️ #zelda40thanniversary",
+    "https://www.youtube.com/watch?v=UDGkC-v7AuI": "te amo zelda 💚 #zelda",
     "https://www.youtube.com/watch?v=OgjNwD02wwc": "¿Zelda vs GTA? Comparamos sus 7 juegos mejor puntuados en Metacritic  #zelda #gta",
-    "https://www.tiktok.com/@_flamera_/video/7332308813066159110": "@_flamera_ 18.0k seguidores, 848 siguiendo, 734.6k me gusta: no te pierdas los geniales ví"
+    "https://www.youtube.com/watch?v=kHCnRJIeJFw": "la mejor saga 💚 #zelda #thelegendofzelda",
+    "https://www.tiktok.com/@_flamera_/video/7332308813066159110": "@_flamera_ 18.0k seguidores, 847 siguiendo, 735.9k me gusta: no te pierdas los geniales ví"
   },
   "candidatas": [
     {
@@ -74,6 +78,13 @@ Dreamers.autoContenido("flamera", {
       "titulo": "",
       "vistas": null,
       "fecha": 1794019082
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgG3v6aJ2VS/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795486913
     },
     {
       "red": "instagram",
@@ -100,21 +111,21 @@ Dreamers.autoContenido("flamera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=QDUHyiPKqqQ",
       "titulo": "farmeando aura #darklink #ocarinaoftime #farmearaura",
-      "vistas": 1077,
+      "vistas": 1085,
       "fecha": 1795290468
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=PtIV-nPYAgE",
       "titulo": "Pro Controller zelda 40 aniversario  #zelda40thanniversary #procontroller #nintendoswitch2",
-      "vistas": 1228,
+      "vistas": 1227,
       "fecha": 1795228188
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=UbiCzXAvXOs",
       "titulo": "¿ cual es la mejor batalla del anime ??  #batallaanime #anime #peleasanime",
-      "vistas": 2766,
+      "vistas": 2876,
       "fecha": 1795228172
     },
     {
@@ -149,14 +160,14 @@ Dreamers.autoContenido("flamera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=XvgqBCjKZmc",
       "titulo": "cadena mejor cosplay Tsunamifest 2026 #cosplay #cosplayer #tsunamifest",
-      "vistas": 4018,
+      "vistas": 4026,
       "fecha": 1794968856
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=1AVpsT-zdA0",
       "titulo": "aguanta zelda esa caca non se saca sola  #botw #zelda",
-      "vistas": 3508,
+      "vistas": 3510,
       "fecha": 1794968775
     },
     {
@@ -177,14 +188,14 @@ Dreamers.autoContenido("flamera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=eYSQwUHdJN0",
       "titulo": "¿ Cual es el mejor zelda ? 👀  #zelda #ocarinaoftime #majorasmask",
-      "vistas": 3222,
+      "vistas": 3224,
       "fecha": 1794883247
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=OrSHeDqE1lw",
       "titulo": "Kai'Sa Guardiana Estelar 💖  #kaisa #leagueoflegends",
-      "vistas": 1193,
+      "vistas": 1198,
       "fecha": 1794882734
     },
     {
@@ -268,7 +279,7 @@ Dreamers.autoContenido("flamera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=4D58FkNkDWc",
       "titulo": "Que gran enseñanza 💚  #link #zelda",
-      "vistas": 2091,
+      "vistas": 2092,
       "fecha": 1794276608
     },
     {
@@ -277,6 +288,13 @@ Dreamers.autoContenido("flamera", {
       "titulo": "Unboxing Nintendo Switch 2 Zelda 40 aniversario 💚✨️🥹🧚‍♂️ #zelda40thanniversary",
       "vistas": 261,
       "fecha": 1794173178
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=UDGkC-v7AuI",
+      "titulo": "te amo zelda 💚 #zelda",
+      "vistas": 30,
+      "fecha": 1794089387
     },
     {
       "red": "youtube",
@@ -291,6 +309,13 @@ Dreamers.autoContenido("flamera", {
       "titulo": "",
       "vistas": null,
       "fecha": 1793755732
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=kHCnRJIeJFw",
+      "titulo": "la mejor saga 💚 #zelda #thelegendofzelda",
+      "vistas": 2102,
+      "fecha": 1793755439
     },
     {
       "red": "instagram",
@@ -309,30 +334,9 @@ Dreamers.autoContenido("flamera", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@_flamera_/video/7332308813066159110",
-      "titulo": "@_flamera_ 18.0k seguidores, 848 siguiendo, 734.6k me gusta: no te pierdas los geniales ví",
+      "titulo": "@_flamera_ 18.0k seguidores, 847 siguiendo, 735.9k me gusta: no te pierdas los geniales ví",
       "vistas": null,
       "fecha": 1707186180
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=R9AWcEUsUyk",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
     }
   ]
 });

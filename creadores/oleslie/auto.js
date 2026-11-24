@@ -1,5 +1,5 @@
 Dreamers.autoContenido("oleslie", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/p/DfLVgpLkeIUgDZuIIoSAcDhlqeDuWSYHQFs0Gw0/",
     "https://www.instagram.com/p/Ddj_uD3mgTyn53_mTiidbUQspes1XdZf1H2wB00/",
@@ -15,7 +15,7 @@ Dreamers.autoContenido("oleslie", {
     "https://www.instagram.com/p/DRyL7TEjBprHEFu-CdER2TPhVWr1q4Qg4eNwa40/",
     "https://www.instagram.com/p/DRxYAVDkfo851WY5H2A5He6eYTCEjO_0V7OyxI0/",
     "https://www.instagram.com/p/DO4kotODOuq-nVmmVaB3cqkQ2IKZSgyBKQWsz00/",
-    "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl"
+    "https://www.facebook.com/reel/1134834719312899/"
   ],
   "candidatas": [
     {
@@ -104,6 +104,13 @@ Dreamers.autoContenido("oleslie", {
     },
     {
       "red": "facebook",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "facebook",
       "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
       "titulo": "",
       "vistas": null,
@@ -119,13 +126,6 @@ Dreamers.autoContenido("oleslie", {
     {
       "red": "facebook",
       "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
       "vistas": null,
       "fecha": null

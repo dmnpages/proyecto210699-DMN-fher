@@ -22,7 +22,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/gene.j.m/",
-      "seguidores": "296"
+      "seguidores": "299"
     }
   ],
   "formatos": [

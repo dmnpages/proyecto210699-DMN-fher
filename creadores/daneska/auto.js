@@ -1,5 +1,5 @@
 Dreamers.autoContenido("daneska", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/p/DfBIOhPx1Dr/",
     "https://www.instagram.com/p/Dbl4mXvia9Z/",
@@ -8,14 +8,14 @@ Dreamers.autoContenido("daneska", {
     "https://www.tiktok.com/@daneska_solorzano/video/7515899235099806983"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DgIcq-fvyyh/",
     "https://www.instagram.com/p/Df3Jdk_CPTu/",
     "https://www.instagram.com/p/DfkntxImQeo/",
     "https://www.instagram.com/reel/DfBIOhPx1Dr/",
     "https://www.instagram.com/p/Defh2RmgxCA/",
     "https://www.instagram.com/reel/DedMsR3gjsf/",
     "https://www.instagram.com/reel/DeSCOe6py9F/",
-    "https://www.instagram.com/p/DeLJ3WVgJ8w/",
-    "https://www.instagram.com/p/DeKkwcYFLDR/"
+    "https://www.instagram.com/p/DeLJ3WVgJ8w/"
   ],
   "fijados": [
     "https://www.instagram.com/p/DfBIOhPx1Dr/",
@@ -25,7 +25,7 @@ Dreamers.autoContenido("daneska", {
     "https://www.tiktok.com/@daneska_solorzano/video/7515899235099806983"
   ],
   "titulos": {
-    "https://www.tiktok.com/@daneska_solorzano/video/7444286722680570935": "@daneska_solorzano 2744 seguidores, 926 siguiendo, 29.8k me gusta: no te pierdas los genia"
+    "https://www.tiktok.com/@daneska_solorzano/video/7444286722680570935": "@daneska_solorzano 2744 seguidores, 927 siguiendo, 29.9k me gusta: no te pierdas los genia"
   },
   "candidatas": [
     {
@@ -62,6 +62,13 @@ Dreamers.autoContenido("daneska", {
       "titulo": "",
       "vistas": null,
       "fecha": 1749931656
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgIcq-fvyyh/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795539826
     },
     {
       "red": "instagram",
@@ -199,7 +206,7 @@ Dreamers.autoContenido("daneska", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@daneska_solorzano/video/7444286722680570935",
-      "titulo": "@daneska_solorzano 2744 seguidores, 926 siguiendo, 29.8k me gusta: no te pierdas los genia",
+      "titulo": "@daneska_solorzano 2744 seguidores, 927 siguiendo, 29.9k me gusta: no te pierdas los genia",
       "vistas": null,
       "fecha": 1733258069
     },

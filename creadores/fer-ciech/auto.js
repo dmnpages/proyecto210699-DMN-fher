@@ -1,5 +1,5 @@
 Dreamers.autoContenido("fer-ciech", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/reel/Df5KzAHuBNK/",
     "https://www.instagram.com/reel/Df3Wsi0MIuT/",
@@ -18,7 +18,7 @@ Dreamers.autoContenido("fer-ciech", {
     "https://www.instagram.com/reel/DdHk1zICAne/"
   ],
   "vistas": {
-    "https://www.facebook.com/reel/3840444649472885/": 5,
+    "https://www.facebook.com/reel/3840444649472885/": 6,
     "https://www.facebook.com/ferciechcosplay/posts/pfbid0UN3Upfc2DTkRTQLUTnjdtcF1XxnRrfUWB3E4b1jBae8GTMreZqrjCTek8q6TSrrtl": 5,
     "https://www.facebook.com/ferciechcosplay/posts/pfbid0SUHbfkTRN7irGWU8hQpDiQwda9e8sw6XWH4vpug6FMbh3YeqUQfvjsBwJvjqQqizl": 5
   },
@@ -167,7 +167,14 @@ Dreamers.autoContenido("fer-ciech", {
       "red": "facebook",
       "url": "https://www.facebook.com/reel/3840444649472885/",
       "titulo": "",
-      "vistas": 5,
+      "vistas": 6,
+      "fecha": null
+    },
+    {
+      "red": "facebook",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "titulo": "",
+      "vistas": null,
       "fecha": null
     },
     {
@@ -187,13 +194,6 @@ Dreamers.autoContenido("fer-ciech", {
     {
       "red": "facebook",
       "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
       "vistas": null,
       "fecha": null

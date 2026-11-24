@@ -1,5 +1,5 @@
 Dreamers.autoContenido("yan", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.tiktok.com/@yanfluu/video/7707762349758827784",
     "https://www.instagram.com/reel/DgA9NN4M0d2/",
@@ -21,7 +21,7 @@ Dreamers.autoContenido("yan", {
     "https://www.tiktok.com/@yanfluu/video/7707762349758827784"
   ],
   "titulos": {
-    "https://www.tiktok.com/@yanfluu/video/6808257693963748357": "@yanfluu 38.5k seguidores, 1066 siguiendo, 2.2m me gusta: no te pierdas los geniales vídeo"
+    "https://www.tiktok.com/@yanfluu/video/6808257693963748357": "@yanfluu 38.6k seguidores, 1067 siguiendo, 2.2m me gusta: no te pierdas los geniales vídeo"
   },
   "candidatas": [
     {
@@ -118,7 +118,7 @@ Dreamers.autoContenido("yan", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/6808257693963748357",
-      "titulo": "@yanfluu 38.5k seguidores, 1066 siguiendo, 2.2m me gusta: no te pierdas los geniales vídeo",
+      "titulo": "@yanfluu 38.6k seguidores, 1067 siguiendo, 2.2m me gusta: no te pierdas los geniales vídeo",
       "vistas": null,
       "fecha": 1585171021
     },

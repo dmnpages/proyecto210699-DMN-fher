@@ -1,13 +1,5 @@
 /* Generado por el panel de administración (pestaña Apariencia). No hace falta editarlo a mano. */
 
-:root {
-  --blue: #9b5cff;
-  --orange: #ff4fd8;
-  --black: #05030c;
-  --navy: #140b2b;
-  --ink: #0a0615;
-}
-
 /* ===== Temporada: Navidad (se activa o se quita desde el editor, pestaña Apariencia) ===== */
 :root {
   --dmn-temporada: navidad;

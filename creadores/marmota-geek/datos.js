@@ -31,7 +31,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/marmotageek/",
-      "seguidores": "783"
+      "seguidores": "784"
     },
     {
       "plataforma": "Facebook",
@@ -40,11 +40,13 @@ Dreamers.talento({
     }
   ],
   "formatos": [
-    "Streams"
+    "Streams",
+    "Retos"
   ],
   "ideal": [
     "Gaming",
-    "Anime y cultura pop"
+    "Anime y cultura pop",
+    "Entretenimiento"
   ],
   "dato": {
     "valor": "2.7K",

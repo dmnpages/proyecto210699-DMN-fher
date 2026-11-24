@@ -21,7 +21,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/meryrivas_space",
-      "seguidores": "928"
+      "seguidores": "927"
     },
     {
       "plataforma": "Facebook",
@@ -51,7 +51,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "139.1K",
+    "valor": "139.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

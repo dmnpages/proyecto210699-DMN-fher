@@ -1,5 +1,5 @@
 Dreamers.autoContenido("chinelaplay", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/reel/Df-Osi_hA7n/",
     "https://www.instagram.com/reel/DfqP7T9BR_o/",
@@ -30,6 +30,7 @@ Dreamers.autoContenido("chinelaplay", {
     "https://www.youtube.com/watch?v=GaQJYr0IpyU": 16,
     "https://www.youtube.com/watch?v=4ZkQQdDS208": 1854,
     "https://www.youtube.com/watch?v=OH3pp78afQo": 1206,
+    "https://www.youtube.com/watch?v=Sh0tPltRGLE": 1069,
     "https://www.youtube.com/watch?v=TEjUgt9BiY0": 1069,
     "https://www.youtube.com/watch?v=VFTmhkFsBtE": 3067
   },
@@ -46,6 +47,7 @@ Dreamers.autoContenido("chinelaplay", {
     "https://www.youtube.com/watch?v=GaQJYr0IpyU": "summer game fest #capcom #residentevil #alienisolation #videojuegos #noticiasgaming",
     "https://www.youtube.com/watch?v=4ZkQQdDS208": "Te resumo el state of play de junio. #playstation #tombrider #raymanlegends #videojuegos #",
     "https://www.youtube.com/watch?v=OH3pp78afQo": "Mayo terminó con noticias para la comunidad gamer#videojuegos #nintendo #callofduty #nicar",
+    "https://www.youtube.com/watch?v=Sh0tPltRGLE": "Feliz Día de la Comunidad Geek / Friki para todos!  #geek #frikis #videojuegos #starwars",
     "https://www.youtube.com/watch?v=TEjUgt9BiY0": "Mayo sigue dándonos grandes noticias #videojuegos #noticiasgaming #geek #nicaragua🇳🇮 #chin",
     "https://www.youtube.com/watch?v=VFTmhkFsBtE": "Zelda Twilight Princess corre NATIVO en  PC #Zelda #Nintendo #gaming #twilightprincess #du"
   },
@@ -276,6 +278,13 @@ Dreamers.autoContenido("chinelaplay", {
     },
     {
       "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=Sh0tPltRGLE",
+      "titulo": "Feliz Día de la Comunidad Geek / Friki para todos!  #geek #frikis #videojuegos #starwars",
+      "vistas": 1069,
+      "fecha": 1779755892
+    },
+    {
+      "red": "youtube",
       "url": "https://www.youtube.com/watch?v=TEjUgt9BiY0",
       "titulo": "Mayo sigue dándonos grandes noticias #videojuegos #noticiasgaming #geek #nicaragua🇳🇮 #chin",
       "vistas": 1069,
@@ -298,13 +307,6 @@ Dreamers.autoContenido("chinelaplay", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=TSK4LIscF6Y",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=KOvj6Zukl8w",
       "titulo": "",
       "vistas": null,
       "fecha": null

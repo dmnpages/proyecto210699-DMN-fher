@@ -15,7 +15,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/sniva2509/",
-      "seguidores": "318"
+      "seguidores": "319"
     },
     {
       "plataforma": "Tiktok",
@@ -36,7 +36,7 @@ Dreamers.talento({
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/leafs_gamers/",
-      "seguidores": "609"
+      "seguidores": "610"
     }
   ],
   "formatos": [
@@ -53,7 +53,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "20.8K",
+    "valor": "20.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

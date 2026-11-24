@@ -1,5 +1,5 @@
 Dreamers.autoContenido("itssomau", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/reel/DgEfaxbALf6/",
     "https://www.instagram.com/reel/Df947skA7kt/",

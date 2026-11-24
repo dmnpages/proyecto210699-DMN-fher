@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Andrew Brand",
   "ciudad": "Managua",
   "correo": "andrewyaoi14@gmail.com",
-  "seguidores": "4.1K",
+  "seguidores": "4.2K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "58.12498092651367% 64.0000228881836%",
@@ -20,7 +20,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@marka_nerd2.0",
-      "seguidores": "1.9K",
+      "seguidores": "2K",
       "clave": true
     },
     {
@@ -39,7 +39,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "73.9K",
+    "valor": "74.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

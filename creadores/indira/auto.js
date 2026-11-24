@@ -1,40 +1,42 @@
 Dreamers.autoContenido("indira", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
+    "https://www.instagram.com/reel/DgGm73rs3rF/",
+    "https://www.youtube.com/watch?v=EJcj2ohZepA",
     "https://www.instagram.com/p/DgEewSVNVwc/",
     "https://www.instagram.com/reel/Df-u79YxdXh/",
-    "https://www.instagram.com/p/Df7ztaymVWV/",
-    "https://www.instagram.com/reel/Df5YVnFx0ym/",
-    "https://www.instagram.com/p/Df3q6wZFeI_/"
+    "https://www.instagram.com/p/Df7ztaymVWV/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/Df5YVnFx0ym/",
+    "https://www.instagram.com/p/Df3q6wZFeI_/",
     "https://www.youtube.com/watch?v=Sym7Sy1VU00",
     "https://www.instagram.com/reel/Df2ruevh1ji/",
     "https://www.youtube.com/watch?v=-ec4MP_wzb0",
     "https://www.instagram.com/reel/Df0vgqLh5AK/",
     "https://www.instagram.com/reel/Df0h1qLMBXB/",
-    "https://www.instagram.com/reel/Dfz09kxx7pf/",
-    "https://www.instagram.com/reel/DfyqW6kxJpU/",
-    "https://www.instagram.com/reel/DfyOOw6MejQ/"
+    "https://www.instagram.com/reel/Dfz09kxx7pf/"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=Sym7Sy1VU00": 1159,
-    "https://www.youtube.com/watch?v=-ec4MP_wzb0": 1558,
-    "https://www.youtube.com/watch?v=395pWO4XdFE": 2456,
-    "https://www.youtube.com/watch?v=V4IuJP03vOc": 1916,
-    "https://www.youtube.com/watch?v=y_6Ckue744o": 1380,
-    "https://www.youtube.com/watch?v=_HAJwQeID6E": 1900,
-    "https://www.youtube.com/watch?v=_fC2Xn2KSgc": 1343,
-    "https://www.youtube.com/watch?v=3TcX_GtGw14": 1231,
-    "https://www.youtube.com/watch?v=pSfkTlqi2hc": 1700,
-    "https://www.youtube.com/watch?v=l__3JYXAs1M": 1840,
+    "https://www.youtube.com/watch?v=EJcj2ohZepA": 1217,
+    "https://www.youtube.com/watch?v=Sym7Sy1VU00": 1167,
+    "https://www.youtube.com/watch?v=-ec4MP_wzb0": 1565,
+    "https://www.youtube.com/watch?v=395pWO4XdFE": 2461,
+    "https://www.youtube.com/watch?v=V4IuJP03vOc": 1920,
+    "https://www.youtube.com/watch?v=y_6Ckue744o": 1382,
+    "https://www.youtube.com/watch?v=_HAJwQeID6E": 1902,
+    "https://www.youtube.com/watch?v=_fC2Xn2KSgc": 1344,
+    "https://www.youtube.com/watch?v=3TcX_GtGw14": 1232,
+    "https://www.youtube.com/watch?v=pSfkTlqi2hc": 1701,
+    "https://www.youtube.com/watch?v=l__3JYXAs1M": 1841,
     "https://www.youtube.com/watch?v=WB10Yg9EycM": 1378,
     "https://www.youtube.com/watch?v=tUmEGv_q6Ew": 1216,
-    "https://www.youtube.com/watch?v=CDukhQX7wjw": 5408,
+    "https://www.youtube.com/watch?v=CDukhQX7wjw": 5412,
     "https://www.youtube.com/watch?v=4vIiuYY3a1w": 1303,
     "https://www.youtube.com/watch?v=ASjQLMZD6yY": 1275
   },
   "titulos": {
+    "https://www.youtube.com/watch?v=EJcj2ohZepA": "😀 #blackclover #blackcloveredit #astablackclover #anime #fyp #crunchyroll #otaku",
     "https://www.youtube.com/watch?v=Sym7Sy1VU00": "¿Que piensas tu? #nicaragua #otaku #convenciones #friki #tsunami #anime #fyp #managua",
     "https://www.youtube.com/watch?v=-ec4MP_wzb0": "¿Para vos cual es la mejor pareja?#nicaragua #anime #convenciones #otaku #friki #managua #",
     "https://www.youtube.com/watch?v=395pWO4XdFE": "🙄 #blackclover #blackcloveredit #friki #otaku #anime #yuno #crunchyroll",
@@ -50,9 +52,23 @@ Dreamers.autoContenido("indira", {
     "https://www.youtube.com/watch?v=CDukhQX7wjw": "No me agrada lo siento😭#blackclover #yunoblackclover #blackcloveredit #anime #otaku #friki",
     "https://www.youtube.com/watch?v=4vIiuYY3a1w": "¿Y que team son ustedes?🧐#blackclover #blackcloveredit #noellesilva #anime #parati #otaku ",
     "https://www.youtube.com/watch?v=ASjQLMZD6yY": "Su magia es no rendirse🗣 #blackclover #asta #anime #friki #friki #otaku #blackcloveredit",
-    "https://www.tiktok.com/@indirapellas/video/6784616269256606725": "@indirapellas 17.9k seguidores, 812 siguiendo, 271.7k me gusta: no te pierdas los geniales"
+    "https://www.tiktok.com/@indirapellas/video/6784616269256606725": "@indirapellas 17.9k seguidores, 813 siguiendo, 272.1k me gusta: no te pierdas los geniales"
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgGm73rs3rF/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795478098
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=EJcj2ohZepA",
+      "titulo": "😀 #blackclover #blackcloveredit #astablackclover #anime #fyp #crunchyroll #otaku",
+      "vistas": 1217,
+      "fecha": 1795458530
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/p/DgEewSVNVwc/",
@@ -92,7 +108,7 @@ Dreamers.autoContenido("indira", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=Sym7Sy1VU00",
       "titulo": "¿Que piensas tu? #nicaragua #otaku #convenciones #friki #tsunami #anime #fyp #managua",
-      "vistas": 1159,
+      "vistas": 1167,
       "fecha": 1794948319
     },
     {
@@ -106,7 +122,7 @@ Dreamers.autoContenido("indira", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=-ec4MP_wzb0",
       "titulo": "¿Para vos cual es la mejor pareja?#nicaragua #anime #convenciones #otaku #friki #managua #",
-      "vistas": 1558,
+      "vistas": 1565,
       "fecha": 1794878764
     },
     {
@@ -183,7 +199,7 @@ Dreamers.autoContenido("indira", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=395pWO4XdFE",
       "titulo": "🙄 #blackclover #blackcloveredit #friki #otaku #anime #yuno #crunchyroll",
-      "vistas": 2456,
+      "vistas": 2461,
       "fecha": 1794354384
     },
     {
@@ -197,49 +213,49 @@ Dreamers.autoContenido("indira", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=V4IuJP03vOc",
       "titulo": "De suerte me lo miré en emisión en 2017 #blackcloveredit #blackclover #friki #anime #crunc",
-      "vistas": 1916,
+      "vistas": 1920,
       "fecha": 1794284495
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=y_6Ckue744o",
       "titulo": "🙄 #blackclover #crunchyroll #anime #friki #otaku #blackclover #asta",
-      "vistas": 1380,
+      "vistas": 1382,
       "fecha": 1794079691
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=_HAJwQeID6E",
       "titulo": "así no eh #blackclover #blackcloveredit #crunchyroll #anime #friki",
-      "vistas": 1900,
+      "vistas": 1902,
       "fecha": 1793833820
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=_fC2Xn2KSgc",
       "titulo": "Me refiero a zenon, yo sé que el enemigo principal es Lucius! #blackclover #crunchyroll #o",
-      "vistas": 1343,
+      "vistas": 1344,
       "fecha": 1793762925
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=3TcX_GtGw14",
       "titulo": "Team Noelle #blackclover #anime #otaku #friki #noellesilva #crunchyroll",
-      "vistas": 1231,
+      "vistas": 1232,
       "fecha": 1793665238
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=pSfkTlqi2hc",
       "titulo": "alguien más notó eso? #blackclover #blackcloveredit #anime #otaku #crunchyroll #friki #",
-      "vistas": 1700,
+      "vistas": 1701,
       "fecha": 1793580485
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=l__3JYXAs1M",
       "titulo": "Prioridades 🗣#blackclover #anime #friki #otaku #crunchyroll #blackcloveredit #astablackclo",
-      "vistas": 1840,
+      "vistas": 1841,
       "fecha": 1793559905
     },
     {
@@ -260,7 +276,7 @@ Dreamers.autoContenido("indira", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=CDukhQX7wjw",
       "titulo": "No me agrada lo siento😭#blackclover #yunoblackclover #blackcloveredit #anime #otaku #friki",
-      "vistas": 5408,
+      "vistas": 5412,
       "fecha": 1793314453
     },
     {
@@ -301,7 +317,7 @@ Dreamers.autoContenido("indira", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@indirapellas/video/6784616269256606725",
-      "titulo": "@indirapellas 17.9k seguidores, 812 siguiendo, 271.7k me gusta: no te pierdas los geniales",
+      "titulo": "@indirapellas 17.9k seguidores, 813 siguiendo, 272.1k me gusta: no te pierdas los geniales",
       "vistas": null,
       "fecha": 1579666572
     },
@@ -314,21 +330,7 @@ Dreamers.autoContenido("indira", {
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=2Gtn5kSMPEI",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
       "vistas": null,
       "fecha": null

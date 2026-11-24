@@ -26,12 +26,12 @@ Dreamers.talento({
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/profile.php?id=100027972265481/",
-      "seguidores": "2"
+      "seguidores": "5"
     },
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@indirapellas/",
-      "seguidores": "400"
+      "seguidores": "401"
     }
   ],
   "formatos": [
@@ -46,7 +46,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "271.7K",
+    "valor": "272.1K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

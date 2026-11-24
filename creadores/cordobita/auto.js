@@ -1,5 +1,5 @@
 Dreamers.autoContenido("cordobita", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/reel/Df-RHJTvtTa/",
     "https://www.instagram.com/p/Df0ihcymq4k/",

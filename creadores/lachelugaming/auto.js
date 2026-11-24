@@ -1,5 +1,5 @@
 Dreamers.autoContenido("lachelugaming", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.youtube.com/watch?v=oHE_XkyXtEQ",
     "https://www.instagram.com/reel/Dfs7IXGhDr-/",
@@ -33,14 +33,14 @@ Dreamers.autoContenido("lachelugaming", {
     "https://www.youtube.com/watch?v=joghQpJQ4Ro": 1281,
     "https://www.youtube.com/watch?v=GTyHbZuexdY": 1431,
     "https://www.youtube.com/watch?v=2Wla9ZlOtWg": 1036,
+    "https://x.com/LaCheluGaming/status/2088361821350621399": 33,
     "https://x.com/LaCheluGaming/status/2084663696849047787": 40,
     "https://x.com/LaCheluGaming/status/2083330839715172501": 62,
     "https://x.com/LaCheluGaming/status/2081895361753264310": 46,
     "https://x.com/LaCheluGaming/status/2081137052536508766": 47,
     "https://x.com/LaCheluGaming/status/2081136032267763720": 33,
     "https://x.com/LaCheluGaming/status/2081124376552886330": 714,
-    "https://x.com/LaCheluGaming/status/2078560439131136110": 22,
-    "https://x.com/LaCheluGaming/status/2072815875959214164": 41
+    "https://x.com/LaCheluGaming/status/2078560439131136110": 22
   },
   "titulos": {
     "https://www.youtube.com/watch?v=oHE_XkyXtEQ": "Feliz Pumpe",
@@ -286,6 +286,13 @@ Dreamers.autoContenido("lachelugaming", {
     },
     {
       "red": "x",
+      "url": "https://x.com/LaCheluGaming/status/2088361821350621399",
+      "titulo": "",
+      "vistas": 33,
+      "fecha": 1786739232
+    },
+    {
+      "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2084663696849047787",
       "titulo": "",
       "vistas": 40,
@@ -332,13 +339,6 @@ Dreamers.autoContenido("lachelugaming", {
       "titulo": "",
       "vistas": 22,
       "fecha": 1784402401
-    },
-    {
-      "red": "x",
-      "url": "https://x.com/LaCheluGaming/status/2072815875959214164",
-      "titulo": "",
-      "vistas": 41,
-      "fecha": 1783032790
     }
   ]
 });

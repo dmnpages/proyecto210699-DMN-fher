@@ -1,5 +1,5 @@
 Dreamers.autoContenido("neylis", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/p/DHKbXaAsaRc/",
     "https://www.instagram.com/p/DegFjN8FdA0/",
@@ -8,14 +8,14 @@ Dreamers.autoContenido("neylis", {
     "https://www.tiktok.com/@_neylis_0/video/7704852496937798919"
   ],
   "reserva": [
+    "https://www.instagram.com/p/DgG6gKiFV-s/",
     "https://www.instagram.com/p/Df6HM3zFczz/",
     "https://www.instagram.com/p/Df3n691Fbg0/",
     "https://www.instagram.com/p/Df1vgp6sMol/",
     "https://www.instagram.com/reel/DfdpaUwKHLm/",
     "https://www.instagram.com/reel/DfYXA2NqqeS/",
     "https://www.instagram.com/p/DfQi7RuFUHb/",
-    "https://www.instagram.com/reel/DfD9nBNK2TL/",
-    "https://www.instagram.com/p/De0gOnGFSPd/"
+    "https://www.instagram.com/reel/DfD9nBNK2TL/"
   ],
   "fijados": [
     "https://www.instagram.com/p/DHKbXaAsaRc/",
@@ -25,7 +25,7 @@ Dreamers.autoContenido("neylis", {
     "https://www.tiktok.com/@_neylis_0/video/7704852496937798919"
   ],
   "titulos": {
-    "https://www.tiktok.com/@_neylis_0/video/6559256275292438533": "@_neylis_0 1186 seguidores, 360 siguiendo, 49.5k me gusta: no te pierdas los geniales víde"
+    "https://www.tiktok.com/@_neylis_0/video/6559256275292438533": "@_neylis_0 1187 seguidores, 361 siguiendo, 49.6k me gusta: no te pierdas los geniales víde"
   },
   "candidatas": [
     {
@@ -62,6 +62,13 @@ Dreamers.autoContenido("neylis", {
       "titulo": "",
       "vistas": null,
       "fecha": 1793925766
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DgG6gKiFV-s/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795488357
     },
     {
       "red": "instagram",
@@ -192,7 +199,7 @@ Dreamers.autoContenido("neylis", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@_neylis_0/video/6559256275292438533",
-      "titulo": "@_neylis_0 1186 seguidores, 360 siguiendo, 49.5k me gusta: no te pierdas los geniales víde",
+      "titulo": "@_neylis_0 1187 seguidores, 361 siguiendo, 49.6k me gusta: no te pierdas los geniales víde",
       "vistas": null,
       "fecha": 1527195860
     }

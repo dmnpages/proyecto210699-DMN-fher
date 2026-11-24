@@ -1,5 +1,5 @@
 Dreamers.autoContenido("startter-gamers", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.twitch.tv/starttergamers",
     "https://www.facebook.com/reel/2324700334988065/",
@@ -25,7 +25,7 @@ Dreamers.autoContenido("startter-gamers", {
     "https://www.facebook.com/reel/2324700334988065/": 5
   },
   "titulos": {
-    "https://www.tiktok.com/@starttergamers/video/7062763825053139974": "@starttergamers 2996 seguidores, 2640 siguiendo, 50.8k me gusta: no te pierdas los geniale"
+    "https://www.tiktok.com/@starttergamers/video/7062763825053139974": "@starttergamers 2995 seguidores, 2641 siguiendo, 50.8k me gusta: no te pierdas los geniale"
   },
   "candidatas": [
     {
@@ -129,9 +129,16 @@ Dreamers.autoContenido("startter-gamers", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@starttergamers/video/7062763825053139974",
-      "titulo": "@starttergamers 2996 seguidores, 2640 siguiendo, 50.8k me gusta: no te pierdas los geniale",
+      "titulo": "@starttergamers 2995 seguidores, 2641 siguiendo, 50.8k me gusta: no te pierdas los geniale",
       "vistas": null,
       "fecha": 1644427847
+    },
+    {
+      "red": "facebook",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
     },
     {
       "red": "facebook",
@@ -150,13 +157,6 @@ Dreamers.autoContenido("startter-gamers", {
     {
       "red": "facebook",
       "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
       "vistas": null,
       "fecha": null

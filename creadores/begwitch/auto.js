@@ -1,26 +1,33 @@
 Dreamers.autoContenido("begwitch", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
+    "https://www.instagram.com/reel/DgGGE37v4UD/",
     "https://www.instagram.com/reel/DgErg7RxwvU/",
     "https://www.instagram.com/reel/Df-6UTps09k/",
     "https://www.instagram.com/reel/Df8SYlwsNpF/",
-    "https://www.instagram.com/reel/Df56MsUsU0-/",
-    "https://www.instagram.com/reel/Df3_JTfPnOA/"
+    "https://www.instagram.com/reel/Df56MsUsU0-/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/Df3_JTfPnOA/",
     "https://www.instagram.com/reel/Df3Wsi0MIuT/",
     "https://www.instagram.com/p/Df1QQqLka9n/",
     "https://www.instagram.com/reel/Df0L0RDCtb4/",
     "https://www.instagram.com/reel/Dfz9VzIB2Yx/",
     "https://www.instagram.com/reel/Dfs7hrIsFhK/",
     "https://www.instagram.com/p/DflMZS5Dr0k/",
-    "https://www.instagram.com/reel/DfOHdcUMqxl/",
-    "https://www.instagram.com/reel/DfJW35OuBg1/"
+    "https://www.instagram.com/reel/DfOHdcUMqxl/"
   ],
   "vistas": {
     "https://www.facebook.com/reel/3840444649472885/": 5
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgGGE37v4UD/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795460871
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgErg7RxwvU/",
@@ -163,6 +170,20 @@ Dreamers.autoContenido("begwitch", {
     },
     {
       "red": "facebook",
+      "url": "https://www.facebook.com/begwitchcosplay/posts/pfbid0Bwd6FfqhacVmR2ZZd6UjghZo71fGqQhXthzbeGwpBQPM5jcCbPgXLLNCseaXaYrtl",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "facebook",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "facebook",
       "url": "https://www.facebook.com/begwitchcosplay/posts/pfbid0BdpZzAYEad4ZjK7hZPwcdxotSmYpoKsXsNUEdau9Am4Tj9JoxdCGDKJqpyxXFfxPl",
       "titulo": "",
       "vistas": null,
@@ -185,13 +206,6 @@ Dreamers.autoContenido("begwitch", {
     {
       "red": "facebook",
       "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
       "vistas": null,
       "fecha": null

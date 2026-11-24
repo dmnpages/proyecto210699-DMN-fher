@@ -1,21 +1,21 @@
 Dreamers.autoContenido("sniva", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
+    "https://www.instagram.com/p/DgISwyJo322/",
     "https://www.instagram.com/reel/Df7rLRzo4AF/",
     "https://www.instagram.com/p/Df3r5lBunZd/",
     "https://www.instagram.com/p/DflGtQ0udsk/",
-    "https://www.instagram.com/reel/DfWPnmBuZUl/",
-    "https://www.instagram.com/reel/DfPzSNpoNbJ/"
+    "https://www.instagram.com/reel/DfWPnmBuZUl/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DfPzSNpoNbJ/",
     "https://www.instagram.com/reel/DfDOA5Wh5tN/",
     "https://www.instagram.com/p/De_ODEnoOlh/",
     "https://www.instagram.com/p/De-i8zaOYnu/",
     "https://www.instagram.com/reel/DefZJyVoTlr/",
     "https://www.instagram.com/reel/DeRmdAtuxpe/",
     "https://www.youtube.com/watch?v=mYWDlcTpgFc",
-    "https://www.youtube.com/watch?v=dzItNLE_IbA",
-    "https://www.instagram.com/reel/DaCIreiOXoS/"
+    "https://www.youtube.com/watch?v=dzItNLE_IbA"
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=mYWDlcTpgFc": 3,
@@ -50,9 +50,16 @@ Dreamers.autoContenido("sniva", {
     "https://www.youtube.com/watch?v=v8VB-Wj-4_w": "Loqueras con el conejo con audio de xKhipu de fondo",
     "https://www.youtube.com/watch?v=6XM1J_vtt1w": "La gata hace miau, con cuadrakill #parati #pokemonunite #pokemon",
     "https://www.youtube.com/watch?v=D2YwCMZlZao": "en efecto si soy #pokemonunite #parati #pokemon",
-    "https://www.tiktok.com/@sniva2509/video/7332846653345055750": "@sniva2509 313 seguidores, 99 siguiendo, 20.8k me gusta: no te pierdas los geniales vídeos"
+    "https://www.tiktok.com/@sniva2509/video/7332846653345055750": "@sniva2509 313 seguidores, 99 siguiendo, 20.9k me gusta: no te pierdas los geniales vídeos"
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DgISwyJo322/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795534631
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/Df7rLRzo4AF/",
@@ -245,13 +252,13 @@ Dreamers.autoContenido("sniva", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@sniva2509/video/7332846653345055750",
-      "titulo": "@sniva2509 313 seguidores, 99 siguiendo, 20.8k me gusta: no te pierdas los geniales vídeos",
+      "titulo": "@sniva2509 313 seguidores, 99 siguiendo, 20.9k me gusta: no te pierdas los geniales vídeos",
       "vistas": null,
       "fecha": 1707311406
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/sniva1825/posts/pfbid02jwyUpveStxNsZJq7TuFv4QxJjCGP8Wra36yaZA49FBdvx4RLfDRMbT4LL379VawJl",
+      "url": "https://www.facebook.com/sniva1825/posts/pfbid0gQLHum263kKFPQFyoxLgdbYiPY5NPX7xqmfj41EjduWf5iT6qDmfoV7iPcpXPw9Xl",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -259,6 +266,41 @@ Dreamers.autoContenido("sniva", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=mGwr1WoINDk",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "facebook",
+      "url": "https://www.facebook.com/sniva1825/posts/pfbid02nvkBrnH1RBGqE8qMATRMd3GWw4RFvcECjcprHnwTWW5t1sLX5UhTKD1b2gs4vaQVl",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=PQPWfLm34gQ",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "facebook",
+      "url": "https://www.facebook.com/sniva1825/posts/pfbid02GMwNE7Jb2qhNXeyBLqtA8uf5pQMdeb9FC9SF8Pk1MbaBhueH3sVMV2W3mRmvmUDUl",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "facebook",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "facebook",
+      "url": "https://www.facebook.com/sniva1825/posts/pfbid02jwyUpveStxNsZJq7TuFv4QxJjCGP8Wra36yaZA49FBdvx4RLfDRMbT4LL379VawJl",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -287,27 +329,6 @@ Dreamers.autoContenido("sniva", {
     {
       "red": "facebook",
       "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "twitch",
-      "url": "https://www.twitch.tv/leafs_gamers",
       "titulo": "",
       "vistas": null,
       "fecha": null

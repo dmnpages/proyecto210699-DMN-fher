@@ -1,5 +1,5 @@
 Dreamers.autoContenido("jares", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/p/DRqMcJOiTeZ/",
     "https://www.instagram.com/p/DXx4i6-DCu1/",
@@ -25,7 +25,7 @@ Dreamers.autoContenido("jares", {
     "https://www.tiktok.com/@jares_mayerling/video/7567581761853525303"
   ],
   "titulos": {
-    "https://www.tiktok.com/@jares_mayerling/video/6913235068035007493": "@jares_mayerling 3228 seguidores, 1957 siguiendo, 34.6k me gusta: no te pierdas los genial"
+    "https://www.tiktok.com/@jares_mayerling/video/6913235068035007493": "@jares_mayerling 3227 seguidores, 1958 siguiendo, 34.6k me gusta: no te pierdas los genial"
   },
   "candidatas": [
     {
@@ -199,7 +199,7 @@ Dreamers.autoContenido("jares", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@jares_mayerling/video/6913235068035007493",
-      "titulo": "@jares_mayerling 3228 seguidores, 1957 siguiendo, 34.6k me gusta: no te pierdas los genial",
+      "titulo": "@jares_mayerling 3227 seguidores, 1958 siguiendo, 34.6k me gusta: no te pierdas los genial",
       "vistas": null,
       "fecha": 1609612970
     }

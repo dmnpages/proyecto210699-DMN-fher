@@ -15,7 +15,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/syngmau_/",
-      "seguidores": "307"
+      "seguidores": "309"
     },
     {
       "plataforma": "Tiktok",
@@ -33,7 +33,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "783.7K",
+    "valor": "783.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

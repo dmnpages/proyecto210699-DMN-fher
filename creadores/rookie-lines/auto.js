@@ -1,5 +1,5 @@
 Dreamers.autoContenido("rookie-lines", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/reel/Df5ifM2BAV-/",
     "https://www.instagram.com/p/Df2czTlmyBV/",

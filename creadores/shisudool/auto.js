@@ -1,5 +1,5 @@
 Dreamers.autoContenido("shisudool", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/reel/Dfsx21Vtrzb/",
     "https://www.instagram.com/reel/DfVllaDPdTH/",
@@ -18,11 +18,6 @@ Dreamers.autoContenido("shisudool", {
     "https://www.instagram.com/reel/DeIgJ8NNu1j/"
   ],
   "vistas": {
-    "https://x.com/sh1sudo0l_/status/2117413590680445438": 1,
-    "https://x.com/sh1sudo0l_/status/2112345476863307985": 10,
-    "https://x.com/sh1sudo0l_/status/2108727831706362049": 1,
-    "https://x.com/sh1sudo0l_/status/2106173067940463060": 22,
-    "https://x.com/sh1sudo0l_/status/2102132927987601480": 70,
     "https://x.com/sh1sudo0l_/status/2099986421394084156": 24
   },
   "titulos": {
@@ -47,7 +42,7 @@ Dreamers.autoContenido("shisudool", {
       "red": "x",
       "url": "https://x.com/sh1sudo0l_/status/2117413590680445438",
       "titulo": "",
-      "vistas": 1,
+      "vistas": null,
       "fecha": 1793665714
     },
     {
@@ -89,7 +84,7 @@ Dreamers.autoContenido("shisudool", {
       "red": "x",
       "url": "https://x.com/sh1sudo0l_/status/2112345476863307985",
       "titulo": "",
-      "vistas": 10,
+      "vistas": null,
       "fecha": 1792457381
     },
     {
@@ -103,7 +98,7 @@ Dreamers.autoContenido("shisudool", {
       "red": "x",
       "url": "https://x.com/sh1sudo0l_/status/2108727831706362049",
       "titulo": "",
-      "vistas": 1,
+      "vistas": null,
       "fecha": 1791594868
     },
     {
@@ -124,14 +119,14 @@ Dreamers.autoContenido("shisudool", {
       "red": "x",
       "url": "https://x.com/sh1sudo0l_/status/2106173067940463060",
       "titulo": "",
-      "vistas": 22,
+      "vistas": null,
       "fecha": 1790985764
     },
     {
       "red": "x",
       "url": "https://x.com/sh1sudo0l_/status/2102132927987601480",
       "titulo": "",
-      "vistas": 70,
+      "vistas": null,
       "fecha": 1790022520
     },
     {

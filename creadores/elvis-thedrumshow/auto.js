@@ -1,5 +1,5 @@
 Dreamers.autoContenido("elvis-thedrumshow", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/p/DgBgUK_EXAL/",
     "https://www.instagram.com/reel/DgBCLgKM3Rb/",

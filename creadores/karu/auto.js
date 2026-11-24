@@ -1,5 +1,5 @@
 Dreamers.autoContenido("karu", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.youtube.com/watch?v=82HbrVDE56Y",
     "https://www.youtube.com/watch?v=Eofo_oQA27I",
@@ -24,7 +24,7 @@ Dreamers.autoContenido("karu", {
     "https://www.youtube.com/watch?v=RTaNtGjzTik": 520,
     "https://www.youtube.com/watch?v=hx0LAbrfdHA": 300,
     "https://www.youtube.com/watch?v=BCE13ObOFyM": 181,
-    "https://www.youtube.com/watch?v=Ntv_KVJCN3E": 292,
+    "https://www.youtube.com/watch?v=Ntv_KVJCN3E": 298,
     "https://www.youtube.com/watch?v=0auwJvemmZQ": 794,
     "https://www.youtube.com/watch?v=DA_xUxRt9Ls": 1284,
     "https://www.youtube.com/watch?v=tZhu66CLu8E": 1106,
@@ -108,7 +108,7 @@ Dreamers.autoContenido("karu", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=Ntv_KVJCN3E",
       "titulo": "Tutorial de como descargar el port de Twilight Princess!",
-      "vistas": 292,
+      "vistas": 298,
       "fecha": 1778421721
     },
     {
@@ -183,6 +183,13 @@ Dreamers.autoContenido("karu", {
     },
     {
       "red": "facebook",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "facebook",
       "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
       "titulo": "",
       "vistas": null,
@@ -198,13 +205,6 @@ Dreamers.autoContenido("karu", {
     {
       "red": "facebook",
       "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
       "vistas": null,
       "fecha": null

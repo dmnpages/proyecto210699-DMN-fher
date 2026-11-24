@@ -1,21 +1,21 @@
 Dreamers.autoContenido("netsu", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
+    "https://www.instagram.com/p/DgHHD1KlYDW/",
+    "https://www.instagram.com/reel/DgHEZioNa2L/",
     "https://www.instagram.com/reel/DgEVKswNyc0/",
     "https://www.instagram.com/p/DgDtJyboMnG/",
-    "https://www.instagram.com/p/DgDnF_rIMS1/",
-    "https://www.instagram.com/p/DgBJT8Dmbx1/",
-    "https://www.instagram.com/reel/Df7ySCysXPd/"
+    "https://www.instagram.com/p/DgDnF_rIMS1/"
   ],
   "reserva": [
+    "https://www.instagram.com/p/DgBJT8Dmbx1/",
+    "https://www.instagram.com/reel/Df7ySCysXPd/",
     "https://www.instagram.com/reel/Df6UUCbtTc3/",
     "https://www.instagram.com/reel/Df5LhkXyZcx/",
     "https://www.instagram.com/reel/Df3k98WBIdm/",
     "https://www.instagram.com/p/Df2yP5JlI6C/",
     "https://www.instagram.com/reel/Df0XIiCsXfJ/",
-    "https://www.instagram.com/reel/Dfz97nZvd9_/",
-    "https://www.instagram.com/p/DHVGIStupVe/",
-    "https://www.youtube.com/watch?v=hGxf1zdAPm4"
+    "https://www.instagram.com/reel/Dfz97nZvd9_/"
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=hGxf1zdAPm4": 567,
@@ -51,9 +51,23 @@ Dreamers.autoContenido("netsu", {
     "https://www.youtube.com/watch?v=TXInjShAPic": "¿Te sabías este dato curioso sobre el Mario Day? #shorts   #mar10day #mar10  #nintendo #ma",
     "https://www.youtube.com/watch?v=mXQg8TL1nsA": "NOTICIAS | ¿DRAGON BALL Z BUDOKAI TENKAICHI 4? Trailer | Netsu",
     "https://www.youtube.com/watch?v=0HR_W5ppJTM": "Mira a todos tus streamers favoritos al mismo tiempo. #squidcraft2  #auronplay #komanche #",
-    "https://www.tiktok.com/@netsugames/video/6821725383412548614": "@netsugames 20.7k seguidores, 805 siguiendo, 579.4k me gusta: no te pierdas los geniales v"
+    "https://www.tiktok.com/@netsugames/video/6821725383412548614": "@netsugames 20.7k seguidores, 805 siguiendo, 580.5k me gusta: no te pierdas los geniales v"
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DgHHD1KlYDW/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795494941
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgHEZioNa2L/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795493546
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgEVKswNyc0/",
@@ -246,9 +260,23 @@ Dreamers.autoContenido("netsu", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@netsugames/video/6821725383412548614",
-      "titulo": "@netsugames 20.7k seguidores, 805 siguiendo, 579.4k me gusta: no te pierdas los geniales v",
+      "titulo": "@netsugames 20.7k seguidores, 805 siguiendo, 580.5k me gusta: no te pierdas los geniales v",
       "vistas": null,
       "fecha": 1588306711
+    },
+    {
+      "red": "facebook",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=oMbx9ysYaCc",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
     },
     {
       "red": "facebook",
@@ -259,7 +287,7 @@ Dreamers.autoContenido("netsu", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=oMbx9ysYaCc",
+      "url": "https://www.youtube.com/watch?v=ciM8limtRMY",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -273,7 +301,7 @@ Dreamers.autoContenido("netsu", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=ciM8limtRMY",
+      "url": "https://www.youtube.com/watch?v=03RVazCwsoI",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -295,20 +323,6 @@ Dreamers.autoContenido("netsu", {
     {
       "red": "facebook",
       "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=03RVazCwsoI",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
       "vistas": null,
       "fecha": null

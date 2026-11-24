@@ -1,5 +1,5 @@
 Dreamers.autoContenido("tanooki", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/reel/Df-atMtP327/",
     "https://www.instagram.com/reel/Df5Qw-hRac3/",
@@ -19,9 +19,9 @@ Dreamers.autoContenido("tanooki", {
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=z9vqpZsKdNY": 1301,
-    "https://www.youtube.com/watch?v=Oh0fRk6mfQk": 1135,
+    "https://www.youtube.com/watch?v=Oh0fRk6mfQk": 1140,
     "https://www.youtube.com/watch?v=n5VQxdiDjX8": 520,
-    "https://www.youtube.com/watch?v=RPNDBNK4Nl4": 861,
+    "https://www.youtube.com/watch?v=RPNDBNK4Nl4": 863,
     "https://www.youtube.com/watch?v=JazISX-sYQ0": 1587,
     "https://www.youtube.com/watch?v=7FoJHOFtl0s": 926,
     "https://www.youtube.com/watch?v=h2pn9WSojgc": 1532,
@@ -30,7 +30,7 @@ Dreamers.autoContenido("tanooki", {
     "https://www.youtube.com/watch?v=tKbVFrxhLFg": 488,
     "https://www.youtube.com/watch?v=F45HCzL6TNs": 1382,
     "https://www.youtube.com/watch?v=rAbR_is8_YA": 1384,
-    "https://www.youtube.com/watch?v=94LxZWVC43A": 1655,
+    "https://www.youtube.com/watch?v=94LxZWVC43A": 1656,
     "https://www.youtube.com/watch?v=TGC3M78z8uU": 39,
     "https://www.youtube.com/watch?v=w-omg5JO6Uk": 779
   },
@@ -105,7 +105,7 @@ Dreamers.autoContenido("tanooki", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=Oh0fRk6mfQk",
       "titulo": "Creen que Just Animations es mejor que Actions & Stuff? Cuentenme en los comentarios👀 #min",
-      "vistas": 1135,
+      "vistas": 1140,
       "fecha": 1791349887
     },
     {
@@ -119,7 +119,7 @@ Dreamers.autoContenido("tanooki", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=RPNDBNK4Nl4",
       "titulo": "Zombie Full Netherite #minecraft #minecraftshorts #minecraftmemes #minecraftjava #gamergir",
-      "vistas": 861,
+      "vistas": 863,
       "fecha": 1784178471
     },
     {
@@ -182,7 +182,7 @@ Dreamers.autoContenido("tanooki", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=94LxZWVC43A",
       "titulo": "Te puedes unir a la partida si estas en el live de minecraft! #minecraft #minecraftmemes #",
-      "vistas": 1655,
+      "vistas": 1656,
       "fecha": 1782067903
     },
     {
@@ -215,6 +215,13 @@ Dreamers.autoContenido("tanooki", {
     },
     {
       "red": "facebook",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "facebook",
       "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
       "titulo": "",
       "vistas": null,
@@ -230,13 +237,6 @@ Dreamers.autoContenido("tanooki", {
     {
       "red": "facebook",
       "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
       "vistas": null,
       "fecha": null

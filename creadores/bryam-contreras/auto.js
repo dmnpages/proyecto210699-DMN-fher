@@ -1,5 +1,5 @@
 Dreamers.autoContenido("bryam-contreras", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://kick.com/soybryam06c",
     "https://www.instagram.com/p/DUNIfJ5AGxP/",

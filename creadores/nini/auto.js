@@ -1,5 +1,5 @@
 Dreamers.autoContenido("nini", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.tiktok.com/@cherryjaneblossom/video/7687757449822063893",
     "https://www.tiktok.com/@cherryjaneblossom/video/7700020959960386837",
@@ -24,7 +24,7 @@ Dreamers.autoContenido("nini", {
     "https://www.tiktok.com/@cherryjaneblossom/video/7628153615370194197"
   ],
   "titulos": {
-    "https://www.tiktok.com/@cherryjaneblossom/video/7020469200327050246": "@cherryjaneblossom 1614 seguidores, 101 siguiendo, 117.5k me gusta: no te pierdas los geni"
+    "https://www.tiktok.com/@cherryjaneblossom/video/7020469200327050246": "@cherryjaneblossom 1610 seguidores, 101 siguiendo, 117.5k me gusta: no te pierdas los geni"
   },
   "candidatas": [
     {
@@ -121,7 +121,7 @@ Dreamers.autoContenido("nini", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@cherryjaneblossom/video/7020469200327050246",
-      "titulo": "@cherryjaneblossom 1614 seguidores, 101 siguiendo, 117.5k me gusta: no te pierdas los geni",
+      "titulo": "@cherryjaneblossom 1610 seguidores, 101 siguiendo, 117.5k me gusta: no te pierdas los geni",
       "vistas": null,
       "fecha": 1634580362
     }

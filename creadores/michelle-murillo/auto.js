@@ -1,13 +1,14 @@
 Dreamers.autoContenido("michelle-murillo", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
+    "https://www.instagram.com/reel/DgGZsstPD-W/",
     "https://www.instagram.com/reel/DgDvSJTvPiQ/",
     "https://www.instagram.com/reel/DgBJwrYvr99/",
     "https://www.instagram.com/reel/Df8YscWP9Ki/",
-    "https://www.instagram.com/reel/Df0FqE4vtjM/",
-    "https://www.instagram.com/reel/DfyTlxZRZPf/"
+    "https://www.instagram.com/reel/Df0FqE4vtjM/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DfyTlxZRZPf/",
     "https://www.instagram.com/reel/DfyH9m4xmil/",
     "https://www.instagram.com/reel/DfxhXfXPkK7/",
     "https://www.instagram.com/reel/Dfv7Dx0xMGv/",
@@ -17,6 +18,13 @@ Dreamers.autoContenido("michelle-murillo", {
     "https://www.instagram.com/reel/DUhbNYODNLs/"
   ],
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgGZsstPD-W/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795471158
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgDvSJTvPiQ/",

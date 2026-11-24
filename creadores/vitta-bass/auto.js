@@ -1,5 +1,5 @@
 Dreamers.autoContenido("vitta-bass", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.youtube.com/watch?v=A_PhfZHM9W0",
     "https://www.youtube.com/watch?v=_anYn9RoWoE",
@@ -18,11 +18,11 @@ Dreamers.autoContenido("vitta-bass", {
     "https://www.youtube.com/watch?v=KxenH6pkdGc"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=A_PhfZHM9W0": 540,
-    "https://www.youtube.com/watch?v=_anYn9RoWoE": 487,
+    "https://www.youtube.com/watch?v=A_PhfZHM9W0": 543,
+    "https://www.youtube.com/watch?v=_anYn9RoWoE": 489,
     "https://www.youtube.com/watch?v=nYxXK0jzV98": 508,
-    "https://www.youtube.com/watch?v=-XmSWCewjE8": 1005,
-    "https://www.youtube.com/watch?v=jwufJBJVf9k": 695,
+    "https://www.youtube.com/watch?v=-XmSWCewjE8": 1007,
+    "https://www.youtube.com/watch?v=jwufJBJVf9k": 696,
     "https://www.youtube.com/watch?v=5NJLk0k2CN4": 811,
     "https://www.youtube.com/watch?v=SxqhXf53org": 576,
     "https://www.youtube.com/watch?v=0cl7LEDuMU8": 331,
@@ -30,7 +30,7 @@ Dreamers.autoContenido("vitta-bass", {
     "https://www.youtube.com/watch?v=_3OHjdG0bsU": 1543,
     "https://www.youtube.com/watch?v=W8XVQTDnp5A": 940,
     "https://www.youtube.com/watch?v=J_T1F_yUPUU": 232,
-    "https://www.youtube.com/watch?v=KxenH6pkdGc": 1600,
+    "https://www.youtube.com/watch?v=KxenH6pkdGc": 1603,
     "https://www.youtube.com/watch?v=nihlfhMA2QI": 1354,
     "https://www.youtube.com/watch?v=I26XSpb2HI8": 217
   },
@@ -57,14 +57,14 @@ Dreamers.autoContenido("vitta-bass", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=A_PhfZHM9W0",
       "titulo": "SNAY & VITTA : Good Life",
-      "vistas": 540,
+      "vistas": 543,
       "fecha": 1783094740
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=_anYn9RoWoE",
       "titulo": "VITTA BASS - Old  School",
-      "vistas": 487,
+      "vistas": 489,
       "fecha": 1757907354
     },
     {
@@ -78,14 +78,14 @@ Dreamers.autoContenido("vitta-bass", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=-XmSWCewjE8",
       "titulo": "VITTA - Lollipop",
-      "vistas": 1005,
+      "vistas": 1007,
       "fecha": 1746045466
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=jwufJBJVf9k",
       "titulo": "VITTA - Una vida & Dos mandados ( lyrics Visual)",
-      "vistas": 695,
+      "vistas": 696,
       "fecha": 1745539206
     },
     {
@@ -141,7 +141,7 @@ Dreamers.autoContenido("vitta-bass", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=KxenH6pkdGc",
       "titulo": "VITTA - Ando 900 ( oficial video )",
-      "vistas": 1600,
+      "vistas": 1603,
       "fecha": 1724544006
     },
     {
@@ -168,6 +168,13 @@ Dreamers.autoContenido("vitta-bass", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=kcXzelN6EnY",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=aGqFBEtMi8c",
       "titulo": "",
       "vistas": null,
       "fecha": null

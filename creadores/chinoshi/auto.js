@@ -1,23 +1,30 @@
 Dreamers.autoContenido("chinoshi", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
+    "https://www.instagram.com/p/DgFvYPzhqds/",
     "https://www.instagram.com/p/Df-5V7aD1bH/",
     "https://www.instagram.com/p/Df8VIKjD0Xt/",
     "https://www.instagram.com/p/Df8VCh7j2e2/",
-    "https://www.instagram.com/p/Df8U0x0Dz0Y/",
-    "https://www.instagram.com/p/Df21AV2D44i/"
+    "https://www.instagram.com/p/Df8U0x0Dz0Y/"
   ],
   "reserva": [
+    "https://www.instagram.com/p/Df21AV2D44i/",
     "https://www.instagram.com/p/Df2hBYAjxoD/",
     "https://www.instagram.com/p/DfbcGdGHI4s/",
     "https://www.instagram.com/p/DeZT-4SnDP2/",
     "https://www.instagram.com/reel/DeYJkzkht9x/",
     "https://www.instagram.com/p/DeYHiZXnMPy/",
     "https://www.instagram.com/p/DeHx0uDHGEf/",
-    "https://www.instagram.com/p/DeGZXD_HKnh/",
-    "https://www.instagram.com/p/DeGQAAQnKWi/"
+    "https://www.instagram.com/p/DeGZXD_HKnh/"
   ],
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DgFvYPzhqds/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795448971
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/p/Df-5V7aD1bH/",

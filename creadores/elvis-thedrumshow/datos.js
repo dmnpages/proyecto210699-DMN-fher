@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Elvis TheDrumShow",
   "ciudad": "Masaya",
   "correo": "elvislegoshi94@icloud.com",
-  "seguidores": "82.7K",
+  "seguidores": "82.8K",
   "descripcion": "Creador de contenido enfocado en la música, especialmente en la batería, combinando su pasión por los instrumentos con el anime y los videojuegos. Busca motivar a otros a aprender música, compartir sus intereses y seguir creciendo junto a su comunidad.",
   "foto": "foto-admin.webp",
   "posicionFoto": "56.000003814697266% 44.000003814697266%",
@@ -21,7 +21,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@elvisthedrumshow",
-      "seguidores": "28.7K"
+      "seguidores": "28.8K"
     }
   ],
   "formatos": [
@@ -36,7 +36,7 @@ Dreamers.talento({
     "Musicales"
   ],
   "dato": {
-    "valor": "352.7K",
+    "valor": "353.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

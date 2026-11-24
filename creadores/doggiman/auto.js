@@ -1,5 +1,5 @@
 Dreamers.autoContenido("doggiman", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/reel/DgDXQdHzUnR/",
     "https://www.instagram.com/reel/Df-RHJTvtTa/",

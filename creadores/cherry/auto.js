@@ -1,5 +1,5 @@
 Dreamers.autoContenido("cherry", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.instagram.com/p/DbxIv2-B1g6/",
     "https://www.instagram.com/p/DZgftELBqkM/",
@@ -35,8 +35,10 @@ Dreamers.autoContenido("cherry", {
     "https://www.youtube.com/watch?v=VG2k2G10HCU": 984,
     "https://www.youtube.com/watch?v=xtcgrQdXjt4": 2515,
     "https://www.youtube.com/watch?v=8vlna5-Deb4": 1439,
-    "https://www.youtube.com/watch?v=L_6hbmwfAdo": 609,
-    "https://www.youtube.com/watch?v=4i0aaBbQ37g": 1552
+    "https://www.youtube.com/watch?v=4i0aaBbQ37g": 1552,
+    "https://www.youtube.com/watch?v=p7E-8LhL1YI": 3844,
+    "https://www.youtube.com/watch?v=-zkNe8uIl7s": 1581,
+    "https://www.youtube.com/watch?v=L_6hbmwfAdo": 609
   },
   "titulos": {
     "https://www.youtube.com/watch?v=RFpfR2hXaKM": "Aún así quede segundona en las siguientes partidas✨ #clips #apexlegends",
@@ -50,8 +52,10 @@ Dreamers.autoContenido("cherry", {
     "https://www.youtube.com/watch?v=VG2k2G10HCU": "Silent Hill 3 en 1 minuto #silenthill #horrorgame",
     "https://www.youtube.com/watch?v=xtcgrQdXjt4": "#gamer #nintendo #ocarinaoftime",
     "https://www.youtube.com/watch?v=8vlna5-Deb4": "Se recupera si #gamer #xbox #gaming",
-    "https://www.youtube.com/watch?v=L_6hbmwfAdo": "junio 6, 2026",
-    "https://www.youtube.com/watch?v=4i0aaBbQ37g": "New XBOX series X25 #xboxseriesx  #gaming"
+    "https://www.youtube.com/watch?v=4i0aaBbQ37g": "New XBOX series X25 #xboxseriesx  #gaming",
+    "https://www.youtube.com/watch?v=p7E-8LhL1YI": "Nintendo lo hizo de nuevo! ☝🏻🤓 #nintendo #ocarinaoftime #zeldaocarinaoftime #nintendodirec",
+    "https://www.youtube.com/watch?v=-zkNe8uIl7s": "XBOX Showcase 2026 #xbox #showcase #persona6 #gearsofwar #spyrothedragon #gaming",
+    "https://www.youtube.com/watch?v=L_6hbmwfAdo": "junio 6, 2026"
   },
   "candidatas": [
     {
@@ -238,6 +242,27 @@ Dreamers.autoContenido("cherry", {
     },
     {
       "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=4i0aaBbQ37g",
+      "titulo": "New XBOX series X25 #xboxseriesx  #gaming",
+      "vistas": 1552,
+      "fecha": 1781155803
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=p7E-8LhL1YI",
+      "titulo": "Nintendo lo hizo de nuevo! ☝🏻🤓 #nintendo #ocarinaoftime #zeldaocarinaoftime #nintendodirec",
+      "vistas": 3844,
+      "fecha": 1781032707
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=-zkNe8uIl7s",
+      "titulo": "XBOX Showcase 2026 #xbox #showcase #persona6 #gearsofwar #spyrothedragon #gaming",
+      "vistas": 1581,
+      "fecha": 1780873307
+    },
+    {
+      "red": "youtube",
       "url": "https://www.youtube.com/watch?v=L_6hbmwfAdo",
       "titulo": "junio 6, 2026",
       "vistas": 609,
@@ -252,14 +277,14 @@ Dreamers.autoContenido("cherry", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=8LtD9ld3-qQ",
+      "url": "https://www.youtube.com/watch?v=gOFxThNomzM",
       "titulo": "",
       "vistas": null,
       "fecha": null
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=sTLKtcAT0h4",
+      "url": "https://www.youtube.com/watch?v=8LtD9ld3-qQ",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -273,7 +298,7 @@ Dreamers.autoContenido("cherry", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=beTDwv1ARqE",
+      "url": "https://www.youtube.com/watch?v=-YFzN0VdJfA",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -308,16 +333,9 @@ Dreamers.autoContenido("cherry", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=dk-UrHg-BJc",
+      "url": "https://www.youtube.com/watch?v=sTLKtcAT0h4",
       "titulo": "",
       "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=4i0aaBbQ37g",
-      "titulo": "New XBOX series X25 #xboxseriesx  #gaming",
-      "vistas": 1552,
       "fecha": null
     }
   ]

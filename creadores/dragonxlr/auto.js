@@ -1,21 +1,21 @@
 Dreamers.autoContenido("dragonxlr", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://www.twitch.tv/dragonxlrgames",
-    "https://www.instagram.com/p/DgEewSVNVwc/",
-    "https://www.youtube.com/watch?v=sAM4NgS3JZo",
-    "https://www.instagram.com/reel/Df-nbgQt5Oe/",
-    "https://www.instagram.com/reel/Df24-RqNGnD/"
+    "https://www.instagram.com/reel/DgIG0NaR-vc/",
+    "https://www.instagram.com/reel/DgGLVa7NQsW/",
+    "https://www.instagram.com/reel/DgFUmJetOn-/",
+    "https://www.instagram.com/p/DgEewSVNVwc/"
   ],
   "reserva": [
+    "https://www.youtube.com/watch?v=sAM4NgS3JZo",
+    "https://www.instagram.com/reel/Df-nbgQt5Oe/",
+    "https://www.instagram.com/reel/Df24-RqNGnD/",
     "https://www.instagram.com/reel/DfSpvjkNwQE/",
     "https://www.instagram.com/reel/DfJhgTZNjSH/",
     "https://www.instagram.com/p/DerVz0YFFSs/",
     "https://www.youtube.com/watch?v=qOveUdASfQA",
-    "https://www.youtube.com/watch?v=RCIVrKhw_ms",
-    "https://www.youtube.com/watch?v=rfpmqJKSero",
-    "https://www.youtube.com/watch?v=mW3Vwoxma6M",
-    "https://www.instagram.com/reel/Dd2Byc5NYAK/"
+    "https://www.youtube.com/watch?v=RCIVrKhw_ms"
   ],
   "fijados": [
     "https://www.twitch.tv/dragonxlrgames"
@@ -29,8 +29,13 @@ Dreamers.autoContenido("dragonxlr", {
     "https://www.youtube.com/watch?v=HwwW-cGSCCk": 4,
     "https://www.youtube.com/watch?v=azmt5G67LUk": 73,
     "https://www.youtube.com/watch?v=r8JrRhgzVto": 15,
+    "https://www.youtube.com/watch?v=NTBrwrG6aXc": 14,
+    "https://www.youtube.com/watch?v=UmwwEOrXBYs": 50,
     "https://www.youtube.com/watch?v=LFS7E2k4I6U": 209,
-    "https://www.youtube.com/watch?v=5U6LGUYA4PQ": 1268
+    "https://www.youtube.com/watch?v=5U6LGUYA4PQ": 1268,
+    "https://www.youtube.com/watch?v=IMlMuxnNNcE": 40,
+    "https://www.youtube.com/watch?v=zQzyuClcGao": 28,
+    "https://www.youtube.com/watch?v=67OE2BHGS_0": 41
   },
   "titulos": {
     "https://www.youtube.com/watch?v=sAM4NgS3JZo": "Nacatamaland Nostalgia #minecraft #nicandzoe #nostalgia #Dragonxlr #sérieminecraft",
@@ -41,8 +46,13 @@ Dreamers.autoContenido("dragonxlr", {
     "https://www.youtube.com/watch?v=HwwW-cGSCCk": "relax",
     "https://www.youtube.com/watch?v=azmt5G67LUk": "Clips de twitch anécdotas, pobre de mi :( #clipstream #twitch #clipstwich #chisme #anecdot",
     "https://www.youtube.com/watch?v=r8JrRhgzVto": "relax",
+    "https://www.youtube.com/watch?v=NTBrwrG6aXc": "lady me estremesco",
+    "https://www.youtube.com/watch?v=UmwwEOrXBYs": "Jugando resident evil village #residentvillage   #suscribete like",
     "https://www.youtube.com/watch?v=LFS7E2k4I6U": "Gumball nica #doblaje #clips #streamer #nicaragua",
-    "https://www.youtube.com/watch?v=5U6LGUYA4PQ": "tsunami fest 2026 #nicaragua #ExpoAnime #14noviembre #15noviembre"
+    "https://www.youtube.com/watch?v=5U6LGUYA4PQ": "tsunami fest 2026 #nicaragua #ExpoAnime #14noviembre #15noviembre",
+    "https://www.youtube.com/watch?v=IMlMuxnNNcE": "Probando outlast parte 8 #outlast #suscribete #like",
+    "https://www.youtube.com/watch?v=zQzyuClcGao": "Jugando resident evil 3#residentevil3  #suscribete like",
+    "https://www.youtube.com/watch?v=67OE2BHGS_0": "Jugando resident evil 3#residentevil3  #suscribete like"
   },
   "candidatas": [
     {
@@ -51,6 +61,27 @@ Dreamers.autoContenido("dragonxlr", {
       "titulo": "",
       "vistas": null,
       "fecha": null
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgIG0NaR-vc/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795528367
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgGLVa7NQsW/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795463628
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgFUmJetOn-/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795434929
     },
     {
       "red": "instagram",
@@ -172,6 +203,20 @@ Dreamers.autoContenido("dragonxlr", {
       "fecha": 1789669277
     },
     {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=NTBrwrG6aXc",
+      "titulo": "lady me estremesco",
+      "vistas": 14,
+      "fecha": 1787983138
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=UmwwEOrXBYs",
+      "titulo": "Jugando resident evil village #residentvillage   #suscribete like",
+      "vistas": 50,
+      "fecha": 1787941769
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/p/Dcck-q_DVVx/",
       "titulo": "",
@@ -242,11 +287,32 @@ Dreamers.autoContenido("dragonxlr", {
       "fecha": 1786828164
     },
     {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=IMlMuxnNNcE",
+      "titulo": "Probando outlast parte 8 #outlast #suscribete #like",
+      "vistas": 40,
+      "fecha": 1786727856
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/Db92xRTtlaX/",
       "titulo": "",
       "vistas": null,
       "fecha": 1786594476
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=zQzyuClcGao",
+      "titulo": "Jugando resident evil 3#residentevil3  #suscribete like",
+      "vistas": 28,
+      "fecha": 1786562361
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=67OE2BHGS_0",
+      "titulo": "Jugando resident evil 3#residentevil3  #suscribete like",
+      "vistas": 41,
+      "fecha": 1786214971
     },
     {
       "red": "instagram",
@@ -265,62 +331,6 @@ Dreamers.autoContenido("dragonxlr", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=VspX7CbdMs8",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=TO9dVp6SxMc",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=Vtrik3P8UMI",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=FlAv7ey3gpk",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=ZFMcCO1zDbc",
       "titulo": "",
       "vistas": null,
       "fecha": null

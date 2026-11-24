@@ -1,29 +1,30 @@
 Dreamers.autoContenido("marmota-geek", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
+    "https://www.youtube.com/watch?v=pg2DqVmnRbE",
+    "https://www.instagram.com/reel/DgINqJhRVl3/",
     "https://www.instagram.com/reel/Dfv6hjeKn9Y/",
     "https://www.youtube.com/watch?v=zqC6HuSzaww",
-    "https://www.instagram.com/reel/Dd85KvCqQ8D/",
-    "https://www.instagram.com/reel/Dd4xeXZKWR-/",
-    "https://www.instagram.com/reel/DdfJcK7Kqvw/"
+    "https://www.instagram.com/reel/Dd85KvCqQ8D/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/Dd4xeXZKWR-/",
+    "https://www.instagram.com/reel/DdfJcK7Kqvw/",
     "https://www.instagram.com/reel/DcEW0-_qTMW/",
     "https://www.youtube.com/watch?v=ryE1jAzjsM8",
     "https://www.youtube.com/watch?v=MrTG6h3gRNw",
     "https://www.instagram.com/reel/DcCbgv3qeFI/",
     "https://www.instagram.com/reel/Db_f002Kqwi/",
-    "https://www.instagram.com/reel/Db8yF0MKIUo/",
-    "https://www.youtube.com/watch?v=rFxteVW_ehU",
-    "https://www.instagram.com/reel/Db6UHGXq8Gf/"
+    "https://www.instagram.com/reel/Db8yF0MKIUo/"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=zqC6HuSzaww": 111,
+    "https://www.youtube.com/watch?v=pg2DqVmnRbE": 172,
+    "https://www.youtube.com/watch?v=zqC6HuSzaww": 118,
     "https://www.youtube.com/watch?v=ryE1jAzjsM8": 345,
-    "https://www.youtube.com/watch?v=MrTG6h3gRNw": 708,
+    "https://www.youtube.com/watch?v=MrTG6h3gRNw": 709,
     "https://www.youtube.com/watch?v=rFxteVW_ehU": 2015,
-    "https://www.youtube.com/watch?v=3TK4paNYZaE": 1332,
-    "https://www.youtube.com/watch?v=1cbE_TCsi0I": 2121,
+    "https://www.youtube.com/watch?v=3TK4paNYZaE": 1334,
+    "https://www.youtube.com/watch?v=1cbE_TCsi0I": 2122,
     "https://www.youtube.com/watch?v=AaXds8_7c9o": 2060,
     "https://www.youtube.com/watch?v=QXWio4Y1x8w": 1314,
     "https://www.youtube.com/watch?v=4NIKCyGcy60": 1244,
@@ -35,6 +36,7 @@ Dreamers.autoContenido("marmota-geek", {
     "https://www.youtube.com/watch?v=FhXA3XYeXaM": 11
   },
   "titulos": {
+    "https://www.youtube.com/watch?v=pg2DqVmnRbE": "👏 ¡FELICIDADES, JENSEN! ¡FELICIDADES! 👏 #jensenhuang #nvidia #evangelion",
     "https://www.youtube.com/watch?v=zqC6HuSzaww": "Cosplay Music Video - Tsunami Fest 2026",
     "https://www.youtube.com/watch?v=ryE1jAzjsM8": "Takuya Kurita evalúa el nivel de los artistas nicaragüenses 🇳🇮✍️",
     "https://www.youtube.com/watch?v=MrTG6h3gRNw": "Takuya Kurita: así era el ambiente cuando comenzó en el manga",
@@ -53,6 +55,20 @@ Dreamers.autoContenido("marmota-geek", {
   },
   "candidatas": [
     {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=pg2DqVmnRbE",
+      "titulo": "👏 ¡FELICIDADES, JENSEN! ¡FELICIDADES! 👏 #jensenhuang #nvidia #evangelion",
+      "vistas": 172,
+      "fecha": 1795532624
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgINqJhRVl3/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795531955
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/Dfv6hjeKn9Y/",
       "titulo": "",
@@ -63,7 +79,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=zqC6HuSzaww",
       "titulo": "Cosplay Music Video - Tsunami Fest 2026",
-      "vistas": 111,
+      "vistas": 118,
       "fecha": 1794716319
     },
     {
@@ -105,7 +121,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=MrTG6h3gRNw",
       "titulo": "Takuya Kurita: así era el ambiente cuando comenzó en el manga",
-      "vistas": 708,
+      "vistas": 709,
       "fecha": 1786748003
     },
     {
@@ -147,7 +163,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=3TK4paNYZaE",
       "titulo": "¿Sabías que Dragon Ball se llamó “Zero y el Dragón Mágico”?",
-      "vistas": 1332,
+      "vistas": 1334,
       "fecha": 1786404607
     },
     {
@@ -168,7 +184,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=1cbE_TCsi0I",
       "titulo": "¿Quién es Yamoshi, el primer Super Saiyajin Dios de Dragon Ball?",
-      "vistas": 2121,
+      "vistas": 2122,
       "fecha": 1786119375
     },
     {
@@ -250,6 +266,20 @@ Dreamers.autoContenido("marmota-geek", {
     },
     {
       "red": "facebook",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=bt-VNxw2CwA",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "facebook",
       "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
       "titulo": "",
       "vistas": null,
@@ -271,7 +301,7 @@ Dreamers.autoContenido("marmota-geek", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=PCyHWGVLfxI",
+      "url": "https://www.youtube.com/watch?v=64cyVGCvMzY",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -291,15 +321,8 @@ Dreamers.autoContenido("marmota-geek", {
       "fecha": null
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=bt-VNxw2CwA",
+      "url": "https://www.youtube.com/watch?v=PCyHWGVLfxI",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -307,20 +330,6 @@ Dreamers.autoContenido("marmota-geek", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=4B_4HLuZqFc",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=imf_7jAlhak",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "twitch",
-      "url": "https://www.twitch.tv/marmotageek",
       "titulo": "",
       "vistas": null,
       "fecha": null

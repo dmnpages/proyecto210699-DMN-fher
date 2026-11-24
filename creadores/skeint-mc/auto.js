@@ -1,5 +1,5 @@
 Dreamers.autoContenido("skeint-mc", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
     "https://x.com/Skeint_MC/status/2096031490312126948",
     "https://www.youtube.com/watch?v=W9_kjVclHyM",
@@ -15,27 +15,32 @@ Dreamers.autoContenido("skeint-mc", {
     "https://www.youtube.com/watch?v=y2vZ021tJVg",
     "https://x.com/Skeint_MC/status/2077815343372747212",
     "https://www.youtube.com/watch?v=ZsjbOCea9Q8",
-    "https://x.com/Skeint_MC/status/2077559762925830211"
+    "https://x.com/Skeint_MC/status/2077698354180509949"
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=W9_kjVclHyM": 1223,
     "https://www.youtube.com/watch?v=MvBo6lM1pw4": 366,
     "https://www.youtube.com/watch?v=KeHa-V9TcZ4": 909,
+    "https://x.com/Skeint_MC/status/2082685215034449992": 1,
     "https://www.youtube.com/watch?v=X0_By88Jaus": 719,
     "https://www.youtube.com/watch?v=y2vZ021tJVg": 1072,
+    "https://x.com/Skeint_MC/status/2077815343372747212": 13,
     "https://www.youtube.com/watch?v=ZsjbOCea9Q8": 1178,
+    "https://x.com/Skeint_MC/status/2077698354180509949": 31,
     "https://x.com/Skeint_MC/status/2076534493687505407": 15,
     "https://x.com/Skeint_MC/status/2076317546731499567": 15,
     "https://www.youtube.com/watch?v=XtzY9vfyScU": 1122,
     "https://www.youtube.com/watch?v=FoOdmXHuNP8": 935,
     "https://www.youtube.com/watch?v=opmE-j6JMwA": 486,
-    "https://www.youtube.com/watch?v=MxS7YPgfVMk": 1289,
+    "https://www.youtube.com/watch?v=MxS7YPgfVMk": 1293,
     "https://www.youtube.com/watch?v=gnEy1DVnK_s": 1219,
     "https://www.youtube.com/watch?v=fi1tKfu2dIc": 1369,
+    "https://www.youtube.com/watch?v=cIK9BW2LJBA": 1289,
     "https://x.com/Skeint_MC/status/2070608592026337527": 15,
     "https://x.com/Skeint_MC/status/2070607500311724077": 19,
     "https://x.com/Skeint_MC/status/2070605406397944174": 13,
-    "https://www.youtube.com/watch?v=LLI4R_pDZ0U": 1565
+    "https://www.youtube.com/watch?v=LLI4R_pDZ0U": 1565,
+    "https://www.youtube.com/watch?v=ZydkcrJXMwE": 1636
   },
   "titulos": {
     "https://www.youtube.com/watch?v=W9_kjVclHyM": "Caja de Wendy # #brawlstars",
@@ -50,7 +55,9 @@ Dreamers.autoContenido("skeint-mc", {
     "https://www.youtube.com/watch?v=MxS7YPgfVMk": "La Brawl Señal🗣️ #brawlstars",
     "https://www.youtube.com/watch?v=gnEy1DVnK_s": "Verdad o Reto🗣️ #brawlstars",
     "https://www.youtube.com/watch?v=fi1tKfu2dIc": "Verdad o Reto🗣️ #brawlstars",
-    "https://www.youtube.com/watch?v=LLI4R_pDZ0U": "Jugando con Pearl en El evento de #adidas x #brawlstars"
+    "https://www.youtube.com/watch?v=cIK9BW2LJBA": "Nani - #brawlstars Brawl Stars",
+    "https://www.youtube.com/watch?v=LLI4R_pDZ0U": "Jugando con Pearl en El evento de #adidas x #brawlstars",
+    "https://www.youtube.com/watch?v=ZydkcrJXMwE": "Jugando con Pearl #brawlstars × #adidas"
   },
   "candidatas": [
     {
@@ -99,7 +106,7 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2082685215034449992",
       "titulo": "",
-      "vistas": null,
+      "vistas": 1,
       "fecha": 1785385824
     },
     {
@@ -127,7 +134,7 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2077815343372747212",
       "titulo": "",
-      "vistas": null,
+      "vistas": 13,
       "fecha": 1784224756
     },
     {
@@ -136,6 +143,13 @@ Dreamers.autoContenido("skeint-mc", {
       "titulo": "CAJA GRATIS DE NORI!!!",
       "vistas": 1178,
       "fecha": 1784223286
+    },
+    {
+      "red": "x",
+      "url": "https://x.com/Skeint_MC/status/2077698354180509949",
+      "titulo": "",
+      "vistas": 31,
+      "fecha": 1784196864
     },
     {
       "red": "x",
@@ -183,7 +197,7 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=MxS7YPgfVMk",
       "titulo": "La Brawl Señal🗣️ #brawlstars",
-      "vistas": 1289,
+      "vistas": 1293,
       "fecha": 1783225019
     },
     {
@@ -199,6 +213,13 @@ Dreamers.autoContenido("skeint-mc", {
       "titulo": "Verdad o Reto🗣️ #brawlstars",
       "vistas": 1369,
       "fecha": 1783222373
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=cIK9BW2LJBA",
+      "titulo": "Nani - #brawlstars Brawl Stars",
+      "vistas": 1289,
+      "fecha": 1782746435
     },
     {
       "red": "x",
@@ -234,6 +255,13 @@ Dreamers.autoContenido("skeint-mc", {
       "titulo": "Jugando con Pearl en El evento de #adidas x #brawlstars",
       "vistas": 1565,
       "fecha": 1782339785
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=ZydkcrJXMwE",
+      "titulo": "Jugando con Pearl #brawlstars × #adidas",
+      "vistas": 1636,
+      "fecha": 1782338080
     },
     {
       "red": "instagram",
@@ -311,27 +339,6 @@ Dreamers.autoContenido("skeint-mc", {
       "titulo": "",
       "vistas": null,
       "fecha": 1714349128
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/C3v7srBr-FF/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1708817886
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/C1LhDPMMAqo/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1703300988
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=KYhp7j1ZZIQ",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
     }
   ]
 });

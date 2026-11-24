@@ -1,43 +1,42 @@
 Dreamers.autoContenido("kimera", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
+    "https://www.youtube.com/watch?v=-JGiNhICdXI",
     "https://www.instagram.com/reel/DgA6eaivGDX/",
     "https://www.instagram.com/p/Df5N9HUv76X/",
     "https://www.instagram.com/reel/Df46b-fPnlS/",
-    "https://www.instagram.com/reel/Dfzs2CzvGtk/",
-    "https://www.instagram.com/reel/Dfr6OPMvr4Q/"
+    "https://www.instagram.com/reel/Dfzs2CzvGtk/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/Dfr6OPMvr4Q/",
     "https://www.instagram.com/reel/Dfkfj5xP0uZ/",
     "https://www.instagram.com/reel/DfLJ_ZuPOO5/",
     "https://www.youtube.com/watch?v=lBpkpvIf0kE",
     "https://www.instagram.com/reel/DfDW3CyvM_L/",
     "https://www.youtube.com/watch?v=LPF0wzaw4_A",
     "https://www.youtube.com/watch?v=lr5B8XBi8Os",
-    "https://www.instagram.com/reel/De7cROCvpBL/",
-    "https://www.instagram.com/reel/De4uul5vbxa/"
+    "https://www.instagram.com/reel/De7cROCvpBL/"
   ],
   "vistas": {
+    "https://www.youtube.com/watch?v=-JGiNhICdXI": 24,
     "https://www.youtube.com/watch?v=lBpkpvIf0kE": 1481,
     "https://www.youtube.com/watch?v=LPF0wzaw4_A": 1516,
-    "https://www.youtube.com/watch?v=lr5B8XBi8Os": 2322,
+    "https://www.youtube.com/watch?v=lr5B8XBi8Os": 2323,
     "https://www.youtube.com/watch?v=zqMz9sSyEWs": 1953,
     "https://www.youtube.com/watch?v=b1jO239sJA0": 143,
-    "https://www.youtube.com/watch?v=K0HrfCZdplk": 3265,
+    "https://www.youtube.com/watch?v=K0HrfCZdplk": 3267,
     "https://www.youtube.com/watch?v=qVVLLBXzwTo": 1438,
     "https://www.youtube.com/watch?v=vwu18luaV4Q": 1556,
-    "https://www.youtube.com/watch?v=RL0WS1KGzNA": 1382,
-    "https://www.youtube.com/watch?v=bgozM2hGZXI": 2124,
-    "https://www.youtube.com/watch?v=kazVKU6wkmE": 2772,
+    "https://www.youtube.com/watch?v=RL0WS1KGzNA": 1383,
+    "https://www.youtube.com/watch?v=bgozM2hGZXI": 2125,
+    "https://www.youtube.com/watch?v=kazVKU6wkmE": 2793,
     "https://www.youtube.com/watch?v=seuTq4ESNxw": 651,
     "https://www.youtube.com/watch?v=ODXmCcQ5jY0": 2381,
     "https://www.youtube.com/watch?v=RbBbbf8H0eE": 3285,
-    "https://www.youtube.com/watch?v=P7J7iTOgQkw": 2685,
-    "https://www.youtube.com/watch?v=cHr5n-FalgA": 90,
-    "https://www.youtube.com/watch?v=OmvaeqeF23c": 28,
-    "https://www.youtube.com/watch?v=qXZ7piLPtzU": 3
+    "https://www.youtube.com/watch?v=P7J7iTOgQkw": 2685
   },
   "titulos": {
+    "https://www.youtube.com/watch?v=-JGiNhICdXI": "NO COMPRES la PS4 #playstation #playstation4 #ps4 #gaming",
     "https://www.youtube.com/watch?v=lBpkpvIf0kE": "Steam deck ¿vale la pena? #steamdeck #steam #pcgaming #gaming",
     "https://www.youtube.com/watch?v=LPF0wzaw4_A": "¿Cuál es el mejor juego? #gta #zelda #gaming #nintendo #playstation",
     "https://www.youtube.com/watch?v=lr5B8XBi8Os": "El GRAN PROBLEMA de switch 2 #nintendo #nintendoswitch2 #switch2 #gaming",
@@ -53,12 +52,16 @@ Dreamers.autoContenido("kimera", {
     "https://www.youtube.com/watch?v=ODXmCcQ5jY0": "La  NINTENDO SWITCH 2 es la mejor consola #nintendo #nintendoswitch #nintendoswitch2 #gami",
     "https://www.youtube.com/watch?v=RbBbbf8H0eE": "Xbox360 ¿vale la pena? #xbox #xbox360 #consolasdevideojuegos #gaming",
     "https://www.youtube.com/watch?v=P7J7iTOgQkw": "PS Vita ¿vale la pena? #playstation #psvita #gaming #consolasdevideojuegos",
-    "https://www.tiktok.com/@kimerasm/video/7015329833446654982": "@kimerasm 6991 seguidores, 553 siguiendo, 145.7k me gusta: no te pierdas los geniales víde",
-    "https://www.youtube.com/watch?v=cHr5n-FalgA": "RTX 5060 ¿vale la pena? #rtx5060 #pcgaming #pcgamer #gaming",
-    "https://www.youtube.com/watch?v=OmvaeqeF23c": "NO COMPRES la PS4 #playstation #playstation4 #ps4",
-    "https://www.youtube.com/watch?v=qXZ7piLPtzU": "NO COMPRES la Nintendo switch #nintendo #nintendoswitch #switch"
+    "https://www.tiktok.com/@kimerasm/video/7015329833446654982": "@kimerasm 6992 seguidores, 554 siguiendo, 147.7k me gusta: no te pierdas los geniales víde"
   },
   "candidatas": [
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=-JGiNhICdXI",
+      "titulo": "NO COMPRES la PS4 #playstation #playstation4 #ps4 #gaming",
+      "vistas": 24,
+      "fecha": 1795463303
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgA6eaivGDX/",
@@ -133,7 +136,7 @@ Dreamers.autoContenido("kimera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=lr5B8XBi8Os",
       "titulo": "El GRAN PROBLEMA de switch 2 #nintendo #nintendoswitch2 #switch2 #gaming",
-      "vistas": 2322,
+      "vistas": 2323,
       "fecha": 1792961217
     },
     {
@@ -182,7 +185,7 @@ Dreamers.autoContenido("kimera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=K0HrfCZdplk",
       "titulo": "La Xbox Series S YA NO VALE LA PENA #xbox #xboxseriess #xboxseriesx #gaming",
-      "vistas": 3265,
+      "vistas": 3267,
       "fecha": 1792008375
     },
     {
@@ -203,21 +206,21 @@ Dreamers.autoContenido("kimera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=RL0WS1KGzNA",
       "titulo": "Así es como recibí un ps5 de Regalo #smallstreamer #nicaragua #gaming #creadordecontenido",
-      "vistas": 1382,
+      "vistas": 1383,
       "fecha": 1791574282
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=bgozM2hGZXI",
       "titulo": "PlayStation 5 ¿vale la pena en 2026?",
-      "vistas": 2124,
+      "vistas": 2125,
       "fecha": 1791319599
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=kazVKU6wkmE",
       "titulo": "Las MEJORES consolas para 2026",
-      "vistas": 2772,
+      "vistas": 2793,
       "fecha": 1791149014
     },
     {
@@ -251,27 +254,13 @@ Dreamers.autoContenido("kimera", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@kimerasm/video/7015329833446654982",
-      "titulo": "@kimerasm 6991 seguidores, 553 siguiendo, 145.7k me gusta: no te pierdas los geniales víde",
+      "titulo": "@kimerasm 6992 seguidores, 554 siguiendo, 147.7k me gusta: no te pierdas los geniales víde",
       "vistas": null,
       "fecha": 1633383760
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=gSoo18HNtks",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=qT6hGTsE0RE",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=LWVkb3JB0mA",
+      "url": "https://www.youtube.com/watch?v=yYnin60ngX0",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -285,7 +274,42 @@ Dreamers.autoContenido("kimera", {
     },
     {
       "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=0zvgZ10gx-Q",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=qT6hGTsE0RE",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=ENOf8npSf6g",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
       "url": "https://www.youtube.com/watch?v=gfT1LXmkHCU",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=gSoo18HNtks",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=LWVkb3JB0mA",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -307,34 +331,6 @@ Dreamers.autoContenido("kimera", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=PUb3ZegxTGc",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=cHr5n-FalgA",
-      "titulo": "RTX 5060 ¿vale la pena? #rtx5060 #pcgaming #pcgamer #gaming",
-      "vistas": 90,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=OmvaeqeF23c",
-      "titulo": "NO COMPRES la PS4 #playstation #playstation4 #ps4",
-      "vistas": 28,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=qXZ7piLPtzU",
-      "titulo": "NO COMPRES la Nintendo switch #nintendo #nintendoswitch #switch",
-      "vistas": 3,
-      "fecha": null
-    },
-    {
-      "red": "twitch",
-      "url": "https://www.twitch.tv/kimerasm",
       "titulo": "",
       "vistas": null,
       "fecha": null

@@ -1,21 +1,21 @@
 Dreamers.autoContenido("andrew-brand", {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "elegidos": [
+    "https://www.instagram.com/reel/DgIfQF7xeea/",
     "https://www.instagram.com/reel/DgD3qOlx_E-/",
     "https://www.instagram.com/reel/Df5K1WHSa22/",
     "https://www.instagram.com/p/Df2hOh1PIfy/",
-    "https://www.instagram.com/reel/DfyRCiTxqcU/",
-    "https://www.instagram.com/reel/DfLbN6mOvxl/"
+    "https://www.instagram.com/reel/DfyRCiTxqcU/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DfLbN6mOvxl/",
     "https://www.instagram.com/reel/DfFhk2axhZ8/",
     "https://www.instagram.com/reel/De48A7evQKo/",
     "https://www.instagram.com/reel/DezvOb_v3t6/",
     "https://www.instagram.com/reel/DevbxOgOnSq/",
     "https://www.instagram.com/reel/DenOFpTuh0B/",
     "https://www.instagram.com/reel/DeDZy26OzVb/",
-    "https://www.instagram.com/reel/DdshXXbuUr0/",
-    "https://www.youtube.com/watch?v=C03wnfnLqyk"
+    "https://www.instagram.com/reel/DdshXXbuUr0/"
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=C03wnfnLqyk": 2,
@@ -53,6 +53,13 @@ Dreamers.autoContenido("andrew-brand", {
     "https://www.tiktok.com/@marka_nerd2.0/video/6812747137887454214": "@marka_nerd2.0 1921 seguidores, 7463 siguiendo, 73.7k me gusta: no te pierdas los geniales"
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgIfQF7xeea/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795541179
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgD3qOlx_E-/",
@@ -322,13 +329,6 @@ Dreamers.autoContenido("andrew-brand", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=KBCgFQc-Bpg",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=edmtU-R5KlQ",
       "titulo": "",
       "vistas": null,
       "fecha": null

@@ -16,7 +16,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/starttergamers/",
-      "seguidores": "461"
+      "seguidores": "462"
     },
     {
       "plataforma": "Twitch",

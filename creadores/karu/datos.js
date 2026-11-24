@@ -26,7 +26,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@karu_z",
-      "seguidores": "875"
+      "seguidores": "874"
     },
     {
       "plataforma": "Facebook",
