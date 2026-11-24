@@ -16,13 +16,13 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@ladypalacecosplay",
-      "seguidores": "3.9K",
+      "seguidores": "988",
       "clave": true
     },
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/ladypalace_cosplay/",
-      "seguidores": "1.4K"
+      "seguidores": "4.3K"
     }
   ],
   "formatos": [
@@ -37,7 +37,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "220.2K",
+    "valor": "87.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

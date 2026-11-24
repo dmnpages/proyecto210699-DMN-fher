@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Tate KC",
   "ciudad": "Matagalpa",
   "correo": "tcastellonchavarria@icloud.com",
-  "seguidores": "12.3K",
+  "seguidores": "14.8K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "46.50001907348633% 58.5%",
@@ -15,12 +15,12 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/tate_kc_/",
-      "seguidores": "988"
+      "seguidores": "3.7K"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@tate_kc",
-      "seguidores": "4.3K",
+      "seguidores": "4.1K",
       "clave": true
     },
     {
@@ -41,7 +41,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "87.2K",
+    "valor": "437.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

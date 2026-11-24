@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Itssomau",
   "ciudad": "Managua",
   "correo": "Sooyoungrcastro@gmail.com",
-  "seguidores": "18.3K",
+  "seguidores": "8.8K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -15,12 +15,12 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/syngmau_/",
-      "seguidores": "309"
+      "seguidores": "3.8K"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@springtrap1584",
-      "seguidores": "18K",
+      "seguidores": "5K",
       "clave": true
     }
   ],
@@ -33,7 +33,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "783.8K",
+    "valor": "74.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

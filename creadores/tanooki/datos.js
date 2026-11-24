@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Tanooki",
   "ciudad": "",
-  "seguidores": "1.8K",
+  "seguidores": "4.3K",
   "descripcion": "Creadora de contenido e ilustradora digital, le encanta conectar con las personas, crear y divertirse en colaboraciones.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -15,23 +15,23 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@tanooki_ni",
-      "seguidores": "1.1K",
+      "seguidores": "462",
       "clave": true
     },
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/tanooki_ni",
-      "seguidores": "27"
+      "seguidores": "369"
     },
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/tanooki26#",
-      "seguidores": "525"
+      "seguidores": "3K"
     },
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@tanooki_ni",
-      "seguidores": "104"
+      "seguidores": "478"
     }
   ],
   "formatos": [
@@ -45,7 +45,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "6.2K",
+    "valor": "50.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
