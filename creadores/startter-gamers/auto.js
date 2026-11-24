@@ -25,7 +25,7 @@ Dreamers.autoContenido("startter-gamers", {
     "https://www.facebook.com/reel/2324700334988065/": 5
   },
   "titulos": {
-    "https://www.tiktok.com/@starttergamers/video/7062763825053139974": "@starttergamers 2995 seguidores, 2641 siguiendo, 50.8k me gusta: no te pierdas los geniale"
+    "https://www.tiktok.com/@starttergamers/video/7062763825053139974": "@starttergamers 2995 seguidores, 2642 siguiendo, 50.8k me gusta: no te pierdas los geniale"
   },
   "candidatas": [
     {
@@ -129,7 +129,7 @@ Dreamers.autoContenido("startter-gamers", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@starttergamers/video/7062763825053139974",
-      "titulo": "@starttergamers 2995 seguidores, 2641 siguiendo, 50.8k me gusta: no te pierdas los geniale",
+      "titulo": "@starttergamers 2995 seguidores, 2642 siguiendo, 50.8k me gusta: no te pierdas los geniale",
       "vistas": null,
       "fecha": 1644427847
     },

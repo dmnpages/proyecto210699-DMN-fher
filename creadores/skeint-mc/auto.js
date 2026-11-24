@@ -18,13 +18,14 @@ Dreamers.autoContenido("skeint-mc", {
     "https://x.com/Skeint_MC/status/2077698354180509949"
   ],
   "vistas": {
+    "https://x.com/Skeint_MC/status/2096031490312126948": 9,
     "https://www.youtube.com/watch?v=W9_kjVclHyM": 1223,
+    "https://x.com/Skeint_MC/status/2090312157556506818": 147,
     "https://www.youtube.com/watch?v=MvBo6lM1pw4": 366,
     "https://www.youtube.com/watch?v=KeHa-V9TcZ4": 909,
-    "https://x.com/Skeint_MC/status/2082685215034449992": 1,
+    "https://x.com/Skeint_MC/status/2082685215034449992": 119,
     "https://www.youtube.com/watch?v=X0_By88Jaus": 719,
     "https://www.youtube.com/watch?v=y2vZ021tJVg": 1072,
-    "https://x.com/Skeint_MC/status/2077815343372747212": 13,
     "https://www.youtube.com/watch?v=ZsjbOCea9Q8": 1178,
     "https://x.com/Skeint_MC/status/2077698354180509949": 31,
     "https://x.com/Skeint_MC/status/2076534493687505407": 15,
@@ -32,7 +33,7 @@ Dreamers.autoContenido("skeint-mc", {
     "https://www.youtube.com/watch?v=XtzY9vfyScU": 1122,
     "https://www.youtube.com/watch?v=FoOdmXHuNP8": 935,
     "https://www.youtube.com/watch?v=opmE-j6JMwA": 486,
-    "https://www.youtube.com/watch?v=MxS7YPgfVMk": 1293,
+    "https://www.youtube.com/watch?v=MxS7YPgfVMk": 1294,
     "https://www.youtube.com/watch?v=gnEy1DVnK_s": 1219,
     "https://www.youtube.com/watch?v=fi1tKfu2dIc": 1369,
     "https://www.youtube.com/watch?v=cIK9BW2LJBA": 1289,
@@ -40,7 +41,8 @@ Dreamers.autoContenido("skeint-mc", {
     "https://x.com/Skeint_MC/status/2070607500311724077": 19,
     "https://x.com/Skeint_MC/status/2070605406397944174": 13,
     "https://www.youtube.com/watch?v=LLI4R_pDZ0U": 1565,
-    "https://www.youtube.com/watch?v=ZydkcrJXMwE": 1636
+    "https://www.youtube.com/watch?v=ZydkcrJXMwE": 1636,
+    "https://x.com/Skeint_MC/status/2057509196703158389": 152
   },
   "titulos": {
     "https://www.youtube.com/watch?v=W9_kjVclHyM": "Caja de Wendy # #brawlstars",
@@ -64,7 +66,7 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2096031490312126948",
       "titulo": "",
-      "vistas": null,
+      "vistas": 9,
       "fecha": 1788567824
     },
     {
@@ -78,14 +80,14 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2090312157556506818",
       "titulo": "",
-      "vistas": null,
+      "vistas": 147,
       "fecha": 1787204229
     },
     {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2089980536139690059",
       "titulo": "",
-      "vistas": null,
+      "vistas": 0,
       "fecha": 1787125164
     },
     {
@@ -106,7 +108,7 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2082685215034449992",
       "titulo": "",
-      "vistas": 1,
+      "vistas": 119,
       "fecha": 1785385824
     },
     {
@@ -134,7 +136,7 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2077815343372747212",
       "titulo": "",
-      "vistas": 13,
+      "vistas": null,
       "fecha": 1784224756
     },
     {
@@ -197,7 +199,7 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=MxS7YPgfVMk",
       "titulo": "La Brawl Señal🗣️ #brawlstars",
-      "vistas": 1293,
+      "vistas": 1294,
       "fecha": 1783225019
     },
     {
@@ -274,7 +276,7 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2057509196703158389",
       "titulo": "",
-      "vistas": null,
+      "vistas": 152,
       "fecha": 1779383393
     },
     {

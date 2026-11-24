@@ -18,7 +18,7 @@ Dreamers.autoContenido("marmota-geek", {
     "https://www.instagram.com/reel/Db8yF0MKIUo/"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=pg2DqVmnRbE": 172,
+    "https://www.youtube.com/watch?v=pg2DqVmnRbE": 322,
     "https://www.youtube.com/watch?v=zqC6HuSzaww": 118,
     "https://www.youtube.com/watch?v=ryE1jAzjsM8": 345,
     "https://www.youtube.com/watch?v=MrTG6h3gRNw": 709,
@@ -58,7 +58,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=pg2DqVmnRbE",
       "titulo": "👏 ¡FELICIDADES, JENSEN! ¡FELICIDADES! 👏 #jensenhuang #nvidia #evangelion",
-      "vistas": 172,
+      "vistas": 322,
       "fecha": 1795532624
     },
     {
@@ -273,7 +273,7 @@ Dreamers.autoContenido("marmota-geek", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=bt-VNxw2CwA",
+      "url": "https://www.youtube.com/watch?v=JutIMTJis84",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -287,7 +287,7 @@ Dreamers.autoContenido("marmota-geek", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=JutIMTJis84",
+      "url": "https://www.youtube.com/watch?v=bt-VNxw2CwA",
       "titulo": "",
       "vistas": null,
       "fecha": null

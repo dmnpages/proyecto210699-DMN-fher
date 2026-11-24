@@ -13,7 +13,7 @@ Dreamers.autoContenido("ik-evolution", {
     "https://www.facebook.com/61589387811821/videos/pcb.122129046219312927/"
   ],
   "vistas": {
-    "https://www.facebook.com/vladimirivan.calderalovo/posts/pfbid026jL1BTqNRZfxXLs21QKBWi5Msoq9awEDG1Ghe4bS8YtsVfzs59Hr3K212C1Mymm4l": 20,
+    "https://www.facebook.com/vladimirivan.calderalovo/posts/pfbid026jL1BTqNRZfxXLs21QKBWi5Msoq9awEDG1Ghe4bS8YtsVfzs59Hr3K212C1Mymm4l": 22,
     "https://www.facebook.com/vladimirivan.calderalovo/posts/pfbid02fT57Jkas2Fn6go8hvijnzcPSoZYcSkVMDghwP1PLTLwcubZPQvakpnSdthjDLabhl": 2
   },
   "candidatas": [
@@ -21,7 +21,7 @@ Dreamers.autoContenido("ik-evolution", {
       "red": "facebook",
       "url": "https://www.facebook.com/vladimirivan.calderalovo/posts/pfbid026jL1BTqNRZfxXLs21QKBWi5Msoq9awEDG1Ghe4bS8YtsVfzs59Hr3K212C1Mymm4l",
       "titulo": "",
-      "vistas": 20,
+      "vistas": 22,
       "fecha": null
     },
     {

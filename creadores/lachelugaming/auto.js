@@ -21,11 +21,15 @@ Dreamers.autoContenido("lachelugaming", {
     "https://www.youtube.com/watch?v=oHE_XkyXtEQ": 1285,
     "https://www.youtube.com/watch?v=rJc9XXxCUYA": 3455,
     "https://www.youtube.com/watch?v=NIAZFeqcvQs": 1863,
+    "https://x.com/LaCheluGaming/status/2117388978856792294": 243,
     "https://www.youtube.com/watch?v=5Y3X3xkaW58": 2320,
+    "https://x.com/LaCheluGaming/status/2100949017068699836": 142,
     "https://www.youtube.com/watch?v=er4k2aHaV-k": 1463,
     "https://www.youtube.com/watch?v=rKk_1J_VE1g": 1265,
     "https://www.youtube.com/watch?v=xcLUZnydScI": 1412,
     "https://www.youtube.com/watch?v=TVwVrBxb5-U": 1204,
+    "https://x.com/LaCheluGaming/status/2094150461662142881": 247,
+    "https://x.com/LaCheluGaming/status/2093444698430194118": 144,
     "https://www.youtube.com/watch?v=lxmMD3Irka0": 1136,
     "https://www.youtube.com/watch?v=eR_TBpr466Y": 2706,
     "https://www.youtube.com/watch?v=lp6owX-lO9k": 218,
@@ -106,7 +110,7 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2117388978856792294",
       "titulo": "",
-      "vistas": null,
+      "vistas": 243,
       "fecha": 1793659846
     },
     {
@@ -127,7 +131,7 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2100949017068699836",
       "titulo": "",
-      "vistas": null,
+      "vistas": 142,
       "fecha": 1789740254
     },
     {
@@ -190,14 +194,14 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2094150461662142881",
       "titulo": "",
-      "vistas": null,
+      "vistas": 247,
       "fecha": 1788119352
     },
     {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2093444698430194118",
       "titulo": "",
-      "vistas": null,
+      "vistas": 144,
       "fecha": 1787951085
     },
     {

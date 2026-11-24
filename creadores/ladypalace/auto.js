@@ -1,26 +1,33 @@
 Dreamers.autoContenido("ladypalace", {
   "actualizado": "2026-11-24",
   "elegidos": [
+    "https://www.instagram.com/reel/DgInxvlhbdF/",
     "https://www.instagram.com/reel/DgD6D6mBSJi/",
     "https://www.instagram.com/reel/Df3OXozhKRz/",
     "https://www.instagram.com/p/Df04N1rlY_3/",
-    "https://www.instagram.com/p/Df01ce1FSbh/",
-    "https://www.instagram.com/reel/Df0xclisID_/"
+    "https://www.instagram.com/p/Df01ce1FSbh/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/Df0xclisID_/",
     "https://www.instagram.com/reel/Df0vgqLh5AK/",
     "https://www.instagram.com/reel/Df0AhMEs6mI/",
     "https://www.instagram.com/reel/DfyIjRNh4IV/",
     "https://www.instagram.com/reel/DfipBNVODIT/",
     "https://www.instagram.com/reel/DfLtxDNOTzY/",
     "https://www.instagram.com/reel/DRn7Jr0DK-n/",
-    "https://www.instagram.com/p/DO6LAaojogW/",
-    "https://www.tiktok.com/@ladypalacecosplay/video/7016374198860170245"
+    "https://www.instagram.com/p/DO6LAaojogW/"
   ],
   "titulos": {
     "https://www.tiktok.com/@ladypalacecosplay/video/7016374198860170245": "@ladypalacecosplay 3910 seguidores, 497 siguiendo, 220.2k me gusta: no te pierdas los geni"
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgInxvlhbdF/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795545649
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgD6D6mBSJi/",

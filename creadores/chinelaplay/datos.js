@@ -4,8 +4,8 @@ Dreamers.talento({
   "seguidores": "4.2K",
   "descripcion": "",
   "foto": "foto-admin.webp",
-  "posicionFoto": "49.68748092651367% 37.25%",
-  "fotoZoom": 1.25,
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
   "genero": "H",
   "categorias": [
     "Streamer"
@@ -24,8 +24,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@chinelaplay",
-      "clave": true,
-      "seguidores": "2.1K"
+      "seguidores": "2.1K",
+      "clave": true
     },
     {
       "plataforma": "Twitch",

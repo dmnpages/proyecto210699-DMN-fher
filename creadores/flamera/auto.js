@@ -25,10 +25,10 @@ Dreamers.autoContenido("flamera", {
   "vistas": {
     "https://www.youtube.com/watch?v=QDUHyiPKqqQ": 1085,
     "https://www.youtube.com/watch?v=PtIV-nPYAgE": 1227,
-    "https://www.youtube.com/watch?v=UbiCzXAvXOs": 2876,
+    "https://www.youtube.com/watch?v=UbiCzXAvXOs": 2889,
     "https://www.youtube.com/watch?v=XvgqBCjKZmc": 4026,
     "https://www.youtube.com/watch?v=1AVpsT-zdA0": 3510,
-    "https://www.youtube.com/watch?v=eYSQwUHdJN0": 3224,
+    "https://www.youtube.com/watch?v=eYSQwUHdJN0": 3225,
     "https://www.youtube.com/watch?v=OrSHeDqE1lw": 1198,
     "https://www.youtube.com/watch?v=ncoa6sj_Ow0": 1415,
     "https://www.youtube.com/watch?v=StQbrSWZ34A": 6947,
@@ -55,7 +55,7 @@ Dreamers.autoContenido("flamera", {
     "https://www.youtube.com/watch?v=UDGkC-v7AuI": "te amo zelda 💚 #zelda",
     "https://www.youtube.com/watch?v=OgjNwD02wwc": "¿Zelda vs GTA? Comparamos sus 7 juegos mejor puntuados en Metacritic  #zelda #gta",
     "https://www.youtube.com/watch?v=kHCnRJIeJFw": "la mejor saga 💚 #zelda #thelegendofzelda",
-    "https://www.tiktok.com/@_flamera_/video/7332308813066159110": "@_flamera_ 18.0k seguidores, 847 siguiendo, 735.9k me gusta: no te pierdas los geniales ví"
+    "https://www.tiktok.com/@_flamera_/video/7332308813066159110": "@_flamera_ 18.0k seguidores, 847 siguiendo, 736.0k me gusta: no te pierdas los geniales ví"
   },
   "candidatas": [
     {
@@ -125,7 +125,7 @@ Dreamers.autoContenido("flamera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=UbiCzXAvXOs",
       "titulo": "¿ cual es la mejor batalla del anime ??  #batallaanime #anime #peleasanime",
-      "vistas": 2876,
+      "vistas": 2889,
       "fecha": 1795228172
     },
     {
@@ -188,7 +188,7 @@ Dreamers.autoContenido("flamera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=eYSQwUHdJN0",
       "titulo": "¿ Cual es el mejor zelda ? 👀  #zelda #ocarinaoftime #majorasmask",
-      "vistas": 3224,
+      "vistas": 3225,
       "fecha": 1794883247
     },
     {
@@ -334,7 +334,7 @@ Dreamers.autoContenido("flamera", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@_flamera_/video/7332308813066159110",
-      "titulo": "@_flamera_ 18.0k seguidores, 847 siguiendo, 735.9k me gusta: no te pierdas los geniales ví",
+      "titulo": "@_flamera_ 18.0k seguidores, 847 siguiendo, 736.0k me gusta: no te pierdas los geniales ví",
       "vistas": null,
       "fecha": 1707186180
     }

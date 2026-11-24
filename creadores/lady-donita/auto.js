@@ -19,8 +19,8 @@ Dreamers.autoContenido("lady-donita", {
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=wsMO7JIKlJo": 187,
-    "https://www.youtube.com/watch?v=tVn0I1_VgcE": 1247,
-    "https://www.youtube.com/watch?v=yVXsxspWzTE": 1514,
+    "https://www.youtube.com/watch?v=tVn0I1_VgcE": 1249,
+    "https://www.youtube.com/watch?v=yVXsxspWzTE": 1517,
     "https://www.youtube.com/watch?v=qBZnPq3qEdA": 151,
     "https://www.youtube.com/watch?v=dP5nIVbxfHo": 56,
     "https://www.youtube.com/watch?v=lLb5UvMg59c": 83,
@@ -85,7 +85,7 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=tVn0I1_VgcE",
       "titulo": "Addon para tu mouse en WoW Retail y WoW Forever#worldifwarcraft  #addon #Warcraft #CurseFo",
-      "vistas": 1247,
+      "vistas": 1249,
       "fecha": 1795365315
     },
     {
@@ -99,7 +99,7 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=yVXsxspWzTE",
       "titulo": "Después no sé cuantos días y casí caer en la locura conseguimos el Token Pirata de Fortnit",
-      "vistas": 1514,
+      "vistas": 1517,
       "fecha": 1795313115
     },
     {

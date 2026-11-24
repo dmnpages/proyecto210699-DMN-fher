@@ -1,21 +1,21 @@
 Dreamers.autoContenido("fer-ciech", {
   "actualizado": "2026-11-24",
   "elegidos": [
+    "https://www.instagram.com/p/DgIoTvGoNJh/",
     "https://www.instagram.com/reel/Df5KzAHuBNK/",
     "https://www.instagram.com/reel/Df3Wsi0MIuT/",
     "https://www.instagram.com/p/Df2gfmCIFUg/",
-    "https://www.instagram.com/reel/Df0L0RDCtb4/",
-    "https://www.instagram.com/reel/DfvaN2Ri1pg/"
+    "https://www.instagram.com/reel/Df0L0RDCtb4/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DfvaN2Ri1pg/",
     "https://www.instagram.com/p/Dffa_XzoEYj/",
     "https://www.instagram.com/reel/DfDVqJTi2PK/",
     "https://www.instagram.com/reel/De24p6SuwEn/",
     "https://www.instagram.com/reel/Des0TIBObiC/",
     "https://www.instagram.com/p/DekN8yLIOt4/",
     "https://www.instagram.com/reel/Def632ji_9P/",
-    "https://www.instagram.com/p/DeZs1IOIPi1/",
-    "https://www.instagram.com/reel/DdHk1zICAne/"
+    "https://www.instagram.com/p/DeZs1IOIPi1/"
   ],
   "vistas": {
     "https://www.facebook.com/reel/3840444649472885/": 6,
@@ -23,6 +23,13 @@ Dreamers.autoContenido("fer-ciech", {
     "https://www.facebook.com/ferciechcosplay/posts/pfbid0SUHbfkTRN7irGWU8hQpDiQwda9e8sw6XWH4vpug6FMbh3YeqUQfvjsBwJvjqQqizl": 5
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DgIoTvGoNJh/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795545927
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/Df5KzAHuBNK/",

@@ -52,7 +52,7 @@ Dreamers.autoContenido("kimera", {
     "https://www.youtube.com/watch?v=ODXmCcQ5jY0": "La  NINTENDO SWITCH 2 es la mejor consola #nintendo #nintendoswitch #nintendoswitch2 #gami",
     "https://www.youtube.com/watch?v=RbBbbf8H0eE": "Xbox360 ¿vale la pena? #xbox #xbox360 #consolasdevideojuegos #gaming",
     "https://www.youtube.com/watch?v=P7J7iTOgQkw": "PS Vita ¿vale la pena? #playstation #psvita #gaming #consolasdevideojuegos",
-    "https://www.tiktok.com/@kimerasm/video/7015329833446654982": "@kimerasm 6992 seguidores, 554 siguiendo, 147.7k me gusta: no te pierdas los geniales víde"
+    "https://www.tiktok.com/@kimerasm/video/7015329833446654982": "@kimerasm 6991 seguidores, 554 siguiendo, 147.7k me gusta: no te pierdas los geniales víde"
   },
   "candidatas": [
     {
@@ -254,13 +254,13 @@ Dreamers.autoContenido("kimera", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@kimerasm/video/7015329833446654982",
-      "titulo": "@kimerasm 6992 seguidores, 554 siguiendo, 147.7k me gusta: no te pierdas los geniales víde",
+      "titulo": "@kimerasm 6991 seguidores, 554 siguiendo, 147.7k me gusta: no te pierdas los geniales víde",
       "vistas": null,
       "fecha": 1633383760
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=yYnin60ngX0",
+      "url": "https://www.youtube.com/watch?v=gSoo18HNtks",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -274,7 +274,7 @@ Dreamers.autoContenido("kimera", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=0zvgZ10gx-Q",
+      "url": "https://www.youtube.com/watch?v=yYnin60ngX0",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -282,6 +282,27 @@ Dreamers.autoContenido("kimera", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=qT6hGTsE0RE",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=UiNiqGpVw44",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=E_Ams9OcQY8",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=0zvgZ10gx-Q",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -302,13 +323,6 @@ Dreamers.autoContenido("kimera", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=gSoo18HNtks",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
       "url": "https://www.youtube.com/watch?v=LWVkb3JB0mA",
       "titulo": "",
       "vistas": null,
@@ -317,20 +331,6 @@ Dreamers.autoContenido("kimera", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=a6UaxHYHh0A",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=HwKIC_qmKog",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=PUb3ZegxTGc",
       "titulo": "",
       "vistas": null,
       "fecha": null

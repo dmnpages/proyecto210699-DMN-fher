@@ -279,7 +279,7 @@ Dreamers.autoContenido("sniva", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=PQPWfLm34gQ",
+      "url": "https://www.youtube.com/watch?v=mbpanMUSlDg",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -287,6 +287,13 @@ Dreamers.autoContenido("sniva", {
     {
       "red": "facebook",
       "url": "https://www.facebook.com/sniva1825/posts/pfbid02GMwNE7Jb2qhNXeyBLqtA8uf5pQMdeb9FC9SF8Pk1MbaBhueH3sVMV2W3mRmvmUDUl",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=PQPWfLm34gQ",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -322,13 +329,6 @@ Dreamers.autoContenido("sniva", {
     {
       "red": "facebook",
       "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
       "titulo": "",
       "vistas": null,
       "fecha": null
