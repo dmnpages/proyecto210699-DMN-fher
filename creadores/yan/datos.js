@@ -19,8 +19,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@yanfluu/",
-      "seguidores": "38.6K",
-      "clave": true
+      "clave": true,
+      "seguidores": "38.6K"
     },
     {
       "plataforma": "Twitch",

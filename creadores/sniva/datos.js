@@ -25,8 +25,8 @@ Dreamers.talento({
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/sniva1825",
-      "seguidores": "14K",
-      "clave": true
+      "clave": true,
+      "seguidores": "14K"
     },
     {
       "plataforma": "Youtube",

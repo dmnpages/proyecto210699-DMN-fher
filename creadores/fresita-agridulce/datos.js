@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Fresita Agridulce",
   "ciudad": "Jinotega",
-  "seguidores": "3.4K",
+  "seguidores": "1.2K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "62.5% 18.500000000000007%",
@@ -15,13 +15,13 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/fresita_agridulce_/",
-      "seguidores": "1.4K"
+      "seguidores": "601"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@samy.fresita/",
-      "seguidores": "2K",
-      "clave": true
+      "clave": true,
+      "seguidores": "555"
     }
   ],
   "formatos": [
@@ -36,7 +36,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "26.7K",
+    "valor": "1.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

@@ -7,6 +7,7 @@ Dreamers.talento({
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
+  "lugar": 3,
   "categorias": [
     "Cosplayer"
   ],
@@ -19,8 +20,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@_neylis_0/",
-      "seguidores": "1.2K",
-      "clave": true
+      "clave": true,
+      "seguidores": "1.2K"
     }
   ],
   "formatos": [
@@ -39,6 +40,5 @@ Dreamers.talento({
     "valor": "49.6K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [],
-  "lugar": 3
+  "frames": []
 });

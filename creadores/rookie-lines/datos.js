@@ -15,8 +15,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@rookie.lines?_r=1&_t=ZS-9BVtSZ9S9sA",
-      "seguidores": "1.3K",
-      "clave": true
+      "clave": true,
+      "seguidores": "1.3K"
     },
     {
       "plataforma": "Instagram",

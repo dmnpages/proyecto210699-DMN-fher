@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Jaden Garcia",
   "ciudad": "Managua",
-  "seguidores": "45.5K",
+  "seguidores": "52.5K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "51.5625% 62%",
@@ -16,18 +16,18 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/jadengarciaaaa/",
-      "seguidores": "3.1K"
+      "seguidores": "9.5K"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@jadengarciaaaa/",
-      "seguidores": "42.3K",
-      "clave": true
+      "clave": true,
+      "seguidores": "42.9K"
     },
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/profile.php?id=100085739053307&ref=PROFILE_EDIT_xav_ig_profile_page_web#/",
-      "seguidores": "9"
+      "seguidores": "82"
     },
     {
       "plataforma": "Youtube",
@@ -46,7 +46,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "3.5M",
+    "valor": "594.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

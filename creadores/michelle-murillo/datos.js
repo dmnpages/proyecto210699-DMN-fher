@@ -2,12 +2,13 @@ Dreamers.talento({
   "nombre": "Michelle Murillo",
   "ciudad": "",
   "correo": "michellemurillo636@gmail.com",
-  "seguidores": "1.1K",
+  "seguidores": "7.8K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
+  "lugar": 11,
   "categorias": [
     "Streamer"
   ],
@@ -15,13 +16,13 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@micheladamiaw",
-      "seguidores": "1.1K",
-      "clave": true
+      "clave": true,
+      "seguidores": "3.7K"
     },
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/michelada_miaw/",
-      "seguidores": "27"
+      "seguidores": "4.1K"
     }
   ],
   "formatos": [
@@ -37,9 +38,8 @@ Dreamers.talento({
     "Cosméticos"
   ],
   "dato": {
-    "valor": "6.2K",
+    "valor": "437.8K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [],
-  "lugar": 11
+  "frames": []
 });

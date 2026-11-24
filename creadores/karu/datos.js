@@ -15,8 +15,8 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@KaruZ/streams",
-      "seguidores": "1.7K",
-      "clave": true
+      "clave": true,
+      "seguidores": "1.7K"
     },
     {
       "plataforma": "Tiktok",

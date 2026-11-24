@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Chinoshi",
   "ciudad": "Managua",
   "correo": "ligadevillano4ever.dabi@gmail.com",
-  "seguidores": "17.2K",
+  "seguidores": "1.8K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "48.4375% 37.74999237060547%",
@@ -16,13 +16,13 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@_chinoshicosplay_",
-      "seguidores": "16.9K",
-      "clave": true
+      "clave": true,
+      "seguidores": "1.2K"
     },
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/chinoshi_art",
-      "seguidores": "299"
+      "seguidores": "599"
     }
   ],
   "formatos": [
@@ -34,7 +34,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "297.2K",
+    "valor": "20.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

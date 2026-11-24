@@ -16,8 +16,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@lkevolutionelchelelokera",
-      "seguidores": "9.8K",
-      "clave": true
+      "clave": true,
+      "seguidores": "9.8K"
     },
     {
       "plataforma": "Facebook",

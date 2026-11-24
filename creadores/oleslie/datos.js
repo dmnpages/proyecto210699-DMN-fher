@@ -1,12 +1,13 @@
 Dreamers.talento({
   "nombre": "Oleslie",
   "ciudad": "Managua",
-  "seguidores": "5.1K",
+  "seguidores": "5K",
   "descripcion": "Streamer apasionada por los juegos retro y el anime. Paso mis directos recordando los grandes clásicos, descubriendo buenas historias y compartiendo mi amor por la cultura otaku junto a la comunidad.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
+  "lugar": 51,
   "categorias": [
     "Streamer"
   ],
@@ -14,18 +15,18 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/olesliedayana/",
-      "seguidores": "1.2K"
+      "seguidores": "468"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@olesliegames",
-      "seguidores": "599"
+      "seguidores": "1.2K"
     },
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/Oleslie/",
-      "seguidores": "3.3K",
-      "clave": true
+      "clave": true,
+      "seguidores": "3.3K"
     }
   ],
   "formatos": [
@@ -37,9 +38,8 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "20.9K",
+    "valor": "6K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [],
-  "lugar": 51
+  "frames": []
 });

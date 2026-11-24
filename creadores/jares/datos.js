@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Jares Mayerling",
   "ciudad": "Matagalpa",
-  "seguidores": "1.2K",
+  "seguidores": "4.4K",
   "descripcion": "Creadora de contenido enfocada en el mundo del anime, cosplay y gaming.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -15,13 +15,13 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/jares_mayerling/",
-      "seguidores": "601"
+      "seguidores": "1.2K"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@jares_mayerling/",
-      "seguidores": "555",
-      "clave": true
+      "clave": true,
+      "seguidores": "3.2K"
     }
   ],
   "formatos": [
@@ -36,7 +36,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "1.5K",
+    "valor": "34.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

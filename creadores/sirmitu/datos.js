@@ -19,8 +19,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@sir.mitu/",
-      "seguidores": "37.6K",
-      "clave": true
+      "clave": true,
+      "seguidores": "37.6K"
     }
   ],
   "formatos": [

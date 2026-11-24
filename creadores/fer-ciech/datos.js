@@ -15,8 +15,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@ferciech",
-      "seguidores": "6.6K",
-      "clave": true
+      "clave": true,
+      "seguidores": "6.6K"
     },
     {
       "plataforma": "Instagram",
@@ -38,7 +38,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "347K",
+    "valor": "347.1K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

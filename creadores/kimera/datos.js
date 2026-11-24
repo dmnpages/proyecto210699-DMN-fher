@@ -20,8 +20,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@kimerasm/",
-      "seguidores": "7K",
-      "clave": true
+      "clave": true,
+      "seguidores": "7K"
     },
     {
       "plataforma": "Youtube",

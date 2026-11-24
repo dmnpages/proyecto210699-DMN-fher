@@ -15,8 +15,8 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@MarmotaGeek",
-      "seguidores": "11.6K",
-      "clave": true
+      "clave": true,
+      "seguidores": "11.6K"
     },
     {
       "plataforma": "Twitch",

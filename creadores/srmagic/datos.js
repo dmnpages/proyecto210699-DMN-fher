@@ -1,13 +1,15 @@
 Dreamers.talento({
-  "frames": [],
   "nombre": "SrMagic",
-  "categorias": [
-    "Streamer"
-  ],
   "ciudad": "",
   "seguidores": "3.1K",
   "descripcion": "",
   "foto": "foto.svg",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "H",
+  "categorias": [
+    "Streamer"
+  ],
   "redes": [
     {
       "plataforma": "Tiktok",
@@ -15,15 +17,13 @@ Dreamers.talento({
       "seguidores": "3.1K"
     }
   ],
-  "dato": {
-    "valor": "3.6K",
-    "texto": "Likes totales en TikTok"
-  },
   "formatos": [
     "Geek News"
   ],
   "ideal": [],
-  "genero": "H",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1
+  "dato": {
+    "valor": "3.6K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
 });

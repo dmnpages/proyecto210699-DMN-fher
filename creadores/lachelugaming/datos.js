@@ -15,8 +15,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@LaCheluGaming",
-      "seguidores": "1.9K",
-      "clave": true
+      "clave": true,
+      "seguidores": "1.9K"
     },
     {
       "plataforma": "Instagram",

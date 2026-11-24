@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "TheCherryPieX",
   "ciudad": "Managua",
-  "seguidores": "34.6K",
+  "seguidores": "3.6K",
   "descripcion": "Creadora de contenido digital desde los 18 años, con una sólida trayectoria en la industria y una clara visión de liderazgo. Comprometida con la excelencia y la innovación, aspiro a consolidarme como una de las referentes más influyentes a nivel global.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -15,18 +15,18 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/thecherrypiex/",
-      "seguidores": "13K"
+      "seguidores": "1.4K"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@thecherrypiex/",
-      "seguidores": "18K",
-      "clave": true
+      "clave": true,
+      "seguidores": "2K"
     },
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@thecherrypiex",
-      "seguidores": "3.6K"
+      "seguidores": "225"
     }
   ],
   "formatos": [
@@ -41,7 +41,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "736K",
+    "valor": "26.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

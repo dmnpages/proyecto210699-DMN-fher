@@ -15,8 +15,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@juanjobe_",
-      "seguidores": "80.7K",
-      "clave": true
+      "clave": true,
+      "seguidores": "80.7K"
     },
     {
       "plataforma": "Instagram",

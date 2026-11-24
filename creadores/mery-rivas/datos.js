@@ -1,12 +1,13 @@
 Dreamers.talento({
   "nombre": "Mery Rivas",
   "ciudad": "Managua",
-  "seguidores": "15.5K",
+  "seguidores": "15.6K",
   "descripcion": "Creadora de contenido nicaragüense enfocada en anime, cosplay, cultura geek y fitness. Comparte su pasión por el mundo otaku, los eventos, los personajes, el ejercicio y el estilo de vida, conectando con su comunidad a través de contenido auténtico y entretenido.",
   "foto": "foto-admin.webp",
   "posicionFoto": "55.078125% 49.6875%",
   "fotoZoom": 1.2,
   "genero": "M",
+  "lugar": 7,
   "categorias": [
     "Cosplayer",
     "Streamer",
@@ -16,12 +17,12 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/mery_rivas16",
-      "seguidores": "1.2K"
+      "seguidores": "3.6K"
     },
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/meryrivas_space",
-      "seguidores": "3.2K"
+      "seguidores": "927"
     },
     {
       "plataforma": "Facebook",
@@ -31,8 +32,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@meryrivas18",
-      "seguidores": "8.1K",
-      "clave": true
+      "clave": true,
+      "seguidores": "8.1K"
     }
   ],
   "formatos": [
@@ -51,9 +52,8 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "34.6K",
+    "valor": "139.2K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [],
-  "lugar": 7
+  "frames": []
 });

@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Daneska Solorsano",
   "ciudad": "Diriamba",
-  "seguidores": "1.8K",
+  "seguidores": "3.4K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -14,13 +14,13 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/daneska_solorzano/",
-      "seguidores": "170"
+      "seguidores": "723"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@daneska_solorzano/",
-      "seguidores": "1.6K",
-      "clave": true
+      "clave": true,
+      "seguidores": "2.7K"
     }
   ],
   "formatos": [
@@ -36,7 +36,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "117.5K",
+    "valor": "29.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

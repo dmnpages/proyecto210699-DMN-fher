@@ -1,12 +1,13 @@
 Dreamers.talento({
   "nombre": "Thepeggo",
   "ciudad": "",
-  "seguidores": "1.5K",
+  "seguidores": "45.4K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "H",
+  "lugar": 8,
   "categorias": [
     "Streamer",
     "LifeStyle",
@@ -16,18 +17,18 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/bryangc1313y/",
-      "seguidores": "23"
+      "seguidores": "3.1K"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@thepeggonic/",
-      "seguidores": "1.5K",
-      "clave": true
+      "clave": true,
+      "seguidores": "42.3K"
     },
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/profile.php?id=61592772106424",
-      "seguidores": "22"
+      "seguidores": "9"
     }
   ],
   "formatos": [
@@ -42,9 +43,8 @@ Dreamers.talento({
     "Entretenimiento"
   ],
   "dato": {
-    "valor": "2.3K",
+    "valor": "3.5M",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [],
-  "lugar": 8
+  "frames": []
 });

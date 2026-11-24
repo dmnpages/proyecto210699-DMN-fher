@@ -14,8 +14,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@colemann_11",
-      "seguidores": "2.7K",
-      "clave": true
+      "clave": true,
+      "seguidores": "2.7K"
     }
   ],
   "formatos": [

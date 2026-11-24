@@ -1,12 +1,13 @@
 Dreamers.talento({
   "nombre": "Flamera",
   "ciudad": "",
-  "seguidores": "7.8K",
+  "seguidores": "35.4K",
   "descripcion": "Creadora de contenido, streamer y cosplayer nicaragüense, apasionada por los videojuegos, el anime y la cultura geek. Le encanta compartir sus hobbies y conectar con la comunidad geek del país.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50.3125%",
   "fotoZoom": 1,
   "genero": "M",
+  "lugar": 9,
   "categorias": [
     "Streamer",
     "Cosplayer"
@@ -15,13 +16,13 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/flamera97/",
-      "seguidores": "723"
+      "seguidores": "13K"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@_flamera_/",
-      "seguidores": "2.7K",
-      "clave": true
+      "clave": true,
+      "seguidores": "18K"
     },
     {
       "plataforma": "Facebook",
@@ -47,9 +48,8 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "29.9K",
+    "valor": "736K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [],
-  "lugar": 9
+  "frames": []
 });

@@ -19,8 +19,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@cordobita21",
-      "seguidores": "6.1K",
-      "clave": true
+      "clave": true,
+      "seguidores": "6.1K"
     },
     {
       "plataforma": "Twitch",

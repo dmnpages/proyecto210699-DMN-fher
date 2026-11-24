@@ -20,8 +20,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@xles_espinox?_r=1&_t=ZS-9BYG7F76aMH",
-      "seguidores": "26K",
-      "clave": true
+      "clave": true,
+      "seguidores": "26K"
     }
   ],
   "formatos": [

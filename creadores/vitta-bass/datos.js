@@ -17,8 +17,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@vittamusic/",
-      "seguidores": "141.1K",
-      "clave": true
+      "clave": true,
+      "seguidores": "141.1K"
     },
     {
       "plataforma": "Youtube",

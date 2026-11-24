@@ -14,8 +14,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@doggiman7",
-      "seguidores": "1.6K",
-      "clave": true
+      "clave": true,
+      "seguidores": "1.6K"
     },
     {
       "plataforma": "Instagram",

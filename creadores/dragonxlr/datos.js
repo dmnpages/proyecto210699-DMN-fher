@@ -20,8 +20,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@dragonxlr",
-      "seguidores": "2K",
-      "clave": true
+      "clave": true,
+      "seguidores": "2K"
     },
     {
       "plataforma": "Facebook",

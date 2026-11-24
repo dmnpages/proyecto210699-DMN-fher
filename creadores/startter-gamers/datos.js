@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Startter Gamers",
   "ciudad": "",
   "correo": "starttergames@gmail.com",
-  "seguidores": "5.4K",
+  "seguidores": "4.3K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -16,18 +16,18 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/starttergamers/",
-      "seguidores": "468"
+      "seguidores": "462"
     },
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/starttergamers/",
-      "seguidores": "1.2K"
+      "seguidores": "369"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@starttergamers/",
-      "seguidores": "3.3K",
-      "clave": true
+      "clave": true,
+      "seguidores": "3K"
     },
     {
       "plataforma": "Facebook",
@@ -47,7 +47,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "6K",
+    "valor": "50.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

@@ -20,8 +20,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@soybryam06c/",
-      "seguidores": "3.2K",
-      "clave": true
+      "clave": true,
+      "seguidores": "3.2K"
     },
     {
       "plataforma": "Kick",

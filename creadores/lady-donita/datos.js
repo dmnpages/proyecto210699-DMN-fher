@@ -20,8 +20,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@ladydonita/",
-      "seguidores": "10.1K",
-      "clave": true
+      "clave": true,
+      "seguidores": "10.1K"
     },
     {
       "plataforma": "Facebook",

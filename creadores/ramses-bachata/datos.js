@@ -14,8 +14,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@ramses_lopez_1",
-      "seguidores": "3.7K",
-      "clave": true
+      "clave": true,
+      "seguidores": "3.7K"
     }
   ],
   "formatos": [

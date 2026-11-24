@@ -20,8 +20,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@marka_nerd2.0",
-      "seguidores": "2K",
-      "clave": true
+      "clave": true,
+      "seguidores": "2K"
     },
     {
       "plataforma": "Instagram",

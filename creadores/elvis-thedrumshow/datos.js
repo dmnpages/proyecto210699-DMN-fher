@@ -15,8 +15,8 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/elvis_thedrumshow",
-      "seguidores": "54K",
-      "clave": true
+      "clave": true,
+      "seguidores": "54K"
     },
     {
       "plataforma": "Tiktok",
