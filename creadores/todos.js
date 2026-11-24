@@ -2291,44 +2291,48 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="chinoshi";
+Dreamers._actual="oleslie";
 Dreamers.talento({
-  "nombre": "Chinoshi",
+  "nombre": "Oleslie",
   "ciudad": "Managua",
-  "correo": "ligadevillano4ever.dabi@gmail.com",
-  "seguidores": "1.8K",
-  "descripcion": "",
+  "seguidores": "5K",
+  "descripcion": "Streamer apasionada por los juegos retro y el anime. Paso mis directos recordando los grandes clásicos, descubriendo buenas historias y compartiendo mi amor por la cultura otaku junto a la comunidad.",
   "foto": "foto-admin.webp",
-  "posicionFoto": "48.4375% 37.74999237060547%",
-  "fotoZoom": 1.33,
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
   "genero": "M",
+  "lugar": 49,
   "categorias": [
-    "Cosplayer",
-    "Cosmaker"
+    "Streamer"
   ],
   "redes": [
     {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/olesliedayana/",
+      "seguidores": "468"
+    },
+    {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@_chinoshicosplay_",
-      "clave": true,
+      "enlace": "https://www.tiktok.com/@olesliegames",
       "seguidores": "1.2K"
     },
     {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/chinoshi_art",
-      "seguidores": "599"
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/Oleslie/",
+      "clave": true,
+      "seguidores": "3.3K"
     }
   ],
   "formatos": [
-    "Videos cortos",
-    "Cosplay"
+    "Streams",
+    "LifeStyle"
   ],
   "ideal": [
-    "Anime y cultura pop",
+    "Gaming",
     "Eventos"
   ],
   "dato": {
-    "valor": "20.9K",
+    "valor": "6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -2377,48 +2381,44 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="oleslie";
+Dreamers._actual="chinoshi";
 Dreamers.talento({
-  "nombre": "Oleslie",
+  "nombre": "Chinoshi",
   "ciudad": "Managua",
-  "seguidores": "5K",
-  "descripcion": "Streamer apasionada por los juegos retro y el anime. Paso mis directos recordando los grandes clásicos, descubriendo buenas historias y compartiendo mi amor por la cultura otaku junto a la comunidad.",
+  "correo": "ligadevillano4ever.dabi@gmail.com",
+  "seguidores": "1.8K",
+  "descripcion": "",
   "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
+  "posicionFoto": "48.4375% 37.74999237060547%",
+  "fotoZoom": 1.33,
   "genero": "M",
-  "lugar": 51,
   "categorias": [
-    "Streamer"
+    "Cosplayer",
+    "Cosmaker"
   ],
   "redes": [
     {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/olesliedayana/",
-      "seguidores": "468"
-    },
-    {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@olesliegames",
+      "enlace": "https://www.tiktok.com/@_chinoshicosplay_",
+      "clave": true,
       "seguidores": "1.2K"
     },
     {
-      "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/Oleslie/",
-      "clave": true,
-      "seguidores": "3.3K"
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/chinoshi_art",
+      "seguidores": "599"
     }
   ],
   "formatos": [
-    "Streams",
-    "LifeStyle"
+    "Videos cortos",
+    "Cosplay"
   ],
   "ideal": [
-    "Gaming",
+    "Anime y cultura pop",
     "Eventos"
   ],
   "dato": {
-    "valor": "6K",
+    "valor": "20.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

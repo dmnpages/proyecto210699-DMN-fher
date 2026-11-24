@@ -47,7 +47,7 @@ Dreamers.listaTalentos = [
   "andrew-brand",
   "gmetall",
   "marmota-geek",
-  "chinoshi",
+  "oleslie",
   "cordobita",
-  "oleslie"
+  "chinoshi"
 ];
