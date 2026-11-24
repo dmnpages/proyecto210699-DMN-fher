@@ -233,6 +233,7 @@ Dreamers.i18n.ja = {
  "a": "に",
  "d": "d",
  "desde el {fecha}": "{fecha}以来",
+ "illustrator": "イラストレーター",
  "izquierda": "左",
  "seguidores": "フォロワー",
  "seguidores en total": "総フォロワー数",

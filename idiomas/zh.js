@@ -234,6 +234,7 @@ Dreamers.i18n.zh = {
  "a": "到",
  "d": "d",
  "desde el {fecha}": "自 {fecha} 起",
+ "illustrator": "插画家",
  "izquierda": "左边",
  "seguidores": "追随者",
  "seguidores en total": "关注者总数",

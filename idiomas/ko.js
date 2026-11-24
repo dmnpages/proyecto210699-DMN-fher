@@ -233,6 +233,7 @@ Dreamers.i18n.ko = {
  "a": "에게",
  "d": "디",
  "desde el {fecha}": "{fecha} 이후",
+ "illustrator": "일러스트레이터",
  "izquierda": "왼쪽",
  "seguidores": "추종자",
  "seguidores en total": "총 팔로어",

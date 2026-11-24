@@ -2203,15 +2203,15 @@ Dreamers.talento({
   "fotoZoom": 1,
   "genero": "M",
   "categorias": [
-    "Ilustradora",
+    "illustrator",
     "Cosplayer"
   ],
   "redes": [
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@gmetall",
-      "clave": true,
-      "seguidores": "16.9K"
+      "seguidores": "16.9K",
+      "clave": true
     },
     {
       "plataforma": "Instagram",

@@ -233,6 +233,7 @@ Dreamers.i18n.en = {
  "a": "to",
  "d": "d",
  "desde el {fecha}": "since {fecha}",
+ "illustrator": "illustrator",
  "izquierda": "left",
  "seguidores": "followers",
  "seguidores en total": "total followers",
