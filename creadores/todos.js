@@ -2095,6 +2095,47 @@ Dreamers.talento({
   },
   "frames": []
 });
+Dreamers._actual="itssomau";
+Dreamers.talento({
+  "nombre": "Itssomau",
+  "ciudad": "Managua",
+  "correo": "Sooyoungrcastro@gmail.com",
+  "seguidores": "18.3K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "M",
+  "categorias": [
+    "Cosplayer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/syngmau_/",
+      "seguidores": "309"
+    },
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@springtrap1584",
+      "seguidores": "18K",
+      "clave": true
+    }
+  ],
+  "formatos": [
+    "Videos cortos",
+    "Cosplay"
+  ],
+  "ideal": [
+    "Anime y cultura pop",
+    "Eventos"
+  ],
+  "dato": {
+    "valor": "783.8K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
 Dreamers._actual="andrew-brand";
 Dreamers.talento({
   "nombre": "Andrew Brand",
@@ -2105,7 +2146,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "58.12498092651367% 64.0000228881836%",
   "fotoZoom": 1.6,
-  "genero": "M",
+  "genero": "H",
   "categorias": [
     "Cosplayer"
   ],
@@ -2138,6 +2179,52 @@ Dreamers.talento({
   ],
   "dato": {
     "valor": "74.3K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="aritz-cosplay";
+Dreamers.talento({
+  "nombre": "Aritz cosplay",
+  "ciudad": "Managua",
+  "correo": "roroniko544@gmail.com",
+  "seguidores": "541",
+  "descripcion": "Creadora de contenido y cosplayer enfocada en la cultura pop en Nicaragua, destacando por su constancia, participación en eventos y dominio en costura, maquillaje y fabricación de props. Con una audiencia propia ya consolidada, busca colaborar con otros creadores del medio, ampliar su presencia en convenciones y seguir elevando la calidad de su contenido para conectar con más personas.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "M",
+  "categorias": [
+    "Cosplayer",
+    "Cosmaker"
+  ],
+  "redes": [
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@aritz.cosplays",
+      "seguidores": "117"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/aritz_cosplay",
+      "seguidores": "266",
+      "clave": true
+    },
+    {
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/profile.php?id=61577870500142#",
+      "seguidores": "158"
+    }
+  ],
+  "formatos": [
+    "Cosplay"
+  ],
+  "ideal": [
+    "Anime y cultura pop",
+    "Eventos"
+  ],
+  "dato": {
+    "valor": "453",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -2199,43 +2286,44 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="itssomau";
+Dreamers._actual="gmetall";
 Dreamers.talento({
-  "nombre": "Itssomau",
-  "ciudad": "Managua",
-  "correo": "Sooyoungrcastro@gmail.com",
-  "seguidores": "18.3K",
-  "descripcion": "",
+  "nombre": "Gmetall",
+  "ciudad": "Estelí",
+  "correo": "genesisjimenezmontoya123@gmail.com",
+  "seguidores": "17.2K",
+  "descripcion": "Creadora de contenido enfocada en videos de ediciones de anime, expandiendo próximamente su propuesta hacia noticias y cosplay. Busca conectar con otros creadores nicaragüenses, seguir aprendiendo e impulsar nuevas colaboraciones dentro de la comunidad.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
   "categorias": [
+    "Ilustradora",
     "Cosplayer"
   ],
   "redes": [
     {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/syngmau_/",
-      "seguidores": "309"
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@gmetall",
+      "seguidores": "16.9K",
+      "clave": true
     },
     {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@springtrap1584",
-      "seguidores": "18K",
-      "clave": true
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/gene.j.m/",
+      "seguidores": "299"
     }
   ],
   "formatos": [
-    "Videos cortos",
-    "Cosplay"
+    "Cosplay",
+    "Videos cortos"
   ],
   "ideal": [
     "Anime y cultura pop",
     "Eventos"
   ],
   "dato": {
-    "valor": "783.8K",
+    "valor": "297.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -2280,94 +2368,6 @@ Dreamers.talento({
   ],
   "dato": {
     "valor": "164.7K",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="aritz-cosplay";
-Dreamers.talento({
-  "nombre": "Aritz cosplay",
-  "ciudad": "Managua",
-  "correo": "roroniko544@gmail.com",
-  "seguidores": "541",
-  "descripcion": "Creadora de contenido y cosplayer enfocada en la cultura pop en Nicaragua, destacando por su constancia, participación en eventos y dominio en costura, maquillaje y fabricación de props. Con una audiencia propia ya consolidada, busca colaborar con otros creadores del medio, ampliar su presencia en convenciones y seguir elevando la calidad de su contenido para conectar con más personas.",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "genero": "M",
-  "categorias": [
-    "Cosplayer",
-    "Cosmaker"
-  ],
-  "redes": [
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@aritz.cosplays",
-      "seguidores": "117"
-    },
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/aritz_cosplay",
-      "seguidores": "266",
-      "clave": true
-    },
-    {
-      "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/profile.php?id=61577870500142#",
-      "seguidores": "158"
-    }
-  ],
-  "formatos": [
-    "Cosplay"
-  ],
-  "ideal": [
-    "Anime y cultura pop",
-    "Eventos"
-  ],
-  "dato": {
-    "valor": "453",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="gmetall";
-Dreamers.talento({
-  "nombre": "Gmetall",
-  "ciudad": "Estelí",
-  "correo": "genesisjimenezmontoya123@gmail.com",
-  "seguidores": "17.2K",
-  "descripcion": "Creadora de contenido enfocada en videos de ediciones de anime, expandiendo próximamente su propuesta hacia noticias y cosplay. Busca conectar con otros creadores nicaragüenses, seguir aprendiendo e impulsar nuevas colaboraciones dentro de la comunidad.",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "genero": "M",
-  "categorias": [
-    "Ilustradora",
-    "Cosplayer"
-  ],
-  "redes": [
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@gmetall",
-      "seguidores": "16.9K",
-      "clave": true
-    },
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/gene.j.m/",
-      "seguidores": "299"
-    }
-  ],
-  "formatos": [
-    "Cosplay",
-    "Videos cortos"
-  ],
-  "ideal": [
-    "Anime y cultura pop",
-    "Eventos"
-  ],
-  "dato": {
-    "valor": "297.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

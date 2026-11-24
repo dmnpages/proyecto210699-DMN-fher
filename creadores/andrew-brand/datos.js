@@ -7,7 +7,7 @@ Dreamers.talento({
   "foto": "foto-admin.webp",
   "posicionFoto": "58.12498092651367% 64.0000228881836%",
   "fotoZoom": 1.6,
-  "genero": "M",
+  "genero": "H",
   "categorias": [
     "Cosplayer"
   ],

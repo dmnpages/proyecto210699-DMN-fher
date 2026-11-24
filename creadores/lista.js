@@ -43,11 +43,11 @@ Dreamers.listaTalentos = [
   "leslie-nova",
   "aishanana",
   "coleman",
-  "andrew-brand",
-  "marmota-geek",
   "itssomau",
-  "cordobita",
+  "andrew-brand",
   "aritz-cosplay",
+  "marmota-geek",
   "gmetall",
+  "cordobita",
   "chinoshi"
 ];
