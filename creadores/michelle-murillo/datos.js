@@ -16,8 +16,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@micheladamiaw",
-      "clave": true,
-      "seguidores": "3.7K"
+      "seguidores": "3.7K",
+      "clave": true
     },
     {
       "plataforma": "Instagram",

@@ -148,6 +148,7 @@ Dreamers._actual="kimera";
 Dreamers.talento({
   "nombre": "KimeraSM",
   "ciudad": "Managua",
+  "correo": "kimerasm.business@gmail.com",
   "seguidores": "8.2K",
   "descripcion": "Creador de contenido enfocado en el mundo del gaming y la tecnología.",
   "foto": "foto-admin.webp",
@@ -167,8 +168,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@kimerasm/",
-      "clave": true,
-      "seguidores": "7K"
+      "seguidores": "7K",
+      "clave": true
     },
     {
       "plataforma": "Youtube",
@@ -194,7 +195,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "147.7K",
+    "valor": "147.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -458,7 +459,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "736K",
+    "valor": "736.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -532,8 +533,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@micheladamiaw",
-      "clave": true,
-      "seguidores": "3.7K"
+      "seguidores": "3.7K",
+      "clave": true
     },
     {
       "plataforma": "Instagram",
@@ -703,7 +704,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "580.5K",
+    "valor": "580.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -807,8 +808,8 @@ Dreamers.talento({
   "seguidores": "1.2K",
   "descripcion": "",
   "foto": "foto-admin.webp",
-  "posicionFoto": "62.5% 18.500000000000007%",
-  "fotoZoom": 1.63,
+  "posicionFoto": "56.9999885559082% 36.46666717529297%",
+  "fotoZoom": 1.26,
   "genero": "M",
   "categorias": [
     "Streamer",
@@ -823,8 +824,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@samy.fresita/",
-      "clave": true,
-      "seguidores": "555"
+      "seguidores": "555",
+      "clave": true
     }
   ],
   "formatos": [
@@ -1878,7 +1879,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@shisudool",
-      "seguidores": "162"
+      "seguidores": "163"
     },
     {
       "plataforma": "Instagram",

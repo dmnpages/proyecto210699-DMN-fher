@@ -4,8 +4,8 @@ Dreamers.talento({
   "seguidores": "1.2K",
   "descripcion": "",
   "foto": "foto-admin.webp",
-  "posicionFoto": "62.5% 18.500000000000007%",
-  "fotoZoom": 1.63,
+  "posicionFoto": "56.9999885559082% 36.46666717529297%",
+  "fotoZoom": 1.26,
   "genero": "M",
   "categorias": [
     "Streamer",
@@ -20,8 +20,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@samy.fresita/",
-      "clave": true,
-      "seguidores": "555"
+      "seguidores": "555",
+      "clave": true
     }
   ],
   "formatos": [
