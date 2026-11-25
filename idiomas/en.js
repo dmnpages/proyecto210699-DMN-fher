@@ -167,6 +167,7 @@ Dreamers.i18n.en = {
  "Nuestro equipo": "Our team",
  "Nuestro radar": "Our Radar",
  "Nuevo": "New",
+ "Ocotal": "Ocotal",
  "Orden de la agencia": "Agency order",
  "Ordenar por": "Sort by",
  "Otra": "Other",

@@ -167,6 +167,7 @@ Dreamers.i18n.ja = {
  "Nuestro equipo": "私たちのチーム",
  "Nuestro radar": "当社のレーダー",
  "Nuevo": "新しい",
+ "Ocotal": "オコタル",
  "Orden de la agencia": "代理店の順序",
  "Ordenar por": "並べ替え",
  "Otra": "その他",

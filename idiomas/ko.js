@@ -167,6 +167,7 @@ Dreamers.i18n.ko = {
  "Nuestro equipo": "우리 팀",
  "Nuestro radar": "우리의 레이더",
  "Nuevo": "새로운",
+ "Ocotal": "오코탈",
  "Orden de la agencia": "에이전시 정렬",
  "Ordenar por": "정렬 기준",
  "Otra": "기타",

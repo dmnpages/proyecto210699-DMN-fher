@@ -168,6 +168,7 @@ Dreamers.i18n.zh = {
  "Nuestro equipo": "我们的团队",
  "Nuestro radar": "我们的雷达",
  "Nuevo": "新的",
+ "Ocotal": "奥科塔尔",
  "Orden de la agencia": "经纪公司排序",
  "Ordenar por": "排序方式",
  "Otra": "其他",

@@ -1,14 +1,18 @@
 Dreamers.talento({
-  "frames": [],
-  "nombre": "𝑮𝒖𝒂𝒅𝒂𝒍𝒖𝒑𝒆",
+  "nombre": "Guadalupe",
+  "ciudad": "",
+  "correo": "Guadalupep14@gmail.com",
+  "seguidores": "56K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "M",
+  "lugar": 13,
   "categorias": [
     "Streamer",
     "Cosplayer"
   ],
-  "ciudad": "",
-  "seguidores": "56K",
-  "descripcion": "",
-  "foto": "foto-admin.webp",
   "redes": [
     {
       "plataforma": "Instagram",
@@ -21,15 +25,11 @@ Dreamers.talento({
       "seguidores": "50.2K"
     }
   ],
+  "formatos": [],
+  "ideal": [],
   "dato": {
     "valor": "2.2M",
     "texto": "Likes totales en TikTok"
   },
-  "formatos": [],
-  "ideal": [],
-  "correo": "Guadalupep14@gmail.com",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "genero": "M",
-  "lugar": 13
+  "frames": []
 });

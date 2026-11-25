@@ -41,7 +41,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@dragonxlrgames",
-      "seguidores": "399"
+      "seguidores": "398"
     }
   ],
   "formatos": [

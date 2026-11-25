@@ -24,8 +24,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@chinelaplay",
-      "seguidores": "2.1K",
-      "clave": true
+      "clave": true,
+      "seguidores": "2.1K"
     },
     {
       "plataforma": "Twitch",

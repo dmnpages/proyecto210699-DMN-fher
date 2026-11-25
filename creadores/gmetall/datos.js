@@ -8,6 +8,7 @@ Dreamers.talento({
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
+  "lugar": 47,
   "categorias": [
     "illustrator",
     "Cosplayer"
@@ -16,8 +17,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@gmetall",
-      "seguidores": "16.9K",
-      "clave": true
+      "clave": true,
+      "seguidores": "16.9K"
     },
     {
       "plataforma": "Instagram",
@@ -37,6 +38,5 @@ Dreamers.talento({
     "valor": "297.2K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [],
-  "lugar": 47
+  "frames": []
 });
