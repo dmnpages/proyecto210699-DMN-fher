@@ -37,5 +37,6 @@ Dreamers.talento({
     "valor": "297.2K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": []
+  "frames": [],
+  "lugar": 47
 });
