@@ -20,7 +20,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/doggiman7/",
-      "seguidores": "585"
+      "seguidores": "587"
     }
   ],
   "formatos": [

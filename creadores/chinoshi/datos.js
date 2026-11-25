@@ -22,7 +22,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/chinoshi_art",
-      "seguidores": "599"
+      "seguidores": "603"
     }
   ],
   "formatos": [

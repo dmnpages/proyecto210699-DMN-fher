@@ -21,7 +21,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/juanjobe__",
-      "seguidores": "178"
+      "seguidores": "177"
     }
   ],
   "formatos": [

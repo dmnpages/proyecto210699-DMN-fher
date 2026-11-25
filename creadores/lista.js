@@ -50,5 +50,6 @@ Dreamers.listaTalentos = [
   "oleslie",
   "cordobita",
   "aritz-cosplay",
+  "pollino",
   "chinoshi"
 ];

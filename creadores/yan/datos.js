@@ -25,7 +25,7 @@ Dreamers.talento({
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/yanfluu",
-      "seguidores": "58"
+      "seguidores": "59"
     }
   ],
   "formatos": [

@@ -14,7 +14,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/sr.mitu/",
-      "seguidores": "203"
+      "seguidores": "202"
     },
     {
       "plataforma": "Tiktok",

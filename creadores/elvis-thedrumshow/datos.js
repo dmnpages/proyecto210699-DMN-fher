@@ -36,7 +36,7 @@ Dreamers.talento({
     "Musicales"
   ],
   "dato": {
-    "valor": "353.7K",
+    "valor": "354.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

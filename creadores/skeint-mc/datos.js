@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Skeint MC",
   "ciudad": "Matagalpa",
   "correo": "iskeintplayer@gmail.com",
-  "seguidores": "783",
+  "seguidores": "785",
   "descripcion": "Creador de contenido con el objetivo de crecer y aprender en comunidad. Desea aportar sus habilidades, colaborar y compartir ideas para crear contenido de alta calidad y alcanzar nuevas metas junto a un equipo de trabajo.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50.390625% 50%",
@@ -15,7 +15,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@skeint_mc",
-      "seguidores": "118"
+      "seguidores": "119"
     },
     {
       "plataforma": "Twitch",
@@ -31,7 +31,7 @@ Dreamers.talento({
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/skeint_mc",
       "clave": true,
-      "seguidores": "421"
+      "seguidores": "422"
     },
     {
       "plataforma": "Tiktok",

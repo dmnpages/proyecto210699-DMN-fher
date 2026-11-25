@@ -36,7 +36,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@lachelugaming",
-      "seguidores": "119"
+      "seguidores": "120"
     }
   ],
   "formatos": [

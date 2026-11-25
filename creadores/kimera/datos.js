@@ -32,7 +32,7 @@ Dreamers.talento({
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/kimerasm",
-      "seguidores": "300"
+      "seguidores": "301"
     }
   ],
   "formatos": [
@@ -48,7 +48,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "148K",
+    "valor": "149.1K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

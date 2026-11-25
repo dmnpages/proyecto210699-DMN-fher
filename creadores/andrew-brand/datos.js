@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Andrew Brand",
   "ciudad": "Managua",
   "correo": "andrewyaoi14@gmail.com",
-  "seguidores": "4.2K",
+  "seguidores": "4.3K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "58.12498092651367% 64.0000228881836%",
@@ -26,7 +26,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/andrew_yaoi?dmpr=Nmt2OWpqdDQyZmJy",
-      "seguidores": "1.2K"
+      "seguidores": "1.3K"
     }
   ],
   "formatos": [
@@ -39,7 +39,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "74.3K",
+    "valor": "74.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

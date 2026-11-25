@@ -15,7 +15,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/sniva2509/",
-      "seguidores": "319"
+      "seguidores": "317"
     },
     {
       "plataforma": "Tiktok",
@@ -53,7 +53,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "20.9K",
+    "valor": "21K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
