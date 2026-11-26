@@ -1,21 +1,21 @@
 Dreamers.autoContenido("startter-gamers", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.twitch.tv/starttergamers",
     "https://www.facebook.com/reel/2324700334988065/",
-    "https://www.instagram.com/reel/DgDiVzny191/",
-    "https://www.instagram.com/reel/Df8IN-hhxh8/",
-    "https://www.instagram.com/reel/Df2pPPHB8lS/"
+    "https://www.instagram.com/reel/DgLomFRNmyE/",
+    "https://www.tiktok.com/@starttergamers/video/7712242005434305812",
+    "https://www.instagram.com/reel/DgDiVzny191/"
   ],
   "reserva": [
+    "https://www.tiktok.com/@starttergamers/video/7711069995714891029",
+    "https://www.instagram.com/reel/Df8IN-hhxh8/",
+    "https://www.tiktok.com/@starttergamers/video/7710004781615533333",
+    "https://www.tiktok.com/@starttergamers/video/7709232325824875797",
+    "https://www.instagram.com/reel/Df2pPPHB8lS/",
     "https://www.instagram.com/p/Df1GTNTpY5A/",
     "https://www.instagram.com/reel/Df1B49_tyED/",
-    "https://www.instagram.com/p/Df0N3hQFOXG/",
-    "https://www.instagram.com/p/Df0LMdUFG9I/",
-    "https://www.instagram.com/p/Df0HHMtlMPr/",
-    "https://www.instagram.com/p/Df0Eo_SlHSZ/",
-    "https://www.instagram.com/p/DfvpcLjFE4S/",
-    "https://www.instagram.com/reel/DfuaPVPNngA/"
+    "https://www.tiktok.com/@starttergamers/video/7708984870780865813"
   ],
   "fijados": [
     "https://www.twitch.tv/starttergamers",
@@ -23,9 +23,6 @@ Dreamers.autoContenido("startter-gamers", {
   ],
   "vistas": {
     "https://www.facebook.com/reel/2324700334988065/": 5
-  },
-  "titulos": {
-    "https://www.tiktok.com/@starttergamers/video/7062763825053139974": "@starttergamers 2995 seguidores, 2642 siguiendo, 50.8k me gusta: no te pierdas los geniale"
   },
   "candidatas": [
     {
@@ -44,10 +41,31 @@ Dreamers.autoContenido("startter-gamers", {
     },
     {
       "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgLomFRNmyE/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795646741
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7712242005434305812",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795646270
+    },
+    {
+      "red": "instagram",
       "url": "https://www.instagram.com/reel/DgDiVzny191/",
       "titulo": "",
       "vistas": null,
       "fecha": 1795375026
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7711069995714891029",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795373390
     },
     {
       "red": "instagram",
@@ -55,6 +73,20 @@ Dreamers.autoContenido("startter-gamers", {
       "titulo": "",
       "vistas": null,
       "fecha": 1795126449
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7710004781615533333",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795125375
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7709232325824875797",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794945524
     },
     {
       "red": "instagram",
@@ -76,6 +108,13 @@ Dreamers.autoContenido("startter-gamers", {
       "titulo": "",
       "vistas": null,
       "fecha": 1794888251
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7708984870780865813",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794887909
     },
     {
       "red": "instagram",
@@ -106,11 +145,25 @@ Dreamers.autoContenido("startter-gamers", {
       "fecha": 1794856138
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7708530619289980168",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794782145
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/p/DfvpcLjFE4S/",
       "titulo": "",
       "vistas": null,
       "fecha": 1794707660
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7708167115764665607",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794697510
     },
     {
       "red": "instagram",
@@ -127,53 +180,130 @@ Dreamers.autoContenido("startter-gamers", {
       "fecha": 1794599006
     },
     {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DfnFd7rFJE2/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794420364
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DfluMQdgVip/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794374606
+    },
+    {
       "red": "tiktok",
-      "url": "https://www.tiktok.com/@starttergamers/video/7062763825053139974",
-      "titulo": "@starttergamers 2995 seguidores, 2642 siguiendo, 50.8k me gusta: no te pierdas los geniale",
-      "vistas": null,
-      "fecha": 1644427847
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "url": "https://www.tiktok.com/@starttergamers/video/7706728501348601109",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1794362557
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DflV5m6BZRn/",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1794361871
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfkNf9tNiVV/",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1794323912
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7706513176879303957",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1794312423
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/4145512128912369/",
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/Dfi1PdmjrHD/",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1794277639
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1833145664544824/",
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfihOXlNa1R/",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1794267145
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7706317943411330324",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794266966
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DffwlX0B1VQ/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794174534
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7705906958607322389",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794171277
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7704350645096123668",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793808919
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7703921097191853332",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793708907
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7703618292413369620",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793638405
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7702993477713349908",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793492929
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7702682677912112385",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793420565
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7701174856372604181",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793069498
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@starttergamers/video/7624562048181013781",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1775231689
     }
   ]
 });

@@ -1,5 +1,5 @@
 Dreamers.autoContenido("cherry", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.instagram.com/p/DbxIv2-B1g6/",
     "https://www.instagram.com/p/DZgftELBqkM/",
@@ -8,14 +8,14 @@ Dreamers.autoContenido("cherry", {
     "https://www.instagram.com/reel/Df-su2PBI-U/"
   ],
   "reserva": [
+    "https://www.tiktok.com/@thecherrypiex/video/7710379445630061876",
     "https://www.instagram.com/reel/Df3QGO8Mg9M/",
     "https://www.instagram.com/reel/Df2qaYMB-Ke/",
+    "https://www.tiktok.com/@thecherrypiex/video/7709218874788416789",
     "https://www.instagram.com/reel/Dfx1LyQBvgF/",
-    "https://www.instagram.com/reel/Dftpaubhe2Q/",
-    "https://www.instagram.com/reel/DfaWT_fBO7Q/",
-    "https://www.instagram.com/p/DfWMy0zlrSd/",
-    "https://www.instagram.com/reel/DfOhICCBo6s/",
-    "https://www.instagram.com/reel/DfNsIrLhN3G/"
+    "https://www.tiktok.com/@thecherrypiex/video/7708523776048188692",
+    "https://www.tiktok.com/@thecherrypiex/video/7708444248114351380",
+    "https://www.instagram.com/reel/Dftpaubhe2Q/"
   ],
   "fijados": [
     "https://www.instagram.com/p/DbxIv2-B1g6/",
@@ -26,36 +26,12 @@ Dreamers.autoContenido("cherry", {
   "vistas": {
     "https://www.youtube.com/watch?v=RFpfR2hXaKM": 21,
     "https://www.youtube.com/watch?v=IkbPCaW0SFk": 1237,
-    "https://www.youtube.com/watch?v=chFHEcwmsps": 1258,
-    "https://www.youtube.com/watch?v=C6UMeCCqHKU": 1991,
-    "https://www.youtube.com/watch?v=ZapWwA5gWaU": 3487,
-    "https://www.youtube.com/watch?v=PoG7EZf8zDI": 1514,
-    "https://www.youtube.com/watch?v=5PFhF-b8c2Y": 1199,
-    "https://www.youtube.com/watch?v=t_BuwQax7qQ": 258,
-    "https://www.youtube.com/watch?v=VG2k2G10HCU": 984,
-    "https://www.youtube.com/watch?v=xtcgrQdXjt4": 2515,
-    "https://www.youtube.com/watch?v=8vlna5-Deb4": 1439,
-    "https://www.youtube.com/watch?v=4i0aaBbQ37g": 1552,
-    "https://www.youtube.com/watch?v=p7E-8LhL1YI": 3844,
-    "https://www.youtube.com/watch?v=-zkNe8uIl7s": 1581,
-    "https://www.youtube.com/watch?v=L_6hbmwfAdo": 609
+    "https://www.youtube.com/watch?v=chFHEcwmsps": 1258
   },
   "titulos": {
     "https://www.youtube.com/watch?v=RFpfR2hXaKM": "Aún así quede segundona en las siguientes partidas✨ #clips #apexlegends",
     "https://www.youtube.com/watch?v=IkbPCaW0SFk": "Easter Eggs de miedo en videojuegos parte 1 #gamer #gaming #eastereggs #gtav #gamerlatino",
-    "https://www.youtube.com/watch?v=chFHEcwmsps": "Nintendo y Wii estaban on 🔥 #nintendo #gaming #gamingshorts #videogames",
-    "https://www.youtube.com/watch?v=C6UMeCCqHKU": "Gane un torneo de Beyblade sin saber cómo jugar😓 #beyblade #gaming #torneo #beybladebattle",
-    "https://www.youtube.com/watch?v=ZapWwA5gWaU": "#nostalgix #gamer #xbox360games",
-    "https://www.youtube.com/watch?v=PoG7EZf8zDI": "#gamer #fatalframe2 #jumpscare #gamingshorts",
-    "https://www.youtube.com/watch?v=5PFhF-b8c2Y": "Juegos de terror de Play 2 que merecen remake #remake #videogames #shortsgames #silenthill",
-    "https://www.youtube.com/watch?v=t_BuwQax7qQ": "Fatal frame 2 en 1 minuto #gamer #gaming #fatalframe2 #horrorgames",
-    "https://www.youtube.com/watch?v=VG2k2G10HCU": "Silent Hill 3 en 1 minuto #silenthill #horrorgame",
-    "https://www.youtube.com/watch?v=xtcgrQdXjt4": "#gamer #nintendo #ocarinaoftime",
-    "https://www.youtube.com/watch?v=8vlna5-Deb4": "Se recupera si #gamer #xbox #gaming",
-    "https://www.youtube.com/watch?v=4i0aaBbQ37g": "New XBOX series X25 #xboxseriesx  #gaming",
-    "https://www.youtube.com/watch?v=p7E-8LhL1YI": "Nintendo lo hizo de nuevo! ☝🏻🤓 #nintendo #ocarinaoftime #zeldaocarinaoftime #nintendodirec",
-    "https://www.youtube.com/watch?v=-zkNe8uIl7s": "XBOX Showcase 2026 #xbox #showcase #persona6 #gearsofwar #spyrothedragon #gaming",
-    "https://www.youtube.com/watch?v=L_6hbmwfAdo": "junio 6, 2026"
+    "https://www.youtube.com/watch?v=chFHEcwmsps": "Nintendo y Wii estaban on 🔥 #nintendo #gaming #gamingshorts #videogames"
   },
   "candidatas": [
     {
@@ -94,6 +70,13 @@ Dreamers.autoContenido("cherry", {
       "fecha": 1795212702
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7710379445630061876",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795212609
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/Df3QGO8Mg9M/",
       "titulo": "",
@@ -108,11 +91,32 @@ Dreamers.autoContenido("cherry", {
       "fecha": 1794943050
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7709218874788416789",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794942392
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/Dfx1LyQBvgF/",
       "titulo": "",
       "vistas": null,
       "fecha": 1794780926
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7708523776048188692",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794780552
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7708444248114351380",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794762035
     },
     {
       "red": "instagram",
@@ -122,11 +126,39 @@ Dreamers.autoContenido("cherry", {
       "fecha": 1794640539
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7707922117546872072",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794640467
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7707830032286141714",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794619027
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7707704821033291015",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794589874
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DfaWT_fBO7Q/",
       "titulo": "",
       "vistas": null,
       "fecha": 1793992988
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7705137968360525074",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793992232
     },
     {
       "red": "instagram",
@@ -143,11 +175,53 @@ Dreamers.autoContenido("cherry", {
       "fecha": 1793596004
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7703435804810464519",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793595916
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DfNsIrLhN3G/",
       "titulo": "",
       "vistas": null,
       "fecha": 1793568222
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7703045194060434706",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793504970
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7703030747120110855",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793501606
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfKnTZGhOLE/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793465025
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7702873165646597383",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793464917
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/De-TcKSD67S/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793051958
     },
     {
       "red": "youtube",
@@ -157,6 +231,55 @@ Dreamers.autoContenido("cherry", {
       "fecha": 1792879713
     },
     {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/De5Dfpah3Yd/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792875826
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/Deu9owLFtYy/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792537210
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7698209391102708999",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792379047
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DeqO2Bnh69V/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792378460
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7697489886047259911",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792211524
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7696044138818587905",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1791874910
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DeXsZQgBzxO/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1791756419
+    },
+    {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=IkbPCaW0SFk",
       "titulo": "Easter Eggs de miedo en videojuegos parte 1 #gamer #gaming #eastereggs #gtav #gamerlatino",
@@ -164,179 +287,32 @@ Dreamers.autoContenido("cherry", {
       "fecha": 1791754670
     },
     {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DeTgsmbuYrZ/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1791616068
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thecherrypiex/video/7694931917531057426",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1791615951
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DeLKfcmhf58/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1791335990
+    },
+    {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=chFHEcwmsps",
       "titulo": "Nintendo y Wii estaban on 🔥 #nintendo #gaming #gamingshorts #videogames",
       "vistas": 1258,
       "fecha": 1790529291
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=C6UMeCCqHKU",
-      "titulo": "Gane un torneo de Beyblade sin saber cómo jugar😓 #beyblade #gaming #torneo #beybladebattle",
-      "vistas": 1991,
-      "fecha": 1788793267
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=ZapWwA5gWaU",
-      "titulo": "#nostalgix #gamer #xbox360games",
-      "vistas": 3487,
-      "fecha": 1786634876
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=PoG7EZf8zDI",
-      "titulo": "#gamer #fatalframe2 #jumpscare #gamingshorts",
-      "vistas": 1514,
-      "fecha": 1786555627
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=5PFhF-b8c2Y",
-      "titulo": "Juegos de terror de Play 2 que merecen remake #remake #videogames #shortsgames #silenthill",
-      "vistas": 1199,
-      "fecha": 1786425458
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/reel/DbxIv2-B1g6/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1786167694
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=t_BuwQax7qQ",
-      "titulo": "Fatal frame 2 en 1 minuto #gamer #gaming #fatalframe2 #horrorgames",
-      "vistas": 258,
-      "fecha": 1785084065
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=VG2k2G10HCU",
-      "titulo": "Silent Hill 3 en 1 minuto #silenthill #horrorgame",
-      "vistas": 984,
-      "fecha": 1784821568
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=xtcgrQdXjt4",
-      "titulo": "#gamer #nintendo #ocarinaoftime",
-      "vistas": 2515,
-      "fecha": 1781721228
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=8vlna5-Deb4",
-      "titulo": "Se recupera si #gamer #xbox #gaming",
-      "vistas": 1439,
-      "fecha": 1781316129
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/reel/DZgftELBqkM/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1781314337
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=4i0aaBbQ37g",
-      "titulo": "New XBOX series X25 #xboxseriesx  #gaming",
-      "vistas": 1552,
-      "fecha": 1781155803
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=p7E-8LhL1YI",
-      "titulo": "Nintendo lo hizo de nuevo! ☝🏻🤓 #nintendo #ocarinaoftime #zeldaocarinaoftime #nintendodirec",
-      "vistas": 3844,
-      "fecha": 1781032707
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=-zkNe8uIl7s",
-      "titulo": "XBOX Showcase 2026 #xbox #showcase #persona6 #gearsofwar #spyrothedragon #gaming",
-      "vistas": 1581,
-      "fecha": 1780873307
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=L_6hbmwfAdo",
-      "titulo": "junio 6, 2026",
-      "vistas": 609,
-      "fecha": 1780810213
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/DVHKCVLkSDr/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1771874181
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=JTj8aX5kHJQ",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=gOFxThNomzM",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=8LtD9ld3-qQ",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=jpG9AowfWEE",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=NWp_NFly1Nc",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=YGtuQQOScbg",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=nlPZpZUR9ec",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=-YFzN0VdJfA",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=sTLKtcAT0h4",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
     }
   ]
 });

@@ -7,7 +7,6 @@ Dreamers.talento({
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
-  "lugar": 3,
   "categorias": [
     "Cosplayer"
   ],

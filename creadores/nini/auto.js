@@ -1,21 +1,21 @@
 Dreamers.autoContenido("nini", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.tiktok.com/@cherryjaneblossom/video/7687757449822063893",
     "https://www.tiktok.com/@cherryjaneblossom/video/7700020959960386837",
     "https://www.tiktok.com/@cherryjaneblossom/video/7668964273078537492",
     "https://www.tiktok.com/@cherryjaneblossom/video/7628153615370194197",
-    "https://www.instagram.com/p/Dem9q2_I_lq/"
+    "https://www.tiktok.com/@cherryjaneblossom/video/7711916511950163220"
   ],
   "reserva": [
-    "https://www.instagram.com/p/DcmWwtznb9N/",
-    "https://www.instagram.com/p/DXhliZCEUfY/",
-    "https://www.instagram.com/p/DUTwTvokT32/",
-    "https://www.instagram.com/p/DTdhGz1kYkj/",
-    "https://www.instagram.com/p/DKiT5UCgOoD/",
-    "https://www.instagram.com/p/DJATGQayppj/",
-    "https://www.instagram.com/p/DG9Y1XpvndT/",
-    "https://www.instagram.com/p/DGZKeJPPouj/"
+    "https://www.tiktok.com/@cherryjaneblossom/video/7710520016021556501",
+    "https://www.tiktok.com/@cherryjaneblossom/video/7710513677266341141",
+    "https://www.tiktok.com/@cherryjaneblossom/video/7710511211573546241",
+    "https://www.tiktok.com/@cherryjaneblossom/video/7710508895575231765",
+    "https://www.tiktok.com/@cherryjaneblossom/video/7710508697423809813",
+    "https://www.tiktok.com/@cherryjaneblossom/video/7710489460009340166",
+    "https://www.tiktok.com/@cherryjaneblossom/video/7710474240520228117",
+    "https://www.tiktok.com/@cherryjaneblossom/video/7710460492182998293"
   ],
   "fijados": [
     "https://www.tiktok.com/@cherryjaneblossom/video/7687757449822063893",
@@ -54,6 +54,118 @@ Dreamers.autoContenido("nini", {
       "titulo": "",
       "vistas": null,
       "fecha": 1776067916
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7711916511950163220",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795570485
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7710520016021556501",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795245338
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7710513677266341141",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795243862
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7710511211573546241",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795243288
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7710508895575231765",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795242749
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7710508697423809813",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795242702
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7710489460009340166",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795238223
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7710474240520228117",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795234680
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7710460492182998293",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795231479
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7709961885348531457",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795115388
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7709957035646848277",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795114259
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7709760615484640533",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795068526
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7709743932426489109",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795064642
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7709743257357487361",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795064485
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7709742920399703297",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795064406
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@cherryjaneblossom/video/7707823325879274772",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794617466
     },
     {
       "red": "instagram",

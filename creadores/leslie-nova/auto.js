@@ -1,38 +1,23 @@
 Dreamers.autoContenido("leslie-nova", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
+    "https://www.tiktok.com/@xles_espinox/video/7712089720800529670",
     "https://www.tiktok.com/@xles_espinox/video/7708849929233419541",
     "https://www.tiktok.com/@xles_espinox/video/7708777074357669141",
     "https://www.tiktok.com/@xles_espinox/video/7708774817293438228",
-    "https://www.tiktok.com/@xles_espinox/video/7708772463940766996",
-    "https://www.tiktok.com/@xles_espinox/video/7706387173934910726"
+    "https://www.tiktok.com/@xles_espinox/video/7708772463940766996"
   ],
   "reserva": [
+    "https://www.tiktok.com/@xles_espinox/video/7706387173934910726",
     "https://www.tiktok.com/@xles_espinox/video/7706386044643511572",
     "https://www.tiktok.com/@xles_espinox/video/7706385246190669077",
     "https://www.tiktok.com/@xles_espinox/video/7706384922977504533",
     "https://www.instagram.com/p/DfMfVlSoZwv/",
     "https://www.tiktok.com/@xles_espinox/video/7699986650004278549",
     "https://www.tiktok.com/@xles_espinox/video/7699985282254327060",
-    "https://www.tiktok.com/@xles_espinox/video/7699331147414736149",
-    "https://www.tiktok.com/@xles_espinox/video/7698398432364432661"
+    "https://www.tiktok.com/@xles_espinox/video/7699331147414736149"
   ],
   "vistas": {
-    "https://www.tiktok.com/@xles_espinox/video/7708849929233419541": 222,
-    "https://www.tiktok.com/@xles_espinox/video/7708777074357669141": 266,
-    "https://www.tiktok.com/@xles_espinox/video/7708774817293438228": 643,
-    "https://www.tiktok.com/@xles_espinox/video/7708772463940766996": 222,
-    "https://www.tiktok.com/@xles_espinox/video/7706387173934910726": 568,
-    "https://www.tiktok.com/@xles_espinox/video/7706386044643511572": 496,
-    "https://www.tiktok.com/@xles_espinox/video/7706385246190669077": 562,
-    "https://www.tiktok.com/@xles_espinox/video/7706384922977504533": 665,
-    "https://www.tiktok.com/@xles_espinox/video/7699986650004278549": 612,
-    "https://www.tiktok.com/@xles_espinox/video/7699985282254327060": 556,
-    "https://www.tiktok.com/@xles_espinox/video/7699331147414736149": 2048,
-    "https://www.tiktok.com/@xles_espinox/video/7698398432364432661": 622,
-    "https://www.tiktok.com/@xles_espinox/video/7698394692513221909": 698,
-    "https://www.tiktok.com/@xles_espinox/video/7698394354481696021": 705,
-    "https://www.tiktok.com/@xles_espinox/video/7698393269784431893": 668,
     "https://www.tiktok.com/@xles_espinox/video/7698392248588832052": 891
   },
   "titulos": {
@@ -41,58 +26,65 @@ Dreamers.autoContenido("leslie-nova", {
   "candidatas": [
     {
       "red": "tiktok",
+      "url": "https://www.tiktok.com/@xles_espinox/video/7712089720800529670",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795610813
+    },
+    {
+      "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7708849929233419541",
       "titulo": "",
-      "vistas": 222,
+      "vistas": null,
       "fecha": 1794856490
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7708777074357669141",
       "titulo": "",
-      "vistas": 266,
+      "vistas": null,
       "fecha": 1794839528
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7708774817293438228",
       "titulo": "",
-      "vistas": 643,
+      "vistas": null,
       "fecha": 1794839002
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7708772463940766996",
       "titulo": "",
-      "vistas": 222,
+      "vistas": null,
       "fecha": 1794838454
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7706387173934910726",
       "titulo": "",
-      "vistas": 568,
+      "vistas": null,
       "fecha": 1794283085
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7706386044643511572",
       "titulo": "",
-      "vistas": 496,
+      "vistas": null,
       "fecha": 1794282823
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7706385246190669077",
       "titulo": "",
-      "vistas": 562,
+      "vistas": null,
       "fecha": 1794282637
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7706384922977504533",
       "titulo": "",
-      "vistas": 665,
+      "vistas": null,
       "fecha": 1794282561
     },
     {
@@ -106,49 +98,49 @@ Dreamers.autoContenido("leslie-nova", {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7699986650004278549",
       "titulo": "",
-      "vistas": 612,
+      "vistas": null,
       "fecha": 1792792847
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7699985282254327060",
       "titulo": "",
-      "vistas": 556,
+      "vistas": null,
       "fecha": 1792792529
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7699331147414736149",
       "titulo": "",
-      "vistas": 2048,
+      "vistas": null,
       "fecha": 1792640226
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7698398432364432661",
       "titulo": "",
-      "vistas": 622,
+      "vistas": null,
       "fecha": 1792423062
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7698394692513221909",
       "titulo": "",
-      "vistas": 698,
+      "vistas": null,
       "fecha": 1792422191
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7698394354481696021",
       "titulo": "",
-      "vistas": 705,
+      "vistas": null,
       "fecha": 1792422112
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@xles_espinox/video/7698393269784431893",
       "titulo": "",
-      "vistas": 668,
+      "vistas": null,
       "fecha": 1792421860
     },
     {

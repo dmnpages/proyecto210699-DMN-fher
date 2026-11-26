@@ -1,26 +1,26 @@
 Dreamers.autoContenido("tanooki", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.instagram.com/reel/Df-atMtP327/",
-    "https://www.instagram.com/reel/Df5Qw-hRac3/",
-    "https://www.instagram.com/reel/DfeJvZ8vIq_/",
-    "https://www.youtube.com/watch?v=z9vqpZsKdNY",
-    "https://www.instagram.com/reel/DfGHkA-Pfk0/"
+    "https://www.tiktok.com/@tanooki_ni/video/7710325015048228127",
+    "https://www.tiktok.com/@tanooki_ni/video/7710264144636710174",
+    "https://www.tiktok.com/@tanooki_ni/video/7709609838568918303",
+    "https://www.instagram.com/reel/Df5Qw-hRac3/"
   ],
   "reserva": [
-    "https://www.instagram.com/reel/DfBpAY2APE6/",
-    "https://www.instagram.com/p/De0O-xqv7BL/",
-    "https://www.youtube.com/watch?v=Oh0fRk6mfQk",
-    "https://www.youtube.com/watch?v=n5VQxdiDjX8",
-    "https://www.youtube.com/watch?v=RPNDBNK4Nl4",
-    "https://www.youtube.com/watch?v=JazISX-sYQ0",
-    "https://www.youtube.com/watch?v=7FoJHOFtl0s",
-    "https://www.youtube.com/watch?v=h2pn9WSojgc"
+    "https://www.tiktok.com/@tanooki_ni/video/7707740036195683615",
+    "https://www.tiktok.com/@tanooki_ni/video/7706229653840678174",
+    "https://www.instagram.com/reel/DfeJvZ8vIq_/",
+    "https://www.youtube.com/watch?v=z9vqpZsKdNY",
+    "https://www.tiktok.com/@tanooki_ni/video/7705530633711308063",
+    "https://www.tiktok.com/@tanooki_ni/video/7704080696045866270",
+    "https://www.tiktok.com/@tanooki_ni/video/7703683091264539934",
+    "https://www.tiktok.com/@tanooki_ni/video/7703250923711253791"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=z9vqpZsKdNY": 1301,
-    "https://www.youtube.com/watch?v=Oh0fRk6mfQk": 1140,
-    "https://www.youtube.com/watch?v=n5VQxdiDjX8": 520,
+    "https://www.youtube.com/watch?v=z9vqpZsKdNY": 1302,
+    "https://www.youtube.com/watch?v=Oh0fRk6mfQk": 1144,
+    "https://www.youtube.com/watch?v=n5VQxdiDjX8": 521,
     "https://www.youtube.com/watch?v=RPNDBNK4Nl4": 863,
     "https://www.youtube.com/watch?v=JazISX-sYQ0": 1587,
     "https://www.youtube.com/watch?v=7FoJHOFtl0s": 926,
@@ -60,11 +60,46 @@ Dreamers.autoContenido("tanooki", {
       "fecha": 1795203251
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7710325015048228127",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795199936
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7710264144636710174",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795185763
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7709609838568918303",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795033421
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/Df5Qw-hRac3/",
       "titulo": "",
       "vistas": null,
       "fecha": 1795030267
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7707740036195683615",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794598073
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7706229653840678174",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794246410
     },
     {
       "red": "instagram",
@@ -77,8 +112,36 @@ Dreamers.autoContenido("tanooki", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=z9vqpZsKdNY",
       "titulo": "Estoy cansado jefeee, que hagooo😭😭😭 Ustedes ya lo tienen? 😔🌸#fortnite   #onepiece   #fortn",
-      "vistas": 1301,
+      "vistas": 1302,
       "fecha": 1794120403
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7705530633711308063",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794083657
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7704080696045866270",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793746067
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7703683091264539934",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793653492
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7703250923711253791",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793552870
     },
     {
       "red": "instagram",
@@ -95,6 +158,20 @@ Dreamers.autoContenido("tanooki", {
       "fecha": 1793163928
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7701439387401260319",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793131089
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7700989476297903391",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793026336
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/p/De0O-xqv7BL/",
       "titulo": "",
@@ -102,17 +179,38 @@ Dreamers.autoContenido("tanooki", {
       "fecha": 1792714076
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7699246187731324190",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792620445
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7696630889874214174",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792011524
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7696211538272636191",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1791913886
+    },
+    {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=Oh0fRk6mfQk",
       "titulo": "Creen que Just Animations es mejor que Actions & Stuff? Cuentenme en los comentarios👀 #min",
-      "vistas": 1140,
+      "vistas": 1144,
       "fecha": 1791349887
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=n5VQxdiDjX8",
       "titulo": "Un pequeño edit de Union Latina❤️ #minecraft #minecraftedit #minecraftshorts #minecraftsmp",
-      "vistas": 520,
+      "vistas": 521,
       "fecha": 1785012902
     },
     {
@@ -200,8 +298,22 @@ Dreamers.autoContenido("tanooki", {
       "fecha": 1780848836
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7630176600822222110",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1776538929
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@tanooki_ni/video/7625915521443056927",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1775546819
+    },
+    {
       "red": "facebook",
-      "url": "https://www.facebook.com/reel/967662525824421/",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -215,28 +327,7 @@ Dreamers.autoContenido("tanooki", {
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
+      "url": "https://www.facebook.com/reel/967662525824421/",
       "titulo": "",
       "vistas": null,
       "fecha": null

@@ -1,21 +1,21 @@
 Dreamers.autoContenido("karu", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
-    "https://www.youtube.com/watch?v=82HbrVDE56Y",
-    "https://www.youtube.com/watch?v=Eofo_oQA27I",
-    "https://www.tiktok.com/@rvkaru/video/7641083360407766029",
-    "https://www.youtube.com/watch?v=cw2HIyJkWzY",
-    "https://www.youtube.com/watch?v=RTaNtGjzTik"
+    "https://www.tiktok.com/@rvkaru/video/7706700370709449997",
+    "https://www.tiktok.com/@rvkaru/video/7706280040689863950",
+    "https://www.tiktok.com/@rvkaru/video/7700035992878615822",
+    "https://www.tiktok.com/@rvkaru/video/7684485905125575949",
+    "https://www.tiktok.com/@rvkaru/video/7682970709353647373"
   ],
   "reserva": [
-    "https://www.youtube.com/watch?v=hx0LAbrfdHA",
-    "https://www.youtube.com/watch?v=BCE13ObOFyM",
-    "https://www.youtube.com/watch?v=Ntv_KVJCN3E",
-    "https://www.youtube.com/watch?v=0auwJvemmZQ",
-    "https://www.youtube.com/watch?v=DA_xUxRt9Ls",
-    "https://www.youtube.com/watch?v=tZhu66CLu8E",
-    "https://www.youtube.com/watch?v=CZ5nMA7XJrI",
-    "https://www.youtube.com/watch?v=ri5qpaWmbZM"
+    "https://www.tiktok.com/@rvkaru/video/7675460229613587726",
+    "https://www.tiktok.com/@rvkaru/video/7672864601507122445",
+    "https://www.tiktok.com/@rvkaru/video/7671090094056508685",
+    "https://www.tiktok.com/@rvkaru/video/7670407949331746061",
+    "https://www.tiktok.com/@rvkaru/video/7669661947905821965",
+    "https://www.tiktok.com/@rvkaru/video/7668434697256471821",
+    "https://www.tiktok.com/@rvkaru/video/7663186243458469134",
+    "https://www.tiktok.com/@rvkaru/video/7651419387102006541"
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=82HbrVDE56Y": 19,
@@ -24,7 +24,7 @@ Dreamers.autoContenido("karu", {
     "https://www.youtube.com/watch?v=RTaNtGjzTik": 520,
     "https://www.youtube.com/watch?v=hx0LAbrfdHA": 300,
     "https://www.youtube.com/watch?v=BCE13ObOFyM": 181,
-    "https://www.youtube.com/watch?v=Ntv_KVJCN3E": 298,
+    "https://www.youtube.com/watch?v=Ntv_KVJCN3E": 300,
     "https://www.youtube.com/watch?v=0auwJvemmZQ": 794,
     "https://www.youtube.com/watch?v=DA_xUxRt9Ls": 1284,
     "https://www.youtube.com/watch?v=tZhu66CLu8E": 1106,
@@ -56,6 +56,111 @@ Dreamers.autoContenido("karu", {
   },
   "candidatas": [
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7706700370709449997",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794356007
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7706280040689863950",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794258142
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7700035992878615822",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792804336
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7684485905125575949",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1789183799
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7682970709353647373",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1788831015
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7675460229613587726",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1787082345
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7672864601507122445",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1786478003
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7671090094056508685",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1786064844
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7670407949331746061",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1785906019
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7669661947905821965",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1785732327
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7668434697256471821",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1785446586
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7663186243458469134",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1784224585
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7651419387102006541",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1781484900
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7649786735462731022",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1781104769
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7649427648199789837",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1781021162
+    },
+    {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=82HbrVDE56Y",
       "titulo": "Transmisión en vivo de Karu Z",
@@ -68,6 +173,41 @@ Dreamers.autoContenido("karu", {
       "titulo": "Zelda Ocarina of time ONLINE",
       "vistas": 25,
       "fecha": 1780462178
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7646491294205889806",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1780337489
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7643918244574661902",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1779738404
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7643224721638591758",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1779576931
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7642787097291541773",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1779475039
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@rvkaru/video/7641859433311571213",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1779259050
     },
     {
       "red": "tiktok",
@@ -108,7 +248,7 @@ Dreamers.autoContenido("karu", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=Ntv_KVJCN3E",
       "titulo": "Tutorial de como descargar el port de Twilight Princess!",
-      "vistas": 298,
+      "vistas": 300,
       "fecha": 1778421721
     },
     {
@@ -176,13 +316,6 @@ Dreamers.autoContenido("karu", {
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/reel/2244343023024224/",
-      "titulo": "",
-      "vistas": 10,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
       "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
       "vistas": null,
@@ -190,35 +323,14 @@ Dreamers.autoContenido("karu", {
     },
     {
       "red": "facebook",
+      "url": "https://www.facebook.com/reel/2244343023024224/",
+      "titulo": "",
+      "vistas": 10,
+      "fecha": null
+    },
+    {
+      "red": "facebook",
       "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/2492400297873605/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1641391723787600/",
       "titulo": "",
       "vistas": null,
       "fecha": null

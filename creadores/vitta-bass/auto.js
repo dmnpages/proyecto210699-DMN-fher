@@ -1,38 +1,38 @@
 Dreamers.autoContenido("vitta-bass", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
-    "https://www.youtube.com/watch?v=A_PhfZHM9W0",
-    "https://www.youtube.com/watch?v=_anYn9RoWoE",
-    "https://www.youtube.com/watch?v=nYxXK0jzV98",
-    "https://www.youtube.com/watch?v=-XmSWCewjE8",
-    "https://www.youtube.com/watch?v=jwufJBJVf9k"
+    "https://www.tiktok.com/@vittamusic/video/7712272368671952180",
+    "https://www.tiktok.com/@vittamusic/video/7711936510739696914",
+    "https://www.tiktok.com/@vittamusic/video/7711502711564373256",
+    "https://www.tiktok.com/@vittamusic/video/7711191917635194120",
+    "https://www.tiktok.com/@vittamusic/video/7711087421764553992"
   ],
   "reserva": [
-    "https://www.youtube.com/watch?v=5NJLk0k2CN4",
-    "https://www.youtube.com/watch?v=SxqhXf53org",
-    "https://www.youtube.com/watch?v=0cl7LEDuMU8",
-    "https://www.youtube.com/watch?v=KMWjADUrh6c",
-    "https://www.youtube.com/watch?v=_3OHjdG0bsU",
-    "https://www.youtube.com/watch?v=W8XVQTDnp5A",
-    "https://www.youtube.com/watch?v=J_T1F_yUPUU",
-    "https://www.youtube.com/watch?v=KxenH6pkdGc"
+    "https://www.tiktok.com/@vittamusic/video/7710088374979284242",
+    "https://www.tiktok.com/@vittamusic/video/7709731350214970631",
+    "https://www.tiktok.com/@vittamusic/video/7709331019803020562",
+    "https://www.tiktok.com/@vittamusic/video/7708596170347531528",
+    "https://www.tiktok.com/@vittamusic/video/7708219771476659463",
+    "https://www.tiktok.com/@vittamusic/video/7707861927493422343",
+    "https://www.tiktok.com/@vittamusic/video/7707486301158755591",
+    "https://www.tiktok.com/@vittamusic/video/7707110087755681042"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=A_PhfZHM9W0": 543,
-    "https://www.youtube.com/watch?v=_anYn9RoWoE": 489,
+    "https://www.youtube.com/watch?v=A_PhfZHM9W0": 545,
+    "https://www.youtube.com/watch?v=_anYn9RoWoE": 491,
     "https://www.youtube.com/watch?v=nYxXK0jzV98": 508,
     "https://www.youtube.com/watch?v=-XmSWCewjE8": 1007,
     "https://www.youtube.com/watch?v=jwufJBJVf9k": 696,
     "https://www.youtube.com/watch?v=5NJLk0k2CN4": 811,
-    "https://www.youtube.com/watch?v=SxqhXf53org": 576,
+    "https://www.youtube.com/watch?v=SxqhXf53org": 577,
     "https://www.youtube.com/watch?v=0cl7LEDuMU8": 331,
     "https://www.youtube.com/watch?v=KMWjADUrh6c": 833,
-    "https://www.youtube.com/watch?v=_3OHjdG0bsU": 1543,
+    "https://www.youtube.com/watch?v=_3OHjdG0bsU": 1544,
     "https://www.youtube.com/watch?v=W8XVQTDnp5A": 940,
     "https://www.youtube.com/watch?v=J_T1F_yUPUU": 232,
     "https://www.youtube.com/watch?v=KxenH6pkdGc": 1603,
     "https://www.youtube.com/watch?v=nihlfhMA2QI": 1354,
-    "https://www.youtube.com/watch?v=I26XSpb2HI8": 217
+    "https://www.youtube.com/watch?v=I26XSpb2HI8": 218
   },
   "titulos": {
     "https://www.youtube.com/watch?v=A_PhfZHM9W0": "SNAY & VITTA : Good Life",
@@ -50,21 +50,154 @@ Dreamers.autoContenido("vitta-bass", {
     "https://www.youtube.com/watch?v=KxenH6pkdGc": "VITTA - Ando 900 ( oficial video )",
     "https://www.youtube.com/watch?v=nihlfhMA2QI": "VITTA - Modo Cotto",
     "https://www.youtube.com/watch?v=I26XSpb2HI8": "VITTA - LOLLIPOP",
-    "https://www.tiktok.com/@vittamusic/video/254036624928628736": "@vittamusic 141.1k seguidores, 1667 siguiendo, 14.0m me gusta: no te pierdas los geniales "
+    "https://www.tiktok.com/@vittamusic/video/254036624928628736": "@vittamusic 141.1k seguidores, 1668 siguiendo, 14.0m me gusta: no te pierdas los geniales "
   },
   "candidatas": [
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7712272368671952180",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795653339
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7711936510739696914",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795575141
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7711502711564373256",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795474139
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7711191917635194120",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795401777
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7711087421764553992",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795377447
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7710088374979284242",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795144838
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7709731350214970631",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795061712
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7709331019803020562",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794968503
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7708596170347531528",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794797408
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7708219771476659463",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794709770
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7707861927493422343",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794626453
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7707486301158755591",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794538996
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7707110087755681042",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794451402
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7706386338689436936",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794282891
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7706002280696401159",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794193471
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7705219229317860609",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794011152
+    },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=A_PhfZHM9W0",
       "titulo": "SNAY & VITTA : Good Life",
-      "vistas": 543,
+      "vistas": 545,
       "fecha": 1783094740
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7586859702072446219",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1766453427
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7556423730688167179",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1759367000
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@vittamusic/video/7551255534574324997",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1758163686
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=_anYn9RoWoE",
       "titulo": "VITTA BASS - Old  School",
-      "vistas": 489,
+      "vistas": 491,
       "fecha": 1757907354
     },
     {
@@ -99,7 +232,7 @@ Dreamers.autoContenido("vitta-bass", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=SxqhXf53org",
       "titulo": "Flow Kalari feat  Nachas & Lirrod #musica #musica #newmusic #trap #rap #hiphop #anime",
-      "vistas": 576,
+      "vistas": 577,
       "fecha": 1739932484
     },
     {
@@ -120,7 +253,7 @@ Dreamers.autoContenido("vitta-bass", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=_3OHjdG0bsU",
       "titulo": "Vitta & Shinekid - y si mañana no estoy? ( Oficial video )",
-      "vistas": 1543,
+      "vistas": 1544,
       "fecha": 1735583405
     },
     {
@@ -155,19 +288,26 @@ Dreamers.autoContenido("vitta-bass", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=I26XSpb2HI8",
       "titulo": "VITTA - LOLLIPOP",
-      "vistas": 217,
+      "vistas": 218,
       "fecha": 1706853607
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@vittamusic/video/254036624928628736",
-      "titulo": "@vittamusic 141.1k seguidores, 1667 siguiendo, 14.0m me gusta: no te pierdas los geniales ",
+      "titulo": "@vittamusic 141.1k seguidores, 1668 siguiendo, 14.0m me gusta: no te pierdas los geniales ",
       "vistas": null,
       "fecha": null
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=kcXzelN6EnY",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=EDTix3Ef4Mk",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -189,13 +329,6 @@ Dreamers.autoContenido("vitta-bass", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=_GOEDJ4LKoo",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=EDTix3Ef4Mk",
       "titulo": "",
       "vistas": null,
       "fecha": null

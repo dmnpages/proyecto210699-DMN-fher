@@ -1,5 +1,5 @@
 Dreamers.autoContenido("bryam-contreras", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://kick.com/soybryam06c",
     "https://www.instagram.com/p/DUNIfJ5AGxP/",
@@ -18,7 +18,7 @@ Dreamers.autoContenido("bryam-contreras", {
     "https://kick.com/soybryam06c"
   ],
   "titulos": {
-    "https://www.tiktok.com/@soybryam06c/video/7203263976368571435": "@soybryam06c 3237 seguidores, 17 siguiendo, 50.6k me gusta: no te pierdas los geniales víd"
+    "https://www.tiktok.com/@soybryam06c/video/7203263976368571435": "@soybryam06c 3232 seguidores, 17 siguiendo, 50.7k me gusta: no te pierdas los geniales víd"
   },
   "candidatas": [
     {
@@ -45,7 +45,7 @@ Dreamers.autoContenido("bryam-contreras", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@soybryam06c/video/7203263976368571435",
-      "titulo": "@soybryam06c 3237 seguidores, 17 siguiendo, 50.6k me gusta: no te pierdas los geniales víd",
+      "titulo": "@soybryam06c 3232 seguidores, 17 siguiendo, 50.7k me gusta: no te pierdas los geniales víd",
       "vistas": null,
       "fecha": 1677140588
     },

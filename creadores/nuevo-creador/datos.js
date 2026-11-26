@@ -8,7 +8,6 @@ Dreamers.talento({
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
-  "lugar": 13,
   "categorias": [
     "Streamer",
     "Cosplayer"
@@ -25,8 +24,15 @@ Dreamers.talento({
       "seguidores": "50.2K"
     }
   ],
-  "formatos": [],
-  "ideal": [],
+  "formatos": [
+    "Videos cortos",
+    "Cosplay"
+  ],
+  "ideal": [
+    "Gaming",
+    "Anime y cultura pop",
+    "Eventos"
+  ],
   "dato": {
     "valor": "2.2M",
     "texto": "Likes totales en TikTok"

@@ -1,26 +1,51 @@
 Dreamers.autoContenido("thepeggo", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
-    "https://www.tiktok.com/@thepeggonic/video/7710906820012969224",
+    "https://www.tiktok.com/@thepeggonic/video/7712261897155890438",
+    "https://www.tiktok.com/@thepeggonic/video/7712028359584156935",
+    "https://www.tiktok.com/@thepeggonic/video/7711858466112998664",
+    "https://www.tiktok.com/@thepeggonic/video/7711493247109008647",
+    "https://www.tiktok.com/@thepeggonic/video/7710906820012969224"
+  ],
+  "reserva": [
     "https://www.tiktok.com/@thepeggonic/video/7710540354306575623",
     "https://www.tiktok.com/@thepeggonic/video/7710538373978524936",
     "https://www.tiktok.com/@thepeggonic/video/7710441881431248136",
-    "https://www.tiktok.com/@thepeggonic/video/7710411562242149640"
-  ],
-  "reserva": [
+    "https://www.tiktok.com/@thepeggonic/video/7710411562242149640",
     "https://www.tiktok.com/@thepeggonic/video/7710407515409861896",
     "https://www.tiktok.com/@thepeggonic/video/7709665486455246088",
     "https://www.instagram.com/reel/Df3BUaDPqJf/",
-    "https://www.tiktok.com/@thepeggonic/video/7708856678741003528",
-    "https://www.tiktok.com/@thepeggonic/video/7708809992002112776",
-    "https://www.tiktok.com/@thepeggonic/video/7708809426408459538",
-    "https://www.tiktok.com/@thepeggonic/video/7708198704263597319",
-    "https://www.tiktok.com/@thepeggonic/video/7707952116479872263"
+    "https://www.tiktok.com/@thepeggonic/video/7708856678741003528"
   ],
-  "titulos": {
-    "https://www.tiktok.com/@thepeggonic/video/6986042457642107909": "@thepeggonic 42.3k seguidores, 779 siguiendo, 3.5m me gusta: no te pierdas los geniales ví"
-  },
   "candidatas": [
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thepeggonic/video/7712261897155890438",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795650901
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thepeggonic/video/7712028359584156935",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795596526
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thepeggonic/video/7711858466112998664",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795556970
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@thepeggonic/video/7711493247109008647",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795471936
+    },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@thepeggonic/video/7710906820012969224",
@@ -272,34 +297,6 @@ Dreamers.autoContenido("thepeggo", {
       "titulo": "",
       "vistas": null,
       "fecha": 1770066223
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/reel/DUMcELaDQ7O/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1769903922
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/DT3qhYkgZUc/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1769206858
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@thepeggonic/video/7462053104838511877",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1737394627
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@thepeggonic/video/6986042457642107909",
-      "titulo": "@thepeggonic 42.3k seguidores, 779 siguiendo, 3.5m me gusta: no te pierdas los geniales ví",
-      "vistas": null,
-      "fecha": 1626564762
     }
   ]
 });

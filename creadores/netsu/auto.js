@@ -1,5 +1,5 @@
 Dreamers.autoContenido("netsu", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.instagram.com/p/DgHHD1KlYDW/",
     "https://www.instagram.com/reel/DgHEZioNa2L/",
@@ -20,7 +20,7 @@ Dreamers.autoContenido("netsu", {
   "vistas": {
     "https://www.youtube.com/watch?v=hGxf1zdAPm4": 567,
     "https://www.youtube.com/watch?v=e2GmwKjxfZY": 559,
-    "https://www.youtube.com/watch?v=VzgletnzoKM": 6908,
+    "https://www.youtube.com/watch?v=VzgletnzoKM": 6909,
     "https://www.youtube.com/watch?v=uVPjF2L2CTw": 39,
     "https://www.youtube.com/watch?v=nLOG6_0MSPo": 673,
     "https://www.youtube.com/watch?v=zbteM1uksXY": 402,
@@ -51,7 +51,7 @@ Dreamers.autoContenido("netsu", {
     "https://www.youtube.com/watch?v=TXInjShAPic": "¿Te sabías este dato curioso sobre el Mario Day? #shorts   #mar10day #mar10  #nintendo #ma",
     "https://www.youtube.com/watch?v=mXQg8TL1nsA": "NOTICIAS | ¿DRAGON BALL Z BUDOKAI TENKAICHI 4? Trailer | Netsu",
     "https://www.youtube.com/watch?v=0HR_W5ppJTM": "Mira a todos tus streamers favoritos al mismo tiempo. #squidcraft2  #auronplay #komanche #",
-    "https://www.tiktok.com/@netsugames/video/6821725383412548614": "@netsugames 20.7k seguidores, 805 siguiendo, 580.5k me gusta: no te pierdas los geniales v"
+    "https://www.tiktok.com/@netsugames/video/6821725383412548614": "@netsugames 20.7k seguidores, 805 siguiendo, 581.4k me gusta: no te pierdas los geniales v"
   },
   "candidatas": [
     {
@@ -147,6 +147,48 @@ Dreamers.autoContenido("netsu", {
     },
     {
       "red": "instagram",
+      "url": "https://www.instagram.com/reel/Dfy1suVOFRM/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794814750
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfyxaM1BqkF/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794812501
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfxUQvivgEn/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794763665
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfwFe3Pt1f6/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794722362
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfrF5O4hfwk/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794554806
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfqpZXSyaWb/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794539864
+    },
+    {
+      "red": "instagram",
       "url": "https://www.instagram.com/p/DHVGIStupVe/",
       "titulo": "",
       "vistas": null,
@@ -170,7 +212,7 @@ Dreamers.autoContenido("netsu", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=VzgletnzoKM",
       "titulo": "Hasta pronto Son Gracias por todo. #akiratoriyama #goku #dragonball #dragonballz",
-      "vistas": 6908,
+      "vistas": 6909,
       "fecha": 1709952543
     },
     {
@@ -260,7 +302,7 @@ Dreamers.autoContenido("netsu", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@netsugames/video/6821725383412548614",
-      "titulo": "@netsugames 20.7k seguidores, 805 siguiendo, 580.5k me gusta: no te pierdas los geniales v",
+      "titulo": "@netsugames 20.7k seguidores, 805 siguiendo, 581.4k me gusta: no te pierdas los geniales v",
       "vistas": null,
       "fecha": 1588306711
     },
@@ -288,41 +330,6 @@ Dreamers.autoContenido("netsu", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=ciM8limtRMY",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=03RVazCwsoI",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=RyEJLVUbmWI",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
       "titulo": "",
       "vistas": null,
       "fecha": null

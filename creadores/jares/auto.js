@@ -1,5 +1,5 @@
 Dreamers.autoContenido("jares", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.instagram.com/p/DRqMcJOiTeZ/",
     "https://www.instagram.com/p/DXx4i6-DCu1/",
@@ -8,14 +8,14 @@ Dreamers.autoContenido("jares", {
     "https://www.tiktok.com/@jares_mayerling/video/7567581761853525303"
   ],
   "reserva": [
+    "https://www.tiktok.com/@jares_mayerling/video/7711815615513660686",
     "https://www.instagram.com/p/DgETkFLoNXs/",
     "https://www.instagram.com/p/DgETAJGIOde/",
     "https://www.instagram.com/p/DgESTt3oJCs/",
+    "https://www.tiktok.com/@jares_mayerling/video/7704890101775518989",
+    "https://www.tiktok.com/@jares_mayerling/video/7704889689806785806",
     "https://www.instagram.com/p/DfVJFfDoCDa/",
-    "https://www.instagram.com/p/DfVH_DyoNPG/",
-    "https://www.instagram.com/p/DfVGY4soCDG/",
-    "https://www.instagram.com/p/DbkLpurDYfp/",
-    "https://www.instagram.com/p/DbkJwMXDQVw/"
+    "https://www.instagram.com/p/DfVH_DyoNPG/"
   ],
   "fijados": [
     "https://www.instagram.com/p/DRqMcJOiTeZ/",
@@ -24,9 +24,6 @@ Dreamers.autoContenido("jares", {
     "https://www.tiktok.com/@jares_mayerling/photo/7630352720481897741",
     "https://www.tiktok.com/@jares_mayerling/video/7567581761853525303"
   ],
-  "titulos": {
-    "https://www.tiktok.com/@jares_mayerling/video/6913235068035007493": "@jares_mayerling 3227 seguidores, 1958 siguiendo, 34.6k me gusta: no te pierdas los genial"
-  },
   "candidatas": [
     {
       "red": "instagram",
@@ -64,6 +61,13 @@ Dreamers.autoContenido("jares", {
       "fecha": 1761964932
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7711815615513660686",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795546993
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/p/DgETkFLoNXs/",
       "titulo": "",
@@ -83,6 +87,20 @@ Dreamers.autoContenido("jares", {
       "titulo": "",
       "vistas": null,
       "fecha": 1795400175
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7704890101775518989",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793934521
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7704889689806785806",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793934425
     },
     {
       "red": "instagram",
@@ -106,6 +124,104 @@ Dreamers.autoContenido("jares", {
       "fecha": 1793816867
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7698192858280496398",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792375198
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7698192011890887949",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792375001
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7693657806120946957",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1791319299
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7688540094289939726",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790127738
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7688538597359717645",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790127390
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7688537618006445326",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790127162
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7687015226880904461",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1789772703
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7684891785633598733",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1789278300
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7684883152896003341",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1789276290
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7678966933311556878",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1787898813
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7675410234147343629",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1787070705
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7674396251676232974",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1786834618
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7673055277381340429",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1786522399
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7670787125507296526",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1785994303
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/p/DbkLpurDYfp/",
       "titulo": "",
@@ -118,6 +234,13 @@ Dreamers.autoContenido("jares", {
       "titulo": "",
       "vistas": null,
       "fecha": 1785732013
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@jares_mayerling/video/7669657793875447053",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1785731360
     },
     {
       "red": "instagram",
@@ -181,27 +304,6 @@ Dreamers.autoContenido("jares", {
       "titulo": "",
       "vistas": null,
       "fecha": 1777603236
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/reel/DR8whh6jC3V/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1765082810
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/DRtgBWVjkWw/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1764570841
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@jares_mayerling/video/6913235068035007493",
-      "titulo": "@jares_mayerling 3227 seguidores, 1958 siguiendo, 34.6k me gusta: no te pierdas los genial",
-      "vistas": null,
-      "fecha": 1609612970
     }
   ]
 });

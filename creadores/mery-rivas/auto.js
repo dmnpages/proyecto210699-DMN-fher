@@ -1,21 +1,21 @@
 Dreamers.autoContenido("mery-rivas", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.instagram.com/p/DfsleLoM7wI/",
     "https://www.instagram.com/p/DfYnDDBvFnv/",
     "https://www.tiktok.com/@meryrivas18/video/7691159848779599122",
     "https://www.tiktok.com/@meryrivas18/video/7685183394539506951",
-    "https://www.instagram.com/reel/DgGykZTBzTA/"
+    "https://www.instagram.com/reel/DgJkX3hBDu4/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DgGykZTBzTA/",
     "https://www.instagram.com/reel/DgEBQyRuK3b/",
     "https://www.instagram.com/reel/DgB2btOvOET/",
     "https://www.instagram.com/reel/Df8xzHTsuSn/",
     "https://www.instagram.com/p/Df6DvShG8Ct/",
     "https://www.instagram.com/reel/Df5mb6mtCTg/",
     "https://www.instagram.com/reel/Df3iJ3fP4eZ/",
-    "https://www.instagram.com/p/Df1QQqLka9n/",
-    "https://www.instagram.com/reel/Df0nNFGhBFd/"
+    "https://www.instagram.com/p/Df1QQqLka9n/"
   ],
   "fijados": [
     "https://www.instagram.com/p/DfsleLoM7wI/",
@@ -51,6 +51,13 @@ Dreamers.autoContenido("mery-rivas", {
       "titulo": "",
       "vistas": null,
       "fecha": 1789346196
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgJkX3hBDu4/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795577418
     },
     {
       "red": "instagram",
@@ -138,10 +145,45 @@ Dreamers.autoContenido("mery-rivas", {
     },
     {
       "red": "instagram",
+      "url": "https://www.instagram.com/reel/DftPgTqB51H/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794626953
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfsleLoM7wI/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794604916
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfqBsXZJ9TF/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794519049
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfoIFZSxXsr/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794455291
+    },
+    {
+      "red": "instagram",
       "url": "https://www.instagram.com/reel/DflfaeBhOc3/",
       "titulo": "",
       "vistas": null,
       "fecha": 1794366858
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfgOfdJBSby/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794190214
     },
     {
       "red": "instagram",
@@ -235,32 +277,32 @@ Dreamers.autoContenido("mery-rivas", {
       "fecha": 1756087175
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DNwqpT12rby/",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1756087140
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DLvoUBKAlBS/",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1751757396
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DLYU0HsgyOW/",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1750975421
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DLWaIVlN22J/",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1750911099
     }
   ]
 });

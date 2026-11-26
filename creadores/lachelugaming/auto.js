@@ -1,5 +1,5 @@
 Dreamers.autoContenido("lachelugaming", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.youtube.com/watch?v=oHE_XkyXtEQ",
     "https://www.instagram.com/reel/Dfs7IXGhDr-/",
@@ -20,31 +20,27 @@ Dreamers.autoContenido("lachelugaming", {
   "vistas": {
     "https://www.youtube.com/watch?v=oHE_XkyXtEQ": 1285,
     "https://www.youtube.com/watch?v=rJc9XXxCUYA": 3455,
-    "https://www.youtube.com/watch?v=NIAZFeqcvQs": 1863,
+    "https://www.youtube.com/watch?v=NIAZFeqcvQs": 1865,
     "https://x.com/LaCheluGaming/status/2117388978856792294": 243,
     "https://www.youtube.com/watch?v=5Y3X3xkaW58": 2320,
-    "https://x.com/LaCheluGaming/status/2100949017068699836": 142,
+    "https://x.com/LaCheluGaming/status/2100949017068699836": 1,
     "https://www.youtube.com/watch?v=er4k2aHaV-k": 1463,
     "https://www.youtube.com/watch?v=rKk_1J_VE1g": 1265,
-    "https://www.youtube.com/watch?v=xcLUZnydScI": 1412,
+    "https://www.youtube.com/watch?v=xcLUZnydScI": 1413,
     "https://www.youtube.com/watch?v=TVwVrBxb5-U": 1204,
-    "https://x.com/LaCheluGaming/status/2094150461662142881": 247,
-    "https://x.com/LaCheluGaming/status/2093444698430194118": 144,
+    "https://x.com/LaCheluGaming/status/2094150461662142881": 2,
+    "https://x.com/LaCheluGaming/status/2093444698430194118": 1,
     "https://www.youtube.com/watch?v=lxmMD3Irka0": 1136,
+    "https://x.com/LaCheluGaming/status/2092365391997673614": 130,
+    "https://x.com/LaCheluGaming/status/2091911682251424233": 32,
+    "https://x.com/LaCheluGaming/status/2091655345433129260": 2,
     "https://www.youtube.com/watch?v=eR_TBpr466Y": 2706,
     "https://www.youtube.com/watch?v=lp6owX-lO9k": 218,
     "https://www.youtube.com/watch?v=wDMrKHG2hP0": 1253,
     "https://www.youtube.com/watch?v=joghQpJQ4Ro": 1281,
     "https://www.youtube.com/watch?v=GTyHbZuexdY": 1431,
     "https://www.youtube.com/watch?v=2Wla9ZlOtWg": 1036,
-    "https://x.com/LaCheluGaming/status/2088361821350621399": 33,
-    "https://x.com/LaCheluGaming/status/2084663696849047787": 40,
-    "https://x.com/LaCheluGaming/status/2083330839715172501": 62,
-    "https://x.com/LaCheluGaming/status/2081895361753264310": 46,
-    "https://x.com/LaCheluGaming/status/2081137052536508766": 47,
-    "https://x.com/LaCheluGaming/status/2081136032267763720": 33,
-    "https://x.com/LaCheluGaming/status/2081124376552886330": 714,
-    "https://x.com/LaCheluGaming/status/2078560439131136110": 22
+    "https://x.com/LaCheluGaming/status/2088361821350621399": 34
   },
   "titulos": {
     "https://www.youtube.com/watch?v=oHE_XkyXtEQ": "Feliz Pumpe",
@@ -96,7 +92,7 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=NIAZFeqcvQs",
       "titulo": "No soporté la voz de Navi 😂",
-      "vistas": 1863,
+      "vistas": 1865,
       "fecha": 1794009928
     },
     {
@@ -131,7 +127,7 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2100949017068699836",
       "titulo": "",
-      "vistas": 142,
+      "vistas": 1,
       "fecha": 1789740254
     },
     {
@@ -166,7 +162,7 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=xcLUZnydScI",
       "titulo": "Hablé muy pronto",
-      "vistas": 1412,
+      "vistas": 1413,
       "fecha": 1788739325
     },
     {
@@ -194,14 +190,14 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2094150461662142881",
       "titulo": "",
-      "vistas": 247,
+      "vistas": 2,
       "fecha": 1788119352
     },
     {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2093444698430194118",
       "titulo": "",
-      "vistas": 144,
+      "vistas": 1,
       "fecha": 1787951085
     },
     {
@@ -222,8 +218,22 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2092365391997673614",
       "titulo": "",
-      "vistas": null,
+      "vistas": 130,
       "fecha": 1787693758
+    },
+    {
+      "red": "x",
+      "url": "https://x.com/LaCheluGaming/status/2091911682251424233",
+      "titulo": "",
+      "vistas": 32,
+      "fecha": 1787585585
+    },
+    {
+      "red": "x",
+      "url": "https://x.com/LaCheluGaming/status/2091655345433129260",
+      "titulo": "",
+      "vistas": 2,
+      "fecha": 1787524470
     },
     {
       "red": "youtube",
@@ -275,6 +285,20 @@ Dreamers.autoContenido("lachelugaming", {
       "fecha": 1787069056
     },
     {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DcL_4EhEQro/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1787069012
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DcJbJZak4Ky/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1786982646
+    },
+    {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=GTyHbZuexdY",
       "titulo": "Luigi's Mansion Trivia",
@@ -289,60 +313,32 @@ Dreamers.autoContenido("lachelugaming", {
       "fecha": 1786896214
     },
     {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DcG2ONKDsR5/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1786896178
+    },
+    {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2088361821350621399",
       "titulo": "",
-      "vistas": 33,
+      "vistas": 34,
       "fecha": 1786739232
     },
     {
-      "red": "x",
-      "url": "https://x.com/LaCheluGaming/status/2084663696849047787",
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/Db61FL9CtYR/",
       "titulo": "",
-      "vistas": 40,
-      "fecha": 1785857531
+      "vistas": null,
+      "fecha": 1786492927
     },
     {
-      "red": "x",
-      "url": "https://x.com/LaCheluGaming/status/2083330839715172501",
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/Db00rmWDA7r/",
       "titulo": "",
-      "vistas": 62,
-      "fecha": 1785539753
-    },
-    {
-      "red": "x",
-      "url": "https://x.com/LaCheluGaming/status/2081895361753264310",
-      "titulo": "",
-      "vistas": 46,
-      "fecha": 1785197508
-    },
-    {
-      "red": "x",
-      "url": "https://x.com/LaCheluGaming/status/2081137052536508766",
-      "titulo": "",
-      "vistas": 47,
-      "fecha": 1785016713
-    },
-    {
-      "red": "x",
-      "url": "https://x.com/LaCheluGaming/status/2081136032267763720",
-      "titulo": "",
-      "vistas": 33,
-      "fecha": 1785016470
-    },
-    {
-      "red": "x",
-      "url": "https://x.com/LaCheluGaming/status/2081124376552886330",
-      "titulo": "",
-      "vistas": 714,
-      "fecha": 1785013691
-    },
-    {
-      "red": "x",
-      "url": "https://x.com/LaCheluGaming/status/2078560439131136110",
-      "titulo": "",
-      "vistas": 22,
-      "fecha": 1784402401
+      "vistas": null,
+      "fecha": 1786291391
     }
   ]
 });

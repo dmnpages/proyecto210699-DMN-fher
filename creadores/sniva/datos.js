@@ -36,7 +36,7 @@ Dreamers.talento({
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/leafs_gamers/",
-      "seguidores": "610"
+      "seguidores": "611"
     }
   ],
   "formatos": [

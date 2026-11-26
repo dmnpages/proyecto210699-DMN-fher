@@ -1,5 +1,5 @@
 Dreamers.autoContenido("chinoshi", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.instagram.com/p/DgFvYPzhqds/",
     "https://www.instagram.com/p/Df-5V7aD1bH/",

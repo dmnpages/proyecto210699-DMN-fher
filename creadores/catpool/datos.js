@@ -7,7 +7,6 @@ Dreamers.talento({
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "H",
-  "lugar": 16,
   "categorias": [
     "Streamer"
   ],

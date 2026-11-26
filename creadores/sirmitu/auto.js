@@ -1,5 +1,5 @@
 Dreamers.autoContenido("sirmitu", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.instagram.com/p/DdcoZDEh6DP/",
     "https://www.instagram.com/p/DcxFpOGhxAP/",
@@ -139,6 +139,62 @@ Dreamers.autoContenido("sirmitu", {
       "titulo": "",
       "vistas": null,
       "fecha": 1757376325
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/C6zGPPbuJD3/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1715366526
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/Clrk0Lhuwc6/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1670016966
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/Ccd2YjiO5q7/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1650229062
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/CbawbQ1ugTP/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1647977791
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/CavZSz1rp2G/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1646522823
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/CX7LOA2LTtC/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1640475646
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/CWZ8UsPLOmA/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1637213056
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/CVtt1NOLpUa/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1635729063
     },
     {
       "red": "tiktok",

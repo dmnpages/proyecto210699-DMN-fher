@@ -1,5 +1,5 @@
 Dreamers.autoContenido("jaden-garcia", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.instagram.com/reel/DgGMf5WKw5_/",
     "https://www.instagram.com/reel/DgBhVykxVLX/",
@@ -20,16 +20,16 @@ Dreamers.autoContenido("jaden-garcia", {
   "vistas": {
     "https://www.youtube.com/watch?v=IryHia3wK9w": 1236,
     "https://www.youtube.com/watch?v=VMlqsQxQNQU": 1212,
-    "https://www.youtube.com/watch?v=GfEocWeRYU0": 1297,
+    "https://www.youtube.com/watch?v=GfEocWeRYU0": 1298,
     "https://www.youtube.com/watch?v=H4uQDfjepuM": 446,
     "https://www.youtube.com/watch?v=hO8fiDP-kxk": 426,
     "https://www.youtube.com/watch?v=PjKdf1wHyE0": 728,
     "https://www.youtube.com/watch?v=INjKLWVNL1Y": 3776,
-    "https://www.youtube.com/watch?v=ThwzyLjqxfQ": 652,
+    "https://www.youtube.com/watch?v=ThwzyLjqxfQ": 654,
     "https://www.youtube.com/watch?v=olF99A5kKVU": 1510,
     "https://www.youtube.com/watch?v=HCYTieoTsuE": 199,
     "https://www.youtube.com/watch?v=MjhvHoC9BaY": 496,
-    "https://www.youtube.com/watch?v=iDsHd2X5huk": 2502,
+    "https://www.youtube.com/watch?v=iDsHd2X5huk": 2504,
     "https://www.youtube.com/watch?v=zVjvK6Nx6IM": 135,
     "https://www.youtube.com/watch?v=W-MuUy81_-A": 3714,
     "https://www.youtube.com/watch?v=Prbyn174CBs": 1293
@@ -50,7 +50,7 @@ Dreamers.autoContenido("jaden-garcia", {
     "https://www.youtube.com/watch?v=zVjvK6Nx6IM": "Future Trap Melody #Flstudio #Beat #Flume #IMANU",
     "https://www.youtube.com/watch?v=W-MuUy81_-A": "JadenGarcia, RDJMB - On Your Face",
     "https://www.youtube.com/watch?v=Prbyn174CBs": "Rodezel, JCBG, Saibu - BLOW (JadenGarcia Remix)",
-    "https://www.tiktok.com/@jadengarciaaaa/video/6643981825063813126": "@jadengarciaaaa 42.9k seguidores, 6996 siguiendo, 594.2k me gusta: no te pierdas los genia"
+    "https://www.tiktok.com/@jadengarciaaaa/video/6643981825063813126": "@jadengarciaaaa 42.9k seguidores, 7001 siguiendo, 594.4k me gusta: no te pierdas los genia"
   },
   "candidatas": [
     {
@@ -204,7 +204,7 @@ Dreamers.autoContenido("jaden-garcia", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=GfEocWeRYU0",
       "titulo": "que hice mal – JadenGarcia (Official Video) | XXV",
-      "vistas": 1297,
+      "vistas": 1298,
       "fecha": 1770769946
     },
     {
@@ -253,7 +253,7 @@ Dreamers.autoContenido("jaden-garcia", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=ThwzyLjqxfQ",
       "titulo": "BAD BUNNY ft. RaiNao - PERFuMITO NUEVO (JadenGarcia EDIT)",
-      "vistas": 652,
+      "vistas": 654,
       "fecha": 1736109026
     },
     {
@@ -281,7 +281,7 @@ Dreamers.autoContenido("jaden-garcia", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=iDsHd2X5huk",
       "titulo": "JadenGarcia, RDJMB, Delta Mvsic - Lost (Lyric Sub Español)",
-      "vistas": 2502,
+      "vistas": 2504,
       "fecha": 1695967203
     },
     {
@@ -308,7 +308,7 @@ Dreamers.autoContenido("jaden-garcia", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@jadengarciaaaa/video/6643981825063813126",
-      "titulo": "@jadengarciaaaa 42.9k seguidores, 6996 siguiendo, 594.2k me gusta: no te pierdas los genia",
+      "titulo": "@jadengarciaaaa 42.9k seguidores, 7001 siguiendo, 594.4k me gusta: no te pierdas los genia",
       "vistas": null,
       "fecha": 1546922564
     },

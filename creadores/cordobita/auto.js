@@ -1,5 +1,5 @@
 Dreamers.autoContenido("cordobita", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.instagram.com/reel/Df-RHJTvtTa/",
     "https://www.instagram.com/p/Df0ihcymq4k/",
@@ -12,10 +12,10 @@ Dreamers.autoContenido("cordobita", {
     "https://www.instagram.com/reel/Devc8O0O1px/",
     "https://www.instagram.com/reel/DevOUIYR7kV/",
     "https://www.instagram.com/reel/DemMX6rxFQY/",
-    "https://www.instagram.com/reel/DXwLJpPRaXV/",
-    "https://www.instagram.com/reel/DWXwtKtxoSE/",
-    "https://www.instagram.com/reel/DVKi6JPkXYC/",
-    "https://www.twitch.tv/cordobita_21"
+    "https://www.instagram.com/reel/DefeN-JxUrK/",
+    "https://www.instagram.com/reel/Dec4ZijN3EN/",
+    "https://www.instagram.com/reel/Dd11xopxCp0/",
+    "https://www.instagram.com/reel/DdxX30Pv4UI/"
   ],
   "candidatas": [
     {
@@ -80,6 +80,62 @@ Dreamers.autoContenido("cordobita", {
       "titulo": "",
       "vistas": null,
       "fecha": 1792242947
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DefeN-JxUrK/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792017422
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/Dec4ZijN3EN/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1791930485
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/Dd11xopxCp0/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790620486
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DdxX30Pv4UI/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790470590
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DdhZ5JkCdAw/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1789934779
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DdSAI7rxJrH/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1789417960
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DdR1vBhFIq1/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1789412505
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DdFk0yYtDgk/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1789000986
     },
     {
       "red": "instagram",

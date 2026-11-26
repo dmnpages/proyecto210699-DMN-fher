@@ -1,58 +1,65 @@
 Dreamers.autoContenido("lady-donita", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
-    "https://www.instagram.com/reel/DgIcAnJJ_Ls/",
-    "https://www.youtube.com/watch?v=wsMO7JIKlJo",
-    "https://www.instagram.com/reel/DgHGR9jg5QH/",
-    "https://www.instagram.com/reel/DgE_JLUuzUP/",
-    "https://www.youtube.com/watch?v=tVn0I1_VgcE"
+    "https://www.youtube.com/watch?v=szZpSxa1V44",
+    "https://www.tiktok.com/@ladydonita/video/7711971037675621640",
+    "https://www.instagram.com/reel/DgJvMLURWwo/",
+    "https://www.youtube.com/watch?v=vZdqYL2_hJA",
+    "https://www.instagram.com/reel/DgIcAnJJ_Ls/"
   ],
   "reserva": [
+    "https://www.youtube.com/watch?v=wsMO7JIKlJo",
+    "https://www.tiktok.com/@ladydonita/video/7711591722530131218",
+    "https://www.instagram.com/reel/DgHGR9jg5QH/",
+    "https://www.instagram.com/reel/DgE_JLUuzUP/",
+    "https://www.youtube.com/watch?v=tVn0I1_VgcE",
+    "https://www.tiktok.com/@ladydonita/video/7711031418515688712",
     "https://www.instagram.com/reel/DgDJnhNs5X2/",
-    "https://www.youtube.com/watch?v=yVXsxspWzTE",
-    "https://www.instagram.com/reel/DgBNz0OPqr3/",
-    "https://www.instagram.com/p/DgBJT8Dmbx1/",
-    "https://www.instagram.com/reel/DgAp5ZihbvT/",
-    "https://www.instagram.com/reel/Df_iOmGt2S_/",
-    "https://www.instagram.com/reel/Df_A8n_xcUP/",
-    "https://www.instagram.com/reel/Df-zu1LtbDI/"
+    "https://www.youtube.com/watch?v=yVXsxspWzTE"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=wsMO7JIKlJo": 187,
-    "https://www.youtube.com/watch?v=tVn0I1_VgcE": 1249,
-    "https://www.youtube.com/watch?v=yVXsxspWzTE": 1517,
-    "https://www.youtube.com/watch?v=qBZnPq3qEdA": 151,
-    "https://www.youtube.com/watch?v=dP5nIVbxfHo": 56,
-    "https://www.youtube.com/watch?v=lLb5UvMg59c": 83,
-    "https://www.youtube.com/watch?v=KVnqohkU498": 1254,
-    "https://www.youtube.com/watch?v=q6qZb-2ZPlc": 1222,
-    "https://www.youtube.com/watch?v=FKICG5b1DM0": 1242,
-    "https://www.youtube.com/watch?v=hLUr8jZXwQQ": 149,
-    "https://www.youtube.com/watch?v=kokmdEzdRqo": 461,
-    "https://www.youtube.com/watch?v=Ew1cgZAZ7FY": 231,
-    "https://www.youtube.com/watch?v=CWf13LtKxh8": 347,
-    "https://www.youtube.com/watch?v=6IGBdOzbr_E": 6726,
-    "https://www.youtube.com/watch?v=4AzAwUY46XQ": 1252
+    "https://www.youtube.com/watch?v=szZpSxa1V44": 1525,
+    "https://www.youtube.com/watch?v=vZdqYL2_hJA": 57,
+    "https://www.youtube.com/watch?v=wsMO7JIKlJo": 281,
+    "https://www.youtube.com/watch?v=tVn0I1_VgcE": 1274,
+    "https://www.youtube.com/watch?v=yVXsxspWzTE": 1585
   },
   "titulos": {
+    "https://www.youtube.com/watch?v=szZpSxa1V44": "Consigue la Hoguera de Dark Souls en WoW Juguete: Fogata del caminante #WorldOfWarcraft #W",
+    "https://www.youtube.com/watch?v=vZdqYL2_hJA": "Yo de Healer sueno así ✨️ pt 2#WorldOfWarcraft #Warcraft #Blizzard #WarcraftLatam #Miticas",
     "https://www.youtube.com/watch?v=wsMO7JIKlJo": "😭 QUE LINDAAAAA. La vi, la quise y la obtuve 🥺#WorldOfWarcraft #Warcraft #Blizzard #Warcra",
     "https://www.youtube.com/watch?v=tVn0I1_VgcE": "Addon para tu mouse en WoW Retail y WoW Forever#worldifwarcraft  #addon #Warcraft #CurseFo",
-    "https://www.youtube.com/watch?v=yVXsxspWzTE": "Después no sé cuantos días y casí caer en la locura conseguimos el Token Pirata de Fortnit",
-    "https://www.youtube.com/watch?v=qBZnPq3qEdA": "Tuve ese sueño de nuevo... #WorldOfWarcraft #Murloc #Blizzard",
-    "https://www.youtube.com/watch?v=dP5nIVbxfHo": "¿Quieres ir hacer mític...#Letsgomeme #WorldOfWarcraft #WowLatam #WowMeme",
-    "https://www.youtube.com/watch?v=lLb5UvMg59c": "🎃 10 LUGARES para tomar FOTOS de HALLOWEEN en World of Warcraft | Guía de ubicaciones",
-    "https://www.youtube.com/watch?v=KVnqohkU498": "Tiempos oscuros se acercan 💀#WorldOfWarcraft #LeagueofLegends #Worlds2026 #LolSports #WoWF",
-    "https://www.youtube.com/watch?v=q6qZb-2ZPlc": "Desde que anunciaron WOW Forever cambiaron los planes 😌 #WoWForever  #WoWLatam",
-    "https://www.youtube.com/watch?v=FKICG5b1DM0": "10 Spots para fotos en World Of Warcraft #worldOfWarcraft #Halloween #Blizzard #WarcraftLa",
-    "https://www.youtube.com/watch?v=hLUr8jZXwQQ": "POV: Heal en M+",
-    "https://www.youtube.com/watch?v=kokmdEzdRqo": "Resumen de las últimas noticias sobre Worlds 2026 de League of Legends #LoLEsports",
-    "https://www.youtube.com/watch?v=Ew1cgZAZ7FY": "Juego Wow para relajarme 🙂#WorldOfWarcraft #Warcraft #Midnight #Wow #Blizzard",
-    "https://www.youtube.com/watch?v=CWf13LtKxh8": "me tomó unas 10 lloradas este video 🥲#WorldOfWarcraft #warcraft #Blizzard #Pets",
-    "https://www.youtube.com/watch?v=6IGBdOzbr_E": "u.u #WorldOfWarcraft #Wow #Blizzard",
-    "https://www.youtube.com/watch?v=4AzAwUY46XQ": "Pues si sentí bien #LoLClassic #RiotLatam",
-    "https://www.tiktok.com/@ladydonita/video/7031170446994686981": "@ladydonita 10.1k seguidores, 908 siguiendo, 408.3k me gusta: no te pierdas los geniales v"
+    "https://www.youtube.com/watch?v=yVXsxspWzTE": "Después no sé cuantos días y casí caer en la locura conseguimos el Token Pirata de Fortnit"
   },
   "candidatas": [
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=szZpSxa1V44",
+      "titulo": "Consigue la Hoguera de Dark Souls en WoW Juguete: Fogata del caminante #WorldOfWarcraft #W",
+      "vistas": 1525,
+      "fecha": 1795593816
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7711971037675621640",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795583180
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgJvMLURWwo/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795583090
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=vZdqYL2_hJA",
+      "titulo": "Yo de Healer sueno así ✨️ pt 2#WorldOfWarcraft #Warcraft #Blizzard #WarcraftLatam #Miticas",
+      "vistas": 57,
+      "fecha": 1795551149
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgIcAnJJ_Ls/",
@@ -64,8 +71,15 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=wsMO7JIKlJo",
       "titulo": "😭 QUE LINDAAAAA. La vi, la quise y la obtuve 🥺#WorldOfWarcraft #Warcraft #Blizzard #Warcra",
-      "vistas": 187,
+      "vistas": 281,
       "fecha": 1795495078
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7711591722530131218",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795494864
     },
     {
       "red": "instagram",
@@ -85,8 +99,15 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=tVn0I1_VgcE",
       "titulo": "Addon para tu mouse en WoW Retail y WoW Forever#worldifwarcraft  #addon #Warcraft #CurseFo",
-      "vistas": 1249,
+      "vistas": 1274,
       "fecha": 1795365315
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7711031418515688712",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795364408
     },
     {
       "red": "instagram",
@@ -99,7 +120,7 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=yVXsxspWzTE",
       "titulo": "Después no sé cuantos días y casí caer en la locura conseguimos el Token Pirata de Fortnit",
-      "vistas": 1517,
+      "vistas": 1585,
       "fecha": 1795313115
     },
     {
@@ -124,6 +145,13 @@ Dreamers.autoContenido("lady-donita", {
       "fecha": 1795278324
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7710500669593029896",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795240833
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/Df_iOmGt2S_/",
       "titulo": "",
@@ -136,6 +164,13 @@ Dreamers.autoContenido("lady-donita", {
       "titulo": "",
       "vistas": null,
       "fecha": 1795223301
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7710396477943876916",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795216574
     },
     {
       "red": "instagram",
@@ -152,11 +187,25 @@ Dreamers.autoContenido("lady-donita", {
       "fecha": 1795134166
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7709307053969247495",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794962923
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/p/Df2yP5JlI6C/",
       "titulo": "",
       "vistas": null,
       "fecha": 1794947159
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7708949515608313095",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794879677
     },
     {
       "red": "instagram",
@@ -166,6 +215,20 @@ Dreamers.autoContenido("lady-donita", {
       "fecha": 1794865454
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7708630600730545416",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794805424
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7708618609177726226",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794802632
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DfyW72cB02N/",
       "titulo": "",
@@ -173,11 +236,32 @@ Dreamers.autoContenido("lady-donita", {
       "fecha": 1794798621
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7708530715855555892",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794782168
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DfwFe3Pt1f6/",
       "titulo": "",
       "vistas": null,
       "fecha": 1794722362
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7707765518081576210",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794604006
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7707582270332259592",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794561341
     },
     {
       "red": "instagram",
@@ -194,6 +278,13 @@ Dreamers.autoContenido("lady-donita", {
       "fecha": 1794530819
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7705961985120193800",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794184088
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/p/DffNiZBEbEL/",
       "titulo": "",
@@ -208,130 +299,18 @@ Dreamers.autoContenido("lady-donita", {
       "fecha": 1793806364
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@ladydonita/video/7704150994883464466",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793762434
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/p/DfQuc76kcBn/",
       "titulo": "",
       "vistas": null,
       "fecha": 1793670100
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/DfODWvamzyI/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1793580396
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=qBZnPq3qEdA",
-      "titulo": "Tuve ese sueño de nuevo... #WorldOfWarcraft #Murloc #Blizzard",
-      "vistas": 151,
-      "fecha": 1793118952
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=dP5nIVbxfHo",
-      "titulo": "¿Quieres ir hacer mític...#Letsgomeme #WorldOfWarcraft #WowLatam #WowMeme",
-      "vistas": 56,
-      "fecha": 1793049393
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=lLb5UvMg59c",
-      "titulo": "🎃 10 LUGARES para tomar FOTOS de HALLOWEEN en World of Warcraft | Guía de ubicaciones",
-      "vistas": 83,
-      "fecha": 1793048609
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=KVnqohkU498",
-      "titulo": "Tiempos oscuros se acercan 💀#WorldOfWarcraft #LeagueofLegends #Worlds2026 #LolSports #WoWF",
-      "vistas": 1254,
-      "fecha": 1792950041
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=q6qZb-2ZPlc",
-      "titulo": "Desde que anunciaron WOW Forever cambiaron los planes 😌 #WoWForever  #WoWLatam",
-      "vistas": 1222,
-      "fecha": 1792866671
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=FKICG5b1DM0",
-      "titulo": "10 Spots para fotos en World Of Warcraft #worldOfWarcraft #Halloween #Blizzard #WarcraftLa",
-      "vistas": 1242,
-      "fecha": 1792781373
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=hLUr8jZXwQQ",
-      "titulo": "POV: Heal en M+",
-      "vistas": 149,
-      "fecha": 1790837218
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=kokmdEzdRqo",
-      "titulo": "Resumen de las últimas noticias sobre Worlds 2026 de League of Legends #LoLEsports",
-      "vistas": 461,
-      "fecha": 1790792177
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=Ew1cgZAZ7FY",
-      "titulo": "Juego Wow para relajarme 🙂#WorldOfWarcraft #Warcraft #Midnight #Wow #Blizzard",
-      "vistas": 231,
-      "fecha": 1790454163
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=CWf13LtKxh8",
-      "titulo": "me tomó unas 10 lloradas este video 🥲#WorldOfWarcraft #warcraft #Blizzard #Pets",
-      "vistas": 347,
-      "fecha": 1790290012
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=6IGBdOzbr_E",
-      "titulo": "u.u #WorldOfWarcraft #Wow #Blizzard",
-      "vistas": 6726,
-      "fecha": 1790185578
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=4AzAwUY46XQ",
-      "titulo": "Pues si sentí bien #LoLClassic #RiotLatam",
-      "vistas": 1252,
-      "fecha": 1786229434
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/DVD-rv6gD0L/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1771767566
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/DQN2qhFAMbY/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1761361487
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@ladydonita/video/7031170446994686981",
-      "titulo": "@ladydonita 10.1k seguidores, 908 siguiendo, 408.3k me gusta: no te pierdas los geniales v",
-      "vistas": null,
-      "fecha": 1637071940
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=IrjAeMQNW2s",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
     }
   ]
 });

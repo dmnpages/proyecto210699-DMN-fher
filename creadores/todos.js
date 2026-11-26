@@ -16,7 +16,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@LaCheluGaming",
-      "seguidores": "1.9k",
+      "seguidores": "1.9K",
       "clave": true
     },
     {
@@ -48,7 +48,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "",
+    "valor": "54.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -99,107 +99,6 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="neylis";
-Dreamers.talento({
-  "nombre": "Neylis",
-  "ciudad": "Matagalpa",
-  "seguidores": "2.6K",
-  "descripcion": "Cosplayer y creadora de contenido enfocada en el entorno de la cultura pop asiática, el anime y videojuegos.",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "genero": "M",
-  "lugar": 3,
-  "categorias": [
-    "Cosplayer"
-  ],
-  "redes": [
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/_neylis_/",
-      "seguidores": "1.4K"
-    },
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@_neylis_0/",
-      "clave": true,
-      "seguidores": "1.2K"
-    }
-  ],
-  "formatos": [
-    "Cosplayer",
-    "Lifestyle",
-    "Cosplay",
-    "Videos cortos"
-  ],
-  "ideal": [
-    "Eventos",
-    "Cosméticos",
-    "Gaming",
-    "Anime y cultura pop"
-  ],
-  "dato": {
-    "valor": "49.6K",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="kimera";
-Dreamers.talento({
-  "nombre": "KimeraSM",
-  "ciudad": "Managua",
-  "correo": "kimerasm.business@gmail.com",
-  "seguidores": "8.2K",
-  "descripcion": "Creador de contenido enfocado en el mundo del gaming y la tecnología.",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "genero": "H",
-  "categorias": [
-    "Streamer",
-    "Tecnología"
-  ],
-  "redes": [
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/kimera_sm/",
-      "seguidores": "344"
-    },
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@kimerasm/",
-      "clave": true,
-      "seguidores": "7K"
-    },
-    {
-      "plataforma": "Youtube",
-      "enlace": "https://www.youtube.com/@kimerasm/",
-      "seguidores": "584"
-    },
-    {
-      "plataforma": "Twitch",
-      "enlace": "https://www.twitch.tv/kimerasm",
-      "seguidores": "301"
-    }
-  ],
-  "formatos": [
-    "Streams",
-    "Tecnología",
-    "Review",
-    "Geek News",
-    "Videos cortos"
-  ],
-  "ideal": [
-    "Tecnología",
-    "Gaming",
-    "Eventos"
-  ],
-  "dato": {
-    "valor": "149.1K",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
 Dreamers._actual="indira";
 Dreamers.talento({
   "nombre": "Indira Pellas",
@@ -210,7 +109,6 @@ Dreamers.talento({
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
-  "lugar": 5,
   "categorias": [
     "Streamer",
     "Cosplayer"
@@ -251,6 +149,106 @@ Dreamers.talento({
   ],
   "dato": {
     "valor": "272.3K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="kimera";
+Dreamers.talento({
+  "nombre": "KimeraSM",
+  "ciudad": "Managua",
+  "correo": "kimerasm.business@gmail.com",
+  "seguidores": "8.2K",
+  "descripcion": "Creador de contenido enfocado en el mundo del gaming y la tecnología.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "H",
+  "categorias": [
+    "Streamer",
+    "Tecnología"
+  ],
+  "redes": [
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/kimera_sm/",
+      "seguidores": "344"
+    },
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@kimerasm/",
+      "clave": true,
+      "seguidores": "7K"
+    },
+    {
+      "plataforma": "Youtube",
+      "enlace": "https://www.youtube.com/@kimerasm/",
+      "seguidores": "585"
+    },
+    {
+      "plataforma": "Twitch",
+      "enlace": "https://www.twitch.tv/kimerasm",
+      "seguidores": "301"
+    }
+  ],
+  "formatos": [
+    "Streams",
+    "Tecnología",
+    "Review",
+    "Geek News",
+    "Videos cortos"
+  ],
+  "ideal": [
+    "Tecnología",
+    "Gaming",
+    "Eventos"
+  ],
+  "dato": {
+    "valor": "149.2K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="neylis";
+Dreamers.talento({
+  "nombre": "Neylis",
+  "ciudad": "Matagalpa",
+  "seguidores": "2.6K",
+  "descripcion": "Cosplayer y creadora de contenido enfocada en el entorno de la cultura pop asiática, el anime y videojuegos.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "M",
+  "categorias": [
+    "Cosplayer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/_neylis_/",
+      "seguidores": "1.4K"
+    },
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@_neylis_0/",
+      "clave": true,
+      "seguidores": "1.2K"
+    }
+  ],
+  "formatos": [
+    "Cosplayer",
+    "Lifestyle",
+    "Cosplay",
+    "Videos cortos"
+  ],
+  "ideal": [
+    "Eventos",
+    "Cosméticos",
+    "Gaming",
+    "Anime y cultura pop"
+  ],
+  "dato": {
+    "valor": "49.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -307,7 +305,6 @@ Dreamers.talento({
   "posicionFoto": "55.078125% 49.6875%",
   "fotoZoom": 1.2,
   "genero": "M",
-  "lugar": 7,
   "categorias": [
     "Cosplayer",
     "Streamer",
@@ -352,7 +349,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "139.6K",
+    "valor": "139.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -367,7 +364,6 @@ Dreamers.talento({
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "H",
-  "lugar": 8,
   "categorias": [
     "Streamer",
     "LifeStyle",
@@ -418,7 +414,6 @@ Dreamers.talento({
   "posicionFoto": "50% 50.3125%",
   "fotoZoom": 1,
   "genero": "M",
-  "lugar": 9,
   "categorias": [
     "Streamer",
     "Cosplayer"
@@ -459,7 +454,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "737K",
+    "valor": "737.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -509,7 +504,7 @@ Dreamers.talento({
     "Musicales"
   ],
   "dato": {
-    "valor": "50.6K",
+    "valor": "50.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -525,7 +520,6 @@ Dreamers.talento({
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
-  "lugar": 11,
   "categorias": [
     "Streamer"
   ],
@@ -614,18 +608,16 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="nuevo-creador";
+Dreamers._actual="jares";
 Dreamers.talento({
-  "nombre": "Guadalupe",
-  "ciudad": "",
-  "correo": "Guadalupep14@gmail.com",
-  "seguidores": "56K",
-  "descripcion": "",
+  "nombre": "Jares Mayerling",
+  "ciudad": "Matagalpa",
+  "seguidores": "4.4K",
+  "descripcion": "Creadora de contenido enfocada en el mundo del anime, cosplay y gaming.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
-  "lugar": 13,
   "categorias": [
     "Streamer",
     "Cosplayer"
@@ -633,19 +625,29 @@ Dreamers.talento({
   "redes": [
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/guadalupep14",
-      "seguidores": "5.8K"
+      "enlace": "https://www.instagram.com/jares_mayerling/",
+      "seguidores": "1.2K"
     },
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@chibimegane14",
-      "seguidores": "50.2K"
+      "enlace": "https://www.tiktok.com/@jares_mayerling/",
+      "clave": true,
+      "seguidores": "3.2K"
     }
   ],
-  "formatos": [],
-  "ideal": [],
+  "formatos": [
+    "Streams",
+    "Cosplay",
+    "Lifestyle",
+    "Videos cortos"
+  ],
+  "ideal": [
+    "Gaming",
+    "Eventos",
+    "Anime y cultura pop"
+  ],
   "dato": {
-    "valor": "2.2M",
+    "valor": "34.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -696,99 +698,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "581.3K",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="jares";
-Dreamers.talento({
-  "nombre": "Jares Mayerling",
-  "ciudad": "Matagalpa",
-  "seguidores": "4.4K",
-  "descripcion": "Creadora de contenido enfocada en el mundo del anime, cosplay y gaming.",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "genero": "M",
-  "categorias": [
-    "Streamer",
-    "Cosplayer"
-  ],
-  "redes": [
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/jares_mayerling/",
-      "seguidores": "1.2K"
-    },
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@jares_mayerling/",
-      "clave": true,
-      "seguidores": "3.2K"
-    }
-  ],
-  "formatos": [
-    "Streams",
-    "Cosplay",
-    "Lifestyle",
-    "Videos cortos"
-  ],
-  "ideal": [
-    "Gaming",
-    "Eventos",
-    "Anime y cultura pop"
-  ],
-  "dato": {
-    "valor": "34.7K",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="catpool";
-Dreamers.talento({
-  "nombre": "Catpool",
-  "ciudad": "Jinotega",
-  "seguidores": "1.5K",
-  "descripcion": "",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "genero": "H",
-  "lugar": 16,
-  "categorias": [
-    "Streamer"
-  ],
-  "redes": [
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/catpool_gaming/",
-      "seguidores": "23"
-    },
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@catpool01/",
-      "clave": true,
-      "seguidores": "1.5K"
-    },
-    {
-      "plataforma": "Twitch",
-      "enlace": "https://www.twitch.tv/catpool0",
-      "seguidores": "22"
-    }
-  ],
-  "formatos": [
-    "Streams",
-    "Gameplays",
-    "Geek News",
-    "Videos cortos"
-  ],
-  "ideal": [
-    "Gaming",
-    "Eventos"
-  ],
-  "dato": {
-    "valor": "2.3K",
+    "valor": "581.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -833,6 +743,97 @@ Dreamers.talento({
   ],
   "dato": {
     "valor": "29.9K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="catpool";
+Dreamers.talento({
+  "nombre": "Catpool",
+  "ciudad": "Jinotega",
+  "seguidores": "1.5K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "H",
+  "categorias": [
+    "Streamer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/catpool_gaming/",
+      "seguidores": "23"
+    },
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@catpool01/",
+      "clave": true,
+      "seguidores": "1.5K"
+    },
+    {
+      "plataforma": "Twitch",
+      "enlace": "https://www.twitch.tv/catpool0",
+      "seguidores": "22"
+    }
+  ],
+  "formatos": [
+    "Streams",
+    "Gameplays",
+    "Geek News",
+    "Videos cortos"
+  ],
+  "ideal": [
+    "Gaming",
+    "Eventos"
+  ],
+  "dato": {
+    "valor": "2.3K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="fresita-agridulce";
+Dreamers.talento({
+  "nombre": "Fresita Agridulce",
+  "ciudad": "Jinotega",
+  "seguidores": "1.2K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "56.9999885559082% 36.46666717529297%",
+  "fotoZoom": 1.26,
+  "genero": "M",
+  "categorias": [
+    "Streamer",
+    "Cosplayer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/fresita_agridulce_/",
+      "seguidores": "601"
+    },
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@samy.fresita/",
+      "clave": true,
+      "seguidores": "555"
+    }
+  ],
+  "formatos": [
+    "Streams",
+    "LifeStyle",
+    "Videos cortos",
+    "Cosplay"
+  ],
+  "ideal": [
+    "Eventos",
+    "Gaming",
+    "Anime y cultura pop"
+  ],
+  "dato": {
+    "valor": "1.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -883,46 +884,47 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="fresita-agridulce";
+Dreamers._actual="nini";
 Dreamers.talento({
-  "nombre": "Fresita Agridulce",
-  "ciudad": "Jinotega",
-  "seguidores": "1.2K",
+  "nombre": "Noirnini",
+  "ciudad": "Managua",
+  "seguidores": "1.8K",
   "descripcion": "",
   "foto": "foto-admin.webp",
-  "posicionFoto": "56.9999885559082% 36.46666717529297%",
-  "fotoZoom": 1.26,
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
   "genero": "M",
   "categorias": [
     "Streamer",
-    "Cosplayer"
+    "LifeStyle"
   ],
   "redes": [
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/fresita_agridulce_/",
-      "seguidores": "601"
+      "enlace": "https://www.instagram.com/ana__tomico/",
+      "seguidores": "169"
     },
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@samy.fresita/",
+      "enlace": "https://www.tiktok.com/@cherryjaneblossom/",
       "clave": true,
-      "seguidores": "555"
+      "seguidores": "1.6K"
     }
   ],
   "formatos": [
     "Streams",
     "LifeStyle",
-    "Videos cortos",
-    "Cosplay"
+    "Trends",
+    "Videos cortos"
   ],
   "ideal": [
-    "Eventos",
     "Gaming",
-    "Anime y cultura pop"
+    "Marketing",
+    "Eventos",
+    "Cosméticos"
   ],
   "dato": {
-    "valor": "1.5K",
+    "valor": "117.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -971,7 +973,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@dragonxlrgames",
-      "seguidores": "398"
+      "seguidores": "399"
     }
   ],
   "formatos": [
@@ -985,104 +987,6 @@ Dreamers.talento({
   ],
   "dato": {
     "valor": "40.6K",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="nini";
-Dreamers.talento({
-  "nombre": "Noirnini",
-  "ciudad": "Managua",
-  "seguidores": "1.8K",
-  "descripcion": "",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "genero": "M",
-  "categorias": [
-    "Streamer",
-    "LifeStyle"
-  ],
-  "redes": [
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/ana__tomico/",
-      "seguidores": "169"
-    },
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@cherryjaneblossom/",
-      "clave": true,
-      "seguidores": "1.6K"
-    }
-  ],
-  "formatos": [
-    "Streams",
-    "LifeStyle",
-    "Trends",
-    "Videos cortos"
-  ],
-  "ideal": [
-    "Gaming",
-    "Marketing",
-    "Eventos",
-    "Cosméticos"
-  ],
-  "dato": {
-    "valor": "117.5K",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="chinelaplay";
-Dreamers.talento({
-  "nombre": "Chinelaplay",
-  "ciudad": "",
-  "seguidores": "4.2K",
-  "descripcion": "",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "genero": "H",
-  "categorias": [
-    "Streamer"
-  ],
-  "redes": [
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/chinelaplay/",
-      "seguidores": "1.3K"
-    },
-    {
-      "plataforma": "Youtube",
-      "enlace": "https://www.youtube.com/@chinelaplay",
-      "seguidores": "100"
-    },
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@chinelaplay",
-      "clave": true,
-      "seguidores": "2.1K"
-    },
-    {
-      "plataforma": "Twitch",
-      "enlace": "https://www.twitch.tv/chinelaplay",
-      "seguidores": "692"
-    }
-  ],
-  "formatos": [
-    "Gameplays",
-    "Geek News",
-    "Videos Cortos",
-    "Streams"
-  ],
-  "ideal": [
-    "Eventos",
-    "Gaming",
-    "Anime y cultura pop"
-  ],
-  "dato": {
-    "valor": "36.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1136,46 +1040,55 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="elvis-thedrumshow";
+Dreamers._actual="chinelaplay";
 Dreamers.talento({
-  "nombre": "Elvis TheDrumShow",
-  "ciudad": "Masaya",
-  "correo": "elvislegoshi94@icloud.com",
-  "seguidores": "82.8K",
-  "descripcion": "Creador de contenido enfocado en la música, especialmente en la batería, combinando su pasión por los instrumentos con el anime y los videojuegos. Busca motivar a otros a aprender música, compartir sus intereses y seguir creciendo junto a su comunidad.",
+  "nombre": "Chinelaplay",
+  "ciudad": "",
+  "seguidores": "4.2K",
+  "descripcion": "",
   "foto": "foto-admin.webp",
-  "posicionFoto": "56.000003814697266% 44.000003814697266%",
-  "fotoZoom": 1.25,
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
   "genero": "H",
   "categorias": [
-    "Músico"
+    "Streamer"
   ],
   "redes": [
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/elvis_thedrumshow",
-      "clave": true,
-      "seguidores": "54K"
+      "enlace": "https://www.instagram.com/chinelaplay/",
+      "seguidores": "1.3K"
+    },
+    {
+      "plataforma": "Youtube",
+      "enlace": "https://www.youtube.com/@chinelaplay",
+      "seguidores": "100"
     },
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@elvisthedrumshow",
-      "seguidores": "28.8K"
+      "enlace": "https://www.tiktok.com/@chinelaplay",
+      "clave": true,
+      "seguidores": "2.1K"
+    },
+    {
+      "plataforma": "Twitch",
+      "enlace": "https://www.twitch.tv/chinelaplay",
+      "seguidores": "692"
     }
   ],
   "formatos": [
+    "Gameplays",
+    "Geek News",
     "Videos Cortos",
-    "Covers",
-    "Música"
+    "Streams"
   ],
   "ideal": [
     "Eventos",
-    "Música",
     "Gaming",
-    "Musicales"
+    "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "354.4K",
+    "valor": "36.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1234,48 +1147,46 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="fer-ciech";
+Dreamers._actual="elvis-thedrumshow";
 Dreamers.talento({
-  "nombre": " Fer Ciech",
-  "ciudad": "Carazo",
-  "correo": "ferciech06@gmail.com",
-  "seguidores": "11.4K",
-  "descripcion": "Cosplayer nacional con 10 años de experiencia. Comparte sus procesos, técnicas y materiales en redes sociales. Busca unirse al equipo para aportar contenido de valor, compartir sus conocimientos y motivar a otros, ayudando a crecer y fortalecer la comunidad en el país.",
+  "nombre": "Elvis TheDrumShow",
+  "ciudad": "Masaya",
+  "correo": "elvislegoshi94@icloud.com",
+  "seguidores": "82.8K",
+  "descripcion": "Creador de contenido enfocado en la música, especialmente en la batería, combinando su pasión por los instrumentos con el anime y los videojuegos. Busca motivar a otros a aprender música, compartir sus intereses y seguir creciendo junto a su comunidad.",
   "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
+  "posicionFoto": "56.000003814697266% 44.000003814697266%",
+  "fotoZoom": 1.25,
   "genero": "H",
   "categorias": [
-    "Cosplayer"
+    "Músico"
   ],
   "redes": [
     {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@ferciech",
-      "clave": true,
-      "seguidores": "6.6K"
-    },
-    {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/ferciech/",
-      "seguidores": "3.8K"
+      "enlace": "https://www.instagram.com/elvis_thedrumshow",
+      "clave": true,
+      "seguidores": "54K"
     },
     {
-      "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/ferciechcosplay",
-      "seguidores": "1K"
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@elvisthedrumshow",
+      "seguidores": "28.8K"
     }
   ],
   "formatos": [
-    "Cosplay",
-    "Videos cortos"
+    "Videos Cortos",
+    "Covers",
+    "Música"
   ],
   "ideal": [
-    "Anime y cultura pop",
-    "Eventos"
+    "Eventos",
+    "Música",
+    "Gaming",
+    "Musicales"
   ],
   "dato": {
-    "valor": "347.6K",
+    "valor": "354.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1319,7 +1230,7 @@ Dreamers.talento({
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/leafs_gamers/",
-      "seguidores": "610"
+      "seguidores": "611"
     }
   ],
   "formatos": [
@@ -1341,59 +1252,48 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="skeint-mc";
+Dreamers._actual="fer-ciech";
 Dreamers.talento({
-  "nombre": "Skeint MC",
-  "ciudad": "Matagalpa",
-  "correo": "iskeintplayer@gmail.com",
-  "seguidores": "785",
-  "descripcion": "Creador de contenido con el objetivo de crecer y aprender en comunidad. Desea aportar sus habilidades, colaborar y compartir ideas para crear contenido de alta calidad y alcanzar nuevas metas junto a un equipo de trabajo.",
+  "nombre": " Fer Ciech",
+  "ciudad": "Carazo",
+  "correo": "ferciech06@gmail.com",
+  "seguidores": "11.4K",
+  "descripcion": "Cosplayer nacional con 10 años de experiencia. Comparte sus procesos, técnicas y materiales en redes sociales. Busca unirse al equipo para aportar contenido de valor, compartir sus conocimientos y motivar a otros, ayudando a crecer y fortalecer la comunidad en el país.",
   "foto": "foto-admin.webp",
-  "posicionFoto": "50.390625% 50%",
+  "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "H",
   "categorias": [
-    "Streamer"
+    "Cosplayer"
   ],
   "redes": [
     {
-      "plataforma": "Youtube",
-      "enlace": "https://www.youtube.com/@skeint_mc",
-      "seguidores": "119"
-    },
-    {
-      "plataforma": "Twitch",
-      "enlace": "https://www.twitch.tv/skeint_mc",
-      "seguidores": "62"
-    },
-    {
-      "plataforma": "X",
-      "enlace": "https://x.com/Skeint_MC",
-      "seguidores": "11"
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@ferciech",
+      "clave": true,
+      "seguidores": "6.6K"
     },
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/skeint_mc",
-      "clave": true,
-      "seguidores": "422"
+      "enlace": "https://www.instagram.com/ferciech/",
+      "seguidores": "3.8K"
     },
     {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@skeint_mc",
-      "seguidores": "171"
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/ferciechcosplay",
+      "seguidores": "1K"
     }
   ],
   "formatos": [
-    "Streams",
-    "Retos",
-    "Videos largos",
-    "Gameplays"
+    "Cosplay",
+    "Videos cortos"
   ],
   "ideal": [
-    "Gaming"
+    "Anime y cultura pop",
+    "Eventos"
   ],
   "dato": {
-    "valor": "2K",
+    "valor": "347.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1453,14 +1353,15 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="doggiman";
+Dreamers._actual="skeint-mc";
 Dreamers.talento({
-  "nombre": "Doggiman",
-  "ciudad": "Managua",
-  "seguidores": "2.2K",
-  "descripcion": "",
+  "nombre": "Skeint MC",
+  "ciudad": "Matagalpa",
+  "correo": "iskeintplayer@gmail.com",
+  "seguidores": "786",
+  "descripcion": "Creador de contenido con el objetivo de crecer y aprender en comunidad. Desea aportar sus habilidades, colaborar y compartir ideas para crear contenido de alta calidad y alcanzar nuevas metas junto a un equipo de trabajo.",
   "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50.25%",
+  "posicionFoto": "50.390625% 50%",
   "fotoZoom": 1,
   "genero": "H",
   "categorias": [
@@ -1468,25 +1369,43 @@ Dreamers.talento({
   ],
   "redes": [
     {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@doggiman7",
-      "clave": true,
-      "seguidores": "1.6K"
+      "plataforma": "Youtube",
+      "enlace": "https://www.youtube.com/@skeint_mc",
+      "seguidores": "120"
+    },
+    {
+      "plataforma": "Twitch",
+      "enlace": "https://www.twitch.tv/skeint_mc",
+      "seguidores": "62"
+    },
+    {
+      "plataforma": "X",
+      "enlace": "https://x.com/Skeint_MC",
+      "seguidores": "11"
     },
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/doggiman7/",
-      "seguidores": "587"
+      "enlace": "https://www.instagram.com/skeint_mc",
+      "clave": true,
+      "seguidores": "422"
+    },
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@skeint_mc",
+      "seguidores": "171"
     }
   ],
   "formatos": [
-    "Videos cortos"
+    "Streams",
+    "Retos",
+    "Videos largos",
+    "Gameplays"
   ],
   "ideal": [
     "Gaming"
   ],
   "dato": {
-    "valor": "47.2K",
+    "valor": "2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1544,43 +1463,40 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="ik-evolution";
+Dreamers._actual="doggiman";
 Dreamers.talento({
-  "nombre": "Lk Evolution",
+  "nombre": "Doggiman",
   "ciudad": "Managua",
-  "correo": "lkcalo1981@gmail.com",
-  "seguidores": "16.5K",
-  "descripcion": "Creador de contenido y podcaster enfocado en expandir su audiencia. Su objetivo principal es lograr que su trabajo llegue a más personas y dar a conocer sus proyectos a un público más amplio.",
+  "seguidores": "2.2K",
+  "descripcion": "",
   "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
+  "posicionFoto": "50% 50.25%",
   "fotoZoom": 1,
   "genero": "H",
   "categorias": [
-    "Músico",
-    "Productor"
+    "Streamer"
   ],
   "redes": [
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@lkevolutionelchelelokera",
+      "enlace": "https://www.tiktok.com/@doggiman7",
       "clave": true,
-      "seguidores": "9.8K"
+      "seguidores": "1.6K"
     },
     {
-      "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/vladimirivan.calderalovo",
-      "seguidores": "6.7K"
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/doggiman7/",
+      "seguidores": "587"
     }
   ],
   "formatos": [
-    "Videos cortos",
-    "Música"
+    "Videos cortos"
   ],
   "ideal": [
-    "Musicales"
+    "Gaming"
   ],
   "dato": {
-    "valor": "19.5K",
+    "valor": "47.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1629,42 +1545,48 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "87.3K",
+    "valor": "87.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
 });
-Dreamers._actual="ramses-bachata";
+Dreamers._actual="ik-evolution";
 Dreamers.talento({
-  "nombre": "Ramses Bachata",
+  "nombre": "Lk Evolution",
   "ciudad": "Managua",
-  "seguidores": "3.7K",
-  "descripcion": "Creador de contenido enfocado en el cosplay y la participación en eventos de la comunidad geek.",
+  "correo": "lkcalo1981@gmail.com",
+  "seguidores": "16.5K",
+  "descripcion": "Creador de contenido y podcaster enfocado en expandir su audiencia. Su objetivo principal es lograr que su trabajo llegue a más personas y dar a conocer sus proyectos a un público más amplio.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "H",
   "categorias": [
-    "Cosplayer"
+    "Músico",
+    "Productor"
   ],
   "redes": [
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@ramses_lopez_1",
+      "enlace": "https://www.tiktok.com/@lkevolutionelchelelokera",
       "clave": true,
-      "seguidores": "3.7K"
+      "seguidores": "9.8K"
+    },
+    {
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/vladimirivan.calderalovo",
+      "seguidores": "6.7K"
     }
   ],
   "formatos": [
     "Videos cortos",
-    "Cosplay"
+    "Música"
   ],
   "ideal": [
-    "Anime y cultura pop",
-    "Eventos"
+    "Musicales"
   ],
   "dato": {
-    "valor": "45.5K",
+    "valor": "19.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1714,41 +1636,37 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="rookie-lines";
+Dreamers._actual="ramses-bachata";
 Dreamers.talento({
-  "nombre": "Rookie Lines",
-  "ciudad": "Masaya",
-  "correo": "cmaj14i@gmail.com",
-  "seguidores": "1.4K",
-  "descripcion": "",
+  "nombre": "Ramses Bachata",
+  "ciudad": "Managua",
+  "seguidores": "3.7K",
+  "descripcion": "Creador de contenido enfocado en el cosplay y la participación en eventos de la comunidad geek.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "H",
   "categorias": [
-    "Streamer"
+    "Cosplayer"
   ],
   "redes": [
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@rookie.lines?_r=1&_t=ZS-9BVtSZ9S9sA",
+      "enlace": "https://www.tiktok.com/@ramses_lopez_1",
       "clave": true,
-      "seguidores": "1.3K"
-    },
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/rookie.lines14?jplx=MXk5YXV5ZnFvdmY4",
-      "seguidores": "123"
+      "seguidores": "3.7K"
     }
   ],
   "formatos": [
-    "Videos cortos"
+    "Videos cortos",
+    "Cosplay"
   ],
   "ideal": [
-    "Gaming"
+    "Anime y cultura pop",
+    "Eventos"
   ],
   "dato": {
-    "valor": "19.3K",
+    "valor": "45.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1793,6 +1711,91 @@ Dreamers.talento({
   ],
   "dato": {
     "valor": "961.2K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="rookie-lines";
+Dreamers.talento({
+  "nombre": "Rookie Lines",
+  "ciudad": "Masaya",
+  "correo": "cmaj14i@gmail.com",
+  "seguidores": "1.4K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "H",
+  "categorias": [
+    "Streamer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@rookie.lines?_r=1&_t=ZS-9BVtSZ9S9sA",
+      "clave": true,
+      "seguidores": "1.3K"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/rookie.lines14?jplx=MXk5YXV5ZnFvdmY4",
+      "seguidores": "123"
+    }
+  ],
+  "formatos": [
+    "Videos cortos"
+  ],
+  "ideal": [
+    "Gaming"
+  ],
+  "dato": {
+    "valor": "19.3K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="begwitch";
+Dreamers.talento({
+  "nombre": "Begwitch",
+  "ciudad": "León",
+  "correo": "begoiid@gmail.com",
+  "seguidores": "10.7K",
+  "descripcion": "Cosplayer enfocada en conectar con personas que comparten su pasión. Su meta es encontrar un espacio para aportar su creatividad, mostrar sus procesos y crear contenido fresco que dé mayor visibilidad a la comunidad cosplayer del país.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "M",
+  "categorias": [
+    "Cosplayer",
+    "Cosmaker"
+  ],
+  "redes": [
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@begwitch",
+      "seguidores": "3.1K"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/begwitch",
+      "clave": true,
+      "seguidores": "4.3K"
+    },
+    {
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/begwitchcosplay",
+      "seguidores": "3.3K"
+    }
+  ],
+  "formatos": [
+    "Cosplay"
+  ],
+  "ideal": [
+    "Anime y cultura pop",
+    "Eventos"
+  ],
+  "dato": {
+    "valor": "95.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1850,37 +1853,37 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="begwitch";
+Dreamers._actual="shisudool";
 Dreamers.talento({
-  "nombre": "Begwitch",
-  "ciudad": "León",
-  "correo": "begoiid@gmail.com",
-  "seguidores": "10.7K",
-  "descripcion": "Cosplayer enfocada en conectar con personas que comparten su pasión. Su meta es encontrar un espacio para aportar su creatividad, mostrar sus procesos y crear contenido fresco que dé mayor visibilidad a la comunidad cosplayer del país.",
+  "nombre": "Shisudool",
+  "ciudad": "Chinandega",
+  "correo": "shisudoolcontacto@gmail.com",
+  "seguidores": "4.3K",
+  "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
   "categorias": [
-    "Cosplayer",
-    "Cosmaker"
+    "vTuber",
+    "Cosplayer"
   ],
   "redes": [
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@begwitch",
-      "seguidores": "3.1K"
+      "enlace": "https://www.tiktok.com/@shisudool",
+      "seguidores": "164"
     },
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/begwitch",
+      "enlace": "https://www.instagram.com/shisudool",
       "clave": true,
-      "seguidores": "4.3K"
+      "seguidores": "4.1K"
     },
     {
-      "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/begwitchcosplay",
-      "seguidores": "3.3K"
+      "plataforma": "X",
+      "enlace": "https://x.com/sh1sudo0l_",
+      "seguidores": "0"
     }
   ],
   "formatos": [
@@ -1891,7 +1894,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "95.5K",
+    "valor": "5.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1935,48 +1938,41 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="shisudool";
+Dreamers._actual="aishanana";
 Dreamers.talento({
-  "nombre": "Shisudool",
-  "ciudad": "Chinandega",
-  "correo": "shisudoolcontacto@gmail.com",
-  "seguidores": "4.3K",
+  "nombre": "Aishanana",
+  "ciudad": "Managua",
+  "correo": "aishanana0125@gmail.com",
+  "seguidores": "8.8K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
   "categorias": [
-    "vTuber",
-    "Cosplayer"
+    "Streamer"
   ],
   "redes": [
     {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@shisudool",
-      "seguidores": "162"
-    },
-    {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/shisudool",
+      "enlace": "https://www.instagram.com/aishananaaa?dmpr=MW03bnU4eHAxb25oMg%3D%3D",
       "clave": true,
-      "seguidores": "4.1K"
+      "seguidores": "3.8K"
     },
     {
-      "plataforma": "X",
-      "enlace": "https://x.com/sh1sudo0l_",
-      "seguidores": "0"
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@aishananaaa?_r=1&_t=ZS-9BYCqMXF0sf",
+      "seguidores": "5K"
     }
   ],
   "formatos": [
-    "Cosplay"
+    "Videos cortos"
   ],
   "ideal": [
-    "Anime y cultura pop",
-    "Eventos"
+    "Gaming"
   ],
   "dato": {
-    "valor": "4.9K",
+    "valor": "74.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -2022,41 +2018,43 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="aishanana";
+Dreamers._actual="itssomau";
 Dreamers.talento({
-  "nombre": "Aishanana",
+  "nombre": "Itssomau",
   "ciudad": "Managua",
-  "correo": "aishanana0125@gmail.com",
-  "seguidores": "8.8K",
+  "correo": "Sooyoungrcastro@gmail.com",
+  "seguidores": "18.3K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
   "categorias": [
-    "Streamer"
+    "Cosplayer"
   ],
   "redes": [
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/aishananaaa?dmpr=MW03bnU4eHAxb25oMg%3D%3D",
-      "clave": true,
-      "seguidores": "3.8K"
+      "enlace": "https://www.instagram.com/syngmau_/",
+      "seguidores": "316"
     },
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@aishananaaa?_r=1&_t=ZS-9BYCqMXF0sf",
-      "seguidores": "5K"
+      "enlace": "https://www.tiktok.com/@springtrap1584",
+      "clave": true,
+      "seguidores": "18K"
     }
   ],
   "formatos": [
-    "Videos cortos"
+    "Videos cortos",
+    "Cosplay"
   ],
   "ideal": [
-    "Gaming"
+    "Anime y cultura pop",
+    "Eventos"
   ],
   "dato": {
-    "valor": "74.7K",
+    "valor": "783.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -2104,35 +2102,40 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="itssomau";
+Dreamers._actual="aritz-cosplay";
 Dreamers.talento({
-  "nombre": "Itssomau",
+  "nombre": "Aritz cosplay",
   "ciudad": "Managua",
-  "correo": "Sooyoungrcastro@gmail.com",
-  "seguidores": "18.3K",
-  "descripcion": "",
+  "correo": "roroniko544@gmail.com",
+  "seguidores": "543",
+  "descripcion": "Creadora de contenido y cosplayer enfocada en la cultura pop en Nicaragua, destacando por su constancia, participación en eventos y dominio en costura, maquillaje y fabricación de props. Con una audiencia propia ya consolidada, busca colaborar con otros creadores del medio, ampliar su presencia en convenciones y seguir elevando la calidad de su contenido para conectar con más personas.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
   "categorias": [
-    "Cosplayer"
+    "Cosplayer",
+    "Cosmaker"
   ],
   "redes": [
     {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/syngmau_/",
-      "seguidores": "316"
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@aritz.cosplays",
+      "seguidores": "117"
     },
     {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@springtrap1584",
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/aritz_cosplay",
       "clave": true,
-      "seguidores": "18K"
+      "seguidores": "268"
+    },
+    {
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/profile.php?id=61577870500142#",
+      "seguidores": "158"
     }
   ],
   "formatos": [
-    "Videos cortos",
     "Cosplay"
   ],
   "ideal": [
@@ -2140,7 +2143,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "783.9K",
+    "valor": "453",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -2203,7 +2206,6 @@ Dreamers.talento({
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
-  "lugar": 47,
   "categorias": [
     "illustrator",
     "Cosplayer"
@@ -2292,40 +2294,39 @@ Dreamers.talento({
   },
   "frames": []
 });
-Dreamers._actual="aritz-cosplay";
+Dreamers._actual="mia-cano";
 Dreamers.talento({
-  "nombre": "Aritz cosplay",
-  "ciudad": "Managua",
-  "correo": "roroniko544@gmail.com",
-  "seguidores": "543",
-  "descripcion": "Creadora de contenido y cosplayer enfocada en la cultura pop en Nicaragua, destacando por su constancia, participación en eventos y dominio en costura, maquillaje y fabricación de props. Con una audiencia propia ya consolidada, busca colaborar con otros creadores del medio, ampliar su presencia en convenciones y seguir elevando la calidad de su contenido para conectar con más personas.",
+  "nombre": "Mia Cano",
+  "ciudad": "Chinandega",
+  "correo": "mariaguadalupemontenegrocano@gmail.com",
+  "seguidores": "4K",
+  "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
   "categorias": [
-    "Cosplayer",
-    "Cosmaker"
+    "Cosplayer"
   ],
   "redes": [
     {
       "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@aritz.cosplays",
-      "seguidores": "117"
+      "enlace": "https://www.tiktok.com/@miacano0",
+      "seguidores": "2.5K"
     },
     {
       "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/aritz_cosplay",
-      "clave": true,
-      "seguidores": "268"
+      "enlace": "https://www.instagram.com/miacano202005",
+      "seguidores": "500"
     },
     {
       "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/profile.php?id=61577870500142#",
-      "seguidores": "158"
+      "enlace": "https://www.facebook.com/rini.cano",
+      "seguidores": "1K"
     }
   ],
   "formatos": [
+    "Videos cortos",
     "Cosplay"
   ],
   "ideal": [
@@ -2333,7 +2334,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "453",
+    "valor": "16.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -2382,6 +2383,139 @@ Dreamers.talento({
   },
   "frames": []
 });
+Dreamers._actual="oleslie";
+Dreamers.talento({
+  "nombre": "Oleslie",
+  "ciudad": "Managua",
+  "seguidores": "5K",
+  "descripcion": "Streamer apasionada por los juegos retro y el anime. Paso mis directos recordando los grandes clásicos, descubriendo buenas historias y compartiendo mi amor por la cultura otaku junto a la comunidad.",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "M",
+  "categorias": [
+    "Streamer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/olesliedayana/",
+      "seguidores": "468"
+    },
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@olesliegames",
+      "seguidores": "1.2K"
+    },
+    {
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/Oleslie/",
+      "clave": true,
+      "seguidores": "3.3K"
+    }
+  ],
+  "formatos": [
+    "Streams",
+    "LifeStyle"
+  ],
+  "ideal": [
+    "Gaming",
+    "Eventos"
+  ],
+  "dato": {
+    "valor": "6K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="pollino";
+Dreamers.talento({
+  "nombre": "Pollino",
+  "ciudad": "Ocotal",
+  "correo": "ciprianochavarria@gmail.com",
+  "seguidores": "86.9K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "H",
+  "categorias": [
+    "Streamer",
+    "Tecnología"
+  ],
+  "redes": [
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@pollinot",
+      "seguidores": "51.9K"
+    },
+    {
+      "plataforma": "Youtube",
+      "enlace": "https://www.youtube.com/@PollinoX",
+      "seguidores": "8K"
+    },
+    {
+      "plataforma": "Facebook",
+      "enlace": "https://www.facebook.com/PollinoYouTube",
+      "seguidores": "27K"
+    }
+  ],
+  "formatos": [
+    "Videos cortos",
+    "Tecnología"
+  ],
+  "ideal": [
+    "Gaming",
+    "Tecnología"
+  ],
+  "dato": {
+    "valor": "900.8K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="nuevo-creador";
+Dreamers.talento({
+  "nombre": "Guadalupe",
+  "ciudad": "",
+  "correo": "Guadalupep14@gmail.com",
+  "seguidores": "56K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "M",
+  "categorias": [
+    "Streamer",
+    "Cosplayer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/guadalupep14",
+      "seguidores": "5.8K"
+    },
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@chibimegane14",
+      "seguidores": "50.2K"
+    }
+  ],
+  "formatos": [
+    "Videos cortos",
+    "Cosplay"
+  ],
+  "ideal": [
+    "Gaming",
+    "Anime y cultura pop",
+    "Eventos"
+  ],
+  "dato": {
+    "valor": "2.2M",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
 Dreamers._actual="chinoshi";
 Dreamers.talento({
   "nombre": "Chinoshi",
@@ -2420,92 +2554,6 @@ Dreamers.talento({
   ],
   "dato": {
     "valor": "20.9K",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="pollino";
-Dreamers.talento({
-  "nombre": "Pollino",
-  "ciudad": "Ocotal",
-  "correo": "ciprianochavarria@gmail.com",
-  "seguidores": "204.9K",
-  "descripcion": "",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "genero": "H",
-  "categorias": [
-    "Streamer",
-    "Tecnología"
-  ],
-  "redes": [
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@pollinot",
-      "seguidores": "51.9K"
-    },
-    {
-      "plataforma": "Youtube",
-      "enlace": "https://www.youtube.com/@PollinoX",
-      "seguidores": "126k"
-    },
-    {
-      "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/PollinoYouTube",
-      "seguidores": "27K"
-    }
-  ],
-  "formatos": [],
-  "ideal": [],
-  "dato": {
-    "valor": "900.6K",
-    "texto": "Likes totales en TikTok"
-  },
-  "frames": []
-});
-Dreamers._actual="oleslie";
-Dreamers.talento({
-  "nombre": "Oleslie",
-  "ciudad": "Managua",
-  "seguidores": "5K",
-  "descripcion": "Streamer apasionada por los juegos retro y el anime. Paso mis directos recordando los grandes clásicos, descubriendo buenas historias y compartiendo mi amor por la cultura otaku junto a la comunidad.",
-  "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
-  "genero": "M",
-  "lugar": 53,
-  "categorias": [
-    "Streamer"
-  ],
-  "redes": [
-    {
-      "plataforma": "Instagram",
-      "enlace": "https://www.instagram.com/olesliedayana/",
-      "seguidores": "468"
-    },
-    {
-      "plataforma": "Tiktok",
-      "enlace": "https://www.tiktok.com/@olesliegames",
-      "seguidores": "1.2K"
-    },
-    {
-      "plataforma": "Facebook",
-      "enlace": "https://www.facebook.com/Oleslie/",
-      "clave": true,
-      "seguidores": "3.3K"
-    }
-  ],
-  "formatos": [
-    "Streams",
-    "LifeStyle"
-  ],
-  "ideal": [
-    "Gaming",
-    "Eventos"
-  ],
-  "dato": {
-    "valor": "6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

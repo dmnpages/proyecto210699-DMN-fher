@@ -15,7 +15,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@LaCheluGaming",
-      "seguidores": "1.9k",
+      "seguidores": "1.9K",
       "clave": true
     },
     {
@@ -47,7 +47,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "",
+    "valor": "54.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

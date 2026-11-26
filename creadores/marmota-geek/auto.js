@@ -1,39 +1,32 @@
 Dreamers.autoContenido("marmota-geek", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
     "https://www.youtube.com/watch?v=pg2DqVmnRbE",
+    "https://www.tiktok.com/@marmotageek/video/7711752474008309013",
     "https://www.instagram.com/reel/DgINqJhRVl3/",
-    "https://www.instagram.com/reel/Dfv6hjeKn9Y/",
-    "https://www.youtube.com/watch?v=zqC6HuSzaww",
-    "https://www.instagram.com/reel/Dd85KvCqQ8D/"
+    "https://www.tiktok.com/@marmotageek/video/7708250370631306497",
+    "https://www.instagram.com/reel/Dfv6hjeKn9Y/"
   ],
   "reserva": [
+    "https://www.youtube.com/watch?v=zqC6HuSzaww",
+    "https://www.tiktok.com/@marmotageek/video/7691673900631067956",
+    "https://www.instagram.com/reel/Dd85KvCqQ8D/",
     "https://www.instagram.com/reel/Dd4xeXZKWR-/",
+    "https://www.tiktok.com/@marmotageek/video/7691079054694305045",
+    "https://www.tiktok.com/@marmotageek/video/7687387116342365461",
     "https://www.instagram.com/reel/DdfJcK7Kqvw/",
-    "https://www.instagram.com/reel/DcEW0-_qTMW/",
-    "https://www.youtube.com/watch?v=ryE1jAzjsM8",
-    "https://www.youtube.com/watch?v=MrTG6h3gRNw",
-    "https://www.instagram.com/reel/DcCbgv3qeFI/",
-    "https://www.instagram.com/reel/Db_f002Kqwi/",
-    "https://www.instagram.com/reel/Db8yF0MKIUo/"
+    "https://www.tiktok.com/@marmotageek/video/7674302560697683208"
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=pg2DqVmnRbE": 322,
-    "https://www.youtube.com/watch?v=zqC6HuSzaww": 118,
+    "https://www.youtube.com/watch?v=zqC6HuSzaww": 122,
     "https://www.youtube.com/watch?v=ryE1jAzjsM8": 345,
     "https://www.youtube.com/watch?v=MrTG6h3gRNw": 709,
-    "https://www.youtube.com/watch?v=rFxteVW_ehU": 2015,
+    "https://www.youtube.com/watch?v=rFxteVW_ehU": 2016,
     "https://www.youtube.com/watch?v=3TK4paNYZaE": 1334,
-    "https://www.youtube.com/watch?v=1cbE_TCsi0I": 2122,
+    "https://www.youtube.com/watch?v=1cbE_TCsi0I": 2126,
     "https://www.youtube.com/watch?v=AaXds8_7c9o": 2060,
-    "https://www.youtube.com/watch?v=QXWio4Y1x8w": 1314,
-    "https://www.youtube.com/watch?v=4NIKCyGcy60": 1244,
-    "https://www.youtube.com/watch?v=hOx98culG00": 1638,
-    "https://www.youtube.com/watch?v=iedRcu-oUJQ": 1426,
-    "https://www.youtube.com/watch?v=cOmU9t-d1zQ": 432,
-    "https://www.youtube.com/watch?v=HO2yVY_bDlY": 1082,
-    "https://www.youtube.com/watch?v=iIAy_qciS4Y": 1294,
-    "https://www.youtube.com/watch?v=FhXA3XYeXaM": 11
+    "https://www.youtube.com/watch?v=QXWio4Y1x8w": 1314
   },
   "titulos": {
     "https://www.youtube.com/watch?v=pg2DqVmnRbE": "👏 ¡FELICIDADES, JENSEN! ¡FELICIDADES! 👏 #jensenhuang #nvidia #evangelion",
@@ -44,14 +37,7 @@ Dreamers.autoContenido("marmota-geek", {
     "https://www.youtube.com/watch?v=3TK4paNYZaE": "¿Sabías que Dragon Ball se llamó “Zero y el Dragón Mágico”?",
     "https://www.youtube.com/watch?v=1cbE_TCsi0I": "¿Quién es Yamoshi, el primer Super Saiyajin Dios de Dragon Ball?",
     "https://www.youtube.com/watch?v=AaXds8_7c9o": "¿Podrá ADIVINAR el Pokémon de la carta? 🃏",
-    "https://www.youtube.com/watch?v=QXWio4Y1x8w": "¿Podrá ADIVINAR el Pokémon de la carta? 🃏 Reto Pokémon TCG",
-    "https://www.youtube.com/watch?v=4NIKCyGcy60": "¿Cuál es el MEJOR VIDEOJUEGO? 🎮 Elige uno y elimina el otro",
-    "https://www.youtube.com/watch?v=hOx98culG00": "¿Podrá ADIVINAR el Pokémon de la carta? 🃏 Reto Pokémon TCG",
-    "https://www.youtube.com/watch?v=iedRcu-oUJQ": "LoveUp: ¿Quién es el Husbando Definitivo de la Comic Con 2026?",
-    "https://www.youtube.com/watch?v=cOmU9t-d1zQ": "¿Cuál es el MEJOR VIDEOJUEGO? 🎮 Elige uno y elimina el otro",
-    "https://www.youtube.com/watch?v=HO2yVY_bDlY": "LoveUp: ¿Cuál es la Waifu que se Robó su corazón en la Comic Con?",
-    "https://www.youtube.com/watch?v=iIAy_qciS4Y": "Versus de Anime en Comic-Con Nicaragua 2026: ¿Cuál es la mejor serie de todos los tiempos?",
-    "https://www.youtube.com/watch?v=FhXA3XYeXaM": "¿Podrá ADIVINAR el Pokémon de la carta? 🃏 Reto Pokémon TCG"
+    "https://www.youtube.com/watch?v=QXWio4Y1x8w": "¿Podrá ADIVINAR el Pokémon de la carta? 🃏 Reto Pokémon TCG"
   },
   "candidatas": [
     {
@@ -62,11 +48,25 @@ Dreamers.autoContenido("marmota-geek", {
       "fecha": 1795532624
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7711752474008309013",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795532292
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgINqJhRVl3/",
       "titulo": "",
       "vistas": null,
       "fecha": 1795531955
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7708250370631306497",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794716895
     },
     {
       "red": "instagram",
@@ -79,8 +79,15 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=zqC6HuSzaww",
       "titulo": "Cosplay Music Video - Tsunami Fest 2026",
-      "vistas": 118,
+      "vistas": 122,
       "fecha": 1794716319
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7691673900631067956",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790857385
     },
     {
       "red": "instagram",
@@ -97,11 +104,32 @@ Dreamers.autoContenido("marmota-geek", {
       "fecha": 1790718894
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7691079054694305045",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790718886
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7687387116342365461",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1789859290
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DdfJcK7Kqvw/",
       "titulo": "",
       "vistas": null,
       "fecha": 1789859044
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7674302560697683208",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1786812804
     },
     {
       "red": "instagram",
@@ -118,6 +146,13 @@ Dreamers.autoContenido("marmota-geek", {
       "fecha": 1786812603
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7674024750401932551",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1786748122
+    },
+    {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=MrTG6h3gRNw",
       "titulo": "Takuya Kurita: así era el ambiente cuando comenzó en el manga",
@@ -130,6 +165,13 @@ Dreamers.autoContenido("marmota-geek", {
       "titulo": "",
       "vistas": null,
       "fecha": 1786747957
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7673601652959563015",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1786649612
     },
     {
       "red": "instagram",
@@ -149,8 +191,15 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=rFxteVW_ehU",
       "titulo": "Dragon Ball Z  ¡La Saga Saiyajin Revela el Origen de Goku!",
-      "vistas": 2015,
+      "vistas": 2016,
       "fecha": 1786475700
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7672854581914881288",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1786475670
     },
     {
       "red": "instagram",
@@ -158,6 +207,13 @@ Dreamers.autoContenido("marmota-geek", {
       "titulo": "",
       "vistas": null,
       "fecha": 1786475641
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7672549929474133256",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1786404738
     },
     {
       "red": "youtube",
@@ -184,8 +240,15 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=1cbE_TCsi0I",
       "titulo": "¿Quién es Yamoshi, el primer Super Saiyajin Dios de Dragon Ball?",
-      "vistas": 2122,
+      "vistas": 2126,
       "fecha": 1786119375
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7671324098399636754",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1786119327
     },
     {
       "red": "instagram",
@@ -195,6 +258,27 @@ Dreamers.autoContenido("marmota-geek", {
       "fecha": 1785886693
     },
     {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DblT7oHgOIc/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1785770904
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DbhCMn4EXRo/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1785627388
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DbfD2RnFQsM/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1785561145
+    },
+    {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=AaXds8_7c9o",
       "titulo": "¿Podrá ADIVINAR el Pokémon de la carta? 🃏",
@@ -202,137 +286,39 @@ Dreamers.autoContenido("marmota-geek", {
       "fecha": 1772667308
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7613546852171975953",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1772667014
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DVeyEI0iqkG/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1772666920
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DVeYLT0inHO/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1772653347
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@marmotageek/video/7613487910796545281",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1772653290
+    },
+    {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=QXWio4Y1x8w",
       "titulo": "¿Podrá ADIVINAR el Pokémon de la carta? 🃏 Reto Pokémon TCG",
       "vistas": 1314,
       "fecha": 1772583881
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=4NIKCyGcy60",
-      "titulo": "¿Cuál es el MEJOR VIDEOJUEGO? 🎮 Elige uno y elimina el otro",
-      "vistas": 1244,
-      "fecha": 1772571722
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=hOx98culG00",
-      "titulo": "¿Podrá ADIVINAR el Pokémon de la carta? 🃏 Reto Pokémon TCG",
-      "vistas": 1638,
-      "fecha": 1772410323
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=iedRcu-oUJQ",
-      "titulo": "LoveUp: ¿Quién es el Husbando Definitivo de la Comic Con 2026?",
-      "vistas": 1426,
-      "fecha": 1772240754
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=cOmU9t-d1zQ",
-      "titulo": "¿Cuál es el MEJOR VIDEOJUEGO? 🎮 Elige uno y elimina el otro",
-      "vistas": 432,
-      "fecha": 1772231476
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=HO2yVY_bDlY",
-      "titulo": "LoveUp: ¿Cuál es la Waifu que se Robó su corazón en la Comic Con?",
-      "vistas": 1082,
-      "fecha": 1772151422
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=iIAy_qciS4Y",
-      "titulo": "Versus de Anime en Comic-Con Nicaragua 2026: ¿Cuál es la mejor serie de todos los tiempos?",
-      "vistas": 1294,
-      "fecha": 1772133150
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=FhXA3XYeXaM",
-      "titulo": "¿Podrá ADIVINAR el Pokémon de la carta? 🃏 Reto Pokémon TCG",
-      "vistas": 11,
-      "fecha": 1772065259
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=MBqSEIedznA",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=JutIMTJis84",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=bt-VNxw2CwA",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=64cyVGCvMzY",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=iF5xIjuV_Dg",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=PCyHWGVLfxI",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=4B_4HLuZqFc",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
     }
   ]
 });

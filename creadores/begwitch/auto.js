@@ -1,26 +1,51 @@
 Dreamers.autoContenido("begwitch", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
-    "https://www.instagram.com/reel/DgGGE37v4UD/",
-    "https://www.instagram.com/reel/DgErg7RxwvU/",
-    "https://www.instagram.com/reel/Df-6UTps09k/",
-    "https://www.instagram.com/reel/Df8SYlwsNpF/",
-    "https://www.instagram.com/reel/Df56MsUsU0-/"
+    "https://www.instagram.com/reel/DgJixdNBOdZ/",
+    "https://www.tiktok.com/@begwitch/video/7711932372530269461",
+    "https://www.instagram.com/reel/DgJd0U-MJo7/",
+    "https://www.tiktok.com/@begwitch/video/7711447824373665045",
+    "https://www.instagram.com/reel/DgGGE37v4UD/"
   ],
   "reserva": [
-    "https://www.instagram.com/reel/Df3_JTfPnOA/",
-    "https://www.instagram.com/reel/Df3Wsi0MIuT/",
-    "https://www.instagram.com/p/Df1QQqLka9n/",
-    "https://www.instagram.com/reel/Df0L0RDCtb4/",
-    "https://www.instagram.com/reel/Dfz9VzIB2Yx/",
-    "https://www.instagram.com/reel/Dfs7hrIsFhK/",
-    "https://www.instagram.com/p/DflMZS5Dr0k/",
-    "https://www.instagram.com/reel/DfOHdcUMqxl/"
+    "https://www.instagram.com/reel/DgErg7RxwvU/",
+    "https://www.tiktok.com/@begwitch/video/7710410569735539988",
+    "https://www.instagram.com/reel/Df-6UTps09k/",
+    "https://www.instagram.com/reel/Df8SYlwsNpF/",
+    "https://www.tiktok.com/@begwitch/video/7710030312373390612",
+    "https://www.tiktok.com/@begwitch/video/7709690386582703380",
+    "https://www.instagram.com/reel/Df56MsUsU0-/",
+    "https://www.instagram.com/reel/Df3_JTfPnOA/"
   ],
-  "vistas": {
-    "https://www.facebook.com/reel/3840444649472885/": 5
-  },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgJixdNBOdZ/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795576579
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7711932372530269461",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795574178
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgJd0U-MJo7/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795573981
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7711447824373665045",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795461360
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgGGE37v4UD/",
@@ -36,6 +61,13 @@ Dreamers.autoContenido("begwitch", {
       "fecha": 1795413390
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7710410569735539988",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795219855
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/Df-6UTps09k/",
       "titulo": "",
@@ -48,6 +80,20 @@ Dreamers.autoContenido("begwitch", {
       "titulo": "",
       "vistas": null,
       "fecha": 1795131779
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7710030312373390612",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795131320
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7709690386582703380",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795052175
     },
     {
       "red": "instagram",
@@ -71,6 +117,13 @@ Dreamers.autoContenido("begwitch", {
       "fecha": 1794966268
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7709321312816188693",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794966243
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/p/Df1QQqLka9n/",
       "titulo": "",
@@ -92,6 +145,13 @@ Dreamers.autoContenido("begwitch", {
       "fecha": 1794852311
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7707819124235210005",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794616487
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/Dfs7hrIsFhK/",
       "titulo": "",
@@ -106,11 +166,25 @@ Dreamers.autoContenido("begwitch", {
       "fecha": 1794356887
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7703390185756560661",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793585295
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DfOHdcUMqxl/",
       "titulo": "",
       "vistas": null,
       "fecha": 1793582548
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7702694694492327169",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793423363
     },
     {
       "red": "instagram",
@@ -120,11 +194,39 @@ Dreamers.autoContenido("begwitch", {
       "fecha": 1793422857
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7702254007774891284",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793320758
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7701138824868678932",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1793061109
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/De-kFRzsbP7/",
       "titulo": "",
       "vistas": null,
       "fecha": 1793060683
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7700435444219055381",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792897340
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7699550995377884437",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792691414
     },
     {
       "red": "instagram",
@@ -134,6 +236,13 @@ Dreamers.autoContenido("begwitch", {
       "fecha": 1792691162
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7698535749930536244",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1792455033
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/p/DekN8yLIOt4/",
       "titulo": "",
@@ -141,11 +250,25 @@ Dreamers.autoContenido("begwitch", {
       "fecha": 1792176664
     },
     {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7691482796279237908",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790812890
+    },
+    {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/Dd7iepCsPHA/",
       "titulo": "",
       "vistas": null,
       "fecha": 1790811696
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7690376001930431765",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790555194
     },
     {
       "red": "instagram",
@@ -169,53 +292,11 @@ Dreamers.autoContenido("begwitch", {
       "fecha": 1684285194
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/begwitchcosplay/posts/pfbid0Bwd6FfqhacVmR2ZZd6UjghZo71fGqQhXthzbeGwpBQPM5jcCbPgXLLNCseaXaYrtl",
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@begwitch/video/7233947485385821446",
       "titulo": "",
       "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/begwitchcosplay/posts/pfbid0BdpZzAYEad4ZjK7hZPwcdxotSmYpoKsXsNUEdau9Am4Tj9JoxdCGDKJqpyxXFfxPl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/3840444649472885/",
-      "titulo": "",
-      "vistas": 5,
-      "fecha": null
+      "fecha": 1684284649
     }
   ]
 });

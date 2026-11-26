@@ -1,28 +1,35 @@
 Dreamers.autoContenido("fer-ciech", {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "elegidos": [
+    "https://www.instagram.com/reel/DgJixdNBOdZ/",
     "https://www.instagram.com/p/DgIoTvGoNJh/",
     "https://www.instagram.com/reel/Df5KzAHuBNK/",
     "https://www.instagram.com/reel/Df3Wsi0MIuT/",
-    "https://www.instagram.com/p/Df2gfmCIFUg/",
-    "https://www.instagram.com/reel/Df0L0RDCtb4/"
+    "https://www.instagram.com/p/Df2gfmCIFUg/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/Df0L0RDCtb4/",
     "https://www.instagram.com/reel/DfvaN2Ri1pg/",
     "https://www.instagram.com/p/Dffa_XzoEYj/",
     "https://www.instagram.com/reel/DfDVqJTi2PK/",
     "https://www.instagram.com/reel/De24p6SuwEn/",
     "https://www.instagram.com/reel/Des0TIBObiC/",
     "https://www.instagram.com/p/DekN8yLIOt4/",
-    "https://www.instagram.com/reel/Def632ji_9P/",
-    "https://www.instagram.com/p/DeZs1IOIPi1/"
+    "https://www.instagram.com/reel/Def632ji_9P/"
   ],
   "vistas": {
-    "https://www.facebook.com/reel/3840444649472885/": 6,
+    "https://www.facebook.com/reel/3840444649472885/": 1,
     "https://www.facebook.com/ferciechcosplay/posts/pfbid0UN3Upfc2DTkRTQLUTnjdtcF1XxnRrfUWB3E4b1jBae8GTMreZqrjCTek8q6TSrrtl": 5,
     "https://www.facebook.com/ferciechcosplay/posts/pfbid0SUHbfkTRN7irGWU8hQpDiQwda9e8sw6XWH4vpug6FMbh3YeqUQfvjsBwJvjqQqizl": 5
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgJixdNBOdZ/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795576579
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/p/DgIoTvGoNJh/",
@@ -172,16 +179,16 @@ Dreamers.autoContenido("fer-ciech", {
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/reel/3840444649472885/",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
-      "vistas": 6,
+      "vistas": null,
       "fecha": null
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "url": "https://www.facebook.com/reel/3840444649472885/",
       "titulo": "",
-      "vistas": null,
+      "vistas": 1,
       "fecha": null
     },
     {
