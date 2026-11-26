@@ -21,7 +21,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@chibimegane14",
-      "seguidores": "50.2K"
+      "seguidores": "50.2K",
+      "clave": true
     }
   ],
   "formatos": [
