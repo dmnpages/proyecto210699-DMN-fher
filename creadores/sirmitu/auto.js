@@ -25,7 +25,7 @@ Dreamers.autoContenido("sirmitu", {
     "https://www.tiktok.com/@sir.mitu/video/7611373185551961351"
   ],
   "titulos": {
-    "https://www.tiktok.com/@sir.mitu/video/7008250491931509765": "@sir.mitu 37.6k seguidores, 263 siguiendo, 1.2m me gusta: no te pierdas los geniales vídeo"
+    "https://www.tiktok.com/@sir.mitu/video/7008250491931509765": "@sir.mitu 37.7k seguidores, 263 siguiendo, 1.2m me gusta: no te pierdas los geniales vídeo"
   },
   "candidatas": [
     {
@@ -199,7 +199,7 @@ Dreamers.autoContenido("sirmitu", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@sir.mitu/video/7008250491931509765",
-      "titulo": "@sir.mitu 37.6k seguidores, 263 siguiendo, 1.2m me gusta: no te pierdas los geniales vídeo",
+      "titulo": "@sir.mitu 37.7k seguidores, 263 siguiendo, 1.2m me gusta: no te pierdas los geniales vídeo",
       "vistas": null,
       "fecha": 1631735472
     }

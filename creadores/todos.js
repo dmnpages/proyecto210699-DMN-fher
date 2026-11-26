@@ -148,7 +148,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "272.3K",
+    "valor": "272.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -454,7 +454,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "737.2K",
+    "valor": "737.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -698,7 +698,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "581.4K",
+    "valor": "581.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1186,7 +1186,7 @@ Dreamers.talento({
     "Musicales"
   ],
   "dato": {
-    "valor": "354.7K",
+    "valor": "354.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1214,7 +1214,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@sniva2509/",
-      "seguidores": "313"
+      "seguidores": "314"
     },
     {
       "plataforma": "Facebook",
@@ -1293,7 +1293,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "347.7K",
+    "valor": "347.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1358,7 +1358,7 @@ Dreamers.talento({
   "nombre": "Skeint MC",
   "ciudad": "Matagalpa",
   "correo": "iskeintplayer@gmail.com",
-  "seguidores": "786",
+  "seguidores": "787",
   "descripcion": "Creador de contenido con el objetivo de crecer y aprender en comunidad. Desea aportar sus habilidades, colaborar y compartir ideas para crear contenido de alta calidad y alcanzar nuevas metas junto a un equipo de trabajo.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50.390625% 50%",
@@ -1371,7 +1371,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@skeint_mc",
-      "seguidores": "120"
+      "seguidores": "121"
     },
     {
       "plataforma": "Twitch",
@@ -1545,7 +1545,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "87.8K",
+    "valor": "88.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -2082,7 +2082,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@colemann11",
-      "seguidores": "72"
+      "seguidores": "73"
     },
     {
       "plataforma": "Instagram",
@@ -2242,7 +2242,7 @@ Dreamers.talento({
   "nombre": "Marmota Geek",
   "ciudad": "Managua",
   "correo": "jalex.paramo@gmail.com",
-  "seguidores": "14.7K",
+  "seguidores": "14.8K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -2276,7 +2276,7 @@ Dreamers.talento({
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/MarmotaGeek/",
-      "seguidores": "1.9K"
+      "seguidores": "2K"
     }
   ],
   "formatos": [
@@ -2462,14 +2462,15 @@ Dreamers.talento({
   ],
   "formatos": [
     "Videos cortos",
-    "Tecnología"
+    "Tecnología",
+    "Geek News"
   ],
   "ideal": [
     "Gaming",
     "Tecnología"
   ],
   "dato": {
-    "valor": "900.8K",
+    "valor": "901K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

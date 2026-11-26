@@ -2,37 +2,49 @@ Dreamers.autoContenido("shisudool", {
   "actualizado": "2026-11-25",
   "elegidos": [
     "https://x.com/sh1sudo0l_/status/2125756014175928777",
+    "https://www.instagram.com/p/DgLnHNsDUUU/",
+    "https://www.instagram.com/reel/DgLYTT7BQmm/",
     "https://www.tiktok.com/@shisudool/video/7712192196514057492",
-    "https://www.tiktok.com/@shisudool/video/7711824654008143124",
-    "https://www.tiktok.com/@shisudool/video/7710370093661752596",
-    "https://www.tiktok.com/@shisudool/video/7707798419766594836"
+    "https://www.instagram.com/reel/DgIujTkhi-e/"
   ],
   "reserva": [
+    "https://www.tiktok.com/@shisudool/video/7711824654008143124",
+    "https://www.tiktok.com/@shisudool/video/7710370093661752596",
+    "https://www.tiktok.com/@shisudool/video/7707798419766594836",
     "https://www.instagram.com/reel/Dfsx21Vtrzb/",
     "https://www.instagram.com/reel/DfVllaDPdTH/",
     "https://www.tiktok.com/@shisudool/video/7703737063497059604",
     "https://x.com/sh1sudo0l_/status/2117413590680445438",
-    "https://www.instagram.com/p/DfQi4cFEdmC/",
-    "https://www.tiktok.com/@shisudool/video/7701117111229287701",
-    "https://www.instagram.com/reel/De-aaB6xvTE/",
-    "https://www.instagram.com/reel/De5ovIOuaf7/"
+    "https://www.instagram.com/p/DfQi4cFEdmC/"
   ],
   "vistas": {
-    "https://x.com/sh1sudo0l_/status/2125756014175928777": 4,
-    "https://x.com/sh1sudo0l_/status/2117413590680445438": 1,
-    "https://x.com/sh1sudo0l_/status/2112345476863307985": 10,
-    "https://x.com/sh1sudo0l_/status/2108727831706362049": 1,
-    "https://x.com/sh1sudo0l_/status/2106173067940463060": 23,
-    "https://x.com/sh1sudo0l_/status/2102132927987601480": 71,
-    "https://x.com/sh1sudo0l_/status/2099986421394084156": 25
+    "https://x.com/sh1sudo0l_/status/2125756014175928777": 7,
+    "https://x.com/sh1sudo0l_/status/2117413590680445438": 1101,
+    "https://x.com/sh1sudo0l_/status/2112345476863307985": 10302,
+    "https://x.com/sh1sudo0l_/status/2108727831706362049": 147,
+    "https://x.com/sh1sudo0l_/status/2102132927987601480": 71
   },
   "candidatas": [
     {
       "red": "x",
       "url": "https://x.com/sh1sudo0l_/status/2125756014175928777",
       "titulo": "",
-      "vistas": 4,
+      "vistas": 7,
       "fecha": 1795654703
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DgLnHNsDUUU/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795645963
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgLYTT7BQmm/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795638198
     },
     {
       "red": "tiktok",
@@ -40,6 +52,13 @@ Dreamers.autoContenido("shisudool", {
       "titulo": "",
       "vistas": null,
       "fecha": 1795634673
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgIujTkhi-e/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795549200
     },
     {
       "red": "tiktok",
@@ -87,7 +106,7 @@ Dreamers.autoContenido("shisudool", {
       "red": "x",
       "url": "https://x.com/sh1sudo0l_/status/2117413590680445438",
       "titulo": "",
-      "vistas": 1,
+      "vistas": 1101,
       "fecha": 1793665714
     },
     {
@@ -150,7 +169,7 @@ Dreamers.autoContenido("shisudool", {
       "red": "x",
       "url": "https://x.com/sh1sudo0l_/status/2112345476863307985",
       "titulo": "",
-      "vistas": 10,
+      "vistas": 10302,
       "fecha": 1792457381
     },
     {
@@ -178,7 +197,7 @@ Dreamers.autoContenido("shisudool", {
       "red": "x",
       "url": "https://x.com/sh1sudo0l_/status/2108727831706362049",
       "titulo": "",
-      "vistas": 1,
+      "vistas": 147,
       "fecha": 1791594868
     },
     {
@@ -213,7 +232,7 @@ Dreamers.autoContenido("shisudool", {
       "red": "x",
       "url": "https://x.com/sh1sudo0l_/status/2106173067940463060",
       "titulo": "",
-      "vistas": 23,
+      "vistas": null,
       "fecha": 1790985764
     },
     {
@@ -285,27 +304,6 @@ Dreamers.autoContenido("shisudool", {
       "titulo": "",
       "vistas": null,
       "fecha": 1790020920
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/DdheOJ8BLr3/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1789937048
-    },
-    {
-      "red": "x",
-      "url": "https://x.com/sh1sudo0l_/status/2099986421394084156",
-      "titulo": "",
-      "vistas": 25,
-      "fecha": 1789510753
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/Dc6urYqsTrh/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1788637053
     }
   ]
 });

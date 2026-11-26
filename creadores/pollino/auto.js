@@ -5,37 +5,39 @@ Dreamers.autoContenido("pollino", {
     "https://www.youtube.com/watch?v=4aoKXNwGrOI",
     "https://www.youtube.com/watch?v=DMSrr3P01Uk",
     "https://www.youtube.com/watch?v=37s_L2KNrrk",
-    "https://www.tiktok.com/@pollinot/video/7711959369499413781"
+    "https://www.youtube.com/watch?v=1bCvJJoqft8"
   ],
   "reserva": [
+    "https://www.tiktok.com/@pollinot/video/7711959369499413781",
     "https://www.tiktok.com/@pollinot/video/7710663699576507669",
     "https://www.tiktok.com/@pollinot/video/7710636510541876501",
     "https://www.tiktok.com/@pollinot/video/7709731472294350086",
     "https://www.tiktok.com/@pollinot/video/7707329755539836181",
     "https://www.tiktok.com/@pollinot/video/7706195578132122900",
     "https://www.tiktok.com/@pollinot/video/7705081169213181205",
-    "https://www.tiktok.com/@pollinot/video/7704709087950507284",
-    "https://www.tiktok.com/@pollinot/video/7703991414580858133"
+    "https://www.tiktok.com/@pollinot/video/7704709087950507284"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=qHdnHBV8Wbg": 35,
+    "https://www.youtube.com/watch?v=qHdnHBV8Wbg": 115,
     "https://www.youtube.com/watch?v=4aoKXNwGrOI": 264,
-    "https://www.youtube.com/watch?v=DMSrr3P01Uk": 88,
+    "https://www.youtube.com/watch?v=DMSrr3P01Uk": 112,
     "https://www.youtube.com/watch?v=37s_L2KNrrk": 525,
-    "https://www.facebook.com/reel/1723282352554071/": 20
+    "https://www.youtube.com/watch?v=1bCvJJoqft8": 217,
+    "https://www.facebook.com/reel/1723282352554071/": 22
   },
   "titulos": {
     "https://www.youtube.com/watch?v=qHdnHBV8Wbg": "Mi Xbox Series X NO da Sonido ni permite 4k ni 1440p / Resuelto",
     "https://www.youtube.com/watch?v=4aoKXNwGrOI": "Halo 3: ODST (Portrait)",
     "https://www.youtube.com/watch?v=DMSrr3P01Uk": "Halo 3: ODST",
-    "https://www.youtube.com/watch?v=37s_L2KNrrk": "Estas 3 cosas debería tener el nuevo Xbox Helix para que lo compren en masa / Parte 3"
+    "https://www.youtube.com/watch?v=37s_L2KNrrk": "Estas 3 cosas debería tener el nuevo Xbox Helix para que lo compren en masa / Parte 3",
+    "https://www.youtube.com/watch?v=1bCvJJoqft8": "Estas 3 cosas debería tener el nuevo Xbox Helix para que lo compren en masa / Parte 4"
   },
   "candidatas": [
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=qHdnHBV8Wbg",
       "titulo": "Mi Xbox Series X NO da Sonido ni permite 4k ni 1440p / Resuelto",
-      "vistas": 35,
+      "vistas": 115,
       "fecha": 1795653437
     },
     {
@@ -49,7 +51,7 @@ Dreamers.autoContenido("pollino", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=DMSrr3P01Uk",
       "titulo": "Halo 3: ODST",
-      "vistas": 88,
+      "vistas": 112,
       "fecha": 1795638229
     },
     {
@@ -58,6 +60,13 @@ Dreamers.autoContenido("pollino", {
       "titulo": "Estas 3 cosas debería tener el nuevo Xbox Helix para que lo compren en masa / Parte 3",
       "vistas": 525,
       "fecha": 1795618832
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=1bCvJJoqft8",
+      "titulo": "Estas 3 cosas debería tener el nuevo Xbox Helix para que lo compren en masa / Parte 4",
+      "vistas": 217,
+      "fecha": 1795586425
     },
     {
       "red": "tiktok",
@@ -217,19 +226,12 @@ Dreamers.autoContenido("pollino", {
       "red": "facebook",
       "url": "https://www.facebook.com/reel/1723282352554071/",
       "titulo": "",
-      "vistas": 20,
+      "vistas": 22,
       "fecha": null
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=Vcv72cXS0PU",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=5J1fs-RBG88",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -243,14 +245,14 @@ Dreamers.autoContenido("pollino", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=FgPcTqNGB2I",
+      "url": "https://www.youtube.com/watch?v=5J1fs-RBG88",
       "titulo": "",
       "vistas": null,
       "fecha": null
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=WnYUNzpqLKk",
+      "url": "https://www.youtube.com/watch?v=FgPcTqNGB2I",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -271,14 +273,21 @@ Dreamers.autoContenido("pollino", {
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=qQzmyBnMVLs",
+      "url": "https://www.youtube.com/watch?v=WnYUNzpqLKk",
       "titulo": "",
       "vistas": null,
       "fecha": null
     },
     {
       "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=_vXiScYnegQ",
+      "url": "https://www.youtube.com/watch?v=ugTXiqbhSDo",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=9v8b9HPvLdo",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -300,13 +309,6 @@ Dreamers.autoContenido("pollino", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=dAZ5lk9nqhk",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=FIzBFjqGYyU",
       "titulo": "",
       "vistas": null,
       "fecha": null

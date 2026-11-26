@@ -21,7 +21,7 @@ Dreamers.autoContenido("dragonxlr", {
     "https://www.twitch.tv/dragonxlrgames"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=z9jiOFx5qfA": 1063,
+    "https://www.youtube.com/watch?v=z9jiOFx5qfA": 1068,
     "https://www.youtube.com/watch?v=sAM4NgS3JZo": 916,
     "https://www.youtube.com/watch?v=qOveUdASfQA": 5,
     "https://www.youtube.com/watch?v=RCIVrKhw_ms": 44,
@@ -61,7 +61,7 @@ Dreamers.autoContenido("dragonxlr", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=z9jiOFx5qfA",
       "titulo": "Juego favorito y personaje favorito bega fest 2026 #geek #gaming #nicaragua",
-      "vistas": 1063,
+      "vistas": 1068,
       "fecha": 1795641001
     },
     {

@@ -125,8 +125,27 @@
     } catch (e) {}
   };
 
-  // Cumpleaños: se activa solo desde el editor (campo "cumpleanos": true en datos.js del creador).
-  D.esCumple = function (t) { return !!t && (t.cumpleanos === true || t.cumpleanos === 'true'); };
+  // Cumpleaños: a mano desde el editor (campo "cumpleanos": true en datos.js del creador) o solo con su fecha de nacimiento.
+  // También se activa solo: si el creador tiene «nacimiento» ("MM-DD", sin año; lo escribe el editor), el efecto se enciende el día de su
+  // cumpleaños (hora de Nicaragua) y se apaga al día siguiente. Se revisa en cada visita; no hay que acordarse de quitarlo.
+  D.hoyNicaragua = function () {
+    if (D._hoyNic) return D._hoyNic;
+    var m, d, a;
+    try {
+      var p = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Managua', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date());
+      p.forEach(function (x) { if (x.type === 'month') m = +x.value; if (x.type === 'day') d = +x.value; if (x.type === 'year') a = +x.value; });
+    } catch (e) { var n = new Date(); m = n.getMonth() + 1; d = n.getDate(); a = n.getFullYear(); }
+    return (D._hoyNic = { m: m, d: d, a: a });
+  };
+  D.cumpleHoy = function (t) {
+    var x = /^(\d{1,2})-(\d{1,2})$/.exec(String((t && t.nacimiento) || '').trim());
+    if (!x) return false;
+    var mes = +x[1], dia = +x[2], h = D.hoyNicaragua();
+    var bisiesto = (h.a % 4 === 0 && h.a % 100 !== 0) || h.a % 400 === 0;
+    if (mes === 2 && dia === 29 && !bisiesto) dia = 28;      // quien nació un 29 de febrero lo festeja el 28 en años normales
+    return mes === h.m && dia === h.d;
+  };
+  D.esCumple = function (t) { return !!t && (t.cumpleanos === true || t.cumpleanos === 'true' || D.cumpleHoy(t)); };
   // Confeti decorativo que cae sobre la foto (el CSS lo apaga con «reducir movimiento»).
   D.confeti = function (t) {
     if (!D.esCumple(t)) return '';
@@ -529,6 +548,8 @@
     });
   };
   // Formulario de creadores (página /unete): se activa o desactiva desde el panel (config/formulario.js).
+  // Opción de patrocinadores (formulario /unete, «Trabaja con» de cada perfil): se activa o desactiva en el panel → Resumen.
+  D.patrociniosActivos = function () { return !(D.formulario && (D.formulario.patrocinadores === false || D.formulario.patrocinadores === 'false')); };
   D.formularioActivo = function () { return !(D.formulario && (D.formulario.activo === false || D.formulario.activo === 'false')); };
   D.cargarFormulario = function () {   // sin caché larga: el cambio se nota a los pocos segundos
     return new Promise(function (ok) {

@@ -155,3 +155,15 @@ body.dlg-abierto{overflow:hidden}
 .crec-punto{position:absolute; width:11px; height:11px; margin:-5.5px 0 0 -5.5px; border-radius:50%; background:currentColor; box-shadow:0 0 0 4px color-mix(in srgb, currentColor 25%, transparent); pointer-events:none}
 .crec-ejes{display:flex; justify-content:space-between; gap:1rem; margin-top:.6rem; font-size:.75rem; color:var(--text)}
 @media (max-width:700px){ .crec-caja{grid-template-columns:1fr; padding:1.1rem} .crec-num b{font-size:2rem} }
+
+/* Trabaja con: logos de patrocinadores (solo aparece si el creador tiene) */
+.trabaja-con{margin-top:3rem}
+.trabaja-con > h2{font-size:1.1rem; color:var(--head); text-transform:uppercase; letter-spacing:.06em; margin-bottom:1.2rem}
+.trabaja-con > h2::after{content:""; display:block; width:40px; height:3px; background:var(--blue); margin-top:.6rem}
+.pat-lista{list-style:none; margin:0; padding:0; display:flex; flex-wrap:wrap; gap:1rem 1.2rem; align-items:center}
+.pat-lista li{display:block}
+.pat-lista a{display:block; text-decoration:none}
+.pat-logo{display:flex; align-items:center; justify-content:center; height:64px; min-width:96px; max-width:180px; padding:.6rem 1rem; background:var(--grey); border-radius:6px; transition:transform .15s}
+.pat-lista a:hover .pat-logo{transform:translateY(-2px)}
+.pat-logo img{max-height:100%; max-width:100%; width:auto; height:auto; object-fit:contain; transform:none !important}
+.pat-logo.solo-texto{font-weight:700; color:var(--head)}

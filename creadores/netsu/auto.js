@@ -51,7 +51,7 @@ Dreamers.autoContenido("netsu", {
     "https://www.youtube.com/watch?v=TXInjShAPic": "¿Te sabías este dato curioso sobre el Mario Day? #shorts   #mar10day #mar10  #nintendo #ma",
     "https://www.youtube.com/watch?v=mXQg8TL1nsA": "NOTICIAS | ¿DRAGON BALL Z BUDOKAI TENKAICHI 4? Trailer | Netsu",
     "https://www.youtube.com/watch?v=0HR_W5ppJTM": "Mira a todos tus streamers favoritos al mismo tiempo. #squidcraft2  #auronplay #komanche #",
-    "https://www.tiktok.com/@netsugames/video/6821725383412548614": "@netsugames 20.7k seguidores, 805 siguiendo, 581.4k me gusta: no te pierdas los geniales v"
+    "https://www.tiktok.com/@netsugames/video/6821725383412548614": "@netsugames 20.7k seguidores, 805 siguiendo, 581.5k me gusta: no te pierdas los geniales v"
   },
   "candidatas": [
     {
@@ -302,7 +302,7 @@ Dreamers.autoContenido("netsu", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@netsugames/video/6821725383412548614",
-      "titulo": "@netsugames 20.7k seguidores, 805 siguiendo, 581.4k me gusta: no te pierdas los geniales v",
+      "titulo": "@netsugames 20.7k seguidores, 805 siguiendo, 581.5k me gusta: no te pierdas los geniales v",
       "vistas": null,
       "fecha": 1588306711
     },

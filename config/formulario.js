@@ -1,3 +1,4 @@
 Dreamers.formulario = {
-  "activo": false
+  "activo": true,
+  "patrocinadores": false
 };

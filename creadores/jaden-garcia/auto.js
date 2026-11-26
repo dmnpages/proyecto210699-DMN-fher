@@ -24,7 +24,7 @@ Dreamers.autoContenido("jaden-garcia", {
     "https://www.youtube.com/watch?v=H4uQDfjepuM": 446,
     "https://www.youtube.com/watch?v=hO8fiDP-kxk": 426,
     "https://www.youtube.com/watch?v=PjKdf1wHyE0": 728,
-    "https://www.youtube.com/watch?v=INjKLWVNL1Y": 3776,
+    "https://www.youtube.com/watch?v=INjKLWVNL1Y": 3777,
     "https://www.youtube.com/watch?v=ThwzyLjqxfQ": 654,
     "https://www.youtube.com/watch?v=olF99A5kKVU": 1510,
     "https://www.youtube.com/watch?v=HCYTieoTsuE": 199,
@@ -246,7 +246,7 @@ Dreamers.autoContenido("jaden-garcia", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=INjKLWVNL1Y",
       "titulo": "ALEXA",
-      "vistas": 3776,
+      "vistas": 3777,
       "fecha": 1741716915
     },
     {

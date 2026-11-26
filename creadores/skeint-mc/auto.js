@@ -18,15 +18,14 @@ Dreamers.autoContenido("skeint-mc", {
     "https://www.youtube.com/watch?v=X0_By88Jaus"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=P7txP8LeTNg": 240,
-    "https://www.youtube.com/watch?v=pZJhK3HaZdg": 461,
-    "https://x.com/Skeint_MC/status/2125566643556192530": 18,
+    "https://www.youtube.com/watch?v=P7txP8LeTNg": 257,
+    "https://www.youtube.com/watch?v=pZJhK3HaZdg": 465,
+    "https://x.com/Skeint_MC/status/2125566643556192530": 20,
     "https://x.com/Skeint_MC/status/2096031490312126948": 10,
-    "https://www.youtube.com/watch?v=W9_kjVclHyM": 1224,
-    "https://x.com/Skeint_MC/status/2090312157556506818": 1,
+    "https://www.youtube.com/watch?v=W9_kjVclHyM": 1225,
+    "https://x.com/Skeint_MC/status/2090312157556506818": 149,
     "https://www.youtube.com/watch?v=MvBo6lM1pw4": 367,
     "https://www.youtube.com/watch?v=KeHa-V9TcZ4": 909,
-    "https://x.com/Skeint_MC/status/2082685215034449992": 1,
     "https://www.youtube.com/watch?v=X0_By88Jaus": 720,
     "https://www.youtube.com/watch?v=y2vZ021tJVg": 1072,
     "https://x.com/Skeint_MC/status/2077815343372747212": 14,
@@ -67,7 +66,7 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=P7txP8LeTNg",
       "titulo": "#brawlstars #box Caja Gratis del Nuevo Brawler ThunderTrogs 🐸🔮",
-      "vistas": 240,
+      "vistas": 257,
       "fecha": 1795644542
     },
     {
@@ -81,14 +80,14 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=pZJhK3HaZdg",
       "titulo": "Caja Gratis del nuevo brawler 🐸🔮",
-      "vistas": 461,
+      "vistas": 465,
       "fecha": 1795614576
     },
     {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2125566643556192530",
       "titulo": "",
-      "vistas": 18,
+      "vistas": 20,
       "fecha": 1795609553
     },
     {
@@ -102,14 +101,14 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=W9_kjVclHyM",
       "titulo": "Caja de Wendy # #brawlstars",
-      "vistas": 1224,
+      "vistas": 1225,
       "fecha": 1787284982
     },
     {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2090312157556506818",
       "titulo": "",
-      "vistas": 1,
+      "vistas": 149,
       "fecha": 1787204229
     },
     {
@@ -137,7 +136,7 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2082685215034449992",
       "titulo": "",
-      "vistas": 1,
+      "vistas": null,
       "fecha": 1785385824
     },
     {

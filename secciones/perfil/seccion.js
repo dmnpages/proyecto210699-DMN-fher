@@ -170,9 +170,22 @@
         '<div><h2>' + D.esc(c.tituloRedes) + '</h2><ul class="netlist">' + redes + '</ul></div>' +
         '<div><h2>' + D.esc(c.tituloFormatos) + '</h2>' + lista(t.formatos, 'pills') + '</div>' +
         '<div><h2>' + D.esc(c.tituloIdeal) + '</h2>' + lista(t.ideal, 'pills') + '</div></div>' +
-        crecimientoHtml(t) + mediosHtml +
+        crecimientoHtml(t) + mediosHtml + patrocinadoresHtml(t) +
         '<div class="pager"><a href="' + D.rutaTalento(ant.carpeta) + '">&larr; ' + D.esc(ant.nombre) + '</a>' +
         '<a href="' + D.rutaTalento(sig.carpeta) + '">' + D.esc(sig.nombre) + ' &rarr;</a></div></div></section>';
+    }
+    // ---- «Trabaja con»: logos de los patrocinadores del creador. Si no tiene ninguno, no se dibuja nada.
+    function patrocinadoresHtml(t) {
+      if (!D.patrociniosActivos()) return '';   // desactivado desde el panel: no se muestra nada
+      var lista = (Array.isArray(t.patrocinadores) ? t.patrocinadores : []).filter(function (p) { return p && String(p.nombre || '').trim(); });
+      if (!lista.length) return '';
+      var items = lista.map(function (p) {
+        var logo = p.logo ? D.img('creadores/' + encodeURIComponent(t.carpeta) + '/' + encodeURIComponent(p.logo), p.nombre) : '<span>' + D.esc(p.nombre) + '</span>';
+        var cont = '<span class="pat-logo' + (p.logo ? '' : ' solo-texto') + '">' + logo + '</span>';
+        var href = /^https?:\/\//i.test(String(p.enlace || '')) ? p.enlace : '';
+        return '<li title="' + D.esc(p.nombre) + '">' + (href ? '<a href="' + D.esc(href) + '" target="_blank" rel="noopener noreferrer sponsored" aria-label="' + D.esc(p.nombre) + '">' + cont + '</a>' : cont) + '</li>';
+      }).join('');
+      return '<section class="trabaja-con"><h2>' + D.esc(c.tituloPatrocinadores || 'Trabaja con') + '</h2><ul class="pat-lista">' + items + '</ul></section>';
     }
     // ---- Crecimiento: seguidores totales desde que se empezó a medir hasta hoy (datos públicos de creadores/crecimiento.js).
     function totalNumero(t) {

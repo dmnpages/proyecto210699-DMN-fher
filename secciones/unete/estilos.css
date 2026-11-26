@@ -25,3 +25,82 @@
 .unete .vista .fol{font-family:var(--display); color:var(--blue); margin:.3rem 0}
 .unete .vista small{display:block; font:.7rem var(--body); color:#777}
 @media (max-width:640px){ .unete .foto-bloque{grid-template-columns:1fr} }
+
+/* ---- Formulario ampliado: bloques, chips, carrusel de creadores, videos ---- */
+.unete h2.bt{grid-column:1/-1; margin:1.6rem 0 .2rem; font-size:1.05rem; letter-spacing:.1em; text-transform:uppercase; color:var(--orange); display:flex; align-items:center; gap:.8rem}
+.unete h2.bt::after{content:""; flex:1; height:1px; background:rgba(255,255,255,.2)}
+.unete h2.bt:first-of-type{margin-top:0}
+.unete [hidden]{display:none !important}
+.unete .cuerpo{display:grid; grid-template-columns:1fr 1fr; gap:1rem}
+.unete .cuerpo > .full, .unete .cuerpo > h2{grid-column:1/-1}
+.unete .dos-col{grid-column:1/-1; display:grid; grid-template-columns:1fr 1fr; gap:1rem}
+.unete .grupo{grid-column:auto}
+.unete .grupo.full{grid-column:1/-1}
+.unete .dos{display:grid; grid-template-columns:1fr 1.4fr; gap:.6rem}
+.unete .duo{display:grid; grid-template-columns:1fr 1fr; gap:.7rem}
+.unete .opcion{display:flex; align-items:center; gap:.7rem; padding:1rem 1.1rem; border:2px solid rgba(255,255,255,.25); border-radius:6px; background:rgba(255,255,255,.08); cursor:pointer; color:var(--white); font-weight:700; font-size:.95rem}
+.unete .opcion input{width:auto; padding:0; accent-color:var(--blue)}
+.unete .opcion:has(input:checked){border-color:var(--blue); background:rgba(46,163,242,.25)}
+.unete .opcion:has(input:focus-visible), .unete .cr-item:has(input:focus-visible) .cr-foto{outline:3px solid var(--orange); outline-offset:2px}
+.unete .cuenta{justify-self:end; font-size:.75rem; color:rgba(255,255,255,.6)}
+.unete .cuenta.ok{color:#7fe3a0}
+.unete .det{font-style:normal; font-weight:400; color:var(--blue); font-size:.8rem}
+.unete .links{display:grid; gap:.1rem}
+.unete .acepto{display:flex; align-items:flex-start; gap:.7rem; margin:1.4rem 0 1.2rem; font-size:.85rem; line-height:1.5; cursor:pointer}
+.unete .acepto input{width:auto; margin-top:.2rem; accent-color:var(--blue)}
+.unete .trampa{position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden}
+.unete .estado{grid-column:1/-1; margin:0; min-height:1.5em; color:var(--orange); font-weight:700}
+.unete .mal{outline:2px solid #ff6b6b; outline-offset:4px; border-radius:4px}
+.unete .mal input, .unete .mal select, .unete .mal textarea{border-color:#ff6b6b}
+.unete .resultado{padding:1.1rem 1.3rem; border-left:4px solid #7fe3a0; background:rgba(255,255,255,.08); border-radius:3px}
+.unete .resultado p{margin:0 0 .8rem; line-height:1.6}
+.unete .btn2{font:inherit; font-weight:700; padding:.55rem 1.1rem; border:2px solid var(--white); border-radius:3px; background:transparent; color:var(--white); cursor:pointer}
+.unete .btn2:hover{background:rgba(255,255,255,.18)}
+
+/* Carrusel para elegir creador */
+.unete .buscar{margin:.3rem 0 .8rem; max-width:340px}
+.unete .carr{position:relative; display:flex; align-items:center; gap:.4rem}
+.unete .carr-pista{flex:1; min-width:0; display:flex; gap:.8rem; overflow-x:auto; scroll-snap-type:x proximity; padding:.5rem .3rem .8rem; scrollbar-width:thin}
+.unete .carr-flecha{flex:none; width:2.4rem; height:2.4rem; border-radius:50%; border:2px solid rgba(255,255,255,.4); background:rgba(255,255,255,.1); color:var(--white); font-size:1.5rem; line-height:1; cursor:pointer}
+.unete .carr-flecha:hover:not(:disabled){background:var(--blue); border-color:var(--blue)}
+.unete .carr-flecha:disabled{opacity:.3; cursor:default}
+.unete .cr-item{flex:none; width:118px; display:grid; gap:.5rem; justify-items:center; cursor:pointer; scroll-snap-align:start}
+.unete .cr-item input{position:absolute; opacity:0; width:1px; height:1px; padding:0; pointer-events:none}
+.unete .cr-foto{position:relative; display:block; width:100%; aspect-ratio:4/5; overflow:hidden; border-radius:8px; border:3px solid transparent; background:linear-gradient(160deg,#cfd8e3,#9fb0c5); transition:transform .15s, border-color .15s}
+.unete .cr-foto img{width:100%; height:100%; object-fit:cover; display:block}
+.unete .cr-item:hover .cr-foto{transform:translateY(-3px)}
+.unete .cr-item:has(input:checked) .cr-foto{border-color:var(--blue); box-shadow:0 0 0 3px rgba(46,163,242,.35)}
+.unete .cr-ok{position:absolute; right:6px; top:6px; width:1.7rem; height:1.7rem; border-radius:50%; background:var(--blue); color:#fff; display:none; place-items:center; font-weight:700}
+.unete .cr-item:has(input:checked) .cr-ok{display:grid}
+.unete .cr-nombre{font-size:.82rem; font-weight:700; text-align:center; line-height:1.25; color:var(--white); overflow-wrap:anywhere}
+.unete .carr-sel{margin:.2rem 0 0; font-weight:700; color:var(--blue); min-height:1.4em}
+.unete .carr-vacio{margin:.5rem 0; color:rgba(255,255,255,.7)}
+@media (max-width:640px){
+  .unete .cuerpo, .unete .dos-col, .unete .duo{grid-template-columns:1fr}
+  .unete .carr-flecha{display:none}
+  .unete .cr-item{width:104px}
+}
+
+/* El carrusel nunca debe ensanchar la página */
+.unete form{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+.unete .cuerpo, .unete .dos-col{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+.unete #panel-si, .unete .carr, .unete .grupo{min-width:0}
+@media (max-width:640px){ .unete form, .unete .cuerpo, .unete .dos-col{grid-template-columns:minmax(0,1fr)} }
+.unete .cr-item{position:relative}
+.unete #grupo-creador > .et, .unete #grupo-creador > .pista{display:block}
+
+/* Patrocinadores en el formulario */
+.unete #pat-panel{margin-top:.9rem}
+.unete .pat-fila{display:grid; grid-template-columns:1fr 1fr; gap:.8rem 1rem; padding:1rem; margin-bottom:.8rem; border:1px solid rgba(255,255,255,.2); border-radius:6px; background:rgba(255,255,255,.05); align-items:end}
+.unete .pat-n{grid-column:1/-1; color:var(--orange); font-size:.85rem; letter-spacing:.06em; text-transform:uppercase}
+.unete .pat-archivo{min-width:0}
+.unete .pat-vista{display:grid; place-items:center; height:64px; border-radius:4px; background:rgba(255,255,255,.9)}
+.unete .pat-vista img{max-width:90%; max-height:56px; object-fit:contain}
+.unete .pat-quitar{justify-self:start; padding:.4rem .9rem; font-size:.8rem}
+@media (max-width:640px){ .unete .pat-fila{grid-template-columns:minmax(0,1fr)} }
+
+/* Listas desplegables legibles en cualquier sistema (el menú del navegador no hereda el fondo oscuro del formulario) */
+.unete select{color-scheme:light}
+.unete select option, .unete select optgroup{background:#fff; color:#1b2230}
+.unete select optgroup{font-weight:700; color:#0b5fa5; background:#eef3f9}
+.unete select option:checked{background:#2ea3f2; color:#fff}

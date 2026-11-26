@@ -20,7 +20,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@colemann11",
-      "seguidores": "72"
+      "seguidores": "73"
     },
     {
       "plataforma": "Instagram",

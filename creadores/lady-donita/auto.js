@@ -18,10 +18,10 @@ Dreamers.autoContenido("lady-donita", {
     "https://www.youtube.com/watch?v=yVXsxspWzTE"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=szZpSxa1V44": 1525,
-    "https://www.youtube.com/watch?v=vZdqYL2_hJA": 57,
-    "https://www.youtube.com/watch?v=wsMO7JIKlJo": 281,
-    "https://www.youtube.com/watch?v=tVn0I1_VgcE": 1274,
+    "https://www.youtube.com/watch?v=szZpSxa1V44": 1567,
+    "https://www.youtube.com/watch?v=vZdqYL2_hJA": 61,
+    "https://www.youtube.com/watch?v=wsMO7JIKlJo": 297,
+    "https://www.youtube.com/watch?v=tVn0I1_VgcE": 1275,
     "https://www.youtube.com/watch?v=yVXsxspWzTE": 1585
   },
   "titulos": {
@@ -36,7 +36,7 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=szZpSxa1V44",
       "titulo": "Consigue la Hoguera de Dark Souls en WoW Juguete: Fogata del caminante #WorldOfWarcraft #W",
-      "vistas": 1525,
+      "vistas": 1567,
       "fecha": 1795593816
     },
     {
@@ -57,7 +57,7 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=vZdqYL2_hJA",
       "titulo": "Yo de Healer sueno así ✨️ pt 2#WorldOfWarcraft #Warcraft #Blizzard #WarcraftLatam #Miticas",
-      "vistas": 57,
+      "vistas": 61,
       "fecha": 1795551149
     },
     {
@@ -71,7 +71,7 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=wsMO7JIKlJo",
       "titulo": "😭 QUE LINDAAAAA. La vi, la quise y la obtuve 🥺#WorldOfWarcraft #Warcraft #Blizzard #Warcra",
-      "vistas": 281,
+      "vistas": 297,
       "fecha": 1795495078
     },
     {
@@ -99,7 +99,7 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=tVn0I1_VgcE",
       "titulo": "Addon para tu mouse en WoW Retail y WoW Forever#worldifwarcraft  #addon #Warcraft #CurseFo",
-      "vistas": 1274,
+      "vistas": 1275,
       "fecha": 1795365315
     },
     {

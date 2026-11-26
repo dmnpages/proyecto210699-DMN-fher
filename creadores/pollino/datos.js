@@ -31,14 +31,15 @@ Dreamers.talento({
   ],
   "formatos": [
     "Videos cortos",
-    "Tecnología"
+    "Tecnología",
+    "Geek News"
   ],
   "ideal": [
     "Gaming",
     "Tecnología"
   ],
   "dato": {
-    "valor": "900.8K",
+    "valor": "901K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

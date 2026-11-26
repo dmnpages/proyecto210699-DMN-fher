@@ -28,6 +28,7 @@ Dreamers.contenido.perfil = {
   "tituloRedes": "Redes",
   "tituloFormatos": "Formatos",
   "tituloIdeal": "Ideal para marcas de",
+  "tituloPatrocinadores": "Trabaja con",
   "tituloTransmisiones": "Videos y transmisiones",
   "redClave": "Red clave",
   "crecimientoTitulo": "Crecimiento",

@@ -21,17 +21,16 @@ Dreamers.autoContenido("lachelugaming", {
     "https://www.youtube.com/watch?v=oHE_XkyXtEQ": 1285,
     "https://www.youtube.com/watch?v=rJc9XXxCUYA": 3455,
     "https://www.youtube.com/watch?v=NIAZFeqcvQs": 1865,
-    "https://x.com/LaCheluGaming/status/2117388978856792294": 243,
+    "https://x.com/LaCheluGaming/status/2117388978856792294": 245,
     "https://www.youtube.com/watch?v=5Y3X3xkaW58": 2320,
-    "https://x.com/LaCheluGaming/status/2100949017068699836": 1,
+    "https://x.com/LaCheluGaming/status/2100949017068699836": 144,
     "https://www.youtube.com/watch?v=er4k2aHaV-k": 1463,
     "https://www.youtube.com/watch?v=rKk_1J_VE1g": 1265,
     "https://www.youtube.com/watch?v=xcLUZnydScI": 1413,
     "https://www.youtube.com/watch?v=TVwVrBxb5-U": 1204,
-    "https://x.com/LaCheluGaming/status/2094150461662142881": 2,
-    "https://x.com/LaCheluGaming/status/2093444698430194118": 1,
+    "https://x.com/LaCheluGaming/status/2094150461662142881": 249,
+    "https://x.com/LaCheluGaming/status/2093444698430194118": 146,
     "https://www.youtube.com/watch?v=lxmMD3Irka0": 1136,
-    "https://x.com/LaCheluGaming/status/2092365391997673614": 130,
     "https://x.com/LaCheluGaming/status/2091911682251424233": 32,
     "https://x.com/LaCheluGaming/status/2091655345433129260": 2,
     "https://www.youtube.com/watch?v=eR_TBpr466Y": 2706,
@@ -106,7 +105,7 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2117388978856792294",
       "titulo": "",
-      "vistas": 243,
+      "vistas": 245,
       "fecha": 1793659846
     },
     {
@@ -127,7 +126,7 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2100949017068699836",
       "titulo": "",
-      "vistas": 1,
+      "vistas": 144,
       "fecha": 1789740254
     },
     {
@@ -190,14 +189,14 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2094150461662142881",
       "titulo": "",
-      "vistas": 2,
+      "vistas": 249,
       "fecha": 1788119352
     },
     {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2093444698430194118",
       "titulo": "",
-      "vistas": 1,
+      "vistas": 146,
       "fecha": 1787951085
     },
     {
@@ -218,7 +217,7 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "x",
       "url": "https://x.com/LaCheluGaming/status/2092365391997673614",
       "titulo": "",
-      "vistas": 130,
+      "vistas": null,
       "fecha": 1787693758
     },
     {

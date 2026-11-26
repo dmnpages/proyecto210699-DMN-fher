@@ -29,7 +29,7 @@ Dreamers.autoContenido("vitta-bass", {
     "https://www.youtube.com/watch?v=KMWjADUrh6c": 833,
     "https://www.youtube.com/watch?v=_3OHjdG0bsU": 1544,
     "https://www.youtube.com/watch?v=W8XVQTDnp5A": 940,
-    "https://www.youtube.com/watch?v=J_T1F_yUPUU": 232,
+    "https://www.youtube.com/watch?v=J_T1F_yUPUU": 233,
     "https://www.youtube.com/watch?v=KxenH6pkdGc": 1603,
     "https://www.youtube.com/watch?v=nihlfhMA2QI": 1354,
     "https://www.youtube.com/watch?v=I26XSpb2HI8": 218
@@ -267,7 +267,7 @@ Dreamers.autoContenido("vitta-bass", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=J_T1F_yUPUU",
       "titulo": "VITTA - MOOD 3 ( video lírico)",
-      "vistas": 232,
+      "vistas": 233,
       "fecha": 1730419205
     },
     {
@@ -307,6 +307,13 @@ Dreamers.autoContenido("vitta-bass", {
     },
     {
       "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=N7iv_b-WIp0",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
       "url": "https://www.youtube.com/watch?v=EDTix3Ef4Mk",
       "titulo": "",
       "vistas": null,
@@ -322,13 +329,6 @@ Dreamers.autoContenido("vitta-bass", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=eo5K6KVyVz8",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=_GOEDJ4LKoo",
       "titulo": "",
       "vistas": null,
       "fecha": null

@@ -18,7 +18,7 @@ Dreamers.autoContenido("mia-cano", {
     "https://www.instagram.com/reel/Dfv2vRZtIMK/"
   ],
   "vistas": {
-    "https://www.facebook.com/rini.cano/posts/pfbid034aW234Z1YX2Zxg7yyiTKQ51PY7g9fmmTnWEutABCo8nejFJQGiRmv7qhteUk5pHbl": 21
+    "https://www.facebook.com/rini.cano/posts/pfbid034aW234Z1YX2Zxg7yyiTKQ51PY7g9fmmTnWEutABCo8nejFJQGiRmv7qhteUk5pHbl": 23
   },
   "candidatas": [
     {
@@ -228,7 +228,7 @@ Dreamers.autoContenido("mia-cano", {
       "red": "facebook",
       "url": "https://www.facebook.com/rini.cano/posts/pfbid034aW234Z1YX2Zxg7yyiTKQ51PY7g9fmmTnWEutABCo8nejFJQGiRmv7qhteUk5pHbl",
       "titulo": "",
-      "vistas": 21,
+      "vistas": 23,
       "fecha": null
     }
   ]

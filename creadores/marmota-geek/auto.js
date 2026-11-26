@@ -18,13 +18,13 @@ Dreamers.autoContenido("marmota-geek", {
     "https://www.tiktok.com/@marmotageek/video/7674302560697683208"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=pg2DqVmnRbE": 322,
-    "https://www.youtube.com/watch?v=zqC6HuSzaww": 122,
+    "https://www.youtube.com/watch?v=pg2DqVmnRbE": 973,
+    "https://www.youtube.com/watch?v=zqC6HuSzaww": 124,
     "https://www.youtube.com/watch?v=ryE1jAzjsM8": 345,
     "https://www.youtube.com/watch?v=MrTG6h3gRNw": 709,
     "https://www.youtube.com/watch?v=rFxteVW_ehU": 2016,
     "https://www.youtube.com/watch?v=3TK4paNYZaE": 1334,
-    "https://www.youtube.com/watch?v=1cbE_TCsi0I": 2126,
+    "https://www.youtube.com/watch?v=1cbE_TCsi0I": 2127,
     "https://www.youtube.com/watch?v=AaXds8_7c9o": 2060,
     "https://www.youtube.com/watch?v=QXWio4Y1x8w": 1314
   },
@@ -44,7 +44,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=pg2DqVmnRbE",
       "titulo": "👏 ¡FELICIDADES, JENSEN! ¡FELICIDADES! 👏 #jensenhuang #nvidia #evangelion",
-      "vistas": 322,
+      "vistas": 973,
       "fecha": 1795532624
     },
     {
@@ -79,7 +79,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=zqC6HuSzaww",
       "titulo": "Cosplay Music Video - Tsunami Fest 2026",
-      "vistas": 122,
+      "vistas": 124,
       "fecha": 1794716319
     },
     {
@@ -240,7 +240,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=1cbE_TCsi0I",
       "titulo": "¿Quién es Yamoshi, el primer Super Saiyajin Dios de Dragon Ball?",
-      "vistas": 2126,
+      "vistas": 2127,
       "fecha": 1786119375
     },
     {
