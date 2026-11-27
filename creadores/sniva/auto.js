@@ -1,33 +1,38 @@
 Dreamers.autoContenido("sniva", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
+    "https://www.instagram.com/reel/DgN-o-QIFAT/",
     "https://www.instagram.com/p/DgISwyJo322/",
     "https://www.tiktok.com/@sniva2509/video/7711431005600648469",
     "https://www.tiktok.com/@sniva2509/video/7710285493736312085",
-    "https://www.tiktok.com/@sniva2509/video/7709945354648603925",
-    "https://www.instagram.com/reel/Df7rLRzo4AF/"
+    "https://www.tiktok.com/@sniva2509/video/7709945354648603925"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/Df7rLRzo4AF/",
     "https://www.instagram.com/p/Df3r5lBunZd/",
     "https://www.tiktok.com/@sniva2509/video/7707513353068989716",
     "https://www.tiktok.com/@sniva2509/video/7707088278821932309",
     "https://www.instagram.com/p/DflGtQ0udsk/",
     "https://www.tiktok.com/@sniva2509/video/7706690768768961793",
     "https://www.tiktok.com/@sniva2509/video/7704727132085194005",
-    "https://www.instagram.com/reel/DfWPnmBuZUl/",
-    "https://www.tiktok.com/@sniva2509/video/7704549333038828820"
+    "https://www.instagram.com/reel/DfWPnmBuZUl/"
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=mYWDlcTpgFc": 3,
-    "https://www.youtube.com/watch?v=dzItNLE_IbA": 1175,
-    "https://www.youtube.com/watch?v=j00VHXTXeww": 685
+    "https://www.youtube.com/watch?v=dzItNLE_IbA": 1175
   },
   "titulos": {
     "https://www.youtube.com/watch?v=mYWDlcTpgFc": "Otro Cinderace Classic",
-    "https://www.youtube.com/watch?v=dzItNLE_IbA": "tu terremoto no es mas fuerte que el mio #pokemonnintendo #pokemonchampions",
-    "https://www.youtube.com/watch?v=j00VHXTXeww": "usar a Quaqaval en unite es como:   #pokemon #pokemonunitegameplay #lacasadelosdibujos #pa"
+    "https://www.youtube.com/watch?v=dzItNLE_IbA": "tu terremoto no es mas fuerte que el mio #pokemonnintendo #pokemonchampions"
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgN-o-QIFAT/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795725407
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/p/DgISwyJo322/",
@@ -300,13 +305,6 @@ Dreamers.autoContenido("sniva", {
       "titulo": "",
       "vistas": null,
       "fecha": 1782443025
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=j00VHXTXeww",
-      "titulo": "usar a Quaqaval en unite es como:   #pokemon #pokemonunitegameplay #lacasadelosdibujos #pa",
-      "vistas": 685,
-      "fecha": 1781901843
     }
   ]
 });

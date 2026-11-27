@@ -1,21 +1,21 @@
 Dreamers.autoContenido("chinelaplay", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
+    "https://www.instagram.com/reel/DgN2o0Uzq81/",
     "https://www.tiktok.com/@chinelaplay/video/7712212291177041172",
     "https://www.instagram.com/reel/DgLYZVqR80o/",
     "https://www.instagram.com/p/DgJGXoZpWNk/",
-    "https://www.tiktok.com/@chinelaplay/video/7711482023738674453",
-    "https://www.instagram.com/reel/Df-Osi_hA7n/"
+    "https://www.tiktok.com/@chinelaplay/video/7711482023738674453"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/Df-Osi_hA7n/",
     "https://www.instagram.com/reel/DfqP7T9BR_o/",
     "https://www.tiktok.com/@chinelaplay/video/7707038620472872213",
     "https://www.tiktok.com/@chinelaplay/video/7705476780894719253",
     "https://www.instagram.com/reel/Dfanvn_Pj-e/",
     "https://www.tiktok.com/@chinelaplay/video/7705138773855587590",
     "https://www.tiktok.com/@chinelaplay/video/7702312468302859540",
-    "https://www.instagram.com/reel/DfGUQxOh44B/",
-    "https://www.tiktok.com/@chinelaplay/video/7701368004969368853"
+    "https://www.instagram.com/reel/DfGUQxOh44B/"
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=7XxYzO5HIGQ": 1781,
@@ -26,6 +26,13 @@ Dreamers.autoContenido("chinelaplay", {
     "https://www.youtube.com/watch?v=wJJO6DcN6Mg": "Llegó septiembre y viene cargado  de noticias."
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgN2o0Uzq81/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795721212
+    },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@chinelaplay/video/7712212291177041172",
@@ -298,13 +305,6 @@ Dreamers.autoContenido("chinelaplay", {
       "titulo": "",
       "vistas": null,
       "fecha": 1788406354
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/reel/DczwdZvA9-p/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1788403106
     }
   ]
 });

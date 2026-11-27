@@ -1,29 +1,30 @@
 Dreamers.autoContenido("liss-hana", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
+    "https://www.instagram.com/p/DgNjGgrEVKZ/",
     "https://www.instagram.com/reel/DgAe_48uJv1/",
     "https://www.instagram.com/reel/Df0QOGAPZqk/",
     "https://www.tiktok.com/@lisshana/video/7708873474026081556",
-    "https://www.instagram.com/p/Df0KHpMj6Vc/",
-    "https://www.instagram.com/reel/DfzjEKuhzCs/"
+    "https://www.instagram.com/p/Df0KHpMj6Vc/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DfzjEKuhzCs/",
     "https://www.tiktok.com/@lisshana/video/7708769669888642325",
     "https://www.instagram.com/reel/Dfyt6tDBkj5/",
     "https://www.instagram.com/p/DfySbe3jXfM/",
     "https://www.instagram.com/reel/DfyPhmoNVXv/",
     "https://www.tiktok.com/@lisshana/video/7708582956922719508",
     "https://www.instagram.com/reel/Dfv_BlJNKk_/",
-    "https://www.tiktok.com/@lisshana/video/7708257278268411156",
-    "https://www.instagram.com/p/Dfv0FFvDfxf/"
+    "https://www.tiktok.com/@lisshana/video/7708257278268411156"
   ],
-  "vistas": {
-    "https://www.facebook.com/reel/1089902507421100/": 1
-  },
-  "titulos": {
-    "https://www.tiktok.com/@lisshana/video/6796996889080726533": "@lisshana 14.1k seguidores, 1566 siguiendo, 960.7k me gusta: no te pierdas los geniales ví"
-  },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DgNjGgrEVKZ/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795710969
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgAe_48uJv1/",
@@ -116,11 +117,25 @@ Dreamers.autoContenido("liss-hana", {
       "fecha": 1794713238
     },
     {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfvwA6nN9qU/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794711106
+    },
+    {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@lisshana/video/7708223397343284500",
       "titulo": "",
       "vistas": null,
       "fecha": 1794710615
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfpUQUttza4/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794495226
     },
     {
       "red": "tiktok",
@@ -130,11 +145,32 @@ Dreamers.autoContenido("liss-hana", {
       "fecha": 1794495127
     },
     {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfmtrMCgfPT/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794407890
+    },
+    {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@lisshana/video/7706921468390558997",
       "titulo": "",
       "vistas": null,
       "fecha": 1794407486
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/Dfmotj2BopR/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794405288
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DflMXWWpt4H/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794356871
     },
     {
       "red": "tiktok",
@@ -151,11 +187,25 @@ Dreamers.autoContenido("liss-hana", {
       "fecha": 1794344216
     },
     {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DfhkGJ2hGcy/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794235096
+    },
+    {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@lisshana/video/7705964219677658388",
       "titulo": "",
       "vistas": null,
       "fecha": 1794184609
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DffwDj8v-kg/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1794174257
     },
     {
       "red": "tiktok",
@@ -247,48 +297,6 @@ Dreamers.autoContenido("liss-hana", {
       "titulo": "",
       "vistas": null,
       "fecha": 1681783412
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@lisshana/video/6796996889080726533",
-      "titulo": "@lisshana 14.1k seguidores, 1566 siguiendo, 960.7k me gusta: no te pierdas los geniales ví",
-      "vistas": null,
-      "fecha": 1582549160
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1089902507421100/",
-      "titulo": "",
-      "vistas": 1,
-      "fecha": null
     }
   ]
 });

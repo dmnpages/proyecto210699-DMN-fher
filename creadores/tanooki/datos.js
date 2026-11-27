@@ -21,7 +21,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/tanooki_ni",
-      "seguidores": "28"
+      "seguidores": "29"
     },
     {
       "plataforma": "Facebook",

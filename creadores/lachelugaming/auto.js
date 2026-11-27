@@ -1,5 +1,5 @@
 Dreamers.autoContenido("lachelugaming", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.youtube.com/watch?v=oHE_XkyXtEQ",
     "https://www.instagram.com/reel/Dfs7IXGhDr-/",
@@ -20,7 +20,7 @@ Dreamers.autoContenido("lachelugaming", {
   "vistas": {
     "https://www.youtube.com/watch?v=oHE_XkyXtEQ": 1285,
     "https://www.youtube.com/watch?v=rJc9XXxCUYA": 3455,
-    "https://www.youtube.com/watch?v=NIAZFeqcvQs": 1865,
+    "https://www.youtube.com/watch?v=NIAZFeqcvQs": 1866,
     "https://x.com/LaCheluGaming/status/2117388978856792294": 245,
     "https://www.youtube.com/watch?v=5Y3X3xkaW58": 2320,
     "https://x.com/LaCheluGaming/status/2100949017068699836": 144,
@@ -91,7 +91,7 @@ Dreamers.autoContenido("lachelugaming", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=NIAZFeqcvQs",
       "titulo": "No soporté la voz de Navi 😂",
-      "vistas": 1865,
+      "vistas": 1866,
       "fecha": 1794009928
     },
     {

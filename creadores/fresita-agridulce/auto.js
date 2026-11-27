@@ -1,5 +1,5 @@
 Dreamers.autoContenido("fresita-agridulce", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@samy.fresita/video/7702438189063015688",
     "https://www.instagram.com/reel/DfEI7S9ugBi/",
@@ -18,7 +18,7 @@ Dreamers.autoContenido("fresita-agridulce", {
     "https://www.tiktok.com/@samy.fresita/video/7691855857700670728"
   ],
   "titulos": {
-    "https://www.tiktok.com/@samy.fresita/video/7248271120648897541": "@samy.fresita 555 seguidores, 5292 siguiendo, 1479 me gusta: no te pierdas los geniales ví"
+    "https://www.tiktok.com/@samy.fresita/video/7248271120648897541": "@samy.fresita 555 seguidores, 5299 siguiendo, 1479 me gusta: no te pierdas los geniales ví"
   },
   "candidatas": [
     {
@@ -220,7 +220,7 @@ Dreamers.autoContenido("fresita-agridulce", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@samy.fresita/video/7248271120648897541",
-      "titulo": "@samy.fresita 555 seguidores, 5292 siguiendo, 1479 me gusta: no te pierdas los geniales ví",
+      "titulo": "@samy.fresita 555 seguidores, 5299 siguiendo, 1479 me gusta: no te pierdas los geniales ví",
       "vistas": null,
       "fecha": 1687619630
     }

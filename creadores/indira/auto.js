@@ -1,5 +1,5 @@
 Dreamers.autoContenido("indira", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/reel/DgIuNbyRq2V/",
     "https://www.instagram.com/reel/DgGm73rs3rF/",
@@ -18,7 +18,7 @@ Dreamers.autoContenido("indira", {
     "https://www.tiktok.com/@indirapellas/video/7709333403945946375"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=EJcj2ohZepA": 1218,
+    "https://www.youtube.com/watch?v=EJcj2ohZepA": 1222,
     "https://www.youtube.com/watch?v=Sym7Sy1VU00": 1168,
     "https://www.youtube.com/watch?v=-ec4MP_wzb0": 1565,
     "https://www.youtube.com/watch?v=395pWO4XdFE": 2461,
@@ -50,7 +50,7 @@ Dreamers.autoContenido("indira", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=EJcj2ohZepA",
       "titulo": "😀 #blackclover #blackcloveredit #astablackclover #anime #fyp #crunchyroll #otaku",
-      "vistas": 1218,
+      "vistas": 1222,
       "fecha": 1795458530
     },
     {

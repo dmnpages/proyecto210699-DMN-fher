@@ -1,5 +1,5 @@
 Dreamers.autoContenido("tate-kc", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/reel/DgLagJ8hdnu/",
     "https://www.tiktok.com/@tate_kc/video/7712200276718914836",

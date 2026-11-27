@@ -1,7 +1,7 @@
 Dreamers.listaTalentos = [
-  "lachelugaming",
-  "yan",
   "indira",
+  "yan",
+  "lachelugaming",
   "kimera",
   "neylis",
   "sirmitu",
@@ -49,8 +49,10 @@ Dreamers.listaTalentos = [
   "marmota-geek",
   "mia-cano",
   "cordobita",
-  "oleslie",
+  "ashlys21",
   "pollino",
+  "oleslie",
+  "darrell-gg",
   "nuevo-creador",
   "chinoshi"
 ];

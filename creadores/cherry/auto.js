@@ -1,21 +1,21 @@
 Dreamers.autoContenido("cherry", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/p/DbxIv2-B1g6/",
     "https://www.instagram.com/p/DZgftELBqkM/",
     "https://www.tiktok.com/@thecherrypiex/video/7531665674788244742",
     "https://www.tiktok.com/@thecherrypiex/video/7695534743269412114",
-    "https://www.instagram.com/reel/Df-su2PBI-U/"
+    "https://www.youtube.com/watch?v=7jUQ7obtt0w"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DgOG4tkBjWM/",
+    "https://www.instagram.com/reel/Df-su2PBI-U/",
     "https://www.tiktok.com/@thecherrypiex/video/7710379445630061876",
     "https://www.instagram.com/reel/Df3QGO8Mg9M/",
     "https://www.instagram.com/reel/Df2qaYMB-Ke/",
     "https://www.tiktok.com/@thecherrypiex/video/7709218874788416789",
     "https://www.instagram.com/reel/Dfx1LyQBvgF/",
-    "https://www.tiktok.com/@thecherrypiex/video/7708523776048188692",
-    "https://www.tiktok.com/@thecherrypiex/video/7708444248114351380",
-    "https://www.instagram.com/reel/Dftpaubhe2Q/"
+    "https://www.tiktok.com/@thecherrypiex/video/7708523776048188692"
   ],
   "fijados": [
     "https://www.instagram.com/p/DbxIv2-B1g6/",
@@ -24,14 +24,14 @@ Dreamers.autoContenido("cherry", {
     "https://www.tiktok.com/@thecherrypiex/video/7695534743269412114"
   ],
   "vistas": {
+    "https://www.youtube.com/watch?v=7jUQ7obtt0w": 670,
     "https://www.youtube.com/watch?v=RFpfR2hXaKM": 21,
-    "https://www.youtube.com/watch?v=IkbPCaW0SFk": 1237,
-    "https://www.youtube.com/watch?v=chFHEcwmsps": 1258
+    "https://www.youtube.com/watch?v=IkbPCaW0SFk": 1237
   },
   "titulos": {
+    "https://www.youtube.com/watch?v=7jUQ7obtt0w": "La increíble conexión entre GTA Vice City y Scarface 🤯🌴 #GTA6 #ViceCity #shorts",
     "https://www.youtube.com/watch?v=RFpfR2hXaKM": "Aún así quede segundona en las siguientes partidas✨ #clips #apexlegends",
-    "https://www.youtube.com/watch?v=IkbPCaW0SFk": "Easter Eggs de miedo en videojuegos parte 1 #gamer #gaming #eastereggs #gtav #gamerlatino",
-    "https://www.youtube.com/watch?v=chFHEcwmsps": "Nintendo y Wii estaban on 🔥 #nintendo #gaming #gamingshorts #videogames"
+    "https://www.youtube.com/watch?v=IkbPCaW0SFk": "Easter Eggs de miedo en videojuegos parte 1 #gamer #gaming #eastereggs #gtav #gamerlatino"
   },
   "candidatas": [
     {
@@ -61,6 +61,20 @@ Dreamers.autoContenido("cherry", {
       "titulo": "",
       "vistas": null,
       "fecha": 1791756307
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=7jUQ7obtt0w",
+      "titulo": "La increíble conexión entre GTA Vice City y Scarface 🤯🌴 #GTA6 #ViceCity #shorts",
+      "vistas": 670,
+      "fecha": 1795730484
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgOG4tkBjWM/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795729731
     },
     {
       "red": "instagram",
@@ -299,20 +313,6 @@ Dreamers.autoContenido("cherry", {
       "titulo": "",
       "vistas": null,
       "fecha": 1791615951
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/reel/DeLKfcmhf58/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1791335990
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=chFHEcwmsps",
-      "titulo": "Nintendo y Wii estaban on 🔥 #nintendo #gaming #gamingshorts #videogames",
-      "vistas": 1258,
-      "fecha": 1790529291
     }
   ]
 });

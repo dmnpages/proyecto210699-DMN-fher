@@ -1,5 +1,5 @@
 Dreamers.autoContenido("nuevo-creador", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/p/DgIuZLMCSdh/",
     "https://www.instagram.com/p/DfXigZYiUSA/",
@@ -17,6 +17,9 @@ Dreamers.autoContenido("nuevo-creador", {
     "https://www.instagram.com/reel/DessvqngVTt/",
     "https://www.instagram.com/reel/Derq8Dfpc3B/"
   ],
+  "vistas": {
+    "https://www.instagram.com/reel/DfMFN6DiAAj/": 48
+  },
   "candidatas": [
     {
       "red": "instagram",
@@ -36,7 +39,7 @@ Dreamers.autoContenido("nuevo-creador", {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DfMFN6DiAAj/",
       "titulo": "",
-      "vistas": null,
+      "vistas": 48,
       "fecha": 1793514263
     },
     {

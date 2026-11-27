@@ -1,21 +1,21 @@
 Dreamers.autoContenido("mery-rivas", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/p/DfsleLoM7wI/",
     "https://www.instagram.com/p/DfYnDDBvFnv/",
     "https://www.tiktok.com/@meryrivas18/video/7691159848779599122",
     "https://www.tiktok.com/@meryrivas18/video/7685183394539506951",
-    "https://www.instagram.com/reel/DgJkX3hBDu4/"
+    "https://www.instagram.com/reel/DgOp2ScBlp_/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DgMQL85BQF0/",
+    "https://www.instagram.com/reel/DgJkX3hBDu4/",
     "https://www.instagram.com/reel/DgGykZTBzTA/",
     "https://www.instagram.com/reel/DgEBQyRuK3b/",
     "https://www.instagram.com/reel/DgB2btOvOET/",
     "https://www.instagram.com/reel/Df8xzHTsuSn/",
     "https://www.instagram.com/p/Df6DvShG8Ct/",
-    "https://www.instagram.com/reel/Df5mb6mtCTg/",
-    "https://www.instagram.com/reel/Df3iJ3fP4eZ/",
-    "https://www.instagram.com/p/Df1QQqLka9n/"
+    "https://www.instagram.com/reel/Df5mb6mtCTg/"
   ],
   "fijados": [
     "https://www.instagram.com/p/DfsleLoM7wI/",
@@ -51,6 +51,20 @@ Dreamers.autoContenido("mery-rivas", {
       "titulo": "",
       "vistas": null,
       "fecha": 1789346196
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgOp2ScBlp_/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795748061
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgMQL85BQF0/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795667498
     },
     {
       "red": "instagram",
@@ -289,20 +303,6 @@ Dreamers.autoContenido("mery-rivas", {
       "titulo": "",
       "vistas": null,
       "fecha": 1751757396
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/DLYU0HsgyOW/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1750975421
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/DLWaIVlN22J/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1750911099
     }
   ]
 });

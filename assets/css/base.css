@@ -125,3 +125,27 @@ html[data-modo="oscuro"] .pills li{background:#14213a}
 .red-badge.clave[data-redclave="tiktok"]{color:#000 !important; box-shadow:0 0 0 2px #25F4EE, 0 0 0 4px #FE2C55, 0 4px 12px rgba(0,0,0,.28)}
 .red-badge.clave[data-redclave="tiktok"] .red-icon{filter:drop-shadow(-1px -1px 0 #25F4EE) drop-shadow(1px 1px 0 #FE2C55)}
 .red-badge.clave[data-redclave="kick"]{background:#0b0e0f !important; color:#53FC18 !important; box-shadow:0 0 0 2px #53FC18, 0 4px 12px rgba(0,0,0,.28)}
+
+/* ===== Efecto ambiental (naturaleza): se enciende desde el editor (creador → «Efecto ambiental») ===== */
+.card.ambiente{box-shadow:0 0 0 2px rgba(110,200,125,.8), 0 6px 22px rgba(70,170,95,.35)}
+.card.ambiente:hover{box-shadow:0 0 0 2px rgba(170,228,135,.95), 0 12px 30px rgba(70,170,95,.45)}
+.card.ambiente .ph, .tgrid .photo.ambiente{position:relative}
+.tgrid .photo.ambiente{box-shadow:0 0 38px rgba(90,190,115,.45)}
+.amb-fx{position:absolute; inset:0; overflow:hidden; pointer-events:none}
+.amb-fx::after{content:""; position:absolute; inset:0; background:radial-gradient(120% 70% at 85% 0, rgba(225,255,205,.28), transparent 60%), linear-gradient(to top, rgba(45,130,75,.2), transparent 38%)}
+.amb-fx i{position:absolute; display:block}
+.amb-fx .hoja{top:-12%; width:9px; height:13px; border-radius:0 100% 0 100%; background:linear-gradient(135deg,#9be082,#3f9f55); opacity:.85; animation:amb-hoja 10s linear infinite}
+.amb-fx .luz{width:5px; height:5px; border-radius:50%; background:#f6ffb8; box-shadow:0 0 8px 3px rgba(224,255,140,.8); animation:amb-luz 5s ease-in-out infinite}
+.amb-fx i:nth-child(1){left:12%; --dx:14px; animation-delay:-1s}
+.amb-fx i:nth-child(2){left:38%; --dx:-16px; animation-delay:-4.5s; animation-duration:12s}
+.amb-fx i:nth-child(3){left:64%; --dx:12px; animation-delay:-7s; animation-duration:9s}
+.amb-fx i:nth-child(4){left:86%; --dx:-12px; animation-delay:-2.5s; animation-duration:11s}
+.amb-fx i:nth-child(5){left:20%; top:30%; --dx:10px; --dy:-12px; animation-delay:-.5s}
+.amb-fx i:nth-child(6){left:72%; top:22%; --dx:-12px; --dy:10px; animation-delay:-2s; animation-duration:6s}
+.amb-fx i:nth-child(7){left:45%; top:58%; --dx:12px; --dy:-8px; animation-delay:-3.4s; animation-duration:5.5s}
+.amb-fx i:nth-child(8){left:88%; top:64%; --dx:-10px; --dy:-12px; animation-delay:-1.4s; animation-duration:7s}
+.amb-fx i:nth-child(9){left:8%; top:76%; --dx:12px; --dy:-10px; animation-delay:-4s}
+.amb-fx i:nth-child(10){left:58%; top:84%; --dx:-8px; --dy:-9px; animation-delay:-2.8s; animation-duration:6.5s}
+@keyframes amb-hoja{0%{top:-12%; transform:translateX(0) rotate(0); opacity:0} 12%{opacity:.85} 100%{top:104%; transform:translateX(var(--dx,12px)) rotate(300deg); opacity:.3}}
+@keyframes amb-luz{0%,100%{opacity:.2; transform:translate(0,0) scale(.7)} 50%{opacity:1; transform:translate(var(--dx,8px),var(--dy,-10px)) scale(1.1)}}
+@media (prefers-reduced-motion:reduce){ .amb-fx .hoja{display:none} .amb-fx .luz{animation:none; opacity:.7} }

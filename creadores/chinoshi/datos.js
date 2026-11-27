@@ -22,7 +22,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/chinoshi_art",
-      "seguidores": "603"
+      "seguidores": "599"
     }
   ],
   "formatos": [
@@ -34,7 +34,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "20.9K",
+    "valor": "21K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

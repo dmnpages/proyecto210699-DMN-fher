@@ -1,35 +1,66 @@
 Dreamers.autoContenido("yan", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@yanfluu/video/7707762349758827784",
+    "https://www.tiktok.com/@yanfluu/video/7712608756734971144",
+    "https://www.tiktok.com/@yanfluu/video/7712601203577752839",
     "https://www.tiktok.com/@yanfluu/video/7712193566969253138",
-    "https://www.tiktok.com/@yanfluu/video/7711972640050711826",
-    "https://www.tiktok.com/@yanfluu/video/7711930966725430546",
-    "https://www.instagram.com/reel/DgJJOlzMoPM/"
+    "https://www.tiktok.com/@yanfluu/video/7711972640050711826"
   ],
   "reserva": [
+    "https://www.tiktok.com/@yanfluu/video/7711930966725430546",
+    "https://www.instagram.com/reel/DgJJOlzMoPM/",
     "https://www.tiktok.com/@yanfluu/video/7711881898296904968",
     "https://www.tiktok.com/@yanfluu/video/7711579174737104146",
     "https://www.tiktok.com/@yanfluu/video/7710772990341827847",
     "https://www.instagram.com/reel/DgA9NN4M0d2/",
     "https://www.tiktok.com/@yanfluu/video/7710436948002737416",
-    "https://www.tiktok.com/@yanfluu/video/7710095846087462152",
-    "https://www.instagram.com/reel/Df0w1R-sV3G/",
-    "https://www.tiktok.com/@yanfluu/video/7708946109799910664"
+    "https://www.tiktok.com/@yanfluu/video/7710095846087462152"
   ],
   "fijados": [
     "https://www.tiktok.com/@yanfluu/video/7707762349758827784"
   ],
-  "titulos": {
-    "https://www.tiktok.com/@yanfluu/video/6808257693963748357": "@yanfluu 38.6k seguidores, 1068 siguiendo, 2.2m me gusta: no te pierdas los geniales vídeo"
+  "vistas": {
+    "https://www.tiktok.com/@yanfluu/video/7707762349758827784": 9123,
+    "https://www.tiktok.com/@yanfluu/video/7712608756734971144": 2834,
+    "https://www.tiktok.com/@yanfluu/video/7712601203577752839": 1709,
+    "https://www.tiktok.com/@yanfluu/video/7711930966725430546": 54100,
+    "https://www.tiktok.com/@yanfluu/video/7711881898296904968": 1630,
+    "https://www.tiktok.com/@yanfluu/video/7711579174737104146": 13500,
+    "https://www.tiktok.com/@yanfluu/video/7710772990341827847": 1199,
+    "https://www.tiktok.com/@yanfluu/video/7710436948002737416": 6895,
+    "https://www.tiktok.com/@yanfluu/video/7710095846087462152": 9252,
+    "https://www.tiktok.com/@yanfluu/video/7708946109799910664": 2284,
+    "https://www.tiktok.com/@yanfluu/video/7708470423406513415": 32200,
+    "https://www.tiktok.com/@yanfluu/video/7707836000139103506": 62500,
+    "https://www.tiktok.com/@yanfluu/video/7707450488211426567": 6405,
+    "https://www.tiktok.com/@yanfluu/video/7706720494329793799": 4488,
+    "https://www.tiktok.com/@yanfluu/video/7706343615915855122": 6531,
+    "https://www.tiktok.com/@yanfluu/video/7706314076816772370": 2418,
+    "https://www.tiktok.com/@yanfluu/video/7706013938244209926": 188500,
+    "https://www.tiktok.com/@yanfluu/video/7681465865312750856": 9428
   },
   "candidatas": [
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7707762349758827784",
       "titulo": "",
-      "vistas": null,
+      "vistas": 9123,
       "fecha": 1794603269
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@yanfluu/video/7712608756734971144",
+      "titulo": "",
+      "vistas": 2834,
+      "fecha": 1795731661
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@yanfluu/video/7712601203577752839",
+      "titulo": "",
+      "vistas": 1709,
+      "fecha": 1795729902
     },
     {
       "red": "tiktok",
@@ -49,7 +80,7 @@ Dreamers.autoContenido("yan", {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7711930966725430546",
       "titulo": "",
-      "vistas": null,
+      "vistas": 54100,
       "fecha": 1795573850
     },
     {
@@ -63,21 +94,21 @@ Dreamers.autoContenido("yan", {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7711881898296904968",
       "titulo": "",
-      "vistas": null,
+      "vistas": 1630,
       "fecha": 1795562426
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7711579174737104146",
       "titulo": "",
-      "vistas": null,
+      "vistas": 13500,
       "fecha": 1795491942
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7710772990341827847",
       "titulo": "",
-      "vistas": null,
+      "vistas": 1199,
       "fecha": 1795304238
     },
     {
@@ -91,14 +122,14 @@ Dreamers.autoContenido("yan", {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7710436948002737416",
       "titulo": "",
-      "vistas": null,
+      "vistas": 6895,
       "fecha": 1795225997
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7710095846087462152",
       "titulo": "",
-      "vistas": null,
+      "vistas": 9252,
       "fecha": 1795146578
     },
     {
@@ -112,21 +143,21 @@ Dreamers.autoContenido("yan", {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7708946109799910664",
       "titulo": "",
-      "vistas": null,
+      "vistas": 2284,
       "fecha": 1794878884
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7708470423406513415",
       "titulo": "",
-      "vistas": null,
+      "vistas": 32200,
       "fecha": 1794768130
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7707836000139103506",
       "titulo": "",
-      "vistas": null,
+      "vistas": 62500,
       "fecha": 1794620417
     },
     {
@@ -140,7 +171,7 @@ Dreamers.autoContenido("yan", {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7707450488211426567",
       "titulo": "",
-      "vistas": null,
+      "vistas": 6405,
       "fecha": 1794530658
     },
     {
@@ -154,14 +185,14 @@ Dreamers.autoContenido("yan", {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7706720494329793799",
       "titulo": "",
-      "vistas": null,
+      "vistas": 4488,
       "fecha": 1794360693
     },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7706343615915855122",
       "titulo": "",
-      "vistas": null,
+      "vistas": 6531,
       "fecha": 1794272944
     },
     {
@@ -175,7 +206,7 @@ Dreamers.autoContenido("yan", {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7706314076816772370",
       "titulo": "",
-      "vistas": null,
+      "vistas": 2418,
       "fecha": 1794266066
     },
     {
@@ -184,6 +215,13 @@ Dreamers.autoContenido("yan", {
       "titulo": "",
       "vistas": null,
       "fecha": 1794196338
+    },
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@yanfluu/video/7706013938244209926",
+      "titulo": "",
+      "vistas": 188500,
+      "fecha": 1794196185
     },
     {
       "red": "instagram",
@@ -280,29 +318,8 @@ Dreamers.autoContenido("yan", {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@yanfluu/video/7681465865312750856",
       "titulo": "",
-      "vistas": null,
+      "vistas": 9428,
       "fecha": 1788480641
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@yanfluu/video/7674334768863005960",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1786820303
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@yanfluu/video/7596384814425525560",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1768671165
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@yanfluu/video/6808257693963748357",
-      "titulo": "@yanfluu 38.6k seguidores, 1068 siguiendo, 2.2m me gusta: no te pierdas los geniales vídeo",
-      "vistas": null,
-      "fecha": 1585171021
     }
   ]
 });

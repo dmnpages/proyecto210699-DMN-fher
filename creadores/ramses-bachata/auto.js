@@ -1,5 +1,5 @@
 Dreamers.autoContenido("ramses-bachata", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@ramses_lopez_1/video/7711421813137493254",
     "https://www.tiktok.com/@ramses_lopez_1/video/7710011752229932308",

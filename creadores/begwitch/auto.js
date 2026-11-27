@@ -1,5 +1,5 @@
 Dreamers.autoContenido("begwitch", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/reel/DgJixdNBOdZ/",
     "https://www.tiktok.com/@begwitch/video/7711932372530269461",

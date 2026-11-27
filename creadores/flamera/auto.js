@@ -1,21 +1,21 @@
 Dreamers.autoContenido("flamera", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/p/DfLbpBwsdfF/",
     "https://www.tiktok.com/@_flamera_/video/7682579946350316820",
     "https://www.tiktok.com/@_flamera_/video/7705253289486470401",
-    "https://www.instagram.com/reel/DgLMbvupIo4/",
-    "https://www.tiktok.com/@_flamera_/video/7712177843261754625"
+    "https://www.youtube.com/watch?v=as9H2wO0Mog",
+    "https://www.instagram.com/reel/DgLMbvupIo4/"
   ],
   "reserva": [
+    "https://www.tiktok.com/@_flamera_/video/7712177843261754625",
     "https://www.tiktok.com/@_flamera_/video/7711815817372945670",
     "https://www.instagram.com/reel/DgG3v6aJ2VS/",
     "https://www.tiktok.com/@_flamera_/video/7711555231078714642",
     "https://www.instagram.com/reel/DgDeKe0p6vE/",
     "https://www.tiktok.com/@_flamera_/video/7711065888430017793",
     "https://www.tiktok.com/@_flamera_/video/7710805053048737025",
-    "https://www.instagram.com/reel/DgBo8CVJAxg/",
-    "https://www.instagram.com/reel/DgBBPICpUeC/"
+    "https://www.instagram.com/reel/DgBo8CVJAxg/"
   ],
   "fijados": [
     "https://www.instagram.com/p/DfLbpBwsdfF/",
@@ -23,15 +23,17 @@ Dreamers.autoContenido("flamera", {
     "https://www.tiktok.com/@_flamera_/video/7705253289486470401"
   ],
   "vistas": {
+    "https://www.youtube.com/watch?v=as9H2wO0Mog": 1215,
     "https://www.youtube.com/watch?v=QDUHyiPKqqQ": 1089,
-    "https://www.youtube.com/watch?v=PtIV-nPYAgE": 1225,
+    "https://www.youtube.com/watch?v=PtIV-nPYAgE": 1226,
     "https://www.youtube.com/watch?v=UbiCzXAvXOs": 3019,
-    "https://www.youtube.com/watch?v=XvgqBCjKZmc": 4030,
-    "https://www.youtube.com/watch?v=1AVpsT-zdA0": 3511,
-    "https://www.youtube.com/watch?v=eYSQwUHdJN0": 3225,
-    "https://www.youtube.com/watch?v=OrSHeDqE1lw": 1198
+    "https://www.youtube.com/watch?v=XvgqBCjKZmc": 4033,
+    "https://www.youtube.com/watch?v=1AVpsT-zdA0": 3512,
+    "https://www.youtube.com/watch?v=eYSQwUHdJN0": 3226,
+    "https://www.youtube.com/watch?v=OrSHeDqE1lw": 1199
   },
   "titulos": {
+    "https://www.youtube.com/watch?v=as9H2wO0Mog": "gustos finos #animes #vinlandsaga #codegeass  #monster #anime",
     "https://www.youtube.com/watch?v=QDUHyiPKqqQ": "farmeando aura #darklink #ocarinaoftime #farmearaura",
     "https://www.youtube.com/watch?v=PtIV-nPYAgE": "Pro Controller zelda 40 aniversario  #zelda40thanniversary #procontroller #nintendoswitch2",
     "https://www.youtube.com/watch?v=UbiCzXAvXOs": "¿ cual es la mejor batalla del anime ??  #batallaanime #anime #peleasanime",
@@ -61,6 +63,13 @@ Dreamers.autoContenido("flamera", {
       "titulo": "",
       "vistas": null,
       "fecha": 1794019082
+    },
+    {
+      "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=as9H2wO0Mog",
+      "titulo": "gustos finos #animes #vinlandsaga #codegeass  #monster #anime",
+      "vistas": 1215,
+      "fecha": 1795711179
     },
     {
       "red": "instagram",
@@ -150,7 +159,7 @@ Dreamers.autoContenido("flamera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=PtIV-nPYAgE",
       "titulo": "Pro Controller zelda 40 aniversario  #zelda40thanniversary #procontroller #nintendoswitch2",
-      "vistas": 1225,
+      "vistas": 1226,
       "fecha": 1795228188
     },
     {
@@ -220,14 +229,14 @@ Dreamers.autoContenido("flamera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=XvgqBCjKZmc",
       "titulo": "cadena mejor cosplay Tsunamifest 2026 #cosplay #cosplayer #tsunamifest",
-      "vistas": 4030,
+      "vistas": 4033,
       "fecha": 1794968856
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=1AVpsT-zdA0",
       "titulo": "aguanta zelda esa caca non se saca sola  #botw #zelda",
-      "vistas": 3511,
+      "vistas": 3512,
       "fecha": 1794968775
     },
     {
@@ -255,14 +264,14 @@ Dreamers.autoContenido("flamera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=eYSQwUHdJN0",
       "titulo": "¿ Cual es el mejor zelda ? 👀  #zelda #ocarinaoftime #majorasmask",
-      "vistas": 3225,
+      "vistas": 3226,
       "fecha": 1794883247
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=OrSHeDqE1lw",
       "titulo": "Kai'Sa Guardiana Estelar 💖  #kaisa #leagueoflegends",
-      "vistas": 1198,
+      "vistas": 1199,
       "fecha": 1794882734
     },
     {
@@ -313,13 +322,6 @@ Dreamers.autoContenido("flamera", {
       "titulo": "",
       "vistas": null,
       "fecha": 1794796019
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/reel/Dfw8Csipzst/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1794750967
     }
   ]
 });

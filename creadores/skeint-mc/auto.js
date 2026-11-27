@@ -1,29 +1,30 @@
 Dreamers.autoContenido("skeint-mc", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
+    "https://www.youtube.com/watch?v=K3pmD9Lzv8c",
     "https://www.youtube.com/watch?v=P7txP8LeTNg",
     "https://www.tiktok.com/@skeint_mc/video/7712106528362319110",
     "https://www.youtube.com/watch?v=pZJhK3HaZdg",
-    "https://x.com/Skeint_MC/status/2125566643556192530",
-    "https://x.com/Skeint_MC/status/2096031490312126948"
+    "https://x.com/Skeint_MC/status/2125566643556192530"
   ],
   "reserva": [
+    "https://x.com/Skeint_MC/status/2096031490312126948",
     "https://www.youtube.com/watch?v=W9_kjVclHyM",
     "https://x.com/Skeint_MC/status/2090312157556506818",
     "https://x.com/Skeint_MC/status/2089980536139690059",
     "https://www.youtube.com/watch?v=MvBo6lM1pw4",
     "https://www.youtube.com/watch?v=KeHa-V9TcZ4",
     "https://x.com/Skeint_MC/status/2082685215034449992",
-    "https://x.com/Skeint_MC/status/2082536289987940806",
-    "https://www.youtube.com/watch?v=X0_By88Jaus"
+    "https://x.com/Skeint_MC/status/2082536289987940806"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=P7txP8LeTNg": 257,
-    "https://www.youtube.com/watch?v=pZJhK3HaZdg": 465,
-    "https://x.com/Skeint_MC/status/2125566643556192530": 20,
-    "https://x.com/Skeint_MC/status/2096031490312126948": 10,
-    "https://www.youtube.com/watch?v=W9_kjVclHyM": 1225,
-    "https://x.com/Skeint_MC/status/2090312157556506818": 149,
+    "https://www.youtube.com/watch?v=K3pmD9Lzv8c": 174,
+    "https://www.youtube.com/watch?v=P7txP8LeTNg": 499,
+    "https://www.youtube.com/watch?v=pZJhK3HaZdg": 470,
+    "https://x.com/Skeint_MC/status/2125566643556192530": 23,
+    "https://x.com/Skeint_MC/status/2096031490312126948": 11,
+    "https://www.youtube.com/watch?v=W9_kjVclHyM": 1226,
+    "https://x.com/Skeint_MC/status/2090312157556506818": 150,
     "https://www.youtube.com/watch?v=MvBo6lM1pw4": 367,
     "https://www.youtube.com/watch?v=KeHa-V9TcZ4": 909,
     "https://www.youtube.com/watch?v=X0_By88Jaus": 720,
@@ -45,6 +46,7 @@ Dreamers.autoContenido("skeint-mc", {
     "https://x.com/Skeint_MC/status/2070605406397944174": 13
   },
   "titulos": {
+    "https://www.youtube.com/watch?v=K3pmD9Lzv8c": "Caja del nuevo Brawler Thunder Frogs ⚡🐸",
     "https://www.youtube.com/watch?v=P7txP8LeTNg": "#brawlstars #box Caja Gratis del Nuevo Brawler ThunderTrogs 🐸🔮",
     "https://www.youtube.com/watch?v=pZJhK3HaZdg": "Caja Gratis del nuevo brawler 🐸🔮",
     "https://www.youtube.com/watch?v=W9_kjVclHyM": "Caja de Wendy # #brawlstars",
@@ -64,9 +66,16 @@ Dreamers.autoContenido("skeint-mc", {
   "candidatas": [
     {
       "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=K3pmD9Lzv8c",
+      "titulo": "Caja del nuevo Brawler Thunder Frogs ⚡🐸",
+      "vistas": 174,
+      "fecha": 1795707899
+    },
+    {
+      "red": "youtube",
       "url": "https://www.youtube.com/watch?v=P7txP8LeTNg",
       "titulo": "#brawlstars #box Caja Gratis del Nuevo Brawler ThunderTrogs 🐸🔮",
-      "vistas": 257,
+      "vistas": 499,
       "fecha": 1795644542
     },
     {
@@ -80,35 +89,35 @@ Dreamers.autoContenido("skeint-mc", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=pZJhK3HaZdg",
       "titulo": "Caja Gratis del nuevo brawler 🐸🔮",
-      "vistas": 465,
+      "vistas": 470,
       "fecha": 1795614576
     },
     {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2125566643556192530",
       "titulo": "",
-      "vistas": 20,
+      "vistas": 23,
       "fecha": 1795609553
     },
     {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2096031490312126948",
       "titulo": "",
-      "vistas": 10,
+      "vistas": 11,
       "fecha": 1788567824
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=W9_kjVclHyM",
       "titulo": "Caja de Wendy # #brawlstars",
-      "vistas": 1225,
+      "vistas": 1226,
       "fecha": 1787284982
     },
     {
       "red": "x",
       "url": "https://x.com/Skeint_MC/status/2090312157556506818",
       "titulo": "",
-      "vistas": 149,
+      "vistas": 150,
       "fecha": 1787204229
     },
     {
@@ -334,13 +343,6 @@ Dreamers.autoContenido("skeint-mc", {
       "titulo": "",
       "vistas": null,
       "fecha": 1781808445
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@skeint_mc/video/7652764775218236673",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1781798148
     }
   ]
 });

@@ -159,6 +159,17 @@
     return '<span class="cumple-badge"><span aria-hidden="true">&#127874;</span> ' + D.esc(D.t('¡Está de cumpleaños!')) + '</span>';
   };
   D.claseCumple = function (t) { return D.esCumple(t) ? ' cumple' : ''; };
+  // Efecto ambiental (naturaleza): lo tiene quien lo tenga encendido en el editor ("ambiente": true en su datos.js). Apagado = no se carga nada.
+  D.tieneAmbiente = function (t) { return !!t && (t.ambiente === true || t.ambiente === 'true'); };
+  D.claseAmbiente = function (t) { return D.tieneAmbiente(t) ? ' ambiente' : ''; };
+  // Brillo verde suave con unas pocas hojitas y luciérnagas dentro de la foto (tarjeta y perfil).
+  D.ambienteCard = function (t) {
+    if (!D.tieneAmbiente(t)) return '';
+    var h = '<span class="amb-fx" aria-hidden="true">', i;
+    for (i = 0; i < 4; i++) h += '<i class="hoja"></i>';
+    for (i = 0; i < 6; i++) h += '<i class="luz"></i>';
+    return h + '</span>';
+  };
   // Quien está de cumpleaños va en primer lugar (lista de creadores, menú, inicio). El resto conserva su orden.
   D.cumpleanerosPrimero = function () {
     var a = [], b = [];

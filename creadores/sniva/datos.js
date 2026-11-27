@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Sniva",
   "ciudad": "Granada",
-  "seguidores": "15.3K",
+  "seguidores": "15.4K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -20,7 +20,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@sniva2509/",
-      "seguidores": "314"
+      "seguidores": "316"
     },
     {
       "plataforma": "Facebook",
@@ -53,7 +53,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "21K",
+    "valor": "21.1K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

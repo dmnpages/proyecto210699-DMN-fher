@@ -1,5 +1,5 @@
 Dreamers.autoContenido("catpool", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/p/Dfff2exuSqk/",
     "https://www.instagram.com/p/DfJQp1PxZQY/",
@@ -24,7 +24,7 @@ Dreamers.autoContenido("catpool", {
     "https://www.tiktok.com/@catpool_gaming/video/7700394668894293266"
   ],
   "titulos": {
-    "https://www.tiktok.com/@catpool01/video/7278358956366939141": "@catpool01 1546 seguidores, 132 siguiendo, 2270 me gusta: no te pierdas los geniales vídeo"
+    "https://www.tiktok.com/@catpool01/video/7278358956366939141": "@catpool01 1546 seguidores, 132 siguiendo, 2271 me gusta: no te pierdas los geniales vídeo"
   },
   "candidatas": [
     {
@@ -212,7 +212,7 @@ Dreamers.autoContenido("catpool", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@catpool01/video/7278358956366939141",
-      "titulo": "@catpool01 1546 seguidores, 132 siguiendo, 2270 me gusta: no te pierdas los geniales vídeo",
+      "titulo": "@catpool01 1546 seguidores, 132 siguiendo, 2271 me gusta: no te pierdas los geniales vídeo",
       "vistas": null,
       "fecha": 1694625000
     },

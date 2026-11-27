@@ -1,5 +1,5 @@
 Dreamers.autoContenido("juanjobe", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@juanjobe_/video/7710381160047693074",
     "https://www.tiktok.com/@juanjobe_/video/7705934204273544455",

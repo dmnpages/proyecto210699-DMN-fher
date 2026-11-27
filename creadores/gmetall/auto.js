@@ -1,5 +1,5 @@
 Dreamers.autoContenido("gmetall", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@gmetall/video/7710491527344131348",
     "https://www.tiktok.com/@gmetall/video/7709668300736761108",

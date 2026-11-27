@@ -1,21 +1,21 @@
 Dreamers.autoContenido("jaden-garcia", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
+    "https://www.instagram.com/p/DgMLlekx-rY/",
     "https://www.instagram.com/reel/DgGMf5WKw5_/",
     "https://www.instagram.com/reel/DgBhVykxVLX/",
     "https://www.instagram.com/reel/Df45T9gRhfm/",
-    "https://www.instagram.com/p/DfvvcMOEYdx/",
-    "https://www.instagram.com/reel/DfnOpKBq-Yf/"
+    "https://www.instagram.com/p/DfvvcMOEYdx/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DfnOpKBq-Yf/",
     "https://www.instagram.com/reel/DfioK7CRDgn/",
     "https://www.instagram.com/reel/Der5lNYvIMC/",
     "https://www.instagram.com/reel/Dee2kuvxy_5/",
     "https://www.instagram.com/reel/DeZq6gFRBL1/",
     "https://www.instagram.com/reel/DeSDB6Kxe9G/",
     "https://www.instagram.com/p/DePWO_CR24o/",
-    "https://www.instagram.com/reel/DeKv0D5Rzgl/",
-    "https://www.instagram.com/reel/DeH56xavNSx/"
+    "https://www.instagram.com/reel/DeKv0D5Rzgl/"
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=IryHia3wK9w": 1236,
@@ -24,7 +24,7 @@ Dreamers.autoContenido("jaden-garcia", {
     "https://www.youtube.com/watch?v=H4uQDfjepuM": 446,
     "https://www.youtube.com/watch?v=hO8fiDP-kxk": 426,
     "https://www.youtube.com/watch?v=PjKdf1wHyE0": 728,
-    "https://www.youtube.com/watch?v=INjKLWVNL1Y": 3777,
+    "https://www.youtube.com/watch?v=INjKLWVNL1Y": 3779,
     "https://www.youtube.com/watch?v=ThwzyLjqxfQ": 654,
     "https://www.youtube.com/watch?v=olF99A5kKVU": 1510,
     "https://www.youtube.com/watch?v=HCYTieoTsuE": 199,
@@ -50,9 +50,16 @@ Dreamers.autoContenido("jaden-garcia", {
     "https://www.youtube.com/watch?v=zVjvK6Nx6IM": "Future Trap Melody #Flstudio #Beat #Flume #IMANU",
     "https://www.youtube.com/watch?v=W-MuUy81_-A": "JadenGarcia, RDJMB - On Your Face",
     "https://www.youtube.com/watch?v=Prbyn174CBs": "Rodezel, JCBG, Saibu - BLOW (JadenGarcia Remix)",
-    "https://www.tiktok.com/@jadengarciaaaa/video/6643981825063813126": "@jadengarciaaaa 42.9k seguidores, 7001 siguiendo, 594.4k me gusta: no te pierdas los genia"
+    "https://www.tiktok.com/@jadengarciaaaa/video/6643981825063813126": "@jadengarciaaaa 42.9k seguidores, 7001 siguiendo, 594.5k me gusta: no te pierdas los genia"
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DgMLlekx-rY/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795665086
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgGMf5WKw5_/",
@@ -246,7 +253,7 @@ Dreamers.autoContenido("jaden-garcia", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=INjKLWVNL1Y",
       "titulo": "ALEXA",
-      "vistas": 3777,
+      "vistas": 3779,
       "fecha": 1741716915
     },
     {
@@ -308,7 +315,7 @@ Dreamers.autoContenido("jaden-garcia", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@jadengarciaaaa/video/6643981825063813126",
-      "titulo": "@jadengarciaaaa 42.9k seguidores, 7001 siguiendo, 594.4k me gusta: no te pierdas los genia",
+      "titulo": "@jadengarciaaaa 42.9k seguidores, 7001 siguiendo, 594.5k me gusta: no te pierdas los genia",
       "vistas": null,
       "fecha": 1546922564
     },
@@ -322,13 +329,6 @@ Dreamers.autoContenido("jaden-garcia", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=Bgj4xWJxTJg",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
       "titulo": "",
       "vistas": null,
       "fecha": null

@@ -1,13 +1,14 @@
 Dreamers.autoContenido("ik-evolution", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
+    "https://www.tiktok.com/@lkevolutionelchelelokera/video/7196038003150898181",
     "https://www.facebook.com/reel/1134834719312899/",
     "https://www.facebook.com/reel/1174539078290819/",
     "https://www.facebook.com/vladimirivan.calderalovo/posts/pfbid026jL1BTqNRZfxXLs21QKBWi5Msoq9awEDG1Ghe4bS8YtsVfzs59Hr3K212C1Mymm4l",
-    "https://www.facebook.com/100094782385205/videos/4653691084887476/",
-    "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl"
+    "https://www.facebook.com/100094782385205/videos/4653691084887476/"
   ],
   "reserva": [
+    "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
     "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
     "https://www.facebook.com/leydrimaria.gutierrezreyes/posts/pfbid02QqP9yeLD1t7dNZEtmRmJw7J1DX4YmLdPPGWgeHDDyiaQZvYaY3zfC83CMTivMNX8l",
     "https://www.facebook.com/vladimirivan.calderalovo/posts/pfbid02fT57Jkas2Fn6go8hvijnzcPSoZYcSkVMDghwP1PLTLwcubZPQvakpnSdthjDLabhl",
@@ -17,7 +18,17 @@ Dreamers.autoContenido("ik-evolution", {
     "https://www.facebook.com/vladimirivan.calderalovo/posts/pfbid026jL1BTqNRZfxXLs21QKBWi5Msoq9awEDG1Ghe4bS8YtsVfzs59Hr3K212C1Mymm4l": 22,
     "https://www.facebook.com/vladimirivan.calderalovo/posts/pfbid02fT57Jkas2Fn6go8hvijnzcPSoZYcSkVMDghwP1PLTLwcubZPQvakpnSdthjDLabhl": 2
   },
+  "titulos": {
+    "https://www.tiktok.com/@lkevolutionelchelelokera/video/7196038003150898181": "@lkevolutionelchelelokera 9830 seguidores, 8568 siguiendo, 19.5k me gusta: no te pierdas l"
+  },
   "candidatas": [
+    {
+      "red": "tiktok",
+      "url": "https://www.tiktok.com/@lkevolutionelchelelokera/video/7196038003150898181",
+      "titulo": "@lkevolutionelchelelokera 9830 seguidores, 8568 siguiendo, 19.5k me gusta: no te pierdas l",
+      "vistas": null,
+      "fecha": 1675458160
+    },
     {
       "red": "facebook",
       "url": "https://www.facebook.com/reel/1134834719312899/",

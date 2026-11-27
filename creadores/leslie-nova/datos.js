@@ -15,7 +15,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/_lesliezr_",
-      "seguidores": "269"
+      "seguidores": "270"
     },
     {
       "plataforma": "Tiktok",

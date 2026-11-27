@@ -1,5 +1,5 @@
 Dreamers.autoContenido("leslie-nova", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@xles_espinox/video/7712089720800529670",
     "https://www.tiktok.com/@xles_espinox/video/7708849929233419541",

@@ -1,5 +1,5 @@
 Dreamers.autoContenido("mia-cano", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@miacano0/video/7711929145374100757",
     "https://www.instagram.com/reel/Df98p8bMNqP/",
@@ -18,6 +18,7 @@ Dreamers.autoContenido("mia-cano", {
     "https://www.instagram.com/reel/Dfv2vRZtIMK/"
   ],
   "vistas": {
+    "https://www.facebook.com/rini.cano/posts/pfbid0212rq7tvehFMwnnAFAQm7HuKeW6u3BQsB6t1UqjXm67JqX4eC3Ls7isUgXquDeH7nl": 1,
     "https://www.facebook.com/rini.cano/posts/pfbid034aW234Z1YX2Zxg7yyiTKQ51PY7g9fmmTnWEutABCo8nejFJQGiRmv7qhteUk5pHbl": 23
   },
   "candidatas": [
@@ -216,6 +217,69 @@ Dreamers.autoContenido("mia-cano", {
       "titulo": "",
       "vistas": null,
       "fecha": 1791930485
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/Dea2HQVBPg5/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1791862177
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DeHUEsqBWFS/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1791206796
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DeDrKIIMWOo/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1791084682
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/Dd9FHAyqrQP/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790863407
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/Ddt7q4GILpu/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790355141
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/Ddpy6BAIFDc/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790216329
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/Ddnc8aaAgOd/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1790137705
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DcfRK8QuDMb/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1787715614
+    },
+    {
+      "red": "facebook",
+      "url": "https://www.facebook.com/rini.cano/posts/pfbid0212rq7tvehFMwnnAFAQm7HuKeW6u3BQsB6t1UqjXm67JqX4eC3Ls7isUgXquDeH7nl",
+      "titulo": "",
+      "vistas": 1,
+      "fecha": null
     },
     {
       "red": "facebook",

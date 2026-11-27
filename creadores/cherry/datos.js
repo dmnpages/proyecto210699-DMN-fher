@@ -26,7 +26,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@thecherrypiex",
-      "seguidores": "225"
+      "seguidores": "229"
     }
   ],
   "formatos": [

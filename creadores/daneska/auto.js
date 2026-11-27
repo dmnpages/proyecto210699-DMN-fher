@@ -1,5 +1,5 @@
 Dreamers.autoContenido("daneska", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/p/DfBIOhPx1Dr/",
     "https://www.instagram.com/p/Dbl4mXvia9Z/",

@@ -1,5 +1,5 @@
 Dreamers.autoContenido("karu", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@rvkaru/video/7706700370709449997",
     "https://www.tiktok.com/@rvkaru/video/7706280040689863950",
@@ -24,7 +24,7 @@ Dreamers.autoContenido("karu", {
     "https://www.youtube.com/watch?v=RTaNtGjzTik": 520,
     "https://www.youtube.com/watch?v=hx0LAbrfdHA": 300,
     "https://www.youtube.com/watch?v=BCE13ObOFyM": 181,
-    "https://www.youtube.com/watch?v=Ntv_KVJCN3E": 300,
+    "https://www.youtube.com/watch?v=Ntv_KVJCN3E": 303,
     "https://www.youtube.com/watch?v=0auwJvemmZQ": 794,
     "https://www.youtube.com/watch?v=DA_xUxRt9Ls": 1284,
     "https://www.youtube.com/watch?v=tZhu66CLu8E": 1106,
@@ -248,7 +248,7 @@ Dreamers.autoContenido("karu", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=Ntv_KVJCN3E",
       "titulo": "Tutorial de como descargar el port de Twilight Princess!",
-      "vistas": 300,
+      "vistas": 303,
       "fecha": 1778421721
     },
     {
@@ -316,16 +316,16 @@ Dreamers.autoContenido("karu", {
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "url": "https://www.facebook.com/reel/2244343023024224/",
       "titulo": "",
-      "vistas": null,
+      "vistas": 10,
       "fecha": null
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/reel/2244343023024224/",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
-      "vistas": 10,
+      "vistas": null,
       "fecha": null
     },
     {

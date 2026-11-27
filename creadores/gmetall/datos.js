@@ -9,7 +9,7 @@ Dreamers.talento({
   "fotoZoom": 1,
   "genero": "M",
   "categorias": [
-    "illustrator",
+    "Illustrator",
     "Cosplayer"
   ],
   "redes": [
@@ -22,7 +22,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/gene.j.m/",
-      "seguidores": "299"
+      "seguidores": "300"
     }
   ],
   "formatos": [

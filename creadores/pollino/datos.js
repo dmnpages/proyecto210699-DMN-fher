@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Pollino",
   "ciudad": "Ocotal",
   "correo": "ciprianochavarria@gmail.com",
-  "seguidores": "204.9K",
+  "seguidores": "86.9K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -21,7 +21,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@PollinoX",
-      "seguidores": "126k",
+      "seguidores": "8K",
       "clave": true
     },
     {
@@ -40,7 +40,7 @@ Dreamers.talento({
     "Tecnología"
   ],
   "dato": {
-    "valor": "901K",
+    "valor": "902.1K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

@@ -1,5 +1,5 @@
 Dreamers.autoContenido("ladypalace", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@ladypalacecosplay/video/7711945451146104084",
     "https://www.instagram.com/reel/DgJixdNBOdZ/",

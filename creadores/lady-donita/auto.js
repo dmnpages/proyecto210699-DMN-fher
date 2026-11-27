@@ -1,30 +1,32 @@
 Dreamers.autoContenido("lady-donita", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
-    "https://www.youtube.com/watch?v=szZpSxa1V44",
+    "https://www.youtube.com/watch?v=DQ0XoGyOTK4",
+    "https://www.instagram.com/reel/DgOmLQNhUBa/",
+    "https://www.instagram.com/p/DgOBpXdOKOL/",
+    "https://www.instagram.com/p/DgN9YcdGzF-/",
+    "https://www.youtube.com/watch?v=szZpSxa1V44"
+  ],
+  "reserva": [
     "https://www.tiktok.com/@ladydonita/video/7711971037675621640",
     "https://www.instagram.com/reel/DgJvMLURWwo/",
     "https://www.youtube.com/watch?v=vZdqYL2_hJA",
-    "https://www.instagram.com/reel/DgIcAnJJ_Ls/"
-  ],
-  "reserva": [
+    "https://www.instagram.com/reel/DgIcAnJJ_Ls/",
     "https://www.youtube.com/watch?v=wsMO7JIKlJo",
     "https://www.tiktok.com/@ladydonita/video/7711591722530131218",
     "https://www.instagram.com/reel/DgHGR9jg5QH/",
-    "https://www.instagram.com/reel/DgE_JLUuzUP/",
-    "https://www.youtube.com/watch?v=tVn0I1_VgcE",
-    "https://www.tiktok.com/@ladydonita/video/7711031418515688712",
-    "https://www.instagram.com/reel/DgDJnhNs5X2/",
-    "https://www.youtube.com/watch?v=yVXsxspWzTE"
+    "https://www.instagram.com/reel/DgE_JLUuzUP/"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=szZpSxa1V44": 1567,
-    "https://www.youtube.com/watch?v=vZdqYL2_hJA": 61,
-    "https://www.youtube.com/watch?v=wsMO7JIKlJo": 297,
-    "https://www.youtube.com/watch?v=tVn0I1_VgcE": 1275,
-    "https://www.youtube.com/watch?v=yVXsxspWzTE": 1585
+    "https://www.youtube.com/watch?v=DQ0XoGyOTK4": 275,
+    "https://www.youtube.com/watch?v=szZpSxa1V44": 1740,
+    "https://www.youtube.com/watch?v=vZdqYL2_hJA": 96,
+    "https://www.youtube.com/watch?v=wsMO7JIKlJo": 306,
+    "https://www.youtube.com/watch?v=tVn0I1_VgcE": 1278,
+    "https://www.youtube.com/watch?v=yVXsxspWzTE": 1590
   },
   "titulos": {
+    "https://www.youtube.com/watch?v=DQ0XoGyOTK4": "\"¡Por Azeroth!\"  de Varian Wrynn en la cinemática vs IRL con Pepe Vilchis ✨️ #WorldOfWarcr",
     "https://www.youtube.com/watch?v=szZpSxa1V44": "Consigue la Hoguera de Dark Souls en WoW Juguete: Fogata del caminante #WorldOfWarcraft #W",
     "https://www.youtube.com/watch?v=vZdqYL2_hJA": "Yo de Healer sueno así ✨️ pt 2#WorldOfWarcraft #Warcraft #Blizzard #WarcraftLatam #Miticas",
     "https://www.youtube.com/watch?v=wsMO7JIKlJo": "😭 QUE LINDAAAAA. La vi, la quise y la obtuve 🥺#WorldOfWarcraft #Warcraft #Blizzard #Warcra",
@@ -34,9 +36,37 @@ Dreamers.autoContenido("lady-donita", {
   "candidatas": [
     {
       "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=DQ0XoGyOTK4",
+      "titulo": "\"¡Por Azeroth!\"  de Varian Wrynn en la cinemática vs IRL con Pepe Vilchis ✨️ #WorldOfWarcr",
+      "vistas": 275,
+      "fecha": 1795748389
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgOmLQNhUBa/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795746136
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DgOBpXdOKOL/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795726984
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DgN9YcdGzF-/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795724748
+    },
+    {
+      "red": "youtube",
       "url": "https://www.youtube.com/watch?v=szZpSxa1V44",
       "titulo": "Consigue la Hoguera de Dark Souls en WoW Juguete: Fogata del caminante #WorldOfWarcraft #W",
-      "vistas": 1567,
+      "vistas": 1740,
       "fecha": 1795593816
     },
     {
@@ -57,7 +87,7 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=vZdqYL2_hJA",
       "titulo": "Yo de Healer sueno así ✨️ pt 2#WorldOfWarcraft #Warcraft #Blizzard #WarcraftLatam #Miticas",
-      "vistas": 61,
+      "vistas": 96,
       "fecha": 1795551149
     },
     {
@@ -71,7 +101,7 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=wsMO7JIKlJo",
       "titulo": "😭 QUE LINDAAAAA. La vi, la quise y la obtuve 🥺#WorldOfWarcraft #Warcraft #Blizzard #Warcra",
-      "vistas": 297,
+      "vistas": 306,
       "fecha": 1795495078
     },
     {
@@ -99,7 +129,7 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=tVn0I1_VgcE",
       "titulo": "Addon para tu mouse en WoW Retail y WoW Forever#worldifwarcraft  #addon #Warcraft #CurseFo",
-      "vistas": 1275,
+      "vistas": 1278,
       "fecha": 1795365315
     },
     {
@@ -120,7 +150,7 @@ Dreamers.autoContenido("lady-donita", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=yVXsxspWzTE",
       "titulo": "Después no sé cuantos días y casí caer en la locura conseguimos el Token Pirata de Fortnit",
-      "vistas": 1585,
+      "vistas": 1590,
       "fecha": 1795313115
     },
     {
@@ -283,34 +313,6 @@ Dreamers.autoContenido("lady-donita", {
       "titulo": "",
       "vistas": null,
       "fecha": 1794184088
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/DffNiZBEbEL/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1794156160
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/DfUyWtZmxy5/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1793806364
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@ladydonita/video/7704150994883464466",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1793762434
-    },
-    {
-      "red": "instagram",
-      "url": "https://www.instagram.com/p/DfQuc76kcBn/",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1793670100
     }
   ]
 });

@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Marmota Geek",
   "ciudad": "Managua",
   "correo": "jalex.paramo@gmail.com",
-  "seguidores": "14.8K",
+  "seguidores": "15K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -36,7 +36,7 @@ Dreamers.talento({
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/MarmotaGeek/",
-      "seguidores": "2K"
+      "seguidores": "2.2K"
     }
   ],
   "formatos": [

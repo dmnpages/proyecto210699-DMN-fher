@@ -1,5 +1,5 @@
 Dreamers.autoContenido("neylis", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/p/DHKbXaAsaRc/",
     "https://www.instagram.com/p/DegFjN8FdA0/",
@@ -25,7 +25,7 @@ Dreamers.autoContenido("neylis", {
     "https://www.tiktok.com/@_neylis_0/video/7704852496937798919"
   ],
   "titulos": {
-    "https://www.tiktok.com/@_neylis_0/video/6559256275292438533": "@_neylis_0 1189 seguidores, 361 siguiendo, 49.6k me gusta: no te pierdas los geniales víde"
+    "https://www.tiktok.com/@_neylis_0/video/6559256275292438533": "@_neylis_0 1188 seguidores, 361 siguiendo, 49.6k me gusta: no te pierdas los geniales víde"
   },
   "candidatas": [
     {
@@ -199,7 +199,7 @@ Dreamers.autoContenido("neylis", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@_neylis_0/video/6559256275292438533",
-      "titulo": "@_neylis_0 1189 seguidores, 361 siguiendo, 49.6k me gusta: no te pierdas los geniales víde",
+      "titulo": "@_neylis_0 1188 seguidores, 361 siguiendo, 49.6k me gusta: no te pierdas los geniales víde",
       "vistas": null,
       "fecha": 1527195860
     }

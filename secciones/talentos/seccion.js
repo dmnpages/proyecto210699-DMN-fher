@@ -13,7 +13,7 @@
     function tarjeta(t) {
       var url = D.rutaTalento(t.carpeta);
       var soc = D.insigniasRedes(t);
-      return '<article class="card' + D.claseCumple(t) + '"><a class="ph" href="' + url + '" tabindex="-1" aria-hidden="true">' + D.img(D.rutaFoto(t), '', t) + D.confeti(t) + '</a>' +
+      return '<article class="card' + D.claseCumple(t) + D.claseAmbiente(t) + '"><a class="ph" href="' + url + '" tabindex="-1" aria-hidden="true">' + D.img(D.rutaFoto(t), '', t) + D.confeti(t) + D.ambienteCard(t) + '</a>' +
         '<div class="body">' + D.insigniaCumple(t) + '<h3><a href="' + url + '">' + D.esc(t.nombre) + '</a></h3><div class="soc">' + soc + '</div>' +
         '<div class="fol">' + D.esc(D.totalSeguidores(t)) + '+<small>' + D.esc(c.etiquetaSeguidores) + '</small></div>' +
         '<a class="btn dark sm" href="' + url + '">' + D.esc(c.textoBoton) + '</a></div></article>';

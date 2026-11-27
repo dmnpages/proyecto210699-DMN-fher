@@ -1,5 +1,5 @@
 Dreamers.autoContenido("jares", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/p/DRqMcJOiTeZ/",
     "https://www.instagram.com/p/DXx4i6-DCu1/",

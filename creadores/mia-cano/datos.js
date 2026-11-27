@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Mia Cano",
   "ciudad": "Chinandega",
   "correo": "mariaguadalupemontenegrocano@gmail.com",
-  "seguidores": "4K",
+  "seguidores": "3.9K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -15,12 +15,12 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@miacano0",
-      "seguidores": "2.5K"
+      "seguidores": "2.4K"
     },
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/miacano202005",
-      "seguidores": "500"
+      "seguidores": "504"
     },
     {
       "plataforma": "Facebook",

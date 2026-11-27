@@ -161,7 +161,7 @@
       var contacto = D.irA('contacto/');
       el.innerHTML =
         '<section class="tp"><div class="in"><div class="crumb"><a href="' + D.irA('creadores/') + '">' + D.esc(c.migas) + '</a> / ' + D.esc(t.nombre) + '</div>' +
-        '<div class="tgrid"><div class="photo' + D.claseCumple(t) + '">' + D.img(D.rutaFoto(t), t.nombre, t, true) + D.confeti(t) + '</div><div>' + D.insigniaCumple(t) +
+        '<div class="tgrid"><div class="photo' + D.claseCumple(t) + D.claseAmbiente(t) + '">' + D.img(D.rutaFoto(t), t.nombre, t, true) + D.confeti(t) + D.ambienteCard(t) + '</div><div>' + D.insigniaCumple(t) +
         '<span class="tag">' + D.categoriasDe(t).map(function (x) { return D.esc(x); }).join(' / ') + '</span><h1>' + D.esc(t.nombre) + '</h1><p class="lead">' + D.esc(t.descripcion) + '</p>' +
         '<div class="kv"><div><b>' + D.esc(D.totalSeguidores(t)) + '+</b><span>' + D.esc(c.seguidoresTotal) + '</span></div>' + dato +
         (String(t.ciudad || '').trim() ? '<div><b>' + D.esc(t.ciudad) + '</b><span>' + D.esc(c.baseEn) + '</span></div>' : '') + '</div>' +
@@ -279,6 +279,7 @@
       D.corregirYouTube(el);
       sonidoCumple(el, t);
       if (D.esCumple(t)) D.cargarScript('secciones/perfil/cumple.js').then(function () { if (D.efectosCumple) D.efectosCumple(t, el); });
+      if (D.tieneAmbiente(t)) D.cargarScript('secciones/perfil/ambiente.js').then(function () { if (D.efectosAmbiente) D.efectosAmbiente(t, el); });
       el.addEventListener('click', function (e) { var b = e.target.closest('[data-contactar]'); if (b) abrirContacto(t, b); });
     });
   });

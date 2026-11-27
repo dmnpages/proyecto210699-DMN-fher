@@ -1,5 +1,5 @@
 Dreamers.autoContenido("thepeggo", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@thepeggonic/video/7712261897155890438",
     "https://www.tiktok.com/@thepeggonic/video/7712028359584156935",

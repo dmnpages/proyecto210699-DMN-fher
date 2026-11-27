@@ -1,5 +1,5 @@
 Dreamers.autoContenido("aishanana", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@aishananaaa/video/7710729836808998165",
     "https://www.tiktok.com/@aishananaaa/video/7710728121330257173",

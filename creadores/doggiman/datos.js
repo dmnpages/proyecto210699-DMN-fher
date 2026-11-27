@@ -20,7 +20,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/doggiman7/",
-      "seguidores": "587"
+      "seguidores": "588"
     }
   ],
   "formatos": [
@@ -30,7 +30,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "47.2K",
+    "valor": "47.3K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

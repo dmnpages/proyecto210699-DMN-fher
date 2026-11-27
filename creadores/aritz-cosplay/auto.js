@@ -1,5 +1,5 @@
 Dreamers.autoContenido("aritz-cosplay", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/reel/Dd0HE9DOlca/",
     "https://www.tiktok.com/@aritz.cosplays/video/7690406124096359732",

@@ -48,8 +48,8 @@
       var esSemana = item.clases.indexOf('semana') >= 0;
       var corona = esSemana ? '<span class="corona" aria-hidden="true">&#128081;</span>' : '';
       var chispas = esSemana ? '<span class="chispas" aria-hidden="true"><i></i><i></i><i></i><i></i></span>' : '';
-      return '<article class="card' + D.claseCumple(t) + item.clases.map(function (k) { return ' dest-' + k; }).join('') + '"><div class="etqs">' + item.et.map(function (x) { return '<span>' + D.esc(x) + '</span>'; }).join('') + '</div>' + corona +
-        '<a class="ph" href="' + url + '" tabindex="-1" aria-hidden="true">' + D.img(D.rutaFoto(t), '', t) + D.confeti(t) + chispas + '</a>' +
+      return '<article class="card' + D.claseCumple(t) + D.claseAmbiente(t) + item.clases.map(function (k) { return ' dest-' + k; }).join('') + '"><div class="etqs">' + item.et.map(function (x) { return '<span>' + D.esc(x) + '</span>'; }).join('') + '</div>' + corona +
+        '<a class="ph" href="' + url + '" tabindex="-1" aria-hidden="true">' + D.img(D.rutaFoto(t), '', t) + D.confeti(t) + D.ambienteCard(t) + chispas + '</a>' +
         '<div class="body">' + D.insigniaCumple(t) + '<h3><a href="' + url + '">' + D.esc(t.nombre) + '</a></h3><div class="soc">' + soc + '</div>' +
         (item.est.length ? '<p class="dest-dato">' + item.est.map(function (x) { return D.esc(x); }).join(' · ') + '</p>' : '') +
         '<div class="fol">' + D.esc(D.totalSeguidores(t)) + '+<small>' + D.esc(c.etiquetaSeguidores) + '</small></div>' +

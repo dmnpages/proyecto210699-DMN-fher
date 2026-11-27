@@ -16,7 +16,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/kimera_sm/",
-      "seguidores": "344"
+      "seguidores": "347"
     },
     {
       "plataforma": "Tiktok",
@@ -27,7 +27,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@kimerasm/",
-      "seguidores": "585"
+      "seguidores": "586"
     },
     {
       "plataforma": "Twitch",
@@ -48,7 +48,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "149.2K",
+    "valor": "149.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

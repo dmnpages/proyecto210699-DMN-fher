@@ -1,33 +1,38 @@
 Dreamers.autoContenido("andrew-brand", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
+    "https://www.instagram.com/reel/DgOZCZ3uPAg/",
     "https://www.instagram.com/reel/DgKsFlgxggq/",
     "https://www.tiktok.com/@marka_nerd2.0/video/7711803045339729170",
     "https://www.instagram.com/reel/DgIfQF7xeea/",
-    "https://www.tiktok.com/@marka_nerd2.0/video/7711430348038606088",
-    "https://www.instagram.com/reel/DgD3qOlx_E-/"
+    "https://www.tiktok.com/@marka_nerd2.0/video/7711430348038606088"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DgD3qOlx_E-/",
     "https://www.tiktok.com/@marka_nerd2.0/video/7711001081010064647",
     "https://www.tiktok.com/@marka_nerd2.0/video/7709988512296160520",
     "https://www.tiktok.com/@marka_nerd2.0/video/7709627379458510098",
     "https://www.instagram.com/reel/Df5K1WHSa22/",
     "https://www.tiktok.com/@marka_nerd2.0/video/7709576185411357959",
     "https://www.tiktok.com/@marka_nerd2.0/video/7709221719570976018",
-    "https://www.instagram.com/p/Df2hOh1PIfy/",
-    "https://www.tiktok.com/@marka_nerd2.0/video/7708761018767576338"
+    "https://www.instagram.com/p/Df2hOh1PIfy/"
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=C03wnfnLqyk": 2,
-    "https://www.youtube.com/watch?v=XSoP2Uy3P64": 11,
-    "https://www.youtube.com/watch?v=i_lee8SZv5w": 988
+    "https://www.youtube.com/watch?v=XSoP2Uy3P64": 11
   },
   "titulos": {
     "https://www.youtube.com/watch?v=C03wnfnLqyk": "#monsterhigh #mattel",
-    "https://www.youtube.com/watch?v=XSoP2Uy3P64": "#anime #convenciones #cosplayer",
-    "https://www.youtube.com/watch?v=i_lee8SZv5w": "El cosplay es todo un arte #cosplay #anime #convenciones #cosplayer #fypシ"
+    "https://www.youtube.com/watch?v=XSoP2Uy3P64": "#anime #convenciones #cosplayer"
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgOZCZ3uPAg/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795739247
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/reel/DgKsFlgxggq/",
@@ -300,13 +305,6 @@ Dreamers.autoContenido("andrew-brand", {
       "titulo": "#anime #convenciones #cosplayer",
       "vistas": 11,
       "fecha": 1786715242
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=i_lee8SZv5w",
-      "titulo": "El cosplay es todo un arte #cosplay #anime #convenciones #cosplayer #fypシ",
-      "vistas": 988,
-      "fecha": 1782742924
     }
   ]
 });

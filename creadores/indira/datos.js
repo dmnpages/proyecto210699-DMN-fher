@@ -4,9 +4,12 @@ Dreamers.talento({
   "seguidores": "22.1K",
   "descripcion": "",
   "foto": "foto-admin.webp",
-  "posicionFoto": "50% 50%",
-  "fotoZoom": 1,
+  "posicionFoto": "58.0000114440918% 51.866676330566406%",
+  "fotoZoom": 1.18,
   "genero": "M",
+  "lugar": 1,
+  "nacimiento": "01-06",
+  "ambiente": true,
   "categorias": [
     "Streamer",
     "Cosplayer"
@@ -20,8 +23,8 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@indirapellas/",
-      "clave": true,
-      "seguidores": "17.9K"
+      "seguidores": "17.9K",
+      "clave": true
     },
     {
       "plataforma": "Facebook",
@@ -46,7 +49,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "272.4K",
+    "valor": "272.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

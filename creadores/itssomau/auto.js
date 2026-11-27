@@ -1,23 +1,30 @@
 Dreamers.autoContenido("itssomau", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
+    "https://www.instagram.com/reel/DgMVnDRS7qD/",
     "https://www.tiktok.com/@springtrap1584/video/7712169569137282312",
     "https://www.tiktok.com/@springtrap1584/video/7711599690118139154",
     "https://www.instagram.com/reel/DgEfaxbALf6/",
-    "https://www.tiktok.com/@springtrap1584/video/7711173811680398599",
-    "https://www.tiktok.com/@springtrap1584/video/7710800925891628306"
+    "https://www.tiktok.com/@springtrap1584/video/7711173811680398599"
   ],
   "reserva": [
+    "https://www.tiktok.com/@springtrap1584/video/7710800925891628306",
     "https://www.tiktok.com/@springtrap1584/video/7710403912448183559",
     "https://www.instagram.com/reel/Df947skA7kt/",
     "https://www.tiktok.com/@springtrap1584/video/7710104693250231559",
     "https://www.tiktok.com/@springtrap1584/video/7710091494551489800",
     "https://www.instagram.com/p/Df8NdKNmw1_/",
     "https://www.instagram.com/reel/Df5wooFAjP8/",
-    "https://www.tiktok.com/@springtrap1584/video/7709664378244566280",
-    "https://www.tiktok.com/@springtrap1584/video/7709368653900270855"
+    "https://www.tiktok.com/@springtrap1584/video/7709664378244566280"
   ],
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgMVnDRS7qD/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795670342
+    },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@springtrap1584/video/7712169569137282312",
@@ -290,13 +297,6 @@ Dreamers.autoContenido("itssomau", {
       "titulo": "",
       "vistas": null,
       "fecha": 1756397491
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@springtrap1584/video/7296879258360745222",
-      "titulo": "",
-      "vistas": null,
-      "fecha": 1698937094
     }
   ]
 });

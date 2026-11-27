@@ -1,35 +1,34 @@
 Dreamers.autoContenido("dragonxlr", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.twitch.tv/dragonxlrgames",
+    "https://www.instagram.com/p/DgOhxojGMd0/",
     "https://www.instagram.com/reel/DgLeX2ktGU3/",
     "https://www.youtube.com/watch?v=z9jiOFx5qfA",
-    "https://www.tiktok.com/@dragonxlr/video/7712207112109182216",
-    "https://www.instagram.com/reel/DgI78w1N8iv/"
+    "https://www.tiktok.com/@dragonxlr/video/7712207112109182216"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DgI78w1N8iv/",
     "https://www.instagram.com/reel/DgIG0NaR-vc/",
     "https://www.tiktok.com/@dragonxlr/video/7711642575999978770",
     "https://www.instagram.com/reel/DgGLVa7NQsW/",
     "https://www.tiktok.com/@dragonxlr/video/7711401399631940872",
     "https://www.instagram.com/reel/DgFUmJetOn-/",
     "https://www.instagram.com/p/DgEewSVNVwc/",
-    "https://www.tiktok.com/@dragonxlr/video/7711209524211879175",
-    "https://www.tiktok.com/@dragonxlr/video/7711188544307334408"
+    "https://www.tiktok.com/@dragonxlr/video/7711209524211879175"
   ],
   "fijados": [
     "https://www.twitch.tv/dragonxlrgames"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=z9jiOFx5qfA": 1068,
-    "https://www.youtube.com/watch?v=sAM4NgS3JZo": 916,
+    "https://www.youtube.com/watch?v=z9jiOFx5qfA": 1094,
+    "https://www.youtube.com/watch?v=sAM4NgS3JZo": 917,
     "https://www.youtube.com/watch?v=qOveUdASfQA": 5,
     "https://www.youtube.com/watch?v=RCIVrKhw_ms": 44,
     "https://www.youtube.com/watch?v=rfpmqJKSero": 36,
     "https://www.youtube.com/watch?v=mW3Vwoxma6M": 7,
     "https://www.youtube.com/watch?v=HwwW-cGSCCk": 4,
-    "https://www.youtube.com/watch?v=azmt5G67LUk": 73,
-    "https://www.youtube.com/watch?v=r8JrRhgzVto": 15
+    "https://www.youtube.com/watch?v=azmt5G67LUk": 73
   },
   "titulos": {
     "https://www.youtube.com/watch?v=z9jiOFx5qfA": "Juego favorito y personaje favorito bega fest 2026 #geek #gaming #nicaragua",
@@ -39,8 +38,7 @@ Dreamers.autoContenido("dragonxlr", {
     "https://www.youtube.com/watch?v=rfpmqJKSero": "Jugando fort #fortnite  #suscribete like",
     "https://www.youtube.com/watch?v=mW3Vwoxma6M": "Fortnite #outlast #suscribete #like",
     "https://www.youtube.com/watch?v=HwwW-cGSCCk": "relax",
-    "https://www.youtube.com/watch?v=azmt5G67LUk": "Clips de twitch anécdotas, pobre de mi :( #clipstream #twitch #clipstwich #chisme #anecdot",
-    "https://www.youtube.com/watch?v=r8JrRhgzVto": "relax"
+    "https://www.youtube.com/watch?v=azmt5G67LUk": "Clips de twitch anécdotas, pobre de mi :( #clipstream #twitch #clipstwich #chisme #anecdot"
   },
   "candidatas": [
     {
@@ -49,6 +47,13 @@ Dreamers.autoContenido("dragonxlr", {
       "titulo": "",
       "vistas": null,
       "fecha": null
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DgOhxojGMd0/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795743829
     },
     {
       "red": "instagram",
@@ -61,7 +66,7 @@ Dreamers.autoContenido("dragonxlr", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=z9jiOFx5qfA",
       "titulo": "Juego favorito y personaje favorito bega fest 2026 #geek #gaming #nicaragua",
-      "vistas": 1068,
+      "vistas": 1094,
       "fecha": 1795641001
     },
     {
@@ -138,7 +143,7 @@ Dreamers.autoContenido("dragonxlr", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=sAM4NgS3JZo",
       "titulo": "Nacatamaland Nostalgia #minecraft #nicandzoe #nostalgia #Dragonxlr #sérieminecraft",
-      "vistas": 916,
+      "vistas": 917,
       "fecha": 1795268082
     },
     {
@@ -315,13 +320,6 @@ Dreamers.autoContenido("dragonxlr", {
       "titulo": "",
       "vistas": null,
       "fecha": 1789710118
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=r8JrRhgzVto",
-      "titulo": "relax",
-      "vistas": 15,
-      "fecha": 1789669277
     }
   ]
 });

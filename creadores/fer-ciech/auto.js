@@ -1,5 +1,5 @@
 Dreamers.autoContenido("fer-ciech", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/reel/DgJixdNBOdZ/",
     "https://www.instagram.com/p/DgIoTvGoNJh/",
@@ -179,16 +179,16 @@ Dreamers.autoContenido("fer-ciech", {
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "url": "https://www.facebook.com/reel/3840444649472885/",
       "titulo": "",
-      "vistas": null,
+      "vistas": 1,
       "fecha": null
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/reel/3840444649472885/",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
-      "vistas": 1,
+      "vistas": null,
       "fecha": null
     },
     {

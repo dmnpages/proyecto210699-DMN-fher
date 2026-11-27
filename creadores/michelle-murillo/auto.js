@@ -1,21 +1,21 @@
 Dreamers.autoContenido("michelle-murillo", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
+    "https://www.instagram.com/reel/DgN2o0Uzq81/",
+    "https://www.instagram.com/reel/DgN0kuhvZfz/",
     "https://www.tiktok.com/@micheladamiaw/video/7711795213500452104",
     "https://www.instagram.com/reel/DgGZsstPD-W/",
-    "https://www.instagram.com/reel/DgDvSJTvPiQ/",
-    "https://www.instagram.com/reel/DgBJwrYvr99/",
-    "https://www.instagram.com/reel/Df8YscWP9Ki/"
+    "https://www.instagram.com/reel/DgDvSJTvPiQ/"
   ],
   "reserva": [
+    "https://www.instagram.com/reel/DgBJwrYvr99/",
+    "https://www.instagram.com/reel/Df8YscWP9Ki/",
     "https://www.tiktok.com/@micheladamiaw/video/7709708832133352722",
     "https://www.tiktok.com/@micheladamiaw/video/7708970233637113096",
     "https://www.instagram.com/reel/Df0FqE4vtjM/",
     "https://www.tiktok.com/@micheladamiaw/video/7708848941047139585",
     "https://www.tiktok.com/@micheladamiaw/video/7708839346350066952",
-    "https://www.instagram.com/reel/DfyTlxZRZPf/",
-    "https://www.tiktok.com/@micheladamiaw/video/7708590601310047494",
-    "https://www.instagram.com/reel/DfyH9m4xmil/"
+    "https://www.instagram.com/reel/DfyTlxZRZPf/"
   ],
   "vistas": {
     "https://www.tiktok.com/@micheladamiaw/video/7711795213500452104": 335,
@@ -35,11 +35,23 @@ Dreamers.autoContenido("michelle-murillo", {
     "https://www.tiktok.com/@micheladamiaw/video/7698831667716246791": 796,
     "https://www.tiktok.com/@micheladamiaw/video/7698237466532121864": 654,
     "https://www.tiktok.com/@micheladamiaw/video/7698230006262123784": 986,
-    "https://www.tiktok.com/@micheladamiaw/video/7615351088589327634": 108100,
-    "https://www.tiktok.com/@micheladamiaw/video/7604701021553659143": 2100000,
-    "https://www.tiktok.com/@micheladamiaw/video/7544157870506495237": 162600
+    "https://www.tiktok.com/@micheladamiaw/video/7615351088589327634": 108100
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgN2o0Uzq81/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795721212
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgN0kuhvZfz/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795720130
+    },
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@micheladamiaw/video/7711795213500452104",
@@ -305,20 +317,6 @@ Dreamers.autoContenido("michelle-murillo", {
       "titulo": "",
       "vistas": null,
       "fecha": 1770608116
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@micheladamiaw/video/7604701021553659143",
-      "titulo": "",
-      "vistas": 2100000,
-      "fecha": 1770607433
-    },
-    {
-      "red": "tiktok",
-      "url": "https://www.tiktok.com/@micheladamiaw/video/7544157870506495237",
-      "titulo": "",
-      "vistas": 162600,
-      "fecha": 1756511132
     }
   ]
 });

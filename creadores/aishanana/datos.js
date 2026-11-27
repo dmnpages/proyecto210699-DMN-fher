@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Aishanana",
   "ciudad": "Managua",
   "correo": "aishanana0125@gmail.com",
-  "seguidores": "8.8K",
+  "seguidores": "8.9K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -21,7 +21,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@aishananaaa?_r=1&_t=ZS-9BYCqMXF0sf",
-      "seguidores": "5K"
+      "seguidores": "5.1K"
     }
   ],
   "formatos": [
@@ -31,7 +31,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "74.7K",
+    "valor": "74.9K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

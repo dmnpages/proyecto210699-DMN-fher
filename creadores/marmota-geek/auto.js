@@ -1,5 +1,5 @@
 Dreamers.autoContenido("marmota-geek", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.youtube.com/watch?v=pg2DqVmnRbE",
     "https://www.tiktok.com/@marmotageek/video/7711752474008309013",
@@ -18,13 +18,13 @@ Dreamers.autoContenido("marmota-geek", {
     "https://www.tiktok.com/@marmotageek/video/7674302560697683208"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=pg2DqVmnRbE": 973,
-    "https://www.youtube.com/watch?v=zqC6HuSzaww": 124,
-    "https://www.youtube.com/watch?v=ryE1jAzjsM8": 345,
-    "https://www.youtube.com/watch?v=MrTG6h3gRNw": 709,
-    "https://www.youtube.com/watch?v=rFxteVW_ehU": 2016,
-    "https://www.youtube.com/watch?v=3TK4paNYZaE": 1334,
-    "https://www.youtube.com/watch?v=1cbE_TCsi0I": 2127,
+    "https://www.youtube.com/watch?v=pg2DqVmnRbE": 1679,
+    "https://www.youtube.com/watch?v=zqC6HuSzaww": 127,
+    "https://www.youtube.com/watch?v=ryE1jAzjsM8": 346,
+    "https://www.youtube.com/watch?v=MrTG6h3gRNw": 710,
+    "https://www.youtube.com/watch?v=rFxteVW_ehU": 2017,
+    "https://www.youtube.com/watch?v=3TK4paNYZaE": 1336,
+    "https://www.youtube.com/watch?v=1cbE_TCsi0I": 2132,
     "https://www.youtube.com/watch?v=AaXds8_7c9o": 2060,
     "https://www.youtube.com/watch?v=QXWio4Y1x8w": 1314
   },
@@ -44,7 +44,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=pg2DqVmnRbE",
       "titulo": "👏 ¡FELICIDADES, JENSEN! ¡FELICIDADES! 👏 #jensenhuang #nvidia #evangelion",
-      "vistas": 973,
+      "vistas": 1679,
       "fecha": 1795532624
     },
     {
@@ -79,7 +79,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=zqC6HuSzaww",
       "titulo": "Cosplay Music Video - Tsunami Fest 2026",
-      "vistas": 124,
+      "vistas": 127,
       "fecha": 1794716319
     },
     {
@@ -142,7 +142,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=ryE1jAzjsM8",
       "titulo": "Takuya Kurita evalúa el nivel de los artistas nicaragüenses 🇳🇮✍️",
-      "vistas": 345,
+      "vistas": 346,
       "fecha": 1786812603
     },
     {
@@ -156,7 +156,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=MrTG6h3gRNw",
       "titulo": "Takuya Kurita: así era el ambiente cuando comenzó en el manga",
-      "vistas": 709,
+      "vistas": 710,
       "fecha": 1786748003
     },
     {
@@ -191,7 +191,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=rFxteVW_ehU",
       "titulo": "Dragon Ball Z  ¡La Saga Saiyajin Revela el Origen de Goku!",
-      "vistas": 2016,
+      "vistas": 2017,
       "fecha": 1786475700
     },
     {
@@ -219,7 +219,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=3TK4paNYZaE",
       "titulo": "¿Sabías que Dragon Ball se llamó “Zero y el Dragón Mágico”?",
-      "vistas": 1334,
+      "vistas": 1336,
       "fecha": 1786404607
     },
     {
@@ -240,7 +240,7 @@ Dreamers.autoContenido("marmota-geek", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=1cbE_TCsi0I",
       "titulo": "¿Quién es Yamoshi, el primer Super Saiyajin Dios de Dragon Ball?",
-      "vistas": 2127,
+      "vistas": 2132,
       "fecha": 1786119375
     },
     {

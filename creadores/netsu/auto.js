@@ -1,21 +1,21 @@
 Dreamers.autoContenido("netsu", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
+    "https://www.instagram.com/reel/DgOxM0mNBcw/",
+    "https://www.instagram.com/p/DgOBpXdOKOL/",
     "https://www.instagram.com/p/DgHHD1KlYDW/",
     "https://www.instagram.com/reel/DgHEZioNa2L/",
-    "https://www.instagram.com/reel/DgEVKswNyc0/",
-    "https://www.instagram.com/p/DgDtJyboMnG/",
-    "https://www.instagram.com/p/DgDnF_rIMS1/"
+    "https://www.instagram.com/reel/DgEVKswNyc0/"
   ],
   "reserva": [
+    "https://www.instagram.com/p/DgDtJyboMnG/",
+    "https://www.instagram.com/p/DgDnF_rIMS1/",
     "https://www.instagram.com/p/DgBJT8Dmbx1/",
     "https://www.instagram.com/reel/Df7ySCysXPd/",
     "https://www.instagram.com/reel/Df6UUCbtTc3/",
     "https://www.instagram.com/reel/Df5LhkXyZcx/",
     "https://www.instagram.com/reel/Df3k98WBIdm/",
-    "https://www.instagram.com/p/Df2yP5JlI6C/",
-    "https://www.instagram.com/reel/Df0XIiCsXfJ/",
-    "https://www.instagram.com/reel/Dfz97nZvd9_/"
+    "https://www.instagram.com/p/Df2yP5JlI6C/"
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=hGxf1zdAPm4": 567,
@@ -32,8 +32,7 @@ Dreamers.autoContenido("netsu", {
     "https://www.youtube.com/watch?v=XvhP84g09qM": 53,
     "https://www.youtube.com/watch?v=TXInjShAPic": 1560,
     "https://www.youtube.com/watch?v=mXQg8TL1nsA": 65,
-    "https://www.youtube.com/watch?v=0HR_W5ppJTM": 2693,
-    "https://www.facebook.com/reel/1155331263669865/": 1
+    "https://www.youtube.com/watch?v=0HR_W5ppJTM": 2693
   },
   "titulos": {
     "https://www.youtube.com/watch?v=hGxf1zdAPm4": "Lanzamientos mas importantes de Nintendo Switch en 2025. #nintedoswitch #2025 #juegos",
@@ -51,9 +50,23 @@ Dreamers.autoContenido("netsu", {
     "https://www.youtube.com/watch?v=TXInjShAPic": "¿Te sabías este dato curioso sobre el Mario Day? #shorts   #mar10day #mar10  #nintendo #ma",
     "https://www.youtube.com/watch?v=mXQg8TL1nsA": "NOTICIAS | ¿DRAGON BALL Z BUDOKAI TENKAICHI 4? Trailer | Netsu",
     "https://www.youtube.com/watch?v=0HR_W5ppJTM": "Mira a todos tus streamers favoritos al mismo tiempo. #squidcraft2  #auronplay #komanche #",
-    "https://www.tiktok.com/@netsugames/video/6821725383412548614": "@netsugames 20.7k seguidores, 805 siguiendo, 581.5k me gusta: no te pierdas los geniales v"
+    "https://www.tiktok.com/@netsugames/video/6821725383412548614": "@netsugames 20.8k seguidores, 805 siguiendo, 582.4k me gusta: no te pierdas los geniales v"
   },
   "candidatas": [
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/reel/DgOxM0mNBcw/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795751916
+    },
+    {
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DgOBpXdOKOL/",
+      "titulo": "",
+      "vistas": null,
+      "fecha": 1795726984
+    },
     {
       "red": "instagram",
       "url": "https://www.instagram.com/p/DgHHD1KlYDW/",
@@ -302,7 +315,7 @@ Dreamers.autoContenido("netsu", {
     {
       "red": "tiktok",
       "url": "https://www.tiktok.com/@netsugames/video/6821725383412548614",
-      "titulo": "@netsugames 20.7k seguidores, 805 siguiendo, 581.5k me gusta: no te pierdas los geniales v",
+      "titulo": "@netsugames 20.8k seguidores, 805 siguiendo, 582.4k me gusta: no te pierdas los geniales v",
       "vistas": null,
       "fecha": 1588306711
     },
@@ -316,20 +329,6 @@ Dreamers.autoContenido("netsu", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=oMbx9ysYaCc",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1155331263669865/",
-      "titulo": "",
-      "vistas": 1,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=ciM8limtRMY",
       "titulo": "",
       "vistas": null,
       "fecha": null

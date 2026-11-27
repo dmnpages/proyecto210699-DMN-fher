@@ -1,5 +1,5 @@
 Dreamers.autoContenido("tanooki", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/reel/Df-atMtP327/",
     "https://www.tiktok.com/@tanooki_ni/video/7710325015048228127",
@@ -19,14 +19,14 @@ Dreamers.autoContenido("tanooki", {
   ],
   "vistas": {
     "https://www.youtube.com/watch?v=z9vqpZsKdNY": 1302,
-    "https://www.youtube.com/watch?v=Oh0fRk6mfQk": 1144,
+    "https://www.youtube.com/watch?v=Oh0fRk6mfQk": 1148,
     "https://www.youtube.com/watch?v=n5VQxdiDjX8": 521,
     "https://www.youtube.com/watch?v=RPNDBNK4Nl4": 863,
     "https://www.youtube.com/watch?v=JazISX-sYQ0": 1587,
     "https://www.youtube.com/watch?v=7FoJHOFtl0s": 926,
     "https://www.youtube.com/watch?v=h2pn9WSojgc": 1532,
     "https://www.youtube.com/watch?v=Oz1IYMxYEG8": 1043,
-    "https://www.youtube.com/watch?v=_iwAZvPtB6o": 66,
+    "https://www.youtube.com/watch?v=_iwAZvPtB6o": 67,
     "https://www.youtube.com/watch?v=tKbVFrxhLFg": 488,
     "https://www.youtube.com/watch?v=F45HCzL6TNs": 1382,
     "https://www.youtube.com/watch?v=rAbR_is8_YA": 1384,
@@ -203,7 +203,7 @@ Dreamers.autoContenido("tanooki", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=Oh0fRk6mfQk",
       "titulo": "Creen que Just Animations es mejor que Actions & Stuff? Cuentenme en los comentarios👀 #min",
-      "vistas": 1144,
+      "vistas": 1148,
       "fecha": 1791349887
     },
     {
@@ -252,7 +252,7 @@ Dreamers.autoContenido("tanooki", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=_iwAZvPtB6o",
       "titulo": "Mi primer día en un Server Privado de Minecraft👀| 🏡 Union Latina EP. 1",
-      "vistas": 66,
+      "vistas": 67,
       "fecha": 1783551977
     },
     {
@@ -313,7 +313,7 @@ Dreamers.autoContenido("tanooki", {
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "url": "https://www.facebook.com/reel/967662525824421/",
       "titulo": "",
       "vistas": null,
       "fecha": null
@@ -327,7 +327,7 @@ Dreamers.autoContenido("tanooki", {
     },
     {
       "red": "facebook",
-      "url": "https://www.facebook.com/reel/967662525824421/",
+      "url": "https://www.facebook.com/reel/1134834719312899/",
       "titulo": "",
       "vistas": null,
       "fecha": null

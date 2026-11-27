@@ -1,5 +1,5 @@
 Dreamers.autoContenido("vitta-bass", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@vittamusic/video/7712272368671952180",
     "https://www.tiktok.com/@vittamusic/video/7711936510739696914",
@@ -20,15 +20,15 @@ Dreamers.autoContenido("vitta-bass", {
   "vistas": {
     "https://www.youtube.com/watch?v=A_PhfZHM9W0": 545,
     "https://www.youtube.com/watch?v=_anYn9RoWoE": 491,
-    "https://www.youtube.com/watch?v=nYxXK0jzV98": 508,
+    "https://www.youtube.com/watch?v=nYxXK0jzV98": 509,
     "https://www.youtube.com/watch?v=-XmSWCewjE8": 1007,
     "https://www.youtube.com/watch?v=jwufJBJVf9k": 696,
-    "https://www.youtube.com/watch?v=5NJLk0k2CN4": 811,
-    "https://www.youtube.com/watch?v=SxqhXf53org": 577,
-    "https://www.youtube.com/watch?v=0cl7LEDuMU8": 331,
-    "https://www.youtube.com/watch?v=KMWjADUrh6c": 833,
+    "https://www.youtube.com/watch?v=5NJLk0k2CN4": 813,
+    "https://www.youtube.com/watch?v=SxqhXf53org": 579,
+    "https://www.youtube.com/watch?v=0cl7LEDuMU8": 334,
+    "https://www.youtube.com/watch?v=KMWjADUrh6c": 834,
     "https://www.youtube.com/watch?v=_3OHjdG0bsU": 1544,
-    "https://www.youtube.com/watch?v=W8XVQTDnp5A": 940,
+    "https://www.youtube.com/watch?v=W8XVQTDnp5A": 941,
     "https://www.youtube.com/watch?v=J_T1F_yUPUU": 233,
     "https://www.youtube.com/watch?v=KxenH6pkdGc": 1603,
     "https://www.youtube.com/watch?v=nihlfhMA2QI": 1354,
@@ -204,7 +204,7 @@ Dreamers.autoContenido("vitta-bass", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=nYxXK0jzV98",
       "titulo": "VITTA - Grime Nic",
-      "vistas": 508,
+      "vistas": 509,
       "fecha": 1753301927
     },
     {
@@ -225,28 +225,28 @@ Dreamers.autoContenido("vitta-bass", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=5NJLk0k2CN4",
       "titulo": "EL SAMURAI DE 4 OJOS  ALBUM",
-      "vistas": 811,
+      "vistas": 813,
       "fecha": 1740540062
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=SxqhXf53org",
       "titulo": "Flow Kalari feat  Nachas & Lirrod #musica #musica #newmusic #trap #rap #hiphop #anime",
-      "vistas": 577,
+      "vistas": 579,
       "fecha": 1739932484
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=0cl7LEDuMU8",
       "titulo": "#2 Seijaku feat  LuíNelson & Russell",
-      "vistas": 331,
+      "vistas": 334,
       "fecha": 1739904463
     },
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=KMWjADUrh6c",
       "titulo": "Dos tragos de ron ( lyric video )",
-      "vistas": 833,
+      "vistas": 834,
       "fecha": 1739316404
     },
     {
@@ -260,7 +260,7 @@ Dreamers.autoContenido("vitta-bass", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=W8XVQTDnp5A",
       "titulo": "VITTA & GG  -  Doble GG",
-      "vistas": 940,
+      "vistas": 941,
       "fecha": 1730872806
     },
     {
@@ -314,6 +314,13 @@ Dreamers.autoContenido("vitta-bass", {
     },
     {
       "red": "youtube",
+      "url": "https://www.youtube.com/watch?v=eo5K6KVyVz8",
+      "titulo": "",
+      "vistas": null,
+      "fecha": null
+    },
+    {
+      "red": "youtube",
       "url": "https://www.youtube.com/watch?v=EDTix3Ef4Mk",
       "titulo": "",
       "vistas": null,
@@ -322,13 +329,6 @@ Dreamers.autoContenido("vitta-bass", {
     {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=aGqFBEtMi8c",
-      "titulo": "",
-      "vistas": null,
-      "fecha": null
-    },
-    {
-      "red": "youtube",
-      "url": "https://www.youtube.com/watch?v=eo5K6KVyVz8",
       "titulo": "",
       "vistas": null,
       "fecha": null

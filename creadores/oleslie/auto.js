@@ -1,5 +1,5 @@
 Dreamers.autoContenido("oleslie", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.tiktok.com/@olesliegames/video/7707295653097016584",
     "https://www.instagram.com/p/DfLVgpLkeIUgDZuIIoSAcDhlqeDuWSYHQFs0Gw0/",
@@ -278,25 +278,25 @@ Dreamers.autoContenido("oleslie", {
       "fecha": 1748575217
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/reel/1134834719312899/",
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DKNuxPHxUFvKY_2QMb9WDQ8NE7m6fDs0x9418U0/",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1748472446
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/roger.enrique.pravia.cruz.2025/posts/pfbid0FPFw9gDWxiniMFaKoDuNxjUzAcWKea9niwmVV9P6Vxo3oz8feguRWLkc29M34MwGl",
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DKKyNDQxZqdkrLwHVS8C6zNPKonqJpdVmyw5yM0/",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1748373584
     },
     {
-      "red": "facebook",
-      "url": "https://www.facebook.com/massiel.figueroa.18/posts/pfbid028vmvcGh4K487cRFPGRfvPrPUHapC4Pqq7yJbT6BWaDcfXbYKNdHgfmgFtM3Dwzzgl",
+      "red": "instagram",
+      "url": "https://www.instagram.com/p/DH1nSS-RTlf34HwNG_nNPtwDNeX67FIC-8-QwI0/",
       "titulo": "",
       "vistas": null,
-      "fecha": null
+      "fecha": 1743368249
     }
   ]
 });

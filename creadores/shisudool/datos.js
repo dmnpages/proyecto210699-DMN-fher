@@ -16,7 +16,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@shisudool",
-      "seguidores": "164"
+      "seguidores": "165"
     },
     {
       "plataforma": "Instagram",

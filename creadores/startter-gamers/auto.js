@@ -1,5 +1,5 @@
 Dreamers.autoContenido("startter-gamers", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.twitch.tv/starttergamers",
     "https://www.facebook.com/reel/2324700334988065/",

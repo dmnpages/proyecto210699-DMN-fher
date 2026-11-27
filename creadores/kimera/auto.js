@@ -1,5 +1,5 @@
 Dreamers.autoContenido("kimera", {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "elegidos": [
     "https://www.instagram.com/reel/DgLpJFFvZ_j/",
     "https://www.tiktok.com/@kimerasm/video/7711879654684069127",
@@ -18,7 +18,7 @@ Dreamers.autoContenido("kimera", {
     "https://www.tiktok.com/@kimerasm/video/7710337486123453704"
   ],
   "vistas": {
-    "https://www.youtube.com/watch?v=-JGiNhICdXI": 41,
+    "https://www.youtube.com/watch?v=-JGiNhICdXI": 43,
     "https://www.youtube.com/watch?v=lBpkpvIf0kE": 1481,
     "https://www.youtube.com/watch?v=LPF0wzaw4_A": 1516,
     "https://www.youtube.com/watch?v=lr5B8XBi8Os": 2323,
@@ -66,7 +66,7 @@ Dreamers.autoContenido("kimera", {
       "red": "youtube",
       "url": "https://www.youtube.com/watch?v=-JGiNhICdXI",
       "titulo": "NO COMPRES la PS4 #playstation #playstation4 #ps4 #gaming",
-      "vistas": 41,
+      "vistas": 43,
       "fecha": 1795463303
     },
     {
