@@ -8,9 +8,12 @@ Dreamers.talento({
   "posicionFoto": "50% 50%",
   "fotoZoom": 1.3,
   "genero": "H",
+  "lugar": 57,
   "nacimiento": "06-21",
   "categorias": [
-    "Streamer"
+    "Streamer",
+    "Músico",
+    "Productor"
   ],
   "redes": [
     {
@@ -46,6 +49,5 @@ Dreamers.talento({
     "valor": "4.4K",
     "texto": "Likes totales en TikTok"
   },
-  "frames": [],
-  "lugar": 57
+  "frames": []
 });
