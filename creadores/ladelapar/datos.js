@@ -25,7 +25,9 @@ Dreamers.talento({
       "seguidores": "73"
     }
   ],
-  "formatos": [],
+  "formatos": [
+    "Videos Cortos"
+  ],
   "ideal": [
     "Gaming"
   ],
