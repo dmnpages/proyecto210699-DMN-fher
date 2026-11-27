@@ -3,7 +3,7 @@ Dreamers.talento({
   "ciudad": "Estelí",
   "correo": "fherrera14@dreamersmedianicaragua.com",
   "seguidores": "1.1K",
-  "descripcion": "",
+  "descripcion": "Creador de contenido autodidacta y multifacético cuyo motor principal es la iniciativa práctica. Se define por su capacidad de construir soluciones desde cero, impulsado por el propósito genuino de aportar estructura, dar visibilidad y fortalecer el crecimiento de la comunidad de creadores de su entorno.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1.3,

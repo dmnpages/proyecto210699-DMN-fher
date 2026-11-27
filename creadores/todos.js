@@ -1557,7 +1557,7 @@ Dreamers.talento({
   "ciudad": "Managua",
   "correo": "lkcalo1981@gmail.com",
   "seguidores": "16.5K",
-  "descripcion": "Creador de contenido y podcaster enfocado en expandir su audiencia. Su objetivo principal es lograr que su trabajo llegue a más personas y dar a conocer sus proyectos a un público más amplio.",
+  "descripcion": "Creador de contenido y pódcast enfocado en expandir su audiencia. Su objetivo principal es lograr que su trabajo llegue a más personas y dar a conocer sus proyectos a un público más amplio.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
@@ -2667,7 +2667,7 @@ Dreamers.talento({
   "ciudad": "Estelí",
   "correo": "fherrera14@dreamersmedianicaragua.com",
   "seguidores": "1.1K",
-  "descripcion": "",
+  "descripcion": "Creador de contenido autodidacta y multifacético cuyo motor principal es la iniciativa práctica. Se define por su capacidad de construir soluciones desde cero, impulsado por el propósito genuino de aportar estructura, dar visibilidad y fortalecer el crecimiento de la comunidad de creadores de su entorno.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1.3,
@@ -2721,14 +2721,15 @@ Dreamers.talento({
   "ciudad": "Managua",
   "correo": "nahtnjca@gmail.com",
   "seguidores": "429",
-  "descripcion": "",
+  "descripcion": "Diseñadora creativa y apasionada por el diseño gráfico y el marketing digital, con experiencia en creación de contenido visual, publicidad y gestión de redes sociales. Se destaca por su originalidad, atención al detalle y capacidad para transformar ideas en propuestas atractivas e innovadoras.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
   "fotoZoom": 1,
   "genero": "M",
   "lugar": 58,
   "categorias": [
-    "Streamer"
+    "Streamer",
+    "Illustrator"
   ],
   "redes": [
     {
