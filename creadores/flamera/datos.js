@@ -47,7 +47,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "738.3K",
+    "valor": "738.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

@@ -1,7 +1,7 @@
 Dreamers.talento({
   "nombre": "Indira Pellas",
   "ciudad": "Managua",
-  "seguidores": "22.1K",
+  "seguidores": "23.7K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "58.0000114440918% 51.866676330566406%",
@@ -29,7 +29,7 @@ Dreamers.talento({
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/profile.php?id=100027972265481/",
-      "seguidores": "81"
+      "seguidores": "1.7K"
     },
     {
       "plataforma": "Youtube",
@@ -38,7 +38,6 @@ Dreamers.talento({
     }
   ],
   "formatos": [
-    "Streams",
     "Cosplay",
     "Geek News",
     "Videos cortos"

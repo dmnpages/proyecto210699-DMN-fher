@@ -2,7 +2,7 @@ Dreamers._actual="indira";
 Dreamers.talento({
   "nombre": "Indira Pellas",
   "ciudad": "Managua",
-  "seguidores": "22.1K",
+  "seguidores": "23.7K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "58.0000114440918% 51.866676330566406%",
@@ -30,7 +30,7 @@ Dreamers.talento({
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/profile.php?id=100027972265481/",
-      "seguidores": "81"
+      "seguidores": "1.7K"
     },
     {
       "plataforma": "Youtube",
@@ -39,7 +39,6 @@ Dreamers.talento({
     }
   ],
   "formatos": [
-    "Streams",
     "Cosplay",
     "Geek News",
     "Videos cortos"
@@ -83,7 +82,7 @@ Dreamers.talento({
     {
       "plataforma": "Twitch",
       "enlace": "https://www.twitch.tv/yanfluu",
-      "seguidores": "59"
+      "seguidores": "61"
     }
   ],
   "formatos": [
@@ -206,7 +205,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "149.5K",
+    "valor": "149.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -456,7 +455,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "738.3K",
+    "valor": "738.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -649,7 +648,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "34.7K",
+    "valor": "34.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -700,7 +699,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "582.4K",
+    "valor": "582.5K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1188,7 +1187,7 @@ Dreamers.talento({
     "Musicales"
   ],
   "dato": {
-    "valor": "356.5K",
+    "valor": "356.7K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1295,7 +1294,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "348.3K",
+    "valor": "348.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1360,7 +1359,7 @@ Dreamers.talento({
   "nombre": "Skeint MC",
   "ciudad": "Matagalpa",
   "correo": "iskeintplayer@gmail.com",
-  "seguidores": "786",
+  "seguidores": "787",
   "descripcion": "Creador de contenido con el objetivo de crecer y aprender en comunidad. Desea aportar sus habilidades, colaborar y compartir ideas para crear contenido de alta calidad y alcanzar nuevas metas junto a un equipo de trabajo.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50.390625% 50%",
@@ -1373,7 +1372,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@skeint_mc",
-      "seguidores": "121"
+      "seguidores": "122"
     },
     {
       "plataforma": "Twitch",
@@ -1547,7 +1546,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "92.2K",
+    "valor": "92.4K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -1826,7 +1825,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@rvkaru",
-      "seguidores": "651"
+      "seguidores": "650"
     },
     {
       "plataforma": "Tiktok",
@@ -1850,7 +1849,7 @@ Dreamers.talento({
     "Entretenimiento"
   ],
   "dato": {
-    "valor": "10.3K",
+    "valor": "57K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -2390,7 +2389,7 @@ Dreamers.talento({
   "nombre": "Ashlys21",
   "ciudad": "Managua",
   "correo": "araicaashlys@gmail.com",
-  "seguidores": "209",
+  "seguidores": "213",
   "descripcion": "Diseñadora gráfica y productora audiovisual que combina estética y narrativa para crear piezas de impacto, explorando además el cosplay y la caracterización para contar historias.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -2411,14 +2410,15 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@ashlys21",
-      "seguidores": "120",
+      "seguidores": "124",
       "clave": true
     }
   ],
   "formatos": [
     "Cosplay",
     "Editora",
-    "Videos cortos"
+    "Videos cortos",
+    "Música"
   ],
   "ideal": [
     "Anime y cultura pop",
@@ -2426,7 +2426,7 @@ Dreamers.talento({
     "Eventos"
   ],
   "dato": {
-    "valor": "5.9K",
+    "valor": "6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": [
@@ -2473,14 +2473,15 @@ Dreamers.talento({
   "formatos": [
     "Videos cortos",
     "Tecnología",
-    "Geek News"
+    "Geek News",
+    "Videos largos"
   ],
   "ideal": [
     "Gaming",
     "Tecnología"
   ],
   "dato": {
-    "valor": "902.1K",
+    "valor": "902.2K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []
@@ -2656,6 +2657,96 @@ Dreamers.talento({
   ],
   "dato": {
     "valor": "21K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": []
+});
+Dreamers._actual="fherrera14";
+Dreamers.talento({
+  "nombre": "FHerrera14 (CEO)",
+  "ciudad": "Estelí",
+  "correo": "fherrera14@dreamersmedianicaragua.com",
+  "seguidores": "1.1K",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1.3,
+  "genero": "H",
+  "nacimiento": "06-21",
+  "categorias": [
+    "Streamer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Youtube",
+      "enlace": "https://www.youtube.com/@FHerrera14",
+      "seguidores": "158"
+    },
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/fherrera_14",
+      "seguidores": "468",
+      "clave": true
+    },
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@fherrera_14",
+      "seguidores": "341"
+    },
+    {
+      "plataforma": "Twitch",
+      "enlace": "https://www.twitch.tv/fherrera14",
+      "seguidores": "124"
+    }
+  ],
+  "formatos": [
+    "Streams",
+    "Videos cortos"
+  ],
+  "ideal": [
+    "Gaming"
+  ],
+  "dato": {
+    "valor": "4.4K",
+    "texto": "Likes totales en TikTok"
+  },
+  "frames": [],
+  "lugar": 57
+});
+Dreamers._actual="ladelapar";
+Dreamers.talento({
+  "nombre": "Ladelapar (COO)",
+  "ciudad": "Managua",
+  "correo": "nahtnjca@gmail.com",
+  "seguidores": "429",
+  "descripcion": "",
+  "foto": "foto-admin.webp",
+  "posicionFoto": "50% 50%",
+  "fotoZoom": 1,
+  "genero": "M",
+  "lugar": 58,
+  "categorias": [
+    "Streamer"
+  ],
+  "redes": [
+    {
+      "plataforma": "Instagram",
+      "enlace": "https://www.instagram.com/nathy.jca",
+      "seguidores": "356",
+      "clave": true
+    },
+    {
+      "plataforma": "Tiktok",
+      "enlace": "https://www.tiktok.com/@ladelpar",
+      "seguidores": "73"
+    }
+  ],
+  "formatos": [],
+  "ideal": [
+    "Gaming"
+  ],
+  "dato": {
+    "valor": "880",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

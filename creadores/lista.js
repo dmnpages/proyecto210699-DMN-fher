@@ -54,5 +54,7 @@ Dreamers.listaTalentos = [
   "oleslie",
   "darrell-gg",
   "nuevo-creador",
-  "chinoshi"
+  "chinoshi",
+  "fherrera14",
+  "ladelapar"
 ];
