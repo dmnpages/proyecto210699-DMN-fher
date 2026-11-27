@@ -20,7 +20,7 @@ Dreamers.contenido.nosotros = {
         "nombre": "Freddy Herrera - FHerrera14",
         "cargo": "Fundador y CEO",
         "descripcion": "Es un creador de contenido autodidacta y multifacético cuyo motor principal es la iniciativa práctica. Se define por su capacidad de construir soluciones desde cero, impulsado por el propósito genuino de aportar estructura, dar visibilidad y fortalecer el crecimiento de la comunidad de creadores de su entorno.  «Cree DMN para la comunidad geek nicaragüense, es mi mayor proyecto y espero que todos estén cómodos con él»",
-        "foto": "imagen-5706a10137.webp",
+        "foto": "imagen-49ddb25588.webp",
         "redes": [
           {
             "plataforma": "Instagram",
