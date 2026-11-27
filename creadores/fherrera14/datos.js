@@ -40,10 +40,19 @@ Dreamers.talento({
   ],
   "formatos": [
     "Streams",
-    "Videos cortos"
+    "Videos cortos",
+    "Música"
   ],
   "ideal": [
-    "Gaming"
+    "Gaming",
+    "Musicales"
+  ],
+  "patrocinadores": [
+    {
+      "nombre": "RC Radio Estelí",
+      "logo": "patrocinador-rc-radio-esteli-4c83d998.webp",
+      "enlace": "https://www.rcradio1077.com/"
+    }
   ],
   "dato": {
     "valor": "4.4K",
