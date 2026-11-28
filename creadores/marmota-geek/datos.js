@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Marmota Geek",
   "ciudad": "Managua",
   "correo": "jalex.paramo@gmail.com",
-  "seguidores": "15K",
+  "seguidores": "15.1K",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -26,7 +26,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@marmotageek",
-      "seguidores": "305"
+      "seguidores": "362"
     },
     {
       "plataforma": "Instagram",
@@ -49,7 +49,7 @@ Dreamers.talento({
     "Entretenimiento"
   ],
   "dato": {
-    "valor": "2.7K",
+    "valor": "2.8K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

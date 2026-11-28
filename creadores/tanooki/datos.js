@@ -26,7 +26,7 @@ Dreamers.talento({
     {
       "plataforma": "Facebook",
       "enlace": "https://www.facebook.com/tanooki26#",
-      "seguidores": "526"
+      "seguidores": "525"
     },
     {
       "plataforma": "Youtube",

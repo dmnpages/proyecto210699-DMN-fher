@@ -15,7 +15,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/fresita_agridulce_/",
-      "seguidores": "601"
+      "seguidores": "602"
     },
     {
       "plataforma": "Tiktok",

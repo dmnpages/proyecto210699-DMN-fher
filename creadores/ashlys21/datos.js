@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Ashlys21",
   "ciudad": "Managua",
   "correo": "araicaashlys@gmail.com",
-  "seguidores": "213",
+  "seguidores": "243",
   "descripcion": "Diseñadora gráfica y productora audiovisual que combina estética y narrativa para crear piezas de impacto, explorando además el cosplay y la caracterización para contar historias.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -18,12 +18,12 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/araicaashlys",
-      "seguidores": "89"
+      "seguidores": "92"
     },
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@ashlys21",
-      "seguidores": "124",
+      "seguidores": "151",
       "clave": true
     }
   ],

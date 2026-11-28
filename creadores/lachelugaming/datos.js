@@ -20,7 +20,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/lachelugaming/",
-      "seguidores": "534"
+      "seguidores": "533"
     },
     {
       "plataforma": "Twitch",

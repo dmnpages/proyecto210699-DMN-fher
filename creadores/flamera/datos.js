@@ -31,7 +31,7 @@ Dreamers.talento({
     {
       "plataforma": "Youtube",
       "enlace": "https://www.youtube.com/@flameraa",
-      "seguidores": "809"
+      "seguidores": "810"
     }
   ],
   "formatos": [
@@ -47,7 +47,7 @@ Dreamers.talento({
     "Anime y cultura pop"
   ],
   "dato": {
-    "valor": "738.4K",
+    "valor": "739K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

@@ -25,7 +25,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/thecolemann777/",
-      "seguidores": "299"
+      "seguidores": "300"
     }
   ],
   "formatos": [

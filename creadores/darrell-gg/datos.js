@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Darrell GG",
   "ciudad": "Managua",
   "correo": "gutierrezdarrell528@gmail.com",
-  "seguidores": "663",
+  "seguidores": "664",
   "descripcion": "",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -21,7 +21,7 @@ Dreamers.talento({
     {
       "plataforma": "Tiktok",
       "enlace": "https://www.tiktok.com/@darrellig",
-      "seguidores": "461"
+      "seguidores": "462"
     }
   ],
   "formatos": [

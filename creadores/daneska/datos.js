@@ -14,7 +14,7 @@ Dreamers.talento({
     {
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/daneska_solorzano/",
-      "seguidores": "721"
+      "seguidores": "722"
     },
     {
       "plataforma": "Tiktok",
@@ -36,7 +36,7 @@ Dreamers.talento({
     "Gaming"
   ],
   "dato": {
-    "valor": "30.3K",
+    "valor": "30.6K",
     "texto": "Likes totales en TikTok"
   },
   "frames": []

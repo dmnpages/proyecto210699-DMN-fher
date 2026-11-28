@@ -2,7 +2,7 @@ Dreamers.talento({
   "nombre": "Aritz cosplay",
   "ciudad": "Managua",
   "correo": "roroniko544@gmail.com",
-  "seguidores": "545",
+  "seguidores": "546",
   "descripcion": "Creadora de contenido y cosplayer enfocada en la cultura pop en Nicaragua, destacando por su constancia, participación en eventos y dominio en costura, maquillaje y fabricación de props. Con una audiencia propia ya consolidada, busca colaborar con otros creadores del medio, ampliar su presencia en convenciones y seguir elevando la calidad de su contenido para conectar con más personas.",
   "foto": "foto-admin.webp",
   "posicionFoto": "50% 50%",
@@ -22,7 +22,7 @@ Dreamers.talento({
       "plataforma": "Instagram",
       "enlace": "https://www.instagram.com/aritz_cosplay",
       "clave": true,
-      "seguidores": "268"
+      "seguidores": "269"
     },
     {
       "plataforma": "Facebook",
